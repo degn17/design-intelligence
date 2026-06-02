@@ -1,0 +1,521 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Automotive Design Intelligence</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f5f1ea;
+        --panel: #fffaf2;
+        --ink: #171717;
+        --muted: #66605a;
+        --line: #ded3c4;
+        --accent: #d94f2b;
+        --accent-dark: #92351f;
+        --chip: #efe4d6;
+        --shadow: 0 18px 45px rgba(32, 24, 16, 0.11);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background:
+          radial-gradient(circle at top left, rgba(217, 79, 43, 0.14), transparent 32rem),
+          linear-gradient(180deg, #fbf7ef 0%, var(--bg) 55%);
+        color: var(--ink);
+        line-height: 1.55;
+      }
+
+      a {
+        color: var(--accent-dark);
+      }
+
+      .site-header {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 2rem;
+        align-items: start;
+        max-width: 1180px;
+        margin: 0 auto;
+        padding: 4rem 1.25rem 2rem;
+      }
+
+      .eyebrow {
+        margin: 0 0 0.75rem;
+        color: var(--accent-dark);
+        font-size: 0.8rem;
+        font-weight: 800;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        max-width: 760px;
+        margin: 0;
+        font-size: clamp(2.5rem, 7vw, 5.8rem);
+        line-height: 0.92;
+        letter-spacing: -0.07em;
+      }
+
+      .intro {
+        max-width: 680px;
+        margin: 1.4rem 0 0;
+        color: var(--muted);
+        font-size: 1.12rem;
+      }
+
+      .status-card {
+        width: min(100%, 320px);
+        padding: 1.25rem;
+        border: 1px solid var(--line);
+        border-radius: 1.25rem;
+        background: rgba(255, 250, 242, 0.72);
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(16px);
+      }
+
+      .status-card strong {
+        display: block;
+        margin-bottom: 0.35rem;
+      }
+
+      .status-card p {
+        margin: 0;
+        color: var(--muted);
+      }
+
+      .layout {
+        display: grid;
+        grid-template-columns: 240px 1fr;
+        gap: 1.25rem;
+        max-width: 1180px;
+        margin: 0 auto;
+        padding: 0 1.25rem 4rem;
+      }
+
+      nav {
+        position: sticky;
+        top: 1rem;
+        align-self: start;
+        padding: 1rem;
+        border: 1px solid var(--line);
+        border-radius: 1rem;
+        background: rgba(255, 250, 242, 0.82);
+      }
+
+      nav a {
+        display: block;
+        padding: 0.7rem 0.8rem;
+        border-radius: 0.75rem;
+        color: var(--ink);
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      nav a:hover,
+      nav a:focus {
+        background: var(--chip);
+        outline: none;
+      }
+
+      main {
+        display: grid;
+        gap: 1.25rem;
+      }
+
+      section {
+        padding: 1.4rem;
+        border: 1px solid var(--line);
+        border-radius: 1.4rem;
+        background: rgba(255, 250, 242, 0.9);
+        box-shadow: 0 10px 28px rgba(32, 24, 16, 0.06);
+      }
+
+      .section-header {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+        align-items: end;
+        margin-bottom: 1rem;
+      }
+
+      h2 {
+        margin: 0;
+        font-size: clamp(1.6rem, 3vw, 2.4rem);
+        letter-spacing: -0.04em;
+      }
+
+      .section-note {
+        max-width: 520px;
+        margin: 0.35rem 0 0;
+        color: var(--muted);
+      }
+
+      .count-pill {
+        white-space: nowrap;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 0.45rem 0.7rem;
+        color: var(--muted);
+        background: #fffdf8;
+        font-size: 0.85rem;
+        font-weight: 700;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 1rem;
+      }
+
+      .item-card {
+        display: flex;
+        flex-direction: column;
+        min-height: 100%;
+        padding: 1rem;
+        border: 1px solid var(--line);
+        border-radius: 1rem;
+        background: var(--panel);
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem;
+        margin-bottom: 0.75rem;
+      }
+
+      .tag {
+        border-radius: 999px;
+        padding: 0.25rem 0.55rem;
+        background: var(--chip);
+        color: #554a3f;
+        font-size: 0.78rem;
+        font-weight: 800;
+      }
+
+      .item-card h3 {
+        margin: 0;
+        font-size: 1.2rem;
+        letter-spacing: -0.025em;
+      }
+
+      .summary {
+        color: var(--muted);
+      }
+
+      .keyword-list,
+      .observation-list {
+        padding-left: 1.1rem;
+      }
+
+      .keyword-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.45rem;
+        padding: 0;
+        margin: 0.5rem 0 0;
+        list-style: none;
+      }
+
+      .keyword-list li {
+        border-radius: 0.55rem;
+        padding: 0.25rem 0.45rem;
+        background: #f7eee3;
+        color: #554a3f;
+        font-size: 0.8rem;
+      }
+
+      .observation-list {
+        color: #3b3631;
+      }
+
+      .source-link {
+        margin-top: auto;
+        font-weight: 800;
+      }
+
+      .empty-state {
+        margin: 0;
+        color: var(--muted);
+      }
+
+      footer {
+        max-width: 1180px;
+        margin: 0 auto;
+        padding: 0 1.25rem 2rem;
+        color: var(--muted);
+      }
+
+      @media (max-width: 800px) {
+        .site-header,
+        .layout {
+          grid-template-columns: 1fr;
+        }
+
+        nav {
+          position: static;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">MVP knowledge base skeleton</p>
+        <h1>Automotive Design Intelligence</h1>
+        <p class="intro">
+          A lightweight, mock-data-first workspace for car designers to scan design signals,
+          study model cards, compare brand language, and keep track of useful sources.
+        </p>
+      </div>
+      <aside class="status-card" aria-label="MVP status">
+        <strong>Mock data only</strong>
+        <p>No scraping or automated ingestion is implemented in this first skeleton.</p>
+      </aside>
+    </header>
+
+    <div class="layout">
+      <nav aria-label="Primary sections">
+        <a href="#today-digest">Today Digest</a>
+        <a href="#model-cards">Model Cards</a>
+        <a href="#brand-language">Brand Language</a>
+        <a href="#sources">Sources</a>
+      </nav>
+
+      <main>
+        <section id="today-digest" data-category="Today Digest">
+          <div class="section-header">
+            <div>
+              <h2>Today Digest</h2>
+              <p class="section-note">A quick readout of the latest mocked design signals and observation notes.</p>
+            </div>
+            <span class="count-pill" data-count>0 items</span>
+          </div>
+          <div class="grid" data-items></div>
+        </section>
+
+        <section id="model-cards" data-category="Model Cards">
+          <div class="section-header">
+            <div>
+              <h2>Model Cards</h2>
+              <p class="section-note">Snapshot cards for vehicle programs, proportions, surfaces, graphics, and CMF themes.</p>
+            </div>
+            <span class="count-pill" data-count>0 items</span>
+          </div>
+          <div class="grid" data-items></div>
+        </section>
+
+        <section id="brand-language" data-category="Brand Language">
+          <div class="section-header">
+            <div>
+              <h2>Brand Language</h2>
+              <p class="section-note">Reusable observations about how brands express stance, identity, technology, and heritage.</p>
+            </div>
+            <span class="count-pill" data-count>0 items</span>
+          </div>
+          <div class="grid" data-items></div>
+        </section>
+
+        <section id="sources" data-category="Sources">
+          <div class="section-header">
+            <div>
+              <h2>Sources</h2>
+              <p class="section-note">Mock source records that establish the fields needed for future ingestion and attribution.</p>
+            </div>
+            <span class="count-pill" data-count>0 items</span>
+          </div>
+          <div class="grid" data-items></div>
+        </section>
+      </main>
+    </div>
+
+    <footer>
+      <p>Built with plain HTML, CSS, and JavaScript. Data is loaded from <code>/data/items.json</code> when served from the repository root.</p>
+    </footer>
+
+    <script>
+      const fallbackItems = [
+              {
+                      "title": "Electric Flagship SUV Surface Study",
+                      "brand": "Aurora Motors",
+                      "model": "A9 E-SUV",
+                      "category": "Today Digest",
+                      "date": "2026-05-28",
+                      "source": "Mock Design Review",
+                      "source_url": "https://example.com/mock/aurora-a9-surface-study",
+                      "short_summary": "A mock digest item highlighting a flagship SUV concept that uses calm surfacing, a low graphic beltline, and a full-width lamp signature to communicate quiet electric confidence.",
+                      "design_keywords": [
+                              "calm surfacing",
+                              "full-width lighting",
+                              "floating roof",
+                              "electric premium",
+                              "horizontal stance"
+                      ],
+                      "design_observations": [
+                              "The body side avoids heavy character lines and relies on light catchers above the rocker to reduce visual mass.",
+                              "A dark floating roof graphic visually lowers the greenhouse while preserving SUV presence.",
+                              "The front mask removes traditional grille cues and shifts brand recognition toward lighting and badge placement."
+                      ]
+              },
+              {
+                      "title": "Compact Urban EV Model Card",
+                      "brand": "Nomi",
+                      "model": "Loop",
+                      "category": "Model Cards",
+                      "date": "2026-05-24",
+                      "source": "Mock Studio Notes",
+                      "source_url": "https://example.com/mock/nomi-loop-model-card",
+                      "short_summary": "A small city EV study focused on friendly proportions, protective corner graphics, and cabin-forward packaging for dense urban mobility.",
+                      "design_keywords": [
+                              "mono-volume",
+                              "friendly face",
+                              "corner protection",
+                              "cabin-forward",
+                              "urban mobility"
+                      ],
+                      "design_observations": [
+                              "The short overhangs and tall cabin maximize perceived interior room within a compact footprint.",
+                              "Rounded lamp modules and a soft bumper section reduce visual aggression and make the vehicle approachable.",
+                              "Contrast-color corner blocks communicate durability and simplify repair-zone storytelling."
+                      ]
+              },
+              {
+                      "title": "Heritage Performance Coupe Language",
+                      "brand": "Vitesse",
+                      "model": "R12",
+                      "category": "Brand Language",
+                      "date": "2026-05-18",
+                      "source": "Mock Brand Language Archive",
+                      "source_url": "https://example.com/mock/vitesse-r12-brand-language",
+                      "short_summary": "A coupe language study balancing heritage cues with modern aero details, including a pronounced dash-to-axle ratio and precision-cut vents.",
+                      "design_keywords": [
+                              "dash-to-axle",
+                              "heritage coupe",
+                              "aero blades",
+                              "muscular haunch",
+                              "precision vents"
+                      ],
+                      "design_observations": [
+                              "The long hood and rear-set cabin create a classic performance proportion before any detail is added.",
+                              "Technical vent inserts modernize the heritage silhouette without overwhelming the primary volume.",
+                              "Rear haunch emphasis gives the car a planted stance and a clear powertrain narrative."
+                      ]
+              },
+              {
+                      "title": "Luxury Sedan Interior Material Direction",
+                      "brand": "Kanso",
+                      "model": "Serein",
+                      "category": "Sources",
+                      "date": "2026-05-12",
+                      "source": "Mock CMF Brief",
+                      "source_url": "https://example.com/mock/kanso-serein-cmf-brief",
+                      "short_summary": "A mock source entry describing a minimalist luxury sedan interior that uses layered textiles, indirect lighting, and tactile controls to avoid screen-only interaction.",
+                      "design_keywords": [
+                              "warm minimalism",
+                              "layered textile",
+                              "indirect lighting",
+                              "tactile controls",
+                              "quiet luxury"
+                      ],
+                      "design_observations": [
+                              "Soft horizontal layering makes the IP feel wider and calmer while hiding technical seams.",
+                              "Physical controls are reserved for high-frequency interactions, reinforcing a premium usability story.",
+                              "The CMF palette favors low-gloss finishes to reduce glare and improve perceived refinement."
+                      ]
+              },
+              {
+                      "title": "Adventure Pickup Graphic Strategy",
+                      "brand": "Rangewell",
+                      "model": "Trailmark",
+                      "category": "Model Cards",
+                      "date": "2026-05-05",
+                      "source": "Mock Segment Scan",
+                      "source_url": "https://example.com/mock/rangewell-trailmark-graphic-strategy",
+                      "short_summary": "A rugged pickup study using modular graphics, exposed tow elements, and squared wheel arches to express utility without excessive decoration.",
+                      "design_keywords": [
+                              "modular utility",
+                              "squared arches",
+                              "exposed recovery points",
+                              "rugged graphics",
+                              "tool-like surfaces"
+                      ],
+                      "design_observations": [
+                              "Squared wheel openings frame the tire as a functional object and strengthen off-road credibility.",
+                              "Graphic modules align with replaceable body zones, suggesting durability and customization.",
+                              "The upper body remains relatively clean so functional details carry the rugged message."
+                      ]
+              }
+      ];
+
+      const sections = [...document.querySelectorAll("section[data-category]")];
+
+      function escapeHtml(value) {
+        return String(value).replace(/[&<>'"]/g, (character) => ({
+          "&": "&amp;",
+          "<": "&lt;",
+          ">": "&gt;",
+          "'": "&#39;",
+          '"': "&quot;"
+        })[character]);
+      }
+
+      function renderItem(item) {
+        const keywords = item.design_keywords.map((keyword) => `<li>${escapeHtml(keyword)}</li>`).join("");
+        const observations = item.design_observations.map((observation) => `<li>${escapeHtml(observation)}</li>`).join("");
+
+        return `
+          <article class="item-card">
+            <div class="meta">
+              <span class="tag">${escapeHtml(item.brand)}</span>
+              <span class="tag">${escapeHtml(item.model)}</span>
+              <span class="tag">${escapeHtml(item.date)}</span>
+            </div>
+            <h3>${escapeHtml(item.title)}</h3>
+            <p class="summary">${escapeHtml(item.short_summary)}</p>
+            <strong>Design keywords</strong>
+            <ul class="keyword-list">${keywords}</ul>
+            <strong>Design observations</strong>
+            <ul class="observation-list">${observations}</ul>
+            <a class="source-link" href="${escapeHtml(item.source_url)}" target="_blank" rel="noreferrer">${escapeHtml(item.source)}</a>
+          </article>
+        `;
+      }
+
+      function renderSections(items) {
+        sections.forEach((section) => {
+          const category = section.dataset.category;
+          const categoryItems = items.filter((item) => item.category === category);
+          const grid = section.querySelector("[data-items]");
+          const count = section.querySelector("[data-count]");
+
+          count.textContent = `${categoryItems.length} ${categoryItems.length === 1 ? "item" : "items"}`;
+          grid.innerHTML = categoryItems.length
+            ? categoryItems.map(renderItem).join("")
+            : '<p class="empty-state">No mock items yet.</p>';
+        });
+      }
+
+      async function loadItems() {
+        try {
+          const response = await fetch("../data/items.json");
+          if (!response.ok) {
+            throw new Error(`Unable to load mock data: ${response.status}`);
+          }
+          return await response.json();
+        } catch (error) {
+          console.warn("Using embedded fallback data.", error);
+          return fallbackItems;
+        }
+      }
+
+      loadItems().then(renderSections);
+    </script>
+  </body>
+</html>

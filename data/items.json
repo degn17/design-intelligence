@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Electric Flagship SUV Surface Study",
+        "brand": "Aurora Motors",
+        "model": "A9 E-SUV",
+        "category": "Today Digest",
+        "date": "2026-05-28",
+        "source": "Mock Design Review",
+        "source_url": "https://example.com/mock/aurora-a9-surface-study",
+        "short_summary": "A mock digest item highlighting a flagship SUV concept that uses calm surfacing, a low graphic beltline, and a full-width lamp signature to communicate quiet electric confidence.",
+        "design_keywords": [
+            "calm surfacing",
+            "full-width lighting",
+            "floating roof",
+            "electric premium",
+            "horizontal stance"
+        ],
+        "design_observations": [
+            "The body side avoids heavy character lines and relies on light catchers above the rocker to reduce visual mass.",
+            "A dark floating roof graphic visually lowers the greenhouse while preserving SUV presence.",
+            "The front mask removes traditional grille cues and shifts brand recognition toward lighting and badge placement."
+        ]
+    },
+    {
+        "title": "Compact Urban EV Model Card",
+        "brand": "Nomi",
+        "model": "Loop",
+        "category": "Model Cards",
+        "date": "2026-05-24",
+        "source": "Mock Studio Notes",
+        "source_url": "https://example.com/mock/nomi-loop-model-card",
+        "short_summary": "A small city EV study focused on friendly proportions, protective corner graphics, and cabin-forward packaging for dense urban mobility.",
+        "design_keywords": [
+            "mono-volume",
+            "friendly face",
+            "corner protection",
+            "cabin-forward",
+            "urban mobility"
+        ],
+        "design_observations": [
+            "The short overhangs and tall cabin maximize perceived interior room within a compact footprint.",
+            "Rounded lamp modules and a soft bumper section reduce visual aggression and make the vehicle approachable.",
+            "Contrast-color corner blocks communicate durability and simplify repair-zone storytelling."
+        ]
+    },
+    {
+        "title": "Heritage Performance Coupe Language",
+        "brand": "Vitesse",
+        "model": "R12",
+        "category": "Brand Language",
+        "date": "2026-05-18",
+        "source": "Mock Brand Language Archive",
+        "source_url": "https://example.com/mock/vitesse-r12-brand-language",
+        "short_summary": "A coupe language study balancing heritage cues with modern aero details, including a pronounced dash-to-axle ratio and precision-cut vents.",
+        "design_keywords": [
+            "dash-to-axle",
+            "heritage coupe",
+            "aero blades",
+            "muscular haunch",
+            "precision vents"
+        ],
+        "design_observations": [
+            "The long hood and rear-set cabin create a classic performance proportion before any detail is added.",
+            "Technical vent inserts modernize the heritage silhouette without overwhelming the primary volume.",
+            "Rear haunch emphasis gives the car a planted stance and a clear powertrain narrative."
+        ]
+    },
+    {
+        "title": "Luxury Sedan Interior Material Direction",
+        "brand": "Kanso",
+        "model": "Serein",
+        "category": "Sources",
+        "date": "2026-05-12",
+        "source": "Mock CMF Brief",
+        "source_url": "https://example.com/mock/kanso-serein-cmf-brief",
+        "short_summary": "A mock source entry describing a minimalist luxury sedan interior that uses layered textiles, indirect lighting, and tactile controls to avoid screen-only interaction.",
+        "design_keywords": [
+            "warm minimalism",
+            "layered textile",
+            "indirect lighting",
+            "tactile controls",
+            "quiet luxury"
+        ],
+        "design_observations": [
+            "Soft horizontal layering makes the IP feel wider and calmer while hiding technical seams.",
+            "Physical controls are reserved for high-frequency interactions, reinforcing a premium usability story.",
+            "The CMF palette favors low-gloss finishes to reduce glare and improve perceived refinement."
+        ]
+    },
+    {
+        "title": "Adventure Pickup Graphic Strategy",
+        "brand": "Rangewell",
+        "model": "Trailmark",
+        "category": "Model Cards",
+        "date": "2026-05-05",
+        "source": "Mock Segment Scan",
+        "source_url": "https://example.com/mock/rangewell-trailmark-graphic-strategy",
+        "short_summary": "A rugged pickup study using modular graphics, exposed tow elements, and squared wheel arches to express utility without excessive decoration.",
+        "design_keywords": [
+            "modular utility",
+            "squared arches",
+            "exposed recovery points",
+            "rugged graphics",
+            "tool-like surfaces"
+        ],
+        "design_observations": [
+            "Squared wheel openings frame the tire as a functional object and strengthen off-road credibility.",
+            "Graphic modules align with replaceable body zones, suggesting durability and customization.",
+            "The upper body remains relatively clean so functional details carry the rugged message."
+        ]
+    }
+]
