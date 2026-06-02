@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mock-official-press-room",
+    "name": "Mock Official Press Room",
+    "type": "official_press_release",
+    "url": "https://example.com/mock/official-press-room",
+    "attribution_required": true,
+    "reuse_notes": "Mock source record. Replace with an approved public source before production use. Quote sparingly and link back to the original source."
+  },
+  {
+    "id": "mock-design-interview",
+    "name": "Mock Design Interview",
+    "type": "interview",
+    "url": "https://example.com/mock/design-interview",
+    "attribution_required": true,
+    "reuse_notes": "Mock interview source. Attribute insights to the original interview and avoid reproducing long excerpts."
+  }
+]
