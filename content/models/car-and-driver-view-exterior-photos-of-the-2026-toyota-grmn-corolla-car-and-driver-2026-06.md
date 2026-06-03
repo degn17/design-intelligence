@@ -1,0 +1,40 @@
+# Model Card — Car and Driver View Exterior Photos of the 2026 Toyota GRMN Corolla
+
+## View Exterior Photos of the 2026 Toyota GRMN Corolla
+
+- Brand: Car and Driver
+- Model: View Exterior Photos of the 2026 Toyota GRMN Corolla
+- Category: new_car
+- Published: 2026-06-02
+- Data status: Real · RSS
+- Collection method: rss
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71463705/2026-toyota-grmn-corolla-revealed-exterior-photo-gallery/)
+- Image URL: https://hips.hearstapps.com/hmg-prod/images/0803edfc-0af4-45e2-96de-3c2a4083be24.jpg
+
+### Summary
+
+See the new Toyota GRMN Corolla's exterior from every angle.
+
+### Design keywords
+
+- Manual review required.
+
+### Design observations
+
+- Manual review required.
+
+### Design breakdown
+
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Volume: Not assessed from RSS metadata. Manual source review required.
+- Surface: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Brand language: RSS-collected source item awaiting editorial design analysis.
+
+### Designer note
+
+Review the linked public source before adding design interpretation or publishing this item.
+
+## Source attribution
+
+This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/photos/g71463705/2026-toyota-grmn-corolla-revealed-exterior-photo-gallery/). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
