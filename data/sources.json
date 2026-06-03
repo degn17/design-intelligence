@@ -1,12 +1,48 @@
 [
   {
+    "id": "porsche-newsroom",
+    "name": "Porsche Newsroom",
+    "type": "rss",
+    "url": "https://newsroom.porsche.com/rss/en/index.rss",
+    "category_hint": "new_car",
+    "enabled": true,
+    "notes": "Official public Porsche Newsroom RSS feed. Collect feed metadata and source URLs only; do not download images or bypass access controls."
+  },
+  {
+    "id": "motor-authority",
+    "name": "Motor Authority",
+    "type": "rss",
+    "url": "https://www.motorauthority.com/rss",
+    "category_hint": "new_car",
+    "enabled": true,
+    "notes": "Public automotive news RSS feed with vehicle releases, concepts, design, and engineering coverage. Feed summaries require editorial review."
+  },
+  {
+    "id": "carscoops",
+    "name": "Carscoops",
+    "type": "rss",
+    "url": "https://www.carscoops.com/feed/",
+    "category_hint": "other",
+    "enabled": true,
+    "notes": "Public automotive news RSS feed. Coverage is broad, so collected records should be reviewed for design relevance before publication."
+  },
+  {
+    "id": "car-and-driver",
+    "name": "Car and Driver",
+    "type": "rss",
+    "url": "https://www.caranddriver.com/rss/all.xml/",
+    "category_hint": "new_car",
+    "enabled": true,
+    "notes": "Public latest-content RSS feed. Store only feed-provided metadata and article URLs; do not attempt to access restricted article content."
+  },
+  {
     "id": "mock-official-press-room",
     "name": "Mock Official Press Room",
     "type": "manual",
     "url": "https://example.com/mock/official-press-room",
     "category_hint": "new_car",
     "enabled": true,
-    "notes": "Mock manual source for official release-style entries. Replace with approved public brand press rooms before production use. Store source URLs only; do not download copyrighted images."
+    "notes": "Mock manual source retained for pipeline demonstrations. All example.com records must remain marked as mock."
   },
   {
     "id": "mock-design-review",
@@ -15,7 +51,7 @@
     "url": "https://example.com/mock/design-review",
     "category_hint": "concept_car",
     "enabled": true,
-    "notes": "Mock editorial source used for concept-car design observations and safe attribution examples."
+    "notes": "Mock editorial source retained for design-observation examples."
   },
   {
     "id": "mock-design-interview",
@@ -24,7 +60,7 @@
     "url": "https://example.com/mock/design-interview",
     "category_hint": "design_interview",
     "enabled": true,
-    "notes": "Mock interview source. Future real interview parsing must preserve attribution and distinguish direct quotes from paraphrase."
+    "notes": "Mock interview source. Direct quotes and paraphrases require human review in any future real workflow."
   },
   {
     "id": "mock-brand-language-archive",
@@ -33,16 +69,7 @@
     "url": "https://example.com/mock/brand-language-archive",
     "category_hint": "brand_language",
     "enabled": true,
-    "notes": "Mock archive for brand-language updates. Future records should cite official brand pages or reputable public coverage."
-  },
-  {
-    "id": "example-rss-auto-design",
-    "name": "Example Automotive Design RSS",
-    "type": "rss",
-    "url": "https://example.com/rss/automotive-design.xml",
-    "category_hint": "other",
-    "enabled": false,
-    "notes": "Disabled placeholder RSS source. The collector scaffold logs RSS TODOs and will not fail the pipeline when disabled."
+    "notes": "Mock archive retained for brand-language generation examples."
   },
   {
     "id": "manual-editorial-notes",
@@ -51,6 +78,6 @@
     "url": "data/items.json",
     "category_hint": "other",
     "enabled": true,
-    "notes": "Use this for hand-entered items after verifying source attribution and image URL permissions."
+    "notes": "Use for hand-entered items only after verifying source attribution. Manual items must use collection_method manual and must not be presented as RSS-collected data."
   }
 ]

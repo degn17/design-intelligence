@@ -6,6 +6,8 @@
 - Model: Loop
 - Category: concept_car
 - Published: 2026-05-29
+- Data status: Mock · mock data
+- Collection method: mock
 - Source: [Mock Studio Notes](https://example.com/mock/nomi-loop-model-card)
 - Image URL: https://example.com/images/nomi-loop-three-quarter.jpg
 
@@ -41,4 +43,4 @@ Good candidate for a Xiaohongshu explainer about why small EVs often look friend
 
 ## Source attribution
 
-This card is generated from a mock/manual source record and must retain attribution to [Mock Studio Notes](https://example.com/mock/nomi-loop-model-card).
+This card is generated from a **Mock · mock data** record and must retain attribution to [Mock Studio Notes](https://example.com/mock/nomi-loop-model-card). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1 source-attributed mock/manual item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -18,6 +18,7 @@ Generated internal notes from 1 source-attributed mock/manual item(s). Treat as 
 
 - Model/program: Loop
 - Category: concept_car
+- Data status: Mock · mock data
 - Observation: Nomi's mock language uses softness and replaceable-looking details to make urban mobility feel low-stress.
 - Proportion: The mono-volume silhouette puts cabin space ahead of traditional hood prestige.
 - Graphic: Friendly round-corner lighting and bumper patches are the main emotional graphics.

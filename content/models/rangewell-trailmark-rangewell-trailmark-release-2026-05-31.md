@@ -6,6 +6,8 @@
 - Model: Trailmark
 - Category: new_car
 - Published: 2026-05-31
+- Data status: Mock · mock data
+- Collection method: mock
 - Source: [Mock Segment Scan](https://example.com/mock/rangewell-trailmark-graphic-strategy)
 - Image URL: https://example.com/images/rangewell-trailmark-front.jpg
 
@@ -41,4 +43,4 @@ Do not imply off-road capability beyond what the source explicitly states.
 
 ## Source attribution
 
-This card is generated from a mock/manual source record and must retain attribution to [Mock Segment Scan](https://example.com/mock/rangewell-trailmark-graphic-strategy).
+This card is generated from a **Mock · mock data** record and must retain attribution to [Mock Segment Scan](https://example.com/mock/rangewell-trailmark-graphic-strategy). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

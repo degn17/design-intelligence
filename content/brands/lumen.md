@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1 source-attributed mock/manual item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -18,6 +18,7 @@ Generated internal notes from 1 source-attributed mock/manual item(s). Treat as 
 
 - Model/program: Design Studio
 - Category: design_interview
+- Data status: Mock · mock data
 - Observation: Lumen's mock language treats illumination as the core recognisable asset for EVs.
 - Proportion: The interview suggests that reduced front openings make the vehicle's width and stance more dependent on lamp placement.
 - Graphic: Lighting graphics carry both functional and emotional identity roles.

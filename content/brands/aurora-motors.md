@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1 source-attributed mock/manual item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -18,6 +18,7 @@ Generated internal notes from 1 source-attributed mock/manual item(s). Treat as 
 
 - Model/program: A9 E-SUV
 - Category: concept_car
+- Data status: Mock · mock data
 - Observation: Aurora's mock direction moves from chrome-heavy premium cues to light-led EV identity.
 - Proportion: A long wheelbase and low visual beltline help a large SUV read lighter than its segment suggests.
 - Graphic: Thin lamps and a horizontal lower intake create width without grille dominance.

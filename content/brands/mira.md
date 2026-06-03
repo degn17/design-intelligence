@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1 source-attributed mock/manual item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -18,6 +18,7 @@ Generated internal notes from 1 source-attributed mock/manual item(s). Treat as 
 
 - Model/program: Brand Language
 - Category: brand_language
+- Data status: Mock · mock data
 - Observation: Mira's mock language favors emotional warmth over sharp technical aggression.
 - Proportion: The family face is designed to work across tall hatchbacks and compact crossovers without forcing a sporty hood line.
 - Graphic: Rounded lamp modules are the key brand-recognition device.

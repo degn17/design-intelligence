@@ -6,6 +6,8 @@
 - Model: R12
 - Category: concept_car
 - Published: 2026-05-28
+- Data status: Mock · mock data
+- Collection method: mock
 - Source: [Mock Brand Language Archive](https://example.com/mock/vitesse-r12-brand-language)
 - Image URL: https://example.com/images/vitesse-r12-profile.jpg
 
@@ -41,4 +43,4 @@ Avoid framing the concept as production-confirmed unless a future source verifie
 
 ## Source attribution
 
-This card is generated from a mock/manual source record and must retain attribution to [Mock Brand Language Archive](https://example.com/mock/vitesse-r12-brand-language).
+This card is generated from a **Mock · mock data** record and must retain attribution to [Mock Brand Language Archive](https://example.com/mock/vitesse-r12-brand-language). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
