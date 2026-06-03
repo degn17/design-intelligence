@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1 source-attributed mock/manual item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -18,6 +18,7 @@ Generated internal notes from 1 source-attributed mock/manual item(s). Treat as 
 
 - Model/program: R12
 - Category: concept_car
+- Data status: Mock · mock data
 - Observation: Vitesse's mock language preserves recognisable sports-car cues while adding aero-functional graphics.
 - Proportion: The dash-to-axle distance and rearward cabin are the primary heritage signals.
 - Graphic: Small aero blades and vent openings provide modern detail against a classic silhouette.

@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1 source-attributed mock/manual item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -18,6 +18,7 @@ Generated internal notes from 1 source-attributed mock/manual item(s). Treat as 
 
 - Model/program: CMF Studio
 - Category: design_interview
+- Data status: Mock · mock data
 - Observation: Oriq's mock language connects sustainability with durability and everyday tactility.
 - Proportion: Interior proportion is discussed through occupant reach zones rather than exterior stance.
 - Graphic: Material boundary lines become subtle graphics that guide interaction.

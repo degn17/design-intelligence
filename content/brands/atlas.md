@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1 source-attributed mock/manual item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -18,6 +18,7 @@ Generated internal notes from 1 source-attributed mock/manual item(s). Treat as 
 
 - Model/program: Brand Language
 - Category: brand_language
+- Data status: Mock · mock data
 - Observation: Atlas is moving from rugged ornament toward cleaner functional utility.
 - Proportion: Atlas retains vertical stance and wheel emphasis to preserve adventure credibility.
 - Graphic: Modular corner graphics and lamps create family resemblance across models.

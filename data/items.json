@@ -10,8 +10,18 @@
     "source_url": "https://example.com/mock/solara-elysian-release",
     "image_url": "https://example.com/images/solara-elysian-hero.jpg",
     "short_summary": "Mock public-source record for a production EV sedan using a low nose, full-width lighting, and restrained surfacing to signal efficient premium mobility.",
-    "design_keywords": ["low nose", "full-width lighting", "aero sedan", "quiet premium", "flush glazing"],
-    "design_observations": ["The sedan shifts identity away from grille mass and toward a continuous lamp graphic.", "The greenhouse reads elongated because the DLO stretches cleanly into a dark rear-quarter insert.", "Flush handles and reduced cutlines support the aerodynamic story without making the body anonymous."],
+    "design_keywords": [
+      "low nose",
+      "full-width lighting",
+      "aero sedan",
+      "quiet premium",
+      "flush glazing"
+    ],
+    "design_observations": [
+      "The sedan shifts identity away from grille mass and toward a continuous lamp graphic.",
+      "The greenhouse reads elongated because the DLO stretches cleanly into a dark rear-quarter insert.",
+      "Flush handles and reduced cutlines support the aerodynamic story without making the body anonymous."
+    ],
     "proportion_observation": "Long wheelbase, short overhangs, and a low cowl create an EV-native premium sedan stance.",
     "volume_observation": "The main body volume is calm and almost monolithic, with the cabin treated as a light glass canopy.",
     "surface_observation": "Soft crown sections replace hard shoulder lines, relying on reflections to define the body side.",
@@ -19,7 +29,9 @@
     "brand_language_observation": "Solara's mock language emphasizes quiet technology rather than aggressive performance decoration.",
     "designer_note": "Human review should verify whether the lighting signature is described by the source as brand identity or only shown visually.",
     "created_at": "2026-06-02T00:00:00Z",
-    "updated_at": "2026-06-02T00:00:00Z"
+    "updated_at": "2026-06-02T00:00:00Z",
+    "is_mock": true,
+    "collection_method": "mock"
   },
   {
     "id": "kanso-serein-launch-2026-06-01",
@@ -32,8 +44,18 @@
     "source_url": "https://example.com/mock/kanso-serein-cmf-brief",
     "image_url": "https://example.com/images/kanso-serein-interior.jpg",
     "short_summary": "Mock production sedan note focused on warm minimalism, layered textiles, indirect lighting, and selective physical controls.",
-    "design_keywords": ["warm minimalism", "layered textile", "indirect lighting", "tactile controls", "quiet luxury"],
-    "design_observations": ["The IP uses horizontal layers to make the cabin feel wider and calmer.", "Low-gloss materials reduce glare and support a restful premium impression.", "Frequently used functions remain tactile, preventing the interface from feeling screen-only."],
+    "design_keywords": [
+      "warm minimalism",
+      "layered textile",
+      "indirect lighting",
+      "tactile controls",
+      "quiet luxury"
+    ],
+    "design_observations": [
+      "The IP uses horizontal layers to make the cabin feel wider and calmer.",
+      "Low-gloss materials reduce glare and support a restful premium impression.",
+      "Frequently used functions remain tactile, preventing the interface from feeling screen-only."
+    ],
     "proportion_observation": "A long cabin and low beltline make the sedan read as chauffeur-friendly rather than driver-only.",
     "volume_observation": "Interior volumes are organized as stacked planes rather than a single sculptural dashboard mass.",
     "surface_observation": "Soft-touch panels use low-contrast transitions to avoid visual clutter.",
@@ -41,7 +63,9 @@
     "brand_language_observation": "Kanso's mock language frames luxury as calm usability and tactile restraint.",
     "designer_note": "Check that any future material claims are sourced from official CMF notes or verified interviews.",
     "created_at": "2026-06-01T00:00:00Z",
-    "updated_at": "2026-06-01T00:00:00Z"
+    "updated_at": "2026-06-01T00:00:00Z",
+    "is_mock": true,
+    "collection_method": "mock"
   },
   {
     "id": "rangewell-trailmark-release-2026-05-31",
@@ -54,8 +78,18 @@
     "source_url": "https://example.com/mock/rangewell-trailmark-graphic-strategy",
     "image_url": "https://example.com/images/rangewell-trailmark-front.jpg",
     "short_summary": "Mock pickup release using modular graphics, squared wheel arches, and visible recovery elements to express utility without excessive decoration.",
-    "design_keywords": ["modular utility", "squared arches", "exposed recovery points", "rugged graphics", "tool-like surfaces"],
-    "design_observations": ["Squared wheel openings frame the tire as a functional object.", "Graphic modules align with repairable or replaceable body zones.", "The upper body remains clean so functional details carry the rugged message."],
+    "design_keywords": [
+      "modular utility",
+      "squared arches",
+      "exposed recovery points",
+      "rugged graphics",
+      "tool-like surfaces"
+    ],
+    "design_observations": [
+      "Squared wheel openings frame the tire as a functional object.",
+      "Graphic modules align with repairable or replaceable body zones.",
+      "The upper body remains clean so functional details carry the rugged message."
+    ],
     "proportion_observation": "An upright cab, short front overhang, and visually heavy rear bed create a work-first stance.",
     "volume_observation": "The body is divided into robust modules that suggest durability and serviceability.",
     "surface_observation": "Flat upper surfaces and chamfered lower sections keep the vehicle tool-like rather than decorative.",
@@ -63,7 +97,9 @@
     "brand_language_observation": "Rangewell's mock language prioritizes functional honesty and visible protection.",
     "designer_note": "Do not imply off-road capability beyond what the source explicitly states.",
     "created_at": "2026-05-31T00:00:00Z",
-    "updated_at": "2026-05-31T00:00:00Z"
+    "updated_at": "2026-05-31T00:00:00Z",
+    "is_mock": true,
+    "collection_method": "mock"
   },
   {
     "id": "aurora-a9-concept-2026-05-30",
@@ -76,8 +112,18 @@
     "source_url": "https://example.com/mock/aurora-a9-surface-study",
     "image_url": "https://example.com/images/aurora-a9-side.jpg",
     "short_summary": "Mock concept SUV highlighting calm surfacing, a floating roof, and a reduced front mask for quiet electric confidence.",
-    "design_keywords": ["calm surfacing", "floating roof", "electric premium", "horizontal stance", "reduced mask"],
-    "design_observations": ["The body side avoids heavy character lines and uses light catchers above the rocker.", "A dark floating roof graphic visually lowers the greenhouse.", "The front mask shifts recognition toward lighting and badge placement."],
+    "design_keywords": [
+      "calm surfacing",
+      "floating roof",
+      "electric premium",
+      "horizontal stance",
+      "reduced mask"
+    ],
+    "design_observations": [
+      "The body side avoids heavy character lines and uses light catchers above the rocker.",
+      "A dark floating roof graphic visually lowers the greenhouse.",
+      "The front mask shifts recognition toward lighting and badge placement."
+    ],
     "proportion_observation": "A long wheelbase and low visual beltline help a large SUV read lighter than its segment suggests.",
     "volume_observation": "The upper cabin appears detached from a stable lower body volume through the floating roof treatment.",
     "surface_observation": "Broad, unbroken door surfaces communicate premium calm and reduce visual noise.",
@@ -85,7 +131,9 @@
     "brand_language_observation": "Aurora's mock direction moves from chrome-heavy premium cues to light-led EV identity.",
     "designer_note": "Useful candidate for a social draft about how EV SUVs reduce visual mass.",
     "created_at": "2026-05-30T00:00:00Z",
-    "updated_at": "2026-05-30T00:00:00Z"
+    "updated_at": "2026-05-30T00:00:00Z",
+    "is_mock": true,
+    "collection_method": "mock"
   },
   {
     "id": "nomi-loop-concept-2026-05-29",
@@ -98,8 +146,18 @@
     "source_url": "https://example.com/mock/nomi-loop-model-card",
     "image_url": "https://example.com/images/nomi-loop-three-quarter.jpg",
     "short_summary": "Mock city EV concept focused on friendly proportions, protective corner graphics, and cabin-forward packaging for dense urban mobility.",
-    "design_keywords": ["mono-volume", "friendly face", "corner protection", "cabin-forward", "urban mobility"],
-    "design_observations": ["Short overhangs and a tall cabin maximize perceived interior room.", "Rounded lamp modules reduce aggression and make the car approachable.", "Contrast-color corner blocks communicate durability and repair-zone logic."],
+    "design_keywords": [
+      "mono-volume",
+      "friendly face",
+      "corner protection",
+      "cabin-forward",
+      "urban mobility"
+    ],
+    "design_observations": [
+      "Short overhangs and a tall cabin maximize perceived interior room.",
+      "Rounded lamp modules reduce aggression and make the car approachable.",
+      "Contrast-color corner blocks communicate durability and repair-zone logic."
+    ],
     "proportion_observation": "The mono-volume silhouette puts cabin space ahead of traditional hood prestige.",
     "volume_observation": "A simple one-box volume makes the small footprint feel intentional rather than compromised.",
     "surface_observation": "Large-radius surfaces avoid tension and support the approachable character.",
@@ -107,7 +165,9 @@
     "brand_language_observation": "Nomi's mock language uses softness and replaceable-looking details to make urban mobility feel low-stress.",
     "designer_note": "Good candidate for a Xiaohongshu explainer about why small EVs often look friendly.",
     "created_at": "2026-05-29T00:00:00Z",
-    "updated_at": "2026-05-29T00:00:00Z"
+    "updated_at": "2026-05-29T00:00:00Z",
+    "is_mock": true,
+    "collection_method": "mock"
   },
   {
     "id": "vitesse-r12-concept-2026-05-28",
@@ -120,8 +180,18 @@
     "source_url": "https://example.com/mock/vitesse-r12-brand-language",
     "image_url": "https://example.com/images/vitesse-r12-profile.jpg",
     "short_summary": "Mock coupe language study balancing heritage proportions with modern aero details, including a pronounced dash-to-axle ratio and precision-cut vents.",
-    "design_keywords": ["dash-to-axle", "heritage coupe", "aero blades", "muscular haunch", "precision vents"],
-    "design_observations": ["The long hood and rear-set cabin create a classic performance proportion.", "Technical vent inserts modernize the silhouette without overpowering it.", "Rear haunch emphasis gives the car a planted powertrain narrative."],
+    "design_keywords": [
+      "dash-to-axle",
+      "heritage coupe",
+      "aero blades",
+      "muscular haunch",
+      "precision vents"
+    ],
+    "design_observations": [
+      "The long hood and rear-set cabin create a classic performance proportion.",
+      "Technical vent inserts modernize the silhouette without overpowering it.",
+      "Rear haunch emphasis gives the car a planted powertrain narrative."
+    ],
     "proportion_observation": "The dash-to-axle distance and rearward cabin are the primary heritage signals.",
     "volume_observation": "A slim cabin sits above a muscular rear body, emphasizing stored energy over cabin volume.",
     "surface_observation": "Taut fender surfaces and controlled highlights communicate performance precision.",
@@ -129,7 +199,9 @@
     "brand_language_observation": "Vitesse's mock language preserves recognisable sports-car cues while adding aero-functional graphics.",
     "designer_note": "Avoid framing the concept as production-confirmed unless a future source verifies that status.",
     "created_at": "2026-05-28T00:00:00Z",
-    "updated_at": "2026-05-28T00:00:00Z"
+    "updated_at": "2026-05-28T00:00:00Z",
+    "is_mock": true,
+    "collection_method": "mock"
   },
   {
     "id": "lumen-design-interview-2026-05-27",
@@ -142,8 +214,18 @@
     "source_url": "https://example.com/mock/lumen-light-identity-interview",
     "image_url": "https://example.com/images/lumen-studio-lighting.jpg",
     "short_summary": "Mock interview summary about using lighting architecture as a primary brand signature as EV front ends become more closed and simplified.",
-    "design_keywords": ["light signature", "closed front", "EV identity", "night recognition", "digital grille"],
-    "design_observations": ["The interview frames lighting as a substitute for grille recognition.", "Night-time recognisability becomes part of brand strategy, not only safety compliance.", "The design team discusses balancing digital expression with long-term brand consistency."],
+    "design_keywords": [
+      "light signature",
+      "closed front",
+      "EV identity",
+      "night recognition",
+      "digital grille"
+    ],
+    "design_observations": [
+      "The interview frames lighting as a substitute for grille recognition.",
+      "Night-time recognisability becomes part of brand strategy, not only safety compliance.",
+      "The design team discusses balancing digital expression with long-term brand consistency."
+    ],
     "proportion_observation": "The interview suggests that reduced front openings make the vehicle's width and stance more dependent on lamp placement.",
     "volume_observation": "Closed front volumes require subtle shaping so the fascia does not become blank or appliance-like.",
     "surface_observation": "Smooth front surfaces need controlled highlight breaks to support perceived precision.",
@@ -151,7 +233,9 @@
     "brand_language_observation": "Lumen's mock language treats illumination as the core recognisable asset for EVs.",
     "designer_note": "Future real interviews require quote verification and clear separation between paraphrase and direct quotation.",
     "created_at": "2026-05-27T00:00:00Z",
-    "updated_at": "2026-05-27T00:00:00Z"
+    "updated_at": "2026-05-27T00:00:00Z",
+    "is_mock": true,
+    "collection_method": "mock"
   },
   {
     "id": "oriq-cmf-interview-2026-05-26",
@@ -164,8 +248,18 @@
     "source_url": "https://example.com/mock/oriq-sustainable-touchpoints-interview",
     "image_url": "https://example.com/images/oriq-cmf-material-board.jpg",
     "short_summary": "Mock interview summary covering recycled textiles, lower-gloss surfaces, and how sustainable materials should still feel durable and premium.",
-    "design_keywords": ["recycled textile", "low gloss", "tactile durability", "CMF strategy", "material honesty"],
-    "design_observations": ["The CMF team emphasizes that sustainability cues must be tangible rather than purely claimed.", "Lower-gloss finishes can communicate refinement and reduce screen glare.", "Material transitions are used to explain where occupants touch the vehicle most."],
+    "design_keywords": [
+      "recycled textile",
+      "low gloss",
+      "tactile durability",
+      "CMF strategy",
+      "material honesty"
+    ],
+    "design_observations": [
+      "The CMF team emphasizes that sustainability cues must be tangible rather than purely claimed.",
+      "Lower-gloss finishes can communicate refinement and reduce screen glare.",
+      "Material transitions are used to explain where occupants touch the vehicle most."
+    ],
     "proportion_observation": "Interior proportion is discussed through occupant reach zones rather than exterior stance.",
     "volume_observation": "Door and dashboard volumes are broken into touch, storage, and display layers.",
     "surface_observation": "Textile grain and matte coatings are used to make surfaces feel less synthetic.",
@@ -173,7 +267,9 @@
     "brand_language_observation": "Oriq's mock language connects sustainability with durability and everyday tactility.",
     "designer_note": "Any sustainability claim must be checked against the original source and not amplified beyond evidence.",
     "created_at": "2026-05-26T00:00:00Z",
-    "updated_at": "2026-05-26T00:00:00Z"
+    "updated_at": "2026-05-26T00:00:00Z",
+    "is_mock": true,
+    "collection_method": "mock"
   },
   {
     "id": "atlas-brand-language-2026-05-25",
@@ -186,8 +282,18 @@
     "source_url": "https://example.com/mock/atlas-adventure-ev-design-language",
     "image_url": "https://example.com/images/atlas-design-language.jpg",
     "short_summary": "Mock brand-language update describing a shift from combustion-era toughness cues to cleaner EV adventure graphics and modular protection zones.",
-    "design_keywords": ["adventure EV", "modular protection", "clean utility", "upright stance", "functional graphics"],
-    "design_observations": ["The brand keeps upright stance cues while reducing faux vents and unnecessary texture.", "Protection zones are expressed as replaceable modules rather than decorative cladding.", "Lighting becomes a technical signature across different body styles."],
+    "design_keywords": [
+      "adventure EV",
+      "modular protection",
+      "clean utility",
+      "upright stance",
+      "functional graphics"
+    ],
+    "design_observations": [
+      "The brand keeps upright stance cues while reducing faux vents and unnecessary texture.",
+      "Protection zones are expressed as replaceable modules rather than decorative cladding.",
+      "Lighting becomes a technical signature across different body styles."
+    ],
     "proportion_observation": "Atlas retains vertical stance and wheel emphasis to preserve adventure credibility.",
     "volume_observation": "Body volumes become cleaner and more slab-sided as EV packaging reduces front mechanical drama.",
     "surface_observation": "Broad surfaces are interrupted only where protection or access is visually useful.",
@@ -195,7 +301,9 @@
     "brand_language_observation": "Atlas is moving from rugged ornament toward cleaner functional utility.",
     "designer_note": "Track whether future production models consistently apply the modular protection theme.",
     "created_at": "2026-05-25T00:00:00Z",
-    "updated_at": "2026-05-25T00:00:00Z"
+    "updated_at": "2026-05-25T00:00:00Z",
+    "is_mock": true,
+    "collection_method": "mock"
   },
   {
     "id": "mira-brand-language-2026-05-24",
@@ -208,8 +316,18 @@
     "source_url": "https://example.com/mock/mira-soft-tech-family-face",
     "image_url": "https://example.com/images/mira-family-face.jpg",
     "short_summary": "Mock brand-language record about a softer front graphic strategy that combines rounded lamps, reduced intakes, and warm digital details.",
-    "design_keywords": ["soft-tech", "rounded lamps", "friendly front", "warm digital", "reduced intake"],
-    "design_observations": ["The front face uses rounded rectangles rather than sharp blades to appear approachable.", "Reduced intake graphics help the vehicles read as EV-first.", "Warm lighting details make the technology story feel less clinical."],
+    "design_keywords": [
+      "soft-tech",
+      "rounded lamps",
+      "friendly front",
+      "warm digital",
+      "reduced intake"
+    ],
+    "design_observations": [
+      "The front face uses rounded rectangles rather than sharp blades to appear approachable.",
+      "Reduced intake graphics help the vehicles read as EV-first.",
+      "Warm lighting details make the technology story feel less clinical."
+    ],
     "proportion_observation": "The family face is designed to work across tall hatchbacks and compact crossovers without forcing a sporty hood line.",
     "volume_observation": "Front volumes remain soft and slightly inflated to avoid aggression.",
     "surface_observation": "Gentle transitions around the lamps keep the fascia friendly and easy to read.",
@@ -217,6 +335,8 @@
     "brand_language_observation": "Mira's mock language favors emotional warmth over sharp technical aggression.",
     "designer_note": "Useful for comparing friendly EV front graphics across brands.",
     "created_at": "2026-05-24T00:00:00Z",
-    "updated_at": "2026-05-24T00:00:00Z"
+    "updated_at": "2026-05-24T00:00:00Z",
+    "is_mock": true,
+    "collection_method": "mock"
   }
 ]

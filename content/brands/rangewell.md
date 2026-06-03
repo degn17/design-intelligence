@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1 source-attributed mock/manual item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -18,6 +18,7 @@ Generated internal notes from 1 source-attributed mock/manual item(s). Treat as 
 
 - Model/program: Trailmark
 - Category: new_car
+- Data status: Mock · mock data
 - Observation: Rangewell's mock language prioritizes functional honesty and visible protection.
 - Proportion: An upright cab, short front overhang, and visually heavy rear bed create a work-first stance.
 - Graphic: Contrast corner blocks and tow-point accents provide the most immediate rugged cues.

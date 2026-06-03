@@ -6,6 +6,8 @@
 - Model: Elysian
 - Category: new_car
 - Published: 2026-06-02
+- Data status: Mock · mock data
+- Collection method: mock
 - Source: [Mock Official Press Room](https://example.com/mock/solara-elysian-release)
 - Image URL: https://example.com/images/solara-elysian-hero.jpg
 
@@ -41,4 +43,4 @@ Human review should verify whether the lighting signature is described by the so
 
 ## Source attribution
 
-This card is generated from a mock/manual source record and must retain attribution to [Mock Official Press Room](https://example.com/mock/solara-elysian-release).
+This card is generated from a **Mock · mock data** record and must retain attribution to [Mock Official Press Room](https://example.com/mock/solara-elysian-release). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

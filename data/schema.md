@@ -1,59 +1,48 @@
 # Data Schema
 
-This project uses flat JSON files instead of a database. The current goal is a safe, easy-to-run content production pipeline that can later be expanded with carefully reviewed collection logic.
+This project uses flat JSON files instead of a database. `data/items.json` is the canonical knowledge base for generated outputs.
 
-## `data/items.json`
-
-`items.json` is the canonical knowledge base for generated outputs. Each record represents one attributable automotive design intelligence item.
-
-### Required fields
+## Item fields
 
 | Field | Type | Notes |
 | --- | --- | --- |
-| `id` | string | Stable kebab-case identifier. Prefer brand/model/date context. |
-| `title` | string | Human-readable title for the item. |
-| `brand` | string | Automotive brand, studio, or organization. |
-| `model` | string | Vehicle model, concept name, or program label. |
+| `id` | string | Stable kebab-case identifier. |
+| `title` | string | Human-readable item title. |
+| `brand` | string | Brand, studio, organization, or source name pending editorial classification. |
+| `model` | string | Vehicle model, concept, program label, or feed title pending editorial classification. |
 | `category` | enum | One of `new_car`, `concept_car`, `design_interview`, `brand_language`, `auto_show`, `other`. |
-| `published_date` | string | ISO date, `YYYY-MM-DD`, from the source or manual editorial record. |
-| `source` | string | Source display name. Must be preserved in every generated output. |
-| `source_url` | string | Canonical public source URL. Used for deduplication and attribution. |
-| `image_url` | string | Link to an image or media page only. Do not download copyrighted images into the repo. |
-| `short_summary` | string | Short paraphrased summary. Avoid long copied passages. |
-| `design_keywords` | string[] | 3-8 design keywords for filtering and content drafting. |
-| `design_observations` | string[] | Attributable or visually observable design notes. Separate observation from speculation. |
-| `proportion_observation` | string | Notes on stance, package, overhangs, cabin position, wheelbase, or silhouette. |
-| `volume_observation` | string | Notes on major massing and body/cabin volume relationships. |
-| `surface_observation` | string | Notes on surfacing, highlights, feature lines, texture, and material impression. |
-| `graphic_observation` | string | Notes on lamps, DLO, trim, contrast blocks, badges, and other 2D identity graphics. |
-| `brand_language_observation` | string | Notes on how the item fits or changes a brand design language. |
-| `designer_note` | string | Editorial caution, review note, or suggested follow-up angle. |
-| `created_at` | string | ISO timestamp for when the item was created in the dataset. |
-| `updated_at` | string | ISO timestamp for the most recent dataset update. |
+| `published_date` | string | Source publication date in `YYYY-MM-DD` format. |
+| `source` | string | Source display name retained in every generated output. |
+| `source_url` | string | Canonical public item URL used for attribution and deduplication. |
+| `image_url` | string | Optional feed-provided image URL. Images are never downloaded. |
+| `short_summary` | string | Short feed-provided or manually paraphrased summary. |
+| `collection_method` | enum | One of `rss`, `mock`, `manual`. |
+| `is_mock` | boolean | `true` for mock records. All `example.com` records must be mock. |
+| `collected_at` | string | ISO timestamp for RSS-collected records. |
+| `design_keywords` | string[] | Human-reviewed design keywords; may be empty for new RSS records. |
+| `design_observations` | string[] | Human-reviewed design observations; may be empty for new RSS records. |
+| `proportion_observation` | string | Proportion analysis or a review-pending placeholder. |
+| `volume_observation` | string | Volume analysis or a review-pending placeholder. |
+| `surface_observation` | string | Surface analysis or a review-pending placeholder. |
+| `graphic_observation` | string | Graphic analysis or a review-pending placeholder. |
+| `brand_language_observation` | string | Brand-language analysis or a review-pending placeholder. |
+| `designer_note` | string | Editorial caution or follow-up note. |
+| `created_at` | string | ISO timestamp for dataset creation. |
+| `updated_at` | string | ISO timestamp for the latest dataset update. |
 
-### Validation expectations
+## Validation and provenance expectations
 
-- `id`, `title`, `source`, and `source_url` must be non-empty.
-- `category` must match the enum list.
-- `published_date` must be a valid ISO date string.
-- Every generated content item must include `source` and `source_url` attribution.
-- Image handling stores URLs only. Do not download or commit copyrighted images.
-- Automated summaries should be treated as draft analysis until reviewed by a human editor.
+- `source_url` must be a valid URL and is the deduplication key.
+- An `example.com` item cannot be real or use `collection_method: "rss"`.
+- Real collected items use `collection_method: "rss"`, `is_mock: false`, and include `collected_at`.
+- Manual non-mock items use `collection_method: "manual"`; demonstration items use `collection_method: "mock"`.
+- Generated content must retain source attribution and display provenance status.
+- Image handling stores URLs only. Do not download or commit source images.
 
-## `data/sources.json`
+## Source registry fields
 
-`sources.json` is a lightweight registry of approved or planned sources.
-
-| Field | Type | Notes |
-| --- | --- | --- |
-| `id` | string | Stable source identifier. |
-| `name` | string | Source display name for logs and attribution. |
-| `type` | enum | One of `rss`, `website`, `manual`. |
-| `url` | string | Source homepage, feed URL, or local manual reference. |
-| `category_hint` | string | Default category suggestion for future collected records. |
-| `enabled` | boolean | Disabled sources are logged but skipped. |
-| `notes` | string | Attribution, copyright, reliability, paywall, or parsing notes. |
+Each entry in `data/sources.json` includes `id`, `name`, `type`, `url`, `category_hint`, `enabled`, and `notes`. The current collector supports enabled `rss` sources and logs manual sources without network collection.
 
 ## Collection boundary
 
-The current collector is intentionally conservative. It supports manual/mock mode and logs disabled RSS placeholders. Future RSS parsing should remain fault-tolerant, deduplicate by `source_url`, and skip invalid records instead of failing the whole pipeline.
+The collector reads public RSS or Atom feed metadata only. It does not open article pages, bypass paywalls, or download images. Feed failures are logged and skipped so one unavailable source does not stop the pipeline.

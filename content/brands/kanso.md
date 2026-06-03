@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1 source-attributed mock/manual item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -18,6 +18,7 @@ Generated internal notes from 1 source-attributed mock/manual item(s). Treat as 
 
 - Model/program: Serein
 - Category: new_car
+- Data status: Mock · mock data
 - Observation: Kanso's mock language frames luxury as calm usability and tactile restraint.
 - Proportion: A long cabin and low beltline make the sedan read as chauffeur-friendly rather than driver-only.
 - Graphic: Ambient light bands act as the primary cabin graphic and help define zones.

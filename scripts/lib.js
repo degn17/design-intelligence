@@ -43,9 +43,24 @@ function escapeHtml(value) {
     .replace(/"/g, '&quot;');
 }
 
+function itemStatus(item) {
+  if (item.is_mock) return 'mock';
+  if (item.collection_method === 'manual') return 'manual';
+  if (item.collection_method === 'rss') return 'real';
+  return 'manual';
+}
+
+function isRealItem(item) {
+  return itemStatus(item) === 'real';
+}
+
 function loadItems() {
   const items = readJson('data/items.json');
-  return items.slice().sort((a, b) => String(b.published_date).localeCompare(String(a.published_date)));
+  return items.slice().sort((a, b) => {
+    const statusOrder = { real: 0, manual: 1, mock: 2 };
+    const statusDifference = statusOrder[itemStatus(a)] - statusOrder[itemStatus(b)];
+    return statusDifference || String(b.published_date).localeCompare(String(a.published_date));
+  });
 }
 
 function groupBy(items, key) {
@@ -69,15 +84,34 @@ function attribution(item) {
   return `[${item.source}](${item.source_url})`;
 }
 
+function provenanceLabel(item) {
+  const status = itemStatus(item);
+  if (status === 'real') return 'Real · RSS';
+  if (status === 'mock') return 'Mock · mock data';
+  return 'Manual · editorial entry';
+}
+
 function validateItem(item) {
   const required = [
-    'id', 'title', 'brand', 'model', 'category', 'published_date', 'source', 'source_url', 'image_url',
+    'id', 'title', 'brand', 'model', 'category', 'published_date', 'source', 'source_url',
     'short_summary', 'design_keywords', 'design_observations', 'proportion_observation', 'volume_observation',
     'surface_observation', 'graphic_observation', 'brand_language_observation', 'designer_note', 'created_at', 'updated_at'
   ];
   const missing = required.filter((field) => item[field] === undefined || item[field] === null || item[field] === '');
   if (missing.length) return { valid: false, reason: `missing fields: ${missing.join(', ')}` };
   if (!categories.includes(item.category)) return { valid: false, reason: `invalid category: ${item.category}` };
+  if (!['rss', 'mock', 'manual'].includes(item.collection_method)) return { valid: false, reason: `invalid collection_method: ${item.collection_method}` };
+  if (typeof item.is_mock !== 'boolean') return { valid: false, reason: 'is_mock must be a boolean' };
+  if (item.collection_method === 'rss' && item.is_mock) return { valid: false, reason: 'rss items cannot be mock' };
+  if (item.collection_method === 'rss' && !item.collected_at) return { valid: false, reason: 'rss items must include collected_at' };
+  try {
+    new URL(item.source_url);
+    if (String(item.source_url).toLowerCase().includes('example.com') && (!item.is_mock || item.collection_method === 'rss')) {
+      return { valid: false, reason: 'example.com items must be mock and cannot use collection_method rss' };
+    }
+  } catch {
+    return { valid: false, reason: 'source_url must be a valid URL' };
+  }
   if (!Array.isArray(item.design_keywords) || !Array.isArray(item.design_observations)) {
     return { valid: false, reason: 'design_keywords and design_observations must be arrays' };
   }
@@ -85,7 +119,41 @@ function validateItem(item) {
 }
 
 function itemMarkdown(item) {
-  return `## ${item.title}\n\n- Brand: ${item.brand}\n- Model: ${item.model}\n- Category: ${item.category}\n- Published: ${item.published_date}\n- Source: ${attribution(item)}\n- Image URL: ${item.image_url}\n\n### Summary\n\n${item.short_summary}\n\n### Design keywords\n\n${formatList(item.design_keywords)}\n\n### Design observations\n\n${formatList(item.design_observations)}\n\n### Design breakdown\n\n- Proportion: ${item.proportion_observation}\n- Volume: ${item.volume_observation}\n- Surface: ${item.surface_observation}\n- Graphic: ${item.graphic_observation}\n- Brand language: ${item.brand_language_observation}\n\n### Designer note\n\n${item.designer_note}\n`;
+  return `## ${item.title}
+
+- Brand: ${item.brand}
+- Model: ${item.model}
+- Category: ${item.category}
+- Published: ${item.published_date}
+- Data status: ${provenanceLabel(item)}
+- Collection method: ${item.collection_method}
+- Source: ${attribution(item)}
+- Image URL: ${item.image_url || 'Not supplied by feed'}
+
+### Summary
+
+${item.short_summary}
+
+### Design keywords
+
+${formatList(item.design_keywords)}
+
+### Design observations
+
+${formatList(item.design_observations)}
+
+### Design breakdown
+
+- Proportion: ${item.proportion_observation}
+- Volume: ${item.volume_observation}
+- Surface: ${item.surface_observation}
+- Graphic: ${item.graphic_observation}
+- Brand language: ${item.brand_language_observation}
+
+### Designer note
+
+${item.designer_note}
+`;
 }
 
 module.exports = {
@@ -102,6 +170,9 @@ module.exports = {
   byCategory,
   formatList,
   attribution,
+  itemStatus,
+  isRealItem,
+  provenanceLabel,
   validateItem,
   itemMarkdown,
 };

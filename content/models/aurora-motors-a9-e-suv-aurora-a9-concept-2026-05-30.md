@@ -6,6 +6,8 @@
 - Model: A9 E-SUV
 - Category: concept_car
 - Published: 2026-05-30
+- Data status: Mock · mock data
+- Collection method: mock
 - Source: [Mock Design Review](https://example.com/mock/aurora-a9-surface-study)
 - Image URL: https://example.com/images/aurora-a9-side.jpg
 
@@ -41,4 +43,4 @@ Useful candidate for a social draft about how EV SUVs reduce visual mass.
 
 ## Source attribution
 
-This card is generated from a mock/manual source record and must retain attribution to [Mock Design Review](https://example.com/mock/aurora-a9-surface-study).
+This card is generated from a **Mock · mock data** record and must retain attribution to [Mock Design Review](https://example.com/mock/aurora-a9-surface-study). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

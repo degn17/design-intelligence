@@ -2,7 +2,7 @@
   "name": "design-intelligence",
   "version": "0.2.0",
   "private": true,
-  "description": "Automotive Design Intelligence content production pipeline with mock data and a static internal viewer.",
+  "description": "Automotive Design Intelligence content production pipeline with public RSS collection and a static internal viewer.",
   "type": "commonjs",
   "scripts": {
     "collect": "node scripts/collect.js",

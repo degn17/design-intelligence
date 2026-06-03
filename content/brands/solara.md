@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1 source-attributed mock/manual item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -18,6 +18,7 @@ Generated internal notes from 1 source-attributed mock/manual item(s). Treat as 
 
 - Model/program: Elysian
 - Category: new_car
+- Data status: Mock · mock data
 - Observation: Solara's mock language emphasizes quiet technology rather than aggressive performance decoration.
 - Proportion: Long wheelbase, short overhangs, and a low cowl create an EV-native premium sedan stance.
 - Graphic: The front and rear full-width light bars are the strongest recognisable brand graphics.

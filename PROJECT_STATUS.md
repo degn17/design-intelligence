@@ -1,106 +1,78 @@
 # Project Status
 
-## Repository review findings
+## Current milestone
 
-The repository already had useful planning documentation, mock data, a sample digest, sample generated content, and a static `/docs` viewer. The existing direction had already started shifting away from a website-first project, so this version kept the useful static viewer and sample output approach while turning the project into a runnable flat-file pipeline.
+The pipeline now has its first real collection step. Enabled public RSS sources are fetched, feed metadata is normalized into `data/items.json`, records are validated, and repeated workflow runs are deduplicated by `source_url`.
 
-No existing useful work was deleted. Older sample files remain in place where they are harmless historical examples, while the new pipeline now generates date-based daily and social files plus structured model and brand pages.
+## Real public sources
+
+The source registry currently enables four public RSS feeds:
+
+- Porsche Newsroom — official Porsche public newsroom feed.
+- Motor Authority — public automotive news feed.
+- Carscoops — public automotive news feed.
+- Car and Driver — public latest-content feed.
+
+These sources are broad automotive feeds and are not assumed to be design-only. Their records require editorial triage before publication.
+
+## Mock and manual data
+
+The original 10 demonstration records remain available for fallback output and layout testing. They use `example.com` URLs and are explicitly marked `is_mock: true` with `collection_method: mock`. The collector also forces any future `example.com` item to mock status so it cannot appear as real collected data.
 
 ## Completed in this version
 
-- Reframed the project as an Automotive Design Intelligence content production pipeline.
-- Expanded `data/items.json` to 10 mock/manual source-attributed records:
-  - 3 new car releases
-  - 3 concept cars
-  - 2 design interviews
-  - 2 brand design language updates
-- Updated `data/sources.json` with example `manual`, `rss`, and source-registry records.
-- Added `data/schema.md` with the canonical item and source schema.
-- Added a conservative collector scaffold in `scripts/collect.js`.
-- Added generators for:
-  - Daily digest Markdown
-  - Structured model cards
-  - Brand language notes
-  - Xiaohongshu-style social drafts
-  - Static internal website viewer
-- Added shared script utilities in `scripts/lib.js`.
-- Added `package.json` scripts for individual generation steps and full `npm run pipeline` execution.
-- Added a GitHub Actions workflow at `.github/workflows/daily-pipeline.yml` that runs manually or daily, runs the pipeline, and commits generated content changes if files changed.
-- Rebuilt `docs/index.html` as a mobile-friendly internal viewer that shows project positioning, digest preview, model cards, brand notes, social draft preview, source attribution, and the current data timestamp.
-- Documented that GitHub Pages can continue publishing from `/docs`, with GitHub Actions deployment as a future improvement.
+- Added 4 enabled real public RSS sources to `data/sources.json`.
+- Implemented fault-tolerant RSS and Atom parsing in `scripts/collect.js` using Node.js built-ins.
+- Collected title, source, source URL, published date, short summary, safe feed-metadata image URL, collection timestamp, RSS collection method, and real/mock status.
+- Added `example.com` provenance protection and validation.
+- Added `source_url` deduplication across new and existing records.
+- Updated daily digests, model cards, social drafts, brand notes, and the website viewer to show real/mock/manual provenance and clear source attribution.
+- Ranked real RSS-collected items before manual and mock examples.
+- Added warnings when no real items are available for the generated day or when the viewer has only mock/manual data.
+- Added a website data status section with real and mock/manual counts, last collection time, sources, and collection methods.
+- Preserved the boundary that the pipeline does not bypass paywalls or download images.
 
-## How to test
-
-Run from the repository root:
+## How to verify real collection
 
 ```bash
-npm ci
 npm run collect
-npm run generate:daily
-npm run generate:models
-npm run generate:brands
-npm run generate:social
-npm run build
-npm run pipeline
 ```
 
-To view the internal site locally:
+Expected verification steps:
 
-```bash
-python3 -m http.server 8000
-```
+1. Look for successful `Parsed ... usable item(s)` log lines.
+2. Inspect `data/items.json` for `collection_method: "rss"`, `is_mock: false`, and `collected_at`.
+3. Confirm real `source_url` values do not use `example.com`.
+4. Run `npm run collect` again and confirm the total does not grow from duplicate URLs.
+5. Run `npm run pipeline` and review `docs/index.html` plus generated Markdown provenance labels.
 
-Then open:
+## Known limitations
 
-```text
-http://localhost:8000/docs/
-```
+- RSS feed availability and metadata quality vary by publisher.
+- Some environments may block outbound feed requests; failures are logged and skipped.
+- Broad automotive feeds may collect items unrelated to design or releases.
+- Brand and model classification for new RSS items is intentionally conservative and needs editorial review.
+- Detailed design fields are not inferred from feed summaries; new real records contain review-pending placeholders.
+- The pipeline does not parse article pages, bypass paywalls, download images, assess image rights, or publish content.
 
-Expected result:
+## Next recommended step
 
-- The collector logs manual/mock sources and exits safely.
-- Daily digest Markdown appears in `daily/YYYY-MM-DD.md`.
-- Model cards appear in `content/models/`.
-- Brand notes appear in `content/brands/`.
-- Xiaohongshu draft Markdown appears in `content/social/xiaohongshu-drafts/YYYY-MM-DD.md`.
-- `docs/index.html` renders an internal viewer with latest data and attribution.
+Add a human editorial triage workflow for real RSS items: approve design relevance, classify brand/model/category, add source-supported observations, and mark records ready for downstream content generation.
 
-## Known issues
+## Risks and boundaries
 
-- The dataset is mock/manual and uses `example.com` placeholder URLs.
-- RSS collection is scaffolded but not implemented; this is intentional until sources are approved.
-- Generated Markdown is deterministic template output, not AI-written analysis.
-- `docs/index.html` is static and generated directly from JSON/Markdown previews.
-- Existing GitHub Pages settings still require repository-level setup on GitHub if not already enabled.
+### Copyright and images
 
-## Next recommended steps
-
-1. Replace mock sources with a small approved public-source registry.
-2. Add minimal RSS parsing for one or two non-paywalled public feeds.
-3. Add schema validation as a separate `npm run validate` command.
-4. Add editorial status fields such as `draft`, `reviewed`, `approved`, and `archived`.
-5. Add source reliability and image-rights notes to the data model.
-6. Add AI-assisted summarization only after strict attribution, quote, and review rules are defined.
-7. Consider GitHub Actions Pages deployment after confirming the current `/docs` Pages setup.
-
-## Risks
-
-### Copyright
-
-Automotive design content is image-heavy and often copyrighted. The pipeline stores image URLs only and does not download or commit images. Human review is required before any external image use.
+The pipeline stores source URLs and feed-provided image URLs only. Human review is required before external image use.
 
 ### Source reliability
 
-Public automotive coverage can include rumors, reposts, or inaccurate auto-show details. Source records need reliability notes before real ingestion is trusted.
+Public automotive coverage may include rumors, reposts, or incomplete release information. Every collected item remains a draft until reviewed.
 
-### Paywalls
+### Paywalls and access controls
 
-The system must not bypass paywalls. Paywalled content should be excluded unless there is a clear licensed workflow and attribution policy.
-
-### Inaccurate AI summaries
-
-Future AI summaries may overstate design intent or confuse observed styling with official strategy. The current template output keeps a manual review boundary; future AI additions need stronger validation.
+The collector consumes public feed metadata only and must not bypass paywalls or other access controls.
 
 ### Over-automation
 
-Social drafts and digest copy should remain editorial drafts. The system should not auto-publish to external platforms without human approval, source verification, and image-rights review.
+Generated digests and social drafts are internal review assets. They must not be auto-published without source verification and editorial approval.

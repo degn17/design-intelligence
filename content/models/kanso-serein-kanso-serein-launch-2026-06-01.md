@@ -6,6 +6,8 @@
 - Model: Serein
 - Category: new_car
 - Published: 2026-06-01
+- Data status: Mock · mock data
+- Collection method: mock
 - Source: [Mock CMF Brief](https://example.com/mock/kanso-serein-cmf-brief)
 - Image URL: https://example.com/images/kanso-serein-interior.jpg
 
@@ -41,4 +43,4 @@ Check that any future material claims are sourced from official CMF notes or ver
 
 ## Source attribution
 
-This card is generated from a mock/manual source record and must retain attribution to [Mock CMF Brief](https://example.com/mock/kanso-serein-cmf-brief).
+This card is generated from a **Mock · mock data** record and must retain attribution to [Mock CMF Brief](https://example.com/mock/kanso-serein-cmf-brief). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
