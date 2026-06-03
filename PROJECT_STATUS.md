@@ -1,37 +1,50 @@
 # Project Status
 
-## Current direction
+## Repository review findings
 
-The project direction has shifted from a website-first MVP to an **Automotive Design Intelligence System**.
+The repository already had useful planning documentation, mock data, a sample digest, sample generated content, and a static `/docs` viewer. The existing direction had already started shifting away from a website-first project, so this version kept the useful static viewer and sample output approach while turning the project into a runnable flat-file pipeline.
 
-The first goal is to build an automated public information collection and content production pipeline. The system should collect public information about new car releases, concept cars, design interviews, and brand design language updates; organize that information into structured design cards; generate daily digests; and produce Xiaohongshu-style social media draft content for human editorial review.
+No existing useful work was deleted. Older sample files remain in place where they are harmless historical examples, while the new pipeline now generates date-based daily and social files plus structured model and brand pages.
 
-The website is only an optional internal viewer for the collected knowledge base. It is not the core product and should not drive the system architecture.
+## Completed in this version
 
-## Completed work
+- Reframed the project as an Automotive Design Intelligence content production pipeline.
+- Expanded `data/items.json` to 10 mock/manual source-attributed records:
+  - 3 new car releases
+  - 3 concept cars
+  - 2 design interviews
+  - 2 brand design language updates
+- Updated `data/sources.json` with example `manual`, `rss`, and source-registry records.
+- Added `data/schema.md` with the canonical item and source schema.
+- Added a conservative collector scaffold in `scripts/collect.js`.
+- Added generators for:
+  - Daily digest Markdown
+  - Structured model cards
+  - Brand language notes
+  - Xiaohongshu-style social drafts
+  - Static internal website viewer
+- Added shared script utilities in `scripts/lib.js`.
+- Added `package.json` scripts for individual generation steps and full `npm run pipeline` execution.
+- Added a GitHub Actions workflow at `.github/workflows/daily-pipeline.yml` that runs manually or daily, runs the pipeline, and commits generated content changes if files changed.
+- Rebuilt `docs/index.html` as a mobile-friendly internal viewer that shows project positioning, digest preview, model cards, brand notes, social draft preview, source attribution, and the current data timestamp.
+- Documented that GitHub Pages can continue publishing from `/docs`, with GitHub Actions deployment as a future improvement.
 
-- Added product direction documentation in `PRODUCT_DIRECTION.md`.
-- Updated `README.md` to describe the repository as an automotive design intelligence pipeline project rather than a public website.
-- Kept the existing static website skeleton in `docs/index.html` and reframed it as an internal knowledge-base viewer.
-- Preserved mock knowledge-base records in `data/items.json`.
-- Added a mock source registry in `data/sources.json`.
-- Added the planned repository structure:
-  - `data/items.json`
-  - `data/sources.json`
-  - `daily/`
-  - `content/models/`
-  - `content/brands/`
-  - `content/social/xiaohongshu-drafts/`
-  - `scripts/`
-  - `docs/`
-- Added sample mock outputs:
-  - `daily/2026-06-02-daily-digest.md`
-  - `content/models/aurora-a9-e-suv-design-card.md`
-  - `content/social/xiaohongshu-drafts/aurora-a9-e-suv-draft.md`
+## How to test
 
-## How to test the current internal viewer
+Run from the repository root:
 
-From the repository root, run a local static server:
+```bash
+npm ci
+npm run collect
+npm run generate:daily
+npm run generate:models
+npm run generate:brands
+npm run generate:social
+npm run build
+npm run pipeline
+```
+
+To view the internal site locally:
 
 ```bash
 python3 -m http.server 8000
@@ -45,50 +58,49 @@ http://localhost:8000/docs/
 
 Expected result:
 
-- The Automotive Design Intelligence internal viewer loads.
-- The four sections are visible.
-- Cards render from `data/items.json`.
-- Source links open in a new browser tab.
+- The collector logs manual/mock sources and exits safely.
+- Daily digest Markdown appears in `daily/YYYY-MM-DD.md`.
+- Model cards appear in `content/models/`.
+- Brand notes appear in `content/brands/`.
+- Xiaohongshu draft Markdown appears in `content/social/xiaohongshu-drafts/YYYY-MM-DD.md`.
+- `docs/index.html` renders an internal viewer with latest data and attribution.
 
-## Next step
+## Known issues
 
-Do not implement scraping yet.
+- The dataset is mock/manual and uses `example.com` placeholder URLs.
+- RSS collection is scaffolded but not implemented; this is intentional until sources are approved.
+- Generated Markdown is deterministic template output, not AI-written analysis.
+- `docs/index.html` is static and generated directly from JSON/Markdown previews.
+- Existing GitHub Pages settings still require repository-level setup on GitHub if not already enabled.
 
-The next step is to define the ingestion and generation contracts before writing any crawler or scraper:
+## Next recommended steps
 
-1. Define the approved source registry schema in `data/sources.json`.
-2. Define the canonical design-card schema for `content/models/` and `content/brands/`.
-3. Define daily digest generation rules for `daily/`.
-4. Define Xiaohongshu-style draft generation rules for `content/social/xiaohongshu-drafts/`.
-5. Define editorial review states, including draft, reviewed, approved, and archived.
-6. Define source attribution, quote limits, image reuse rules, and copyright review requirements.
+1. Replace mock sources with a small approved public-source registry.
+2. Add minimal RSS parsing for one or two non-paywalled public feeds.
+3. Add schema validation as a separate `npm run validate` command.
+4. Add editorial status fields such as `draft`, `reviewed`, `approved`, and `archived`.
+5. Add source reliability and image-rights notes to the data model.
+6. Add AI-assisted summarization only after strict attribution, quote, and review rules are defined.
+7. Consider GitHub Actions Pages deployment after confirming the current `/docs` Pages setup.
 
-## Known risks
+## Risks
 
-### Copyright and content reuse
+### Copyright
 
-The system will rely on public information, but public availability does not mean unrestricted reuse. Production workflows must avoid copying long passages, reposting protected images without permission, or presenting source material as original reporting.
-
-### Source attribution
-
-Every generated design card, digest item, and social draft should preserve source name, source URL, access date, and attribution notes. The source registry should make attribution requirements explicit before automated collection begins.
-
-### Quotation accuracy
-
-Design interviews and public comments from designers can be sensitive. The system should distinguish between direct quotes, paraphrases, and model-generated interpretation. Direct quotes should be short, verified, and linked to the original source.
-
-### Hallucinated design claims
-
-Automated summaries can overstate design intent. The system should separate observed visual facts from inferred design interpretation and require human review before publication.
+Automotive design content is image-heavy and often copyrighted. The pipeline stores image URLs only and does not download or commit images. Human review is required before any external image use.
 
 ### Source reliability
 
-Auto show coverage, rumors, leaks, and reposted images can be inaccurate. Source records should include type, reliability, and approval status before being used in generated outputs.
+Public automotive coverage can include rumors, reposts, or inaccurate auto-show details. Source records need reliability notes before real ingestion is trusted.
 
-### Image rights
+### Paywalls
 
-Automotive design content is image-heavy. Image use must be reviewed separately from text summarization. Social drafts should include image suggestions or source links rather than assuming images can be reused.
+The system must not bypass paywalls. Paywalled content should be excluded unless there is a clear licensed workflow and attribution policy.
 
-### Brand and platform compliance
+### Inaccurate AI summaries
 
-Xiaohongshu-style drafts should be treated as editorial drafts, not automated publishing instructions. Final posts need human review for platform tone, brand risk, attribution, and claims accuracy.
+Future AI summaries may overstate design intent or confuse observed styling with official strategy. The current template output keeps a manual review boundary; future AI additions need stronger validation.
+
+### Over-automation
+
+Social drafts and digest copy should remain editorial drafts. The system should not auto-publish to external platforms without human approval, source verification, and image-rights review.

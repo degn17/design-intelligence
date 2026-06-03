@@ -2,17 +2,55 @@
   {
     "id": "mock-official-press-room",
     "name": "Mock Official Press Room",
-    "type": "official_press_release",
+    "type": "manual",
     "url": "https://example.com/mock/official-press-room",
-    "attribution_required": true,
-    "reuse_notes": "Mock source record. Replace with an approved public source before production use. Quote sparingly and link back to the original source."
+    "category_hint": "new_car",
+    "enabled": true,
+    "notes": "Mock manual source for official release-style entries. Replace with approved public brand press rooms before production use. Store source URLs only; do not download copyrighted images."
+  },
+  {
+    "id": "mock-design-review",
+    "name": "Mock Design Review",
+    "type": "manual",
+    "url": "https://example.com/mock/design-review",
+    "category_hint": "concept_car",
+    "enabled": true,
+    "notes": "Mock editorial source used for concept-car design observations and safe attribution examples."
   },
   {
     "id": "mock-design-interview",
     "name": "Mock Design Interview",
-    "type": "interview",
+    "type": "manual",
     "url": "https://example.com/mock/design-interview",
-    "attribution_required": true,
-    "reuse_notes": "Mock interview source. Attribute insights to the original interview and avoid reproducing long excerpts."
+    "category_hint": "design_interview",
+    "enabled": true,
+    "notes": "Mock interview source. Future real interview parsing must preserve attribution and distinguish direct quotes from paraphrase."
+  },
+  {
+    "id": "mock-brand-language-archive",
+    "name": "Mock Brand Language Archive",
+    "type": "manual",
+    "url": "https://example.com/mock/brand-language-archive",
+    "category_hint": "brand_language",
+    "enabled": true,
+    "notes": "Mock archive for brand-language updates. Future records should cite official brand pages or reputable public coverage."
+  },
+  {
+    "id": "example-rss-auto-design",
+    "name": "Example Automotive Design RSS",
+    "type": "rss",
+    "url": "https://example.com/rss/automotive-design.xml",
+    "category_hint": "other",
+    "enabled": false,
+    "notes": "Disabled placeholder RSS source. The collector scaffold logs RSS TODOs and will not fail the pipeline when disabled."
+  },
+  {
+    "id": "manual-editorial-notes",
+    "name": "Manual Editorial Notes",
+    "type": "manual",
+    "url": "data/items.json",
+    "category_hint": "other",
+    "enabled": true,
+    "notes": "Use this for hand-entered items after verifying source attribution and image URL permissions."
   }
 ]

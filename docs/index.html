@@ -1,520 +1,229 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Automotive Design Intelligence</title>
-    <style>
-      :root {
-        color-scheme: light;
-        --bg: #f5f1ea;
-        --panel: #fffaf2;
-        --ink: #171717;
-        --muted: #66605a;
-        --line: #ded3c4;
-        --accent: #d94f2b;
-        --accent-dark: #92351f;
-        --chip: #efe4d6;
-        --shadow: 0 18px 45px rgba(32, 24, 16, 0.11);
-      }
-
-      * {
-        box-sizing: border-box;
-      }
-
-      body {
-        margin: 0;
-        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-        background:
-          radial-gradient(circle at top left, rgba(217, 79, 43, 0.14), transparent 32rem),
-          linear-gradient(180deg, #fbf7ef 0%, var(--bg) 55%);
-        color: var(--ink);
-        line-height: 1.55;
-      }
-
-      a {
-        color: var(--accent-dark);
-      }
-
-      .site-header {
-        display: grid;
-        grid-template-columns: 1fr auto;
-        gap: 2rem;
-        align-items: start;
-        max-width: 1180px;
-        margin: 0 auto;
-        padding: 4rem 1.25rem 2rem;
-      }
-
-      .eyebrow {
-        margin: 0 0 0.75rem;
-        color: var(--accent-dark);
-        font-size: 0.8rem;
-        font-weight: 800;
-        letter-spacing: 0.16em;
-        text-transform: uppercase;
-      }
-
-      h1 {
-        max-width: 760px;
-        margin: 0;
-        font-size: clamp(2.5rem, 7vw, 5.8rem);
-        line-height: 0.92;
-        letter-spacing: -0.07em;
-      }
-
-      .intro {
-        max-width: 680px;
-        margin: 1.4rem 0 0;
-        color: var(--muted);
-        font-size: 1.12rem;
-      }
-
-      .status-card {
-        width: min(100%, 320px);
-        padding: 1.25rem;
-        border: 1px solid var(--line);
-        border-radius: 1.25rem;
-        background: rgba(255, 250, 242, 0.72);
-        box-shadow: var(--shadow);
-        backdrop-filter: blur(16px);
-      }
-
-      .status-card strong {
-        display: block;
-        margin-bottom: 0.35rem;
-      }
-
-      .status-card p {
-        margin: 0;
-        color: var(--muted);
-      }
-
-      .layout {
-        display: grid;
-        grid-template-columns: 240px 1fr;
-        gap: 1.25rem;
-        max-width: 1180px;
-        margin: 0 auto;
-        padding: 0 1.25rem 4rem;
-      }
-
-      nav {
-        position: sticky;
-        top: 1rem;
-        align-self: start;
-        padding: 1rem;
-        border: 1px solid var(--line);
-        border-radius: 1rem;
-        background: rgba(255, 250, 242, 0.82);
-      }
-
-      nav a {
-        display: block;
-        padding: 0.7rem 0.8rem;
-        border-radius: 0.75rem;
-        color: var(--ink);
-        font-weight: 700;
-        text-decoration: none;
-      }
-
-      nav a:hover,
-      nav a:focus {
-        background: var(--chip);
-        outline: none;
-      }
-
-      main {
-        display: grid;
-        gap: 1.25rem;
-      }
-
-      section {
-        padding: 1.4rem;
-        border: 1px solid var(--line);
-        border-radius: 1.4rem;
-        background: rgba(255, 250, 242, 0.9);
-        box-shadow: 0 10px 28px rgba(32, 24, 16, 0.06);
-      }
-
-      .section-header {
-        display: flex;
-        justify-content: space-between;
-        gap: 1rem;
-        align-items: end;
-        margin-bottom: 1rem;
-      }
-
-      h2 {
-        margin: 0;
-        font-size: clamp(1.6rem, 3vw, 2.4rem);
-        letter-spacing: -0.04em;
-      }
-
-      .section-note {
-        max-width: 520px;
-        margin: 0.35rem 0 0;
-        color: var(--muted);
-      }
-
-      .count-pill {
-        white-space: nowrap;
-        border: 1px solid var(--line);
-        border-radius: 999px;
-        padding: 0.45rem 0.7rem;
-        color: var(--muted);
-        background: #fffdf8;
-        font-size: 0.85rem;
-        font-weight: 700;
-      }
-
-      .grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        gap: 1rem;
-      }
-
-      .item-card {
-        display: flex;
-        flex-direction: column;
-        min-height: 100%;
-        padding: 1rem;
-        border: 1px solid var(--line);
-        border-radius: 1rem;
-        background: var(--panel);
-      }
-
-      .meta {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 0.4rem;
-        margin-bottom: 0.75rem;
-      }
-
-      .tag {
-        border-radius: 999px;
-        padding: 0.25rem 0.55rem;
-        background: var(--chip);
-        color: #554a3f;
-        font-size: 0.78rem;
-        font-weight: 800;
-      }
-
-      .item-card h3 {
-        margin: 0;
-        font-size: 1.2rem;
-        letter-spacing: -0.025em;
-      }
-
-      .summary {
-        color: var(--muted);
-      }
-
-      .keyword-list,
-      .observation-list {
-        padding-left: 1.1rem;
-      }
-
-      .keyword-list {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 0.45rem;
-        padding: 0;
-        margin: 0.5rem 0 0;
-        list-style: none;
-      }
-
-      .keyword-list li {
-        border-radius: 0.55rem;
-        padding: 0.25rem 0.45rem;
-        background: #f7eee3;
-        color: #554a3f;
-        font-size: 0.8rem;
-      }
-
-      .observation-list {
-        color: #3b3631;
-      }
-
-      .source-link {
-        margin-top: auto;
-        font-weight: 800;
-      }
-
-      .empty-state {
-        margin: 0;
-        color: var(--muted);
-      }
-
-      footer {
-        max-width: 1180px;
-        margin: 0 auto;
-        padding: 0 1.25rem 2rem;
-        color: var(--muted);
-      }
-
-      @media (max-width: 800px) {
-        .site-header,
-        .layout {
-          grid-template-columns: 1fr;
-        }
-
-        nav {
-          position: static;
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <header class="site-header">
-      <div>
-        <p class="eyebrow">Internal knowledge-base viewer</p>
-        <h1>Automotive Design Intelligence</h1>
-        <p class="intro">
-          An optional internal viewer for the automotive design intelligence pipeline. Use it to inspect collected knowledge-base items, review structured design cards, and validate attribution notes.
-        </p>
-      </div>
-      <aside class="status-card" aria-label="MVP status">
-        <strong>Mock data only</strong>
-        <p>No scraping or automated ingestion is implemented yet. The core product is the collection and content production pipeline.</p>
-      </aside>
-    </header>
-
-    <div class="layout">
-      <nav aria-label="Primary sections">
-        <a href="#today-digest">Today Digest</a>
-        <a href="#model-cards">Model Cards</a>
-        <a href="#brand-language">Brand Language</a>
-        <a href="#sources">Sources</a>
-      </nav>
-
-      <main>
-        <section id="today-digest" data-category="Today Digest">
-          <div class="section-header">
-            <div>
-              <h2>Today Digest</h2>
-              <p class="section-note">A quick internal readout of mocked design signals and observation notes.</p>
-            </div>
-            <span class="count-pill" data-count>0 items</span>
-          </div>
-          <div class="grid" data-items></div>
-        </section>
-
-        <section id="model-cards" data-category="Model Cards">
-          <div class="section-header">
-            <div>
-              <h2>Model Cards</h2>
-              <p class="section-note">Snapshot cards for vehicle programs, proportions, surfaces, graphics, and CMF themes.</p>
-            </div>
-            <span class="count-pill" data-count>0 items</span>
-          </div>
-          <div class="grid" data-items></div>
-        </section>
-
-        <section id="brand-language" data-category="Brand Language">
-          <div class="section-header">
-            <div>
-              <h2>Brand Language</h2>
-              <p class="section-note">Reusable observations about how brands express stance, identity, technology, and heritage.</p>
-            </div>
-            <span class="count-pill" data-count>0 items</span>
-          </div>
-          <div class="grid" data-items></div>
-        </section>
-
-        <section id="sources" data-category="Sources">
-          <div class="section-header">
-            <div>
-              <h2>Sources</h2>
-              <p class="section-note">Mock source records that establish the fields needed for future ingestion and attribution.</p>
-            </div>
-            <span class="count-pill" data-count>0 items</span>
-          </div>
-          <div class="grid" data-items></div>
-        </section>
-      </main>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Automotive Design Intelligence Viewer</title>
+  <style>
+    :root { color-scheme: light; --bg:#f7f3ec; --panel:#fffdf8; --ink:#201a14; --muted:#6f6256; --line:#e4d6c5; --accent:#b94624; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: var(--bg); color: var(--ink); line-height: 1.55; }
+    a { color: var(--accent); }
+    header, main, footer { width: min(1120px, calc(100% - 2rem)); margin: 0 auto; }
+    header { padding: 3rem 0 1.5rem; }
+    .eyebrow { margin: 0 0 .5rem; color: var(--accent); font-size: .78rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
+    h1 { max-width: 780px; margin: 0; font-size: clamp(2.2rem, 7vw, 4.8rem); line-height: .95; letter-spacing: -.06em; }
+    .intro { max-width: 760px; color: var(--muted); font-size: 1.06rem; }
+    .status { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: .75rem; margin-top: 1.4rem; }
+    .pill { border: 1px solid var(--line); border-radius: 1rem; background: var(--panel); padding: .85rem; }
+    .pill strong { display: block; font-size: 1.35rem; }
+    main { display: grid; gap: 1rem; padding-bottom: 3rem; }
+    section { border: 1px solid var(--line); border-radius: 1.25rem; background: rgba(255,253,248,.92); padding: 1rem; }
+    h2 { margin: 0 0 .25rem; font-size: clamp(1.4rem, 4vw, 2rem); letter-spacing: -.035em; }
+    .section-note { margin: 0 0 1rem; color: var(--muted); }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(245px, 1fr)); gap: .85rem; }
+    .card { border: 1px solid var(--line); border-radius: 1rem; padding: .95rem; background: #fff; }
+    .card h3 { margin: .5rem 0; line-height: 1.2; }
+    .meta { display:flex; flex-wrap:wrap; gap:.35rem; }
+    .meta span, .card li, .source { font-size: .88rem; }
+    .meta span { border-radius:999px; background:#f1e6d8; color:#55483d; padding:.2rem .5rem; font-weight:700; }
+    .card ul { display:flex; flex-wrap:wrap; gap:.35rem; padding:0; list-style:none; }
+    .card li { border:1px solid var(--line); border-radius:999px; padding:.18rem .45rem; }
+    .image-url { color: var(--muted); font-size: .78rem; overflow-wrap:anywhere; }
+    .split { display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }
+    pre { white-space: pre-wrap; word-break: break-word; border:1px solid var(--line); border-radius: .8rem; padding: .8rem; background:#fbf7ef; max-height: 360px; overflow:auto; }
+    footer { color: var(--muted); padding: 0 0 3rem; font-size: .92rem; }
+    @media (max-width: 640px) { header, main, footer { width: min(100% - 1rem, 1120px); } header { padding-top: 1.5rem; } section { padding: .85rem; } }
+  </style>
+</head>
+<body>
+  <header>
+    <p class="eyebrow">Internal viewer · not the core product</p>
+    <h1>Automotive Design Intelligence Pipeline</h1>
+    <p class="intro">A lightweight content production system for daily automotive design digests, structured model cards, brand-language notes, and Xiaohongshu-style editorial drafts. The site is only a readable viewer over generated files and mock/manual source data.</p>
+    <div class="status">
+      <div class="pill"><strong>10</strong>source-attributed items</div>
+      <div class="pill"><strong>3</strong>new car releases</div>
+      <div class="pill"><strong>3</strong>concept cars</div>
+      <div class="pill"><strong>2026-06-02T00:00:00Z</strong>data timestamp</div>
     </div>
+  </header>
+  <main>
+    <section id="digest">
+      <h2>Today Digest</h2>
+      <p class="section-note">Generated Markdown: <a href="../daily/2026-06-02.md">daily/2026-06-02.md</a></p>
+      <pre>## Editorial status
+## Today's important items
+1. **Solara Elysian Production EV Sedan Release** — Mock public-source record for a production EV sedan using a low nose, full-width lighting, and restrained surfacing to signal efficient premium mobility. Source: [Mock Official Press Room](https://example.com/mock/solara-elysian-release).
+## New car releases
+## Concept cars
+## Design interviews
+## Brand language updates
+## Design trend observations
+## Items worth turning into social media content
+- **Aurora A9 E-SUV Concept Surface Study** — angle: Useful candidate for a social draft about how EV SUVs reduce visual mass. Source: [Mock Design Review](https://example.com/mock/aurora-a9-surface-study).
+- **Nomi Loop Urban EV Concept** — angle: Good candidate for a Xiaohongshu explainer about why small EVs often look friendly. Source: [Mock Studio Notes](https://example.com/mock/nomi-loop-model-card).
+- **Vitesse R12 Heritage Performance Coupe Concept** — angle: Avoid framing the concept as production-confirmed unless a future source verifies that status. Source: [Mock Brand Language Archive](https://example.com/mock/vitesse-r12-brand-language).</pre>
+    </section>
+    <section id="models">
+      <h2>Latest model cards</h2>
+      <p class="section-note">Generated from new car and concept records. Markdown files live in <code>content/models/</code>.</p>
+      <div class="grid"><article class="card">
+    <div class="meta"><span>new car</span><span>2026-06-02</span></div>
+    <h3>Solara Elysian Production EV Sedan Release</h3>
+    <p>Mock public-source record for a production EV sedan using a low nose, full-width lighting, and restrained surfacing to signal efficient premium mobility.</p>
+    <ul><li>low nose</li><li>full-width lighting</li><li>aero sedan</li><li>quiet premium</li><li>flush glazing</li></ul>
+    <p class="source">Source: <a href="https://example.com/mock/solara-elysian-release" target="_blank" rel="noreferrer">Mock Official Press Room</a></p>
+    <p class="image-url">Image URL only: https://example.com/images/solara-elysian-hero.jpg</p>
+  </article><article class="card">
+    <div class="meta"><span>new car</span><span>2026-06-01</span></div>
+    <h3>Kanso Serein Luxury Sedan Interior Direction</h3>
+    <p>Mock production sedan note focused on warm minimalism, layered textiles, indirect lighting, and selective physical controls.</p>
+    <ul><li>warm minimalism</li><li>layered textile</li><li>indirect lighting</li><li>tactile controls</li><li>quiet luxury</li></ul>
+    <p class="source">Source: <a href="https://example.com/mock/kanso-serein-cmf-brief" target="_blank" rel="noreferrer">Mock CMF Brief</a></p>
+    <p class="image-url">Image URL only: https://example.com/images/kanso-serein-interior.jpg</p>
+  </article><article class="card">
+    <div class="meta"><span>new car</span><span>2026-05-31</span></div>
+    <h3>Rangewell Trailmark Adventure Pickup Release</h3>
+    <p>Mock pickup release using modular graphics, squared wheel arches, and visible recovery elements to express utility without excessive decoration.</p>
+    <ul><li>modular utility</li><li>squared arches</li><li>exposed recovery points</li><li>rugged graphics</li><li>tool-like surfaces</li></ul>
+    <p class="source">Source: <a href="https://example.com/mock/rangewell-trailmark-graphic-strategy" target="_blank" rel="noreferrer">Mock Segment Scan</a></p>
+    <p class="image-url">Image URL only: https://example.com/images/rangewell-trailmark-front.jpg</p>
+  </article><article class="card">
+    <div class="meta"><span>concept car</span><span>2026-05-30</span></div>
+    <h3>Aurora A9 E-SUV Concept Surface Study</h3>
+    <p>Mock concept SUV highlighting calm surfacing, a floating roof, and a reduced front mask for quiet electric confidence.</p>
+    <ul><li>calm surfacing</li><li>floating roof</li><li>electric premium</li><li>horizontal stance</li><li>reduced mask</li></ul>
+    <p class="source">Source: <a href="https://example.com/mock/aurora-a9-surface-study" target="_blank" rel="noreferrer">Mock Design Review</a></p>
+    <p class="image-url">Image URL only: https://example.com/images/aurora-a9-side.jpg</p>
+  </article><article class="card">
+    <div class="meta"><span>concept car</span><span>2026-05-29</span></div>
+    <h3>Nomi Loop Urban EV Concept</h3>
+    <p>Mock city EV concept focused on friendly proportions, protective corner graphics, and cabin-forward packaging for dense urban mobility.</p>
+    <ul><li>mono-volume</li><li>friendly face</li><li>corner protection</li><li>cabin-forward</li><li>urban mobility</li></ul>
+    <p class="source">Source: <a href="https://example.com/mock/nomi-loop-model-card" target="_blank" rel="noreferrer">Mock Studio Notes</a></p>
+    <p class="image-url">Image URL only: https://example.com/images/nomi-loop-three-quarter.jpg</p>
+  </article><article class="card">
+    <div class="meta"><span>concept car</span><span>2026-05-28</span></div>
+    <h3>Vitesse R12 Heritage Performance Coupe Concept</h3>
+    <p>Mock coupe language study balancing heritage proportions with modern aero details, including a pronounced dash-to-axle ratio and precision-cut vents.</p>
+    <ul><li>dash-to-axle</li><li>heritage coupe</li><li>aero blades</li><li>muscular haunch</li><li>precision vents</li></ul>
+    <p class="source">Source: <a href="https://example.com/mock/vitesse-r12-brand-language" target="_blank" rel="noreferrer">Mock Brand Language Archive</a></p>
+    <p class="image-url">Image URL only: https://example.com/images/vitesse-r12-profile.jpg</p>
+  </article></div>
+      <ul><li><a href="../content/models/solara-elysian-solara-elysian-release-2026-06-02.md">Solara Elysian</a> <span>new_car</span></li><li><a href="../content/models/kanso-serein-kanso-serein-launch-2026-06-01.md">Kanso Serein</a> <span>new_car</span></li><li><a href="../content/models/rangewell-trailmark-rangewell-trailmark-release-2026-05-31.md">Rangewell Trailmark</a> <span>new_car</span></li><li><a href="../content/models/aurora-motors-a9-e-suv-aurora-a9-concept-2026-05-30.md">Aurora Motors A9 E-SUV</a> <span>concept_car</span></li><li><a href="../content/models/nomi-loop-nomi-loop-concept-2026-05-29.md">Nomi Loop</a> <span>concept_car</span></li><li><a href="../content/models/vitesse-r12-vitesse-r12-concept-2026-05-28.md">Vitesse R12</a> <span>concept_car</span></li></ul>
+    </section>
+    <section id="brands">
+      <h2>Brand language notes</h2>
+      <p class="section-note">Brand pages aggregate design signals by brand while preserving source attribution.</p>
+      <div class="split"><div><h3>Brand pages</h3><ul><li><a href="../content/brands/atlas.md">Atlas</a></li><li><a href="../content/brands/aurora-motors.md">Aurora Motors</a></li><li><a href="../content/brands/kanso.md">Kanso</a></li><li><a href="../content/brands/lumen.md">Lumen</a></li><li><a href="../content/brands/mira.md">Mira</a></li><li><a href="../content/brands/nomi.md">Nomi</a></li><li><a href="../content/brands/oriq.md">Oriq</a></li><li><a href="../content/brands/rangewell.md">Rangewell</a></li><li><a href="../content/brands/solara.md">Solara</a></li><li><a href="../content/brands/vitesse.md">Vitesse</a></li></ul></div><div><h3>Latest brand-language records</h3><div class="grid"><article class="card">
+    <div class="meta"><span>brand language</span><span>2026-05-25</span></div>
+    <h3>Atlas Updates Adventure EV Design Language</h3>
+    <p>Mock brand-language update describing a shift from combustion-era toughness cues to cleaner EV adventure graphics and modular protection zones.</p>
+    <ul><li>adventure EV</li><li>modular protection</li><li>clean utility</li><li>upright stance</li><li>functional graphics</li></ul>
+    <p class="source">Source: <a href="https://example.com/mock/atlas-adventure-ev-design-language" target="_blank" rel="noreferrer">Mock Official Press Room</a></p>
+    <p class="image-url">Image URL only: https://example.com/images/atlas-design-language.jpg</p>
+  </article><article class="card">
+    <div class="meta"><span>brand language</span><span>2026-05-24</span></div>
+    <h3>Mira Introduces Soft-Tech Family Face</h3>
+    <p>Mock brand-language record about a softer front graphic strategy that combines rounded lamps, reduced intakes, and warm digital details.</p>
+    <ul><li>soft-tech</li><li>rounded lamps</li><li>friendly front</li><li>warm digital</li><li>reduced intake</li></ul>
+    <p class="source">Source: <a href="https://example.com/mock/mira-soft-tech-family-face" target="_blank" rel="noreferrer">Mock Brand Language Archive</a></p>
+    <p class="image-url">Image URL only: https://example.com/images/mira-family-face.jpg</p>
+  </article></div></div></div>
+    </section>
+    <section id="social">
+      <h2>Social media draft preview</h2>
+      <p class="section-note">Draft file: <a href="../content/social/xiaohongshu-drafts/2026-06-02.md">content/social/xiaohongshu-drafts/2026-06-02.md</a>. Human review is required before any publishing.</p>
+      <pre># Xiaohongshu-Style Automotive Design Drafts — 2026-06-02
 
-    <footer>
-      <p>Optional internal viewer built with plain HTML, CSS, and JavaScript. Data is loaded from <code>/data/items.json</code> when served from the repository root.</p>
-    </footer>
+Generated for editorial review from source-attributed mock/manual records. These are not final posts.
 
-    <script>
-      const fallbackItems = [
-              {
-                      "title": "Electric Flagship SUV Surface Study",
-                      "brand": "Aurora Motors",
-                      "model": "A9 E-SUV",
-                      "category": "Today Digest",
-                      "date": "2026-05-28",
-                      "source": "Mock Design Review",
-                      "source_url": "https://example.com/mock/aurora-a9-surface-study",
-                      "short_summary": "A mock digest item highlighting a flagship SUV concept that uses calm surfacing, a low graphic beltline, and a full-width lamp signature to communicate quiet electric confidence.",
-                      "design_keywords": [
-                              "calm surfacing",
-                              "full-width lighting",
-                              "floating roof",
-                              "electric premium",
-                              "horizontal stance"
-                      ],
-                      "design_observations": [
-                              "The body side avoids heavy character lines and relies on light catchers above the rocker to reduce visual mass.",
-                              "A dark floating roof graphic visually lowers the greenhouse while preserving SUV presence.",
-                              "The front mask removes traditional grille cues and shifts brand recognition toward lighting and badge placement."
-                      ]
-              },
-              {
-                      "title": "Compact Urban EV Model Card",
-                      "brand": "Nomi",
-                      "model": "Loop",
-                      "category": "Model Cards",
-                      "date": "2026-05-24",
-                      "source": "Mock Studio Notes",
-                      "source_url": "https://example.com/mock/nomi-loop-model-card",
-                      "short_summary": "A small city EV study focused on friendly proportions, protective corner graphics, and cabin-forward packaging for dense urban mobility.",
-                      "design_keywords": [
-                              "mono-volume",
-                              "friendly face",
-                              "corner protection",
-                              "cabin-forward",
-                              "urban mobility"
-                      ],
-                      "design_observations": [
-                              "The short overhangs and tall cabin maximize perceived interior room within a compact footprint.",
-                              "Rounded lamp modules and a soft bumper section reduce visual aggression and make the vehicle approachable.",
-                              "Contrast-color corner blocks communicate durability and simplify repair-zone storytelling."
-                      ]
-              },
-              {
-                      "title": "Heritage Performance Coupe Language",
-                      "brand": "Vitesse",
-                      "model": "R12",
-                      "category": "Brand Language",
-                      "date": "2026-05-18",
-                      "source": "Mock Brand Language Archive",
-                      "source_url": "https://example.com/mock/vitesse-r12-brand-language",
-                      "short_summary": "A coupe language study balancing heritage cues with modern aero details, including a pronounced dash-to-axle ratio and precision-cut vents.",
-                      "design_keywords": [
-                              "dash-to-axle",
-                              "heritage coupe",
-                              "aero blades",
-                              "muscular haunch",
-                              "precision vents"
-                      ],
-                      "design_observations": [
-                              "The long hood and rear-set cabin create a classic performance proportion before any detail is added.",
-                              "Technical vent inserts modernize the heritage silhouette without overwhelming the primary volume.",
-                              "Rear haunch emphasis gives the car a planted stance and a clear powertrain narrative."
-                      ]
-              },
-              {
-                      "title": "Luxury Sedan Interior Material Direction",
-                      "brand": "Kanso",
-                      "model": "Serein",
-                      "category": "Sources",
-                      "date": "2026-05-12",
-                      "source": "Mock CMF Brief",
-                      "source_url": "https://example.com/mock/kanso-serein-cmf-brief",
-                      "short_summary": "A mock source entry describing a minimalist luxury sedan interior that uses layered textiles, indirect lighting, and tactile controls to avoid screen-only interaction.",
-                      "design_keywords": [
-                              "warm minimalism",
-                              "layered textile",
-                              "indirect lighting",
-                              "tactile controls",
-                              "quiet luxury"
-                      ],
-                      "design_observations": [
-                              "Soft horizontal layering makes the IP feel wider and calmer while hiding technical seams.",
-                              "Physical controls are reserved for high-frequency interactions, reinforcing a premium usability story.",
-                              "The CMF palette favors low-gloss finishes to reduce glare and improve perceived refinement."
-                      ]
-              },
-              {
-                      "title": "Adventure Pickup Graphic Strategy",
-                      "brand": "Rangewell",
-                      "model": "Trailmark",
-                      "category": "Model Cards",
-                      "date": "2026-05-05",
-                      "source": "Mock Segment Scan",
-                      "source_url": "https://example.com/mock/rangewell-trailmark-graphic-strategy",
-                      "short_summary": "A rugged pickup study using modular graphics, exposed tow elements, and squared wheel arches to express utility without excessive decoration.",
-                      "design_keywords": [
-                              "modular utility",
-                              "squared arches",
-                              "exposed recovery points",
-                              "rugged graphics",
-                              "tool-like surfaces"
-                      ],
-                      "design_observations": [
-                              "Squared wheel openings frame the tire as a functional object and strengthen off-road credibility.",
-                              "Graphic modules align with replaceable body zones, suggesting durability and customization.",
-                              "The upper body remains relatively clean so functional details carry the rugged message."
-                      ]
-              }
-      ];
+## Draft 1: Solara Elysian Production EV Sedan Release
 
-      const sections = [...document.querySelectorAll("section[data-category]")];
+### 3 title options
 
-      function escapeHtml(value) {
-        return String(value).replace(/[&<>'"]/g, (character) => ({
-          "&": "&amp;",
-          "<": "&lt;",
-          ">": "&gt;",
-          "'": "&#39;",
-          '"': "&quot;"
-        })[character]);
-      }
+1. Solara Elysian: low nose is the real story
+2. Why this new car feels different at first glance
+3. Solara's latest design signal, explained in 60 seconds
 
-      function renderItem(item) {
-        const keywords = item.design_keywords.map((keyword) => `<li>${escapeHtml(keyword)}</li>`).join("");
-        const observations = item.design_observations.map((observation) => `<li>${escapeHtml(observation)}</li>`).join("");
+### Suggested cover text
 
-        return `
-          <article class="item-card">
-            <div class="meta">
-              <span class="tag">${escapeHtml(item.brand)}</span>
-              <span class="tag">${escapeHtml(item.model)}</span>
-              <span class="tag">${escapeHtml(item.date)}</span>
-            </div>
-            <h3>${escapeHtml(item.title)}</h3>
-            <p class="summary">${escapeHtml(item.short_summary)}</p>
-            <strong>Design keywords</strong>
-            <ul class="keyword-list">${keywords}</ul>
-            <strong>Design observations</strong>
-            <ul class="observation-list">${observations}</ul>
-            <a class="source-link" href="${escapeHtml(item.source_url)}" target="_blank" rel="noreferrer">${escapeHtml(item.source)}</a>
-          </article>
-        `;
-      }
+Solara Elysian: low nose + full-width lighting
 
-      function renderSections(items) {
-        sections.forEach((section) => {
-          const category = section.dataset.category;
-          const categoryItems = items.filter((item) => item.category === category);
-          const grid = section.querySelector("[data-items]");
-          const count = section.querySelector("[data-count]");
+### 5-7 image/page structure
 
-          count.textContent = `${categoryItems.length} ${categoryItems.length === 1 ? "item" : "items"}`;
-          grid.innerHTML = categoryItems.length
-            ? categoryItems.map(renderItem).join("")
-            : '<p class="empty-state">No mock items yet.</p>';
-        });
-      }
+- 1. Cover: Solara Elysian — low nose
+- 2. Proportion page: Long wheelbase, short overhangs, and a low cowl create an EV-native premium sedan stance.
+- 3. Volume page: The main body volume is calm and almost monolithic, with the cabin treated as a light glass canopy.
+- 4. Surface page: Soft crown sections replace hard shoulder lines, relying on reflections to define the body side.
+- 5. Graphic page: The front and rear full-width light bars are the strongest recognisable brand graphics.
+- 6. Brand language page: Solara's mock language emphasizes quiet technology rather than aggressive performance decoration.
 
-      async function loadItems() {
-        try {
-          const response = await fetch("../data/items.json");
-          if (!response.ok) {
-            throw new Error(`Unable to load mock data: ${response.status}`);
-          }
-          return await response.json();
-        } catch (error) {
-          console.warn("Using embedded fallback data.", error);
-          return fallbackItems;
-        }
-      }
+### Main body draft
 
-      loadItems().then(renderSections);
-    </script>
-  </body>
+Mock public-source record for a production EV sedan using a low nose, full-width lighting, and restrained surfacing to signal efficient premium mobility.
+
+What is worth watching: The sedan shifts identity away from grille mass and toward a continuous lamp graphic. The greenhouse reads elongated because the DLO stretches cleanly into a dark rear-quarter insert. Flush handles and reduced cutlines support the aerodynamic story without making the body anonymous.
+
+Design read: Solara's mock language emphasizes quiet technology rather than aggressive performance decoration.
+
+### Design keywords
+
+- low nose
+- full-width lighting
+- aero sedan
+- quiet premium
+- flush glazing
+
+### Source attribution
+
+- Source: [Mock Official Press Room](https://example.com/mock/solara-elysian-release)
+- Image URL for manual review only: https://example.com/images/solara-elysian-hero.jpg
+
+### Manual review warnings
+
+- Verify source accuracy before publishing.
+- Do not repost copyrighted images without permission; use URLs as reference only.
+- Avoid presenting design interpretation as official designer intent.
+- Check Xiaohongshu tone, claims, and brand risk manually.
+
+## Draft 2: Kanso Serein Luxury Sedan Interior Direction
+
+### 3 title options
+
+1. Kanso Serein: warm minimalism is the real story
+2. Why this new car feels different at first glance
+3. Kanso's latest design signal, explained in 60 seconds
+
+### Suggested cover text
+
+Kanso Serein: warm minimalism + layered textile
+
+### 5-7 image/page structure
+
+- 1. Cover: Kanso Serein — warm minimalism
+- 2. Proportion page: A long cabin and low beltline make the sedan read as chauffeur-friendly rather than driver-only.
+- 3. Volume page: Interior volumes are organized as stacked planes rather than a single sculptural dashboard mass.
+- 4. Surface page: Soft-touch panels use low-contrast transitions to avoid visual clutter.
+- 5. Graphic page: Ambient light bands act as the primary cabin graphic and help define zones.
+- 6. Brand language page: Kanso's mock language frames luxury as calm usability and tactile restraint.
+
+### Main body draft
+
+Mock production sedan note focused on warm minimalism, layered textiles, indirect lighting, and selective physical controls.
+
+What is worth watching: The IP uses horizontal layers to make the cabin feel wider and calmer. Low-gloss materials reduce glare and support a restful premium impression. Frequently used functions remain tactile, preventing the interface from feeling screen-only.
+</pre>
+    </section>
+    <section id="sources">
+      <h2>Source attribution</h2>
+      <p class="section-note">Every generated item includes source name and source URL. Image URLs are stored for reference only; no copyrighted image files are downloaded.</p>
+      <div class="grid"><article class="card"><h3>Solara Elysian Production EV Sedan Release</h3><p>Source: <a href="https://example.com/mock/solara-elysian-release" target="_blank" rel="noreferrer">Mock Official Press Room</a></p><p class="image-url">Image URL only: https://example.com/images/solara-elysian-hero.jpg</p></article><article class="card"><h3>Kanso Serein Luxury Sedan Interior Direction</h3><p>Source: <a href="https://example.com/mock/kanso-serein-cmf-brief" target="_blank" rel="noreferrer">Mock CMF Brief</a></p><p class="image-url">Image URL only: https://example.com/images/kanso-serein-interior.jpg</p></article><article class="card"><h3>Rangewell Trailmark Adventure Pickup Release</h3><p>Source: <a href="https://example.com/mock/rangewell-trailmark-graphic-strategy" target="_blank" rel="noreferrer">Mock Segment Scan</a></p><p class="image-url">Image URL only: https://example.com/images/rangewell-trailmark-front.jpg</p></article><article class="card"><h3>Aurora A9 E-SUV Concept Surface Study</h3><p>Source: <a href="https://example.com/mock/aurora-a9-surface-study" target="_blank" rel="noreferrer">Mock Design Review</a></p><p class="image-url">Image URL only: https://example.com/images/aurora-a9-side.jpg</p></article><article class="card"><h3>Nomi Loop Urban EV Concept</h3><p>Source: <a href="https://example.com/mock/nomi-loop-model-card" target="_blank" rel="noreferrer">Mock Studio Notes</a></p><p class="image-url">Image URL only: https://example.com/images/nomi-loop-three-quarter.jpg</p></article><article class="card"><h3>Vitesse R12 Heritage Performance Coupe Concept</h3><p>Source: <a href="https://example.com/mock/vitesse-r12-brand-language" target="_blank" rel="noreferrer">Mock Brand Language Archive</a></p><p class="image-url">Image URL only: https://example.com/images/vitesse-r12-profile.jpg</p></article><article class="card"><h3>Interview: Lumen Design Lead on Light-Led EV Identity</h3><p>Source: <a href="https://example.com/mock/lumen-light-identity-interview" target="_blank" rel="noreferrer">Mock Design Interview</a></p><p class="image-url">Image URL only: https://example.com/images/lumen-studio-lighting.jpg</p></article><article class="card"><h3>Interview: Oriq CMF Team on Sustainable Touchpoints</h3><p>Source: <a href="https://example.com/mock/oriq-sustainable-touchpoints-interview" target="_blank" rel="noreferrer">Mock Design Interview</a></p><p class="image-url">Image URL only: https://example.com/images/oriq-cmf-material-board.jpg</p></article><article class="card"><h3>Atlas Updates Adventure EV Design Language</h3><p>Source: <a href="https://example.com/mock/atlas-adventure-ev-design-language" target="_blank" rel="noreferrer">Mock Official Press Room</a></p><p class="image-url">Image URL only: https://example.com/images/atlas-design-language.jpg</p></article><article class="card"><h3>Mira Introduces Soft-Tech Family Face</h3><p>Source: <a href="https://example.com/mock/mira-soft-tech-family-face" target="_blank" rel="noreferrer">Mock Brand Language Archive</a></p><p class="image-url">Image URL only: https://example.com/images/mira-family-face.jpg</p></article></div>
+    </section>
+  </main>
+  <footer>
+    <p>Current data timestamp: 2026-06-02T00:00:00Z. Future improvement: GitHub Pages can later be switched from /docs publishing to GitHub Actions deployment for more reliable automated updates.</p>
+  </footer>
+</body>
 </html>
