@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 20 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 36 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Interior Photos of the 2027 Ford Bronco Filson
+
+- Model/program: View Interior Photos of the 2027 Ford Bronco Filson
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71483614/2027-ford-bronco-filson-revealed-interior-photo-gallery/)
+
+### View Exterior Photos of the 2027 Ford Bronco Filson
+
+- Model/program: View Exterior Photos of the 2027 Ford Bronco Filson
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71474472/2027-ford-bronco-filson-revealed-exterior-photo-gallery/)
+
+### 2027 Ford Bronco Filson Edition Has Hipster Vibes and the Raptor's V-6
+
+- Model/program: 2027 Ford Bronco Filson Edition Has Hipster Vibes and the Raptor's V-6
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71474382/2027-ford-bronco-filson-edition-revealed/)
+
+### 2026 Ford Mustang Mach-E Select Is More Workhorse Than Racehorse
+
+- Model/program: 2026 Ford Mustang Mach-E Select Is More Workhorse Than Racehorse
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71481149/2026-ford-mustang-mach-e-select-test/)
+
+### View Interior Photos of the 2026 Ford Mustang Mach-E
+
+- Model/program: View Interior Photos of the 2026 Ford Mustang Mach-E
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71411821/2026-ford-mustang-mach-e-select-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Ford Mustang Mach-E
+
+- Model/program: View Exterior Photos of the 2026 Ford Mustang Mach-E
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71411799/2026-ford-mustang-mach-e-select-test-exterior-gallery/)
+
+### Volvo XC60 Reportedly Ready for a Refresh to Improve the Bestseller
+
+- Model/program: Volvo XC60 Reportedly Ready for a Refresh to Improve the Bestseller
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71486004/volvo-xc60-refresh-report/)
+
+### Dodge Raises the Charger Daytona EV's Price by $12,500 for 2027
+
+- Model/program: Dodge Raises the Charger Daytona EV's Price by $12,500 for 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71486049/2027-dodge-charger-daytona-pricing/)
+
+### 2029 Mitsubishi Triton
+
+- Model/program: 2029 Mitsubishi Triton
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mitsubishi/triton-2029)
+
+### 1992 Porsche 968 Tested: Back to the Well One More Time
+
+- Model/program: 1992 Porsche 968 Tested: Back to the Well One More Time
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71431817/1992-porsche-968-archive-test/)
+
+### View Photos of the 1992 Porsche 968
+
+- Model/program: View Photos of the 1992 Porsche 968
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71471031/1992-porsche-968-archive-test-gallery/)
+
+### Which Version of the Subaru Forester Is the Best Deal?
+
+- Model/program: Which Version of the Subaru Forester Is the Best Deal?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71482362/subaru-forester-trim-level-what-to-buy/)
+
+### These Used Three-Row Luxury SUVs Combine Opulence With Family-Friendly Utility
+
+- Model/program: These Used Three-Row Luxury SUVs Combine Opulence With Family-Friendly Utility
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g71479665/used-three-row-luxury-suvs-marketplace-highlight/)
+
+### Ford Bronco Sports and Mavericks Hit with 'Do Not Drive' Warning
+
+- Model/program: Ford Bronco Sports and Mavericks Hit with 'Do Not Drive' Warning
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71483108/ford-bronco-sport-maverick-do-not-drive-warning/)
+
+### Chrysler Teases the Airflow SUV, Which Aims to Save the Brand
+
+- Model/program: Chrysler Teases the Airflow SUV, Which Aims to Save the Brand
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71483029/chrysler-airflow-suv-teased/)
+
+### A New California Proposal Could Effectively Ban All Aftermarket Tires
+
+- Model/program: A New California Proposal Could Effectively Ban All Aftermarket Tires
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71475295/california-could-ban-aftermarket-tires/)
 
 ### BMW Expands the M2's Repertoire with New All-Wheel-Drive Model
 

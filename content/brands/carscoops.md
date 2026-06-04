@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 18 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 34 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Hyundai Built A Georgia Plant Just For EVs, Now It’s Making Kia Hybrids
+
+- Model/program: Hyundai Built A Georgia Plant Just For EVs, Now It’s Making Kia Hybrids
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/kia-sportage-hybrid-georgia-production/)
+
+### Nissan Might Build A Chinese Rival’s Cars Using Its Own UK Workers
+
+- Model/program: Nissan Might Build A Chinese Rival’s Cars Using Its Own UK Workers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-chery-uk-production/)
+
+### BMW Dealers Want $25K Over Sticker For The Manual M3 CS
+
+- Model/program: BMW Dealers Want $25K Over Sticker For The Manual M3 CS
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-m3-cs-handschalter-pricing/)
 
 ### Fiat’s New Grizzly SUV Is Hunting The Dacia Bigster, And It Didn’t Come Alone
 
@@ -129,6 +159,136 @@ Generated internal notes from 18 clearly labeled source-attributed item(s). Trea
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/hyundai-may-2026-sales/)
+
+### Nissan Won’t Build A T-Top Z, So One Fan Is Doing It Himself
+
+- Model/program: Nissan Won’t Build A T-Top Z, So One Fan Is Doing It Himself
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-z-ttop-conversion/)
+
+### 2027 Kia Seltos Has A Higher Price To Match Its More Upscale Design
+
+- Model/program: 2027 Kia Seltos Has A Higher Price To Match Its More Upscale Design
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2027-kia-seltos-pricing/)
+
+### 600,000 Recalled Trucks Later, GM Pulls Key Parts Of Its Next V8 In-House
+
+- Model/program: 600,000 Recalled Trucks Later, GM Pulls Key Parts Of Its Next V8 In-House
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gm-gen-6-v8-reliability/)
+
+### BMW’s New iX5 M Could Make The Gas X5 M Look Weak
+
+- Model/program: BMW’s New iX5 M Could Make The Gas X5 M Look Weak
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2028-bmw-ix5-m-spied/)
+
+### Ram Accidentally Put A Toyota Tacoma On Its Own Patriotic Truck Shirt
+
+- Model/program: Ram Accidentally Put A Toyota Tacoma On Its Own Patriotic Truck Shirt
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ram-ai-merch-tacoma/)
+
+### Ford Sales Plummet Nearly 14% Even With Employee Pricing For Everyone
+
+- Model/program: Ford Sales Plummet Nearly 14% Even With Employee Pricing For Everyone
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-may-2026-sales/)
+
+### Chrysler’s Sub-$30K SUVs Will Be Rebadged Fiat Grizzlies
+
+- Model/program: Chrysler’s Sub-$30K SUVs Will Be Rebadged Fiat Grizzlies
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chrysler-arrow-revival/)
+
+### Audi’s TT Successor Is Still A Porsche Boxster In Disguise
+
+- Model/program: Audi’s TT Successor Is Still A Porsche Boxster In Disguise
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/audi-tt-successor-spied/)
+
+### The Average US Car Is Almost 13 Years Old, And Ford Wants The Repair Bill
+
+- Model/program: The Average US Car Is Almost 13 Years Old, And Ford Wants The Repair Bill
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-service-revenue-strategy/)
+
+### A Mom’s $80K Camaro Gift To Son Was Stolen, Recovered, Then Stolen Again At The Dealer
+
+- Model/program: A Mom’s $80K Camaro Gift To Son Was Stolen, Recovered, Then Stolen Again At The Dealer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/umd-grad-camaro-stolen-twice/)
+
+### The First De Tomaso P72 Supercar Is Dripping In Rose Gold
+
+- Model/program: The First De Tomaso P72 Supercar Is Dripping In Rose Gold
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/de-tomaso-p72-production/)
+
+### Lada’s 49-Year-Old Niva Just Got Its First Airbag And A Rust-Proof Body
+
+- Model/program: Lada’s 49-Year-Old Niva Just Got Its First Airbag And A Rust-Proof Body
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lada-niva-legend-update/)
+
+### GMC’s New Jimmy Could Revive Its Square Body Look To Fight The Bronco
+
+- Model/program: GMC’s New Jimmy Could Revive Its Square Body Look To Fight The Bronco
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gmc-jimmy-revival-2/)
 
 ### Mansory’s Latest G-Wagen Has More Gold Than Fort Knox
 
