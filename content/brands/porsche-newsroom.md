@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 20 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 24 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Automotive Industry 2026
+
+- Model/program: Automotive Industry 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-automotive-industry-2026-42551.html)
+
+### Transaxle models: Symbols of the zeitgeist
+
+- Model/program: Transaxle models: Symbols of the zeitgeist
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-transaxle-models-1980-42005.html)
+
+### Strong comeback from Porsche Penske Motorsport goes unrewarded
+
+- Model/program: Strong comeback from Porsche Penske Motorsport goes unrewarded
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/05/strong-comeback-from-porsche-penske-motorsport-goes-unrewarded.html)
+
+### Experiencing the North Coast 500 in a Macan Turbo
+
+- Model/program: Experiencing the North Coast 500 in a Macan Turbo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-macan-turbo-north-coast-500-scotland-42539.html)
 
 ### The Porsche Supercup kicks off its 34th season
 

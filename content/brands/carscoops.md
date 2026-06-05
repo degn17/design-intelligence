@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 34 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 52 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This $104K G-Wagen F1 Makeover Comes With Everything Except The G-Wagen
+
+- Model/program: This $104K G-Wagen F1 Makeover Comes With Everything Except The G-Wagen
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/larte-g63-colour-programme/)
+
+### This Audi A4’s Fix For Turbo Lag Was A 320-Pound Airplane Turbine
+
+- Model/program: This Audi A4’s Fix For Turbo Lag Was A 320-Pound Airplane Turbine
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/audi-a4-turbine-boost/)
 
 ### Hyundai Built A Georgia Plant Just For EVs, Now It’s Making Kia Hybrids
 
@@ -39,6 +59,166 @@ Generated internal notes from 34 clearly labeled source-attributed item(s). Trea
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-m3-cs-handschalter-pricing/)
+
+### Subaru BRZ Slides Into 2027 With Higher Prices And Not Much Else
+
+- Model/program: Subaru BRZ Slides Into 2027 With Higher Prices And Not Much Else
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2027-subaru-brz-updates/)
+
+### Mitsubishi Hints At A Rugged Outlander, But Americans Won’t Be Getting It
+
+- Model/program: Mitsubishi Hints At A Rugged Outlander, But Americans Won’t Be Getting It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mitsubishi-outlander-rugged-variant/)
+
+### Mazda Sold Nearly Twice As Many Miatas As The BRZ And Prelude Combined
+
+- Model/program: Mazda Sold Nearly Twice As Many Miatas As The BRZ And Prelude Combined
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mazda-may-2026-sales/)
+
+### The FTC Warned 97 Dealers, Now Autotrader And Cars.com Are Changing Their Price Displays
+
+- Model/program: The FTC Warned 97 Dealers, Now Autotrader And Cars.com Are Changing Their Price Displays
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ftc-dealer-pricing-listing-sites/)
+
+### Chevy Builds 30 Identical Bolts At A Time And Keeps A Clone Of Each Version
+
+- Model/program: Chevy Builds 30 Identical Bolts At A Time And Keeps A Clone Of Each Version
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chevrolet-bolt-batch-production/)
+
+### Mini Takes A Page From Fiat With Eight Special Edition ‘Product Drops’
+
+- Model/program: Mini Takes A Page From Fiat With Eight Special Edition ‘Product Drops’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mini-product-drops/)
+
+### Mazda Driver Followed Her GPS Onto Train Tracks And Shut The Whole Line Down
+
+- Model/program: Mazda Driver Followed Her GPS Onto Train Tracks And Shut The Whole Line Down
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/seattle-gps-light-rail/)
+
+### Subaru Warns New Forester Owners Their Sunroof Could Fly Off Mid-Drive
+
+- Model/program: Subaru Warns New Forester Owners Their Sunroof Could Fly Off Mid-Drive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/subaru-forester-sunroof-recall/)
+
+### The Most Ferrari Thing About HP’s Ferrari Laptop Is The $5,599 Price
+
+- Model/program: The Most Ferrari Thing About HP’s Ferrari Laptop Is The $5,599 Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hp-ferrari-laptop/)
+
+### Audi Unveils New Nuvolari Supercar As Extreme R8 Successor With Lambo Power
+
+- Model/program: Audi Unveils New Nuvolari Supercar As Extreme R8 Successor With Lambo Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/audi-unveils-new-nuvolari-supercar-as-extreme-r8-successor/)
+
+### The Nissan Primera Americans Knew As The Infiniti G20 Is Back As A Chinese EV
+
+- Model/program: The Nissan Primera Americans Knew As The Infiniti G20 Is Back As A Chinese EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-primera-ev-revival-2/)
+
+### Jason Momoa Put A 666 Badge On His Tiny Bentley, But It’s Not What It Looks Like
+
+- Model/program: Jason Momoa Put A 666 Badge On His Tiny Bentley, But It’s Not What It Looks Like
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/jason-momoa-bentley-blower-jnr/)
+
+### Classic Recreations Beat Bankruptcy And Came Back Building $725,000 Mustangs
+
+- Model/program: Classic Recreations Beat Bankruptcy And Came Back Building $725,000 Mustangs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/classic-recreations-carbon-shelby-gt500/)
+
+### Subaru’s New Levorg Layback Hybrid Looks Like An Impreza Wagon
+
+- Model/program: Subaru’s New Levorg Layback Hybrid Looks Like An Impreza Wagon
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/subaru-levorg-layback-hybrid/)
+
+### Honda Prelude Somehow Hits Its Sales Target For The Second Straight Month
+
+- Model/program: Honda Prelude Somehow Hits Its Sales Target For The Second Straight Month
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-acura-may-sales/)
+
+### Texas Drops Spanish From Its Truck Driver’s Exam, Making It English-Only
+
+- Model/program: Texas Drops Spanish From Its Truck Driver’s Exam, Making It English-Only
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/texas-cdl-rule-changes/)
 
 ### Fiat’s New Grizzly SUV Is Hunting The Dacia Bigster, And It Didn’t Come Alone
 

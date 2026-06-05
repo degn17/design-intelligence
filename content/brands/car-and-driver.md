@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 36 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 48 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -39,6 +39,126 @@ Generated internal notes from 36 clearly labeled source-attributed item(s). Trea
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a71474382/2027-ford-bronco-filson-edition-revealed/)
+
+### Now There's Finally a Way to Get Apple CarPlay in Your GM-Built EV
+
+- Model/program: Now There's Finally a Way to Get Apple CarPlay in Your GM-Built EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71498090/evplay-apple-carplay-android-auto-gm-evs/)
+
+### Tested: 2026 Lexus RZ Takes a Mulligan
+
+- Model/program: Tested: 2026 Lexus RZ Takes a Mulligan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a65290364/2026-lexus-rz-drive/)
+
+### View Interior Photos of the 2026 Lexus RZ
+
+- Model/program: View Interior Photos of the 2026 Lexus RZ
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g65318033/2026-lexus-rz-drive-interior-gallery/)
+
+### View Exterior Photos of the 2026 Lexus RZ
+
+- Model/program: View Exterior Photos of the 2026 Lexus RZ
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g65317701/2026-lexus-rz-drive-exterior-gallery/)
+
+### Subaru Recalling 69K Foresters Because the Sunroof Could Fall Off
+
+- Model/program: Subaru Recalling 69K Foresters Because the Sunroof Could Fall Off
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71496646/subaru-forester-recall-detatching-moonroof/)
+
+### 2027 Volkswagen Atlas SUV Has More Power and Better Fuel Economy
+
+- Model/program: 2027 Volkswagen Atlas SUV Has More Power and Better Fuel Economy
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a70897371/2027-volkswagen-atlas-revealed/)
+
+### BMW's Limited-Edition Motorcycle Celebrates the Isle of Man TT Races
+
+- Model/program: BMW's Limited-Edition Motorcycle Celebrates the Isle of Man TT Races
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71497056/bmws-isle-of-man-tt-special-edition-motorcycle/)
+
+### Audi Has a New 978-HP Supercar, but It's Not an R8 Replacement
+
+- Model/program: Audi Has a New 978-HP Supercar, but It's Not an R8 Replacement
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71481963/audi-nuvolari-supercar-revealed/)
+
+### 2028 Audi Nuvolari
+
+- Model/program: 2028 Audi Nuvolari
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/audi/nuvolari)
+
+### 2027 Hyundai Santa Fe Hybrid
+
+- Model/program: 2027 Hyundai Santa Fe Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/hyundai/santa-fe-hybrid-2027)
+
+### Which Version of the Toyota Tacoma Is the Most Truck for Your Dollar?
+
+- Model/program: Which Version of the Toyota Tacoma Is the Most Truck for Your Dollar?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71482294/toyota-tacoma-trim-level-what-to-buy/)
+
+### View Photos of the Audi Nuvolari Supercar
+
+- Model/program: View Photos of the Audi Nuvolari Supercar
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71495373/audi-nuvolari-supercar-revealed-photo-gallery/)
 
 ### 2026 Ford Mustang Mach-E Select Is More Workhorse Than Racehorse
 
