@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 52 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 70 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Armor-Coated Ford Bronco Looks Unreal, But It’s Real
+
+- Model/program: Armor-Coated Ford Bronco Looks Unreal, But It’s Real
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-bronco-armor-coating-auction/)
+
+### The Telluride’s Seat Belt Locks Up, Mercedes’ Comes Loose, Both Get Recalled
+
+- Model/program: The Telluride’s Seat Belt Locks Up, Mercedes’ Comes Loose, Both Get Recalled
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/kia-mercedes-seat-belt-recalls/)
 
 ### This $104K G-Wagen F1 Makeover Comes With Everything Except The G-Wagen
 
@@ -29,6 +49,166 @@ Generated internal notes from 52 clearly labeled source-attributed item(s). Trea
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/audi-a4-turbine-boost/)
+
+### Oil Inventories Hitting ‘Dangerously Low Levels’ And You’re About To Pay The Price
+
+- Model/program: Oil Inventories Hitting ‘Dangerously Low Levels’ And You’re About To Pay The Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/oil-inventories-dangerously-low/)
+
+### Tesla’s Rocket-Thruster Roadster, Fails To Launch Again, Now Pushed To August
+
+- Model/program: Tesla’s Rocket-Thruster Roadster, Fails To Launch Again, Now Pushed To August
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/tesla-roadster-delay/)
+
+### I Finally Made Kia’s Tasman Stop Looking Like Sid From Ice Age
+
+- Model/program: I Finally Made Kia’s Tasman Stop Looking Like Sid From Ice Age
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/kia-tasman-correction-kit/)
+
+### Audi CEO Hints At Even Rarer Nuvolari Spyder
+
+- Model/program: Audi CEO Hints At Even Rarer Nuvolari Spyder
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/audi-nuvolari-spyder/)
+
+### Pininfarina Once Turned A Tiny Fiat Into An Egg, And The Egg Was Faster
+
+- Model/program: Pininfarina Once Turned A Tiny Fiat Into An Egg, And The Egg Was Faster
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/pininfarina-fiat-600d-auction/)
+
+### Pennsylvania Drivers Can Now Be Fined For Holding A Phone, Even A Dead One
+
+- Model/program: Pennsylvania Drivers Can Now Be Fined For Holding A Phone, Even A Dead One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/pennsylvania-hands-free-law/)
+
+### VW’s Cheapest Golf Left America In 2021, Mexico Could Bring It Back
+
+- Model/program: VW’s Cheapest Golf Left America In 2021, Mexico Could Bring It Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/vw-golf-mexico-production/)
+
+### Ford’s Dark Horse SC Makes 795 HP. Roush’s $10,339 Kit Makes 810
+
+- Model/program: Ford’s Dark Horse SC Makes 795 HP. Roush’s $10,339 Kit Makes 810
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/roush-mustang-supercharger-kit/)
+
+### For $558, You Can Smell Like A Lambo Since You’ll Never Park One
+
+- Model/program: For $558, You Can Smell Like A Lambo Since You’ll Never Park One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lamborghini-xerjoff-fragrances/)
+
+### The New $163K Senat 900 Is A Chinese Sedan Pretending To Be Russian
+
+- Model/program: The New $163K Senat 900 Is A Chinese Sedan Pretending To Be Russian
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/aurus-senat-900-hongqi/)
+
+### Hyundai Is Putting Robot Dogs On Patrol At The 2026 World Cup
+
+- Model/program: Hyundai Is Putting Robot Dogs On Patrol At The 2026 World Cup
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hyundai-world-cup-robot-dogs/)
+
+### A $7,000 Corvette Discount Just Dropped, But Only If Chevy Picks You
+
+- Model/program: A $7,000 Corvette Discount Just Dropped, But Only If Chevy Picks You
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/you-might-be-able-to-save-7000-on-a-new-corvette/)
+
+### Mom’s Split-Second Reflexes Saved Her Daughter From Runaway Mercedes
+
+- Model/program: Mom’s Split-Second Reflexes Saved Her Daughter From Runaway Mercedes
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mercedes-greece-crash-child/)
+
+### Carvana May Have A Foot In Bezos’s Slate Auto Already
+
+- Model/program: Carvana May Have A Foot In Bezos’s Slate Auto Already
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/this-used-car-giant-may-have-invested-in-slate-auto/)
+
+### A Rusty Scout II V8 Just Sold For $10 On Bring A Trailer
+
+- Model/program: A Rusty Scout II V8 Just Sold For $10 On Bring A Trailer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/scout-ii-bring-a-trailer-sale/)
+
+### Suzuki Won’t Sell This Rugged Jimny Concept Until Owners Tell It To
+
+- Model/program: Suzuki Won’t Sell This Rugged Jimny Concept Until Owners Tell It To
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/suzuki-jimny-gozel-concept/)
 
 ### Hyundai Built A Georgia Plant Just For EVs, Now It’s Making Kia Hybrids
 

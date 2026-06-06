@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 48 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 56 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Dodge Durango Is a V-8-Only SUV That Starts Under $46,000
+
+- Model/program: 2027 Dodge Durango Is a V-8-Only SUV That Starts Under $46,000
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71505859/2027-dodge-durango-price/)
+
+### 2027 Subaru BRZ Costs More with Nearly Nothing to Show for It
+
+- Model/program: 2027 Subaru BRZ Costs More with Nearly Nothing to Show for It
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71508743/2027-subaru-brz-price/)
+
+### Future Cars Worth Waiting For: 2026–2030
+
+- Model/program: Future Cars Worth Waiting For: 2026–2030
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/g28985154/future-cars/)
+
+### View Exterior Photos of Our Long-Term 2025 Toyota Prius XLE
+
+- Model/program: View Exterior Photos of Our Long-Term 2025 Toyota Prius XLE
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g65278265/2025-toyota-prius-xle-reliability-maintenance-exterior-gallery/)
+
+### 2025 Toyota Prius 30,000-Mile Update: Cool Looks Bring Sacrifices
+
+- Model/program: 2025 Toyota Prius 30,000-Mile Update: Cool Looks Bring Sacrifices
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a65209337/2025-toyota-prius-xle-reliability-maintenance/)
+
+### Audi's New V-8 Supercar Could Come in Convertible Form, CEO Hints
+
+- Model/program: Audi's New V-8 Supercar Could Come in Convertible Form, CEO Hints
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71506071/audi-nuvolari-supercar-may-get-spyder-version/)
+
+### VW Could Bring the Base Golf Hatchback Back to the U.S. Soon
+
+- Model/program: VW Could Bring the Base Golf Hatchback Back to the U.S. Soon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71506671/vw-could-bring-back-base-golf-hatchback/)
+
+### Which Kia Sportage Model Is the Best Deal?
+
+- Model/program: Which Kia Sportage Model Is the Best Deal?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71482933/kia-sportage-trim-level-what-to-buy/)
 
 ### View Interior Photos of the 2027 Ford Bronco Filson
 
