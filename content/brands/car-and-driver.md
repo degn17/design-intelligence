@@ -2,13 +2,73 @@
 
 ## Current positioning
 
-Generated internal notes from 56 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 62 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### One-Owner 1979 Porsche 930 Turbo for Sale on Bring a Trailer
+
+- Model/program: One-Owner 1979 Porsche 930 Turbo for Sale on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71494253/1979-porsche-930-turbo-bring-a-trailer-auction/)
+
+### View Photos of the 1988 High Performance Tuner Car Comparison Test
+
+- Model/program: View Photos of the 1988 High Performance Tuner Car Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71498033/1988-high-performance-exotic-tuner-car-archive-comparison-test-gallery/)
+
+### 1988 Tuner Car Comparison Test: Corvette, Porsche, Jaguar, Mercedes Unleashed in Germany
+
+- Model/program: 1988 Tuner Car Comparison Test: Corvette, Porsche, Jaguar, Mercedes Unleashed in Germany
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71470147/1988-high-performance-exotic-tuner-car-archive-comparison-test/)
+
+### We Revved the Absolute Bananas Out of Toyota's Craziest Camry Build
+
+- Model/program: We Revved the Absolute Bananas Out of Toyota's Craziest Camry Build
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71511121/toyota-camry-fighter-build/)
+
+### Ford Exec's Remarks Suggest a Four-Door Mustang Sedan Could Happen
+
+- Model/program: Ford Exec's Remarks Suggest a Four-Door Mustang Sedan Could Happen
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71511860/ford-mustang-four-door-coming-report/)
+
+### The Best Odds: 1991–94 Nissan 240SX
+
+- Model/program: The Best Odds: 1991–94 Nissan 240SX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71421928/the-best-odds-199194-nissan-240sx/)
 
 ### 2027 Dodge Durango Is a V-8-Only SUV That Starts Under $46,000
 

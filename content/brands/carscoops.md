@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 70 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 81 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Jason Momoa Just Built Harley Davidson’s First PHEV
+
+- Model/program: Jason Momoa Just Built Harley Davidson’s First PHEV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/jason-momoa-electrogenic-conversions/)
 
 ### Armor-Coated Ford Bronco Looks Unreal, But It’s Real
 
@@ -29,6 +39,106 @@ Generated internal notes from 70 clearly labeled source-attributed item(s). Trea
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/kia-mercedes-seat-belt-recalls/)
+
+### Australia Picked A Number For How Stoned Is Too Stoned To Drive
+
+- Model/program: Australia Picked A Number For How Stoned Is Too Stoned To Drive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nsw-cannabis-driving-limit/)
+
+### China Just Killed The PHEV As We Know It And Western Luxury Brands Are Paying The Price
+
+- Model/program: China Just Killed The PHEV As We Know It And Western Luxury Brands Are Paying The Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/china-phev-rules-europe-retreat/)
+
+### BMW Beat 23 Other EVs In Range, Then Beat Its Own Promise Too
+
+- Model/program: BMW Beat 23 Other EVs In Range, Then Beat Its Own Promise Too
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/naf-ev-range-test/)
+
+### The $11M Koenigsegg ‘Stolen’ By Mercenaries Was Never Stolen, And Now It’s For Sale
+
+- Model/program: The $11M Koenigsegg ‘Stolen’ By Mercenaries Was Never Stolen, And Now It’s For Sale
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/koenigsegg-one1-auction-never-stolen/)
+
+### Most Tiny Campers Skip The Bathroom, This One Pops It Out
+
+- Model/program: Most Tiny Campers Skip The Bathroom, This One Pops It Out
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/encore-rog-tongue-bathroom/)
+
+### Hyundai’s 2027 Kona Drops The Pixel Quirks For A Boxier Look
+
+- Model/program: Hyundai’s 2027 Kona Drops The Pixel Quirks For A Boxier Look
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hyundai-kona-redesign/)
+
+### The 2026 Skoda Enyaq Is Good Now, But Better If You Wait | Review
+
+- Model/program: The 2026 Skoda Enyaq Is Good Now, But Better If You Wait | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/skoda-enyaq-60-review/)
+
+### Oakland Police Got So Many Stolen Car Flock Alerts They Turned Them Off
+
+- Model/program: Oakland Police Got So Many Stolen Car Flock Alerts They Turned Them Off
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/oakland-flock-camera-alerts/)
+
+### Widebody AMG 3.4 Coupe Shows It’s Not Just Hammers That Hit Hard
+
+- Model/program: Widebody AMG 3.4 Coupe Shows It’s Not Just Hammers That Hit Hard
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/amg-300ce-widebody-auction/)
+
+### A $4,100 Kit Turns Toyota’s Cheapest Wagon Into A Classic Land Cruiser
+
+- Model/program: A $4,100 Kit Turns Toyota’s Cheapest Wagon Into A Classic Land Cruiser
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-probox-land-cruiser-kit/)
 
 ### This $104K G-Wagen F1 Makeover Comes With Everything Except The G-Wagen
 
