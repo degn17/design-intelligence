@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 81 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 93 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Rusty, Beat Up Mustang Could Be Worth Its Weight In Gold
+
+- Model/program: This Rusty, Beat Up Mustang Could Be Worth Its Weight In Gold
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/shelby-gt500kr-auction-1968/)
 
 ### Jason Momoa Just Built Harley Davidson’s First PHEV
 
@@ -19,6 +29,116 @@ Generated internal notes from 81 clearly labeled source-attributed item(s). Trea
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/jason-momoa-electrogenic-conversions/)
+
+### This Land Cruiser Camper Sleeps Four And Hides A Shower Cubicle
+
+- Model/program: This Land Cruiser Camper Sleeps Four And Hides A Shower Cubicle
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bushwakka-land-cruiser-camper/)
+
+### Ford’s Secret $30,000 EV Truck Starts Public Testing Within Weeks
+
+- Model/program: Ford’s Secret $30,000 EV Truck Starts Public Testing Within Weeks
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-electric-pickup-platform/)
+
+### A Tesla Is Twice As Likely To Reach 250,000 Miles As A Subaru
+
+- Model/program: A Tesla Is Twice As Likely To Reach 250,000 Miles As A Subaru
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/car-brand-durability-study/)
+
+### Ford Recalled His Brakes, Then Billed Him $1,854 Because The Fix Isn’t Ready A Year Later
+
+- Model/program: Ford Recalled His Brakes, Then Billed Him $1,854 Because The Fix Isn’t Ready A Year Later
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-edge-brake-recall/)
+
+### The 2026 VW T-Roc Is The Sensible Golf-Based SUV America Can’t Have | Review
+
+- Model/program: The 2026 VW T-Roc Is The Sensible Golf-Based SUV America Can’t Have | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/vw-t-roc-review/)
+
+### This One-Off Chrysler Wagon Has A Roof That Slides Open Into A Pickup
+
+- Model/program: This One-Off Chrysler Wagon Has A Roof That Slides Open Into A Pickup
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/scimitar-aluminum-wagon-auction/)
+
+### Subaru Wants To Send An 8-Year-Old American SUV To The Country That Invented The Kei Car
+
+- Model/program: Subaru Wants To Send An 8-Year-Old American SUV To The Country That Invented The Kei Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/subaru-ascent-japan-export/)
+
+### Subaru Is Building Three New Manual Cars, Including An Affordable Hatch
+
+- Model/program: Subaru Is Building Three New Manual Cars, Including An Affordable Hatch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/subaru-new-manual-models/)
+
+### If The AMG One’s $2,195 Air Filter Sounds Bad, Wait Until You Hit 19,262 Miles
+
+- Model/program: If The AMG One’s $2,195 Air Filter Sounds Bad, Wait Until You Hit 19,262 Miles
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mercedes-amg-one-service-cost/)
+
+### This 1970s BMW CSL Coupe Is Hiding A Whole M5 Underneath
+
+- Model/program: This 1970s BMW CSL Coupe Is Hiding A Whole M5 Underneath
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-e9-m5-fusion/)
+
+### Japan Gets A New Manual Kei Van For $7,200, The Rest Of Us Get Envy
+
+- Model/program: Japan Gets A New Manual Kei Van For $7,200, The Rest Of Us Get Envy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/daihatsu-hijet-cargo-atrai-update/)
 
 ### Armor-Coated Ford Bronco Looks Unreal, But It’s Real
 

@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 62 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 63 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2017 Mercedes-AMG G65 6x6 on Bring a Trailer
+
+- Model/program: 2017 Mercedes-AMG G65 6x6 on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71495266/2017-mercedes-amg-g65-6x6-bring-a-trailer-auction/)
 
 ### One-Owner 1979 Porsche 930 Turbo for Sale on Bring a Trailer
 
