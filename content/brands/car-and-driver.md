@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 63 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 76 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Dodge Is Bringing Charger Sixpack and Charger Daytona to Europe
+
+- Model/program: Dodge Is Bringing Charger Sixpack and Charger Daytona to Europe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71526316/dodge-charger-sixpack-charger-daytona-european-market/)
+
+### Which Trim of the Honda Civic Is the Best Buy?
+
+- Model/program: Which Trim of the Honda Civic Is the Best Buy?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71509439/honda-civic-which-trim-to-buy/)
+
+### 2029 BMW Alpina XB7
+
+- Model/program: 2029 BMW Alpina XB7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw-alpina/xb7)
+
+### Toyota Launching a Factory for Racing Go-Karts to Inspire Young Drivers
+
+- Model/program: Toyota Launching a Factory for Racing Go-Karts to Inspire Young Drivers
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71523507/toyota-racing-go-kart-factory/)
+
+### Honda Prepping 'Futuristic' Accord Refresh and a More Rugged Passport
+
+- Model/program: Honda Prepping 'Futuristic' Accord Refresh and a More Rugged Passport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71524202/honda-accord-refresh-passport-update-report/)
+
+### 2026 Lexus RZ
+
+- Model/program: 2026 Lexus RZ
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/rz)
+
+### 2026 Ford Mustang Mach-E
+
+- Model/program: 2026 Ford Mustang Mach-E
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ford/mustang-mach-e)
+
+### This Iconic Lincoln That Raced the Carrera Panamericana Is up for Auction
+
+- Model/program: This Iconic Lincoln That Raced the Carrera Panamericana Is up for Auction
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71512149/lincoln-carrera-panamericana-race-car-auction/)
+
+### View Interior Photos of the 2026 Lexus IS350
+
+- Model/program: View Interior Photos of the 2026 Lexus IS350
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71506795/2026-lexus-is350-awd-f-sport-test-interior-gallery/)
+
+### 2026 Lexus IS350 Tested: Once More, with Feeling
+
+- Model/program: 2026 Lexus IS350 Tested: Once More, with Feeling
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71493773/2026-lexus-is350-awd-f-sport-test/)
+
+### View Exterior Photos of the 2026 Lexus IS350
+
+- Model/program: View Exterior Photos of the 2026 Lexus IS350
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71506778/2026-lexus-is350-awd-f-sport-test-exterior-gallery/)
+
+### How Do You Know When It's Time to Replace Your Car?
+
+- Model/program: How Do You Know When It's Time to Replace Your Car?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71506766/when-to-replace-your-car/)
+
+### 1993 Nissan 240SX SE Convertible Test: Rough Edges, Soft Top
+
+- Model/program: 1993 Nissan 240SX SE Convertible Test: Rough Edges, Soft Top
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71472096/1993-nissan-240sx-se-convertible-archive-test/)
 
 ### 2017 Mercedes-AMG G65 6x6 on Bring a Trailer
 

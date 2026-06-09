@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 93 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 111 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### GM Says A Seizing V8 Isn’t A Defect If Only 3% Of Them Failed
+
+- Model/program: GM Says A Seizing V8 Isn’t A Defect If Only 3% Of Them Failed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gm-l87-lawsuit-dismissal/)
+
+### Peugeot’s Production 208 GTi Is Here, And It’s Electric
+
+- Model/program: Peugeot’s Production 208 GTi Is Here, And It’s Electric
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/production-peugeot-e208-gti/)
 
 ### This Rusty, Beat Up Mustang Could Be Worth Its Weight In Gold
 
@@ -19,6 +39,166 @@ Generated internal notes from 93 clearly labeled source-attributed item(s). Trea
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/shelby-gt500kr-auction-1968/)
+
+### Toyota Hasn’t Given Up On Its Fake Manual For EVs, Clutch Pedal And All
+
+- Model/program: Toyota Hasn’t Given Up On Its Fake Manual For EVs, Clutch Pedal And All
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-ev-manual-patent/)
+
+### Stellantis Confirms The Next Astra And Corsa Land Before 2030
+
+- Model/program: Stellantis Confirms The Next Astra And Corsa Land Before 2030
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/next-gen-opel-astra-and-corsa/)
+
+### A $20 Fix Helped This City Cut Traffic Deaths To Zero
+
+- Model/program: A $20 Fix Helped This City Cut Traffic Deaths To Zero
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hoboken-traffic-deaths-zero/)
+
+### Toyota’s Cheapest GR Yet Is A $2,500 Go-Kart
+
+- Model/program: Toyota’s Cheapest GR Yet Is A $2,500 Go-Kart
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-gr-go-karts/)
+
+### Ferrari Bet Big On Its First EV, Lamborghini’s Boss Says Its Buyers Want None Of It
+
+- Model/program: Ferrari Bet Big On Its First EV, Lamborghini’s Boss Says Its Buyers Want None Of It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lamborghini-ev-delay/)
+
+### BMW’s Hottest X1 Is Getting The iX3’s Face And Maybe A New Name
+
+- Model/program: BMW’s Hottest X1 Is Getting The iX3’s Face And Maybe A New Name
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2028-bmw-x1-m35i-facelift-spied/)
+
+### Cargo Thieves Don’t Break In Anymore, They Just Sign For The Load
+
+- Model/program: Cargo Thieves Don’t Break In Anymore, They Just Sign For The Load
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/cargo-theft-crackdown/)
+
+### A Slate Designer Spent His Spare Time Redrawing Volvo’s Lost Wagon
+
+- Model/program: A Slate Designer Spent His Spare Time Redrawing Volvo’s Lost Wagon
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/volvo-v77-wagon-concepts/)
+
+### Mercedes Hasn’t Finished Its G-Class Cabrio Yet, But Someone Else Has
+
+- Model/program: Mercedes Hasn’t Finished Its G-Class Cabrio Yet, But Someone Else Has
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/venuum-g-class-cabrio/)
+
+### Lexus Charges BMW Money On A Toyota Budget, And It’s Working
+
+- Model/program: Lexus Charges BMW Money On A Toyota Budget, And It’s Working
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/)
+
+### Massachusetts Got $64M In EV Station Funding, But There’s Not A Charger In Sight
+
+- Model/program: Massachusetts Got $64M In EV Station Funding, But There’s Not A Charger In Sight
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/massachusetts-ev-charger-delay/)
+
+### Honda Plans To Make The 2027 Passport Look ‘More Masculine’
+
+- Model/program: Honda Plans To Make The 2027 Passport Look ‘More Masculine’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-passport-facelift/)
+
+### Tesla Can’t Move Cybertrucks at Home, So Kazakhstan’s Government Bought Some
+
+- Model/program: Tesla Can’t Move Cybertrucks at Home, So Kazakhstan’s Government Bought Some
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/tesla-cybertruck-kazakhstan/)
+
+### Honda’s Accord Is Getting A Futuristic Makeover, And Maybe The Prelude’s Fake Shifter
+
+- Model/program: Honda’s Accord Is Getting A Futuristic Makeover, And Maybe The Prelude’s Fake Shifter
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-accord-facelift/)
+
+### A Thief’s Getaway Waymo Had 29 Cameras Watching, And Police Still Got Nothing
+
+- Model/program: A Thief’s Getaway Waymo Had 29 Cameras Watching, And Police Still Got Nothing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/waymo-getaway-burglary/)
+
+### A Jeep Missed Japan’s Headlight Rule By An Inch, So He Boxed Them In Cardboard
+
+- Model/program: A Jeep Missed Japan’s Headlight Rule By An Inch, So He Boxed Them In Cardboard
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/jeep-wrangler-japan-inspection/)
 
 ### Jason Momoa Just Built Harley Davidson’s First PHEV
 
