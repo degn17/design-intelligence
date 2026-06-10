@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 111 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 129 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### GAC Is Now Building A $248,000 Flying Taxi
+
+- Model/program: GAC Is Now Building A $248,000 Flying Taxi
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gac-aircab-production/)
+
+### A $130K VelociRaptor Makes The Same Power As An $82K Expedition Tremor
+
+- Model/program: A $130K VelociRaptor Makes The Same Power As An $82K Expedition Tremor
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hennessey-velociraptor-expedition/)
+
+### Congresswomen Want To Ban Chinese Vehicles, Even Ones Not Sold Or Made In America
+
+- Model/program: Congresswomen Want To Ban Chinese Vehicles, Even Ones Not Sold Or Made In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chinese-car-tourist-ban/)
 
 ### GM Says A Seizing V8 Isn’t A Defect If Only 3% Of Them Failed
 
@@ -29,6 +59,156 @@ Generated internal notes from 111 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/production-peugeot-e208-gti/)
+
+### Aston Martin Made An $80,000 Valkyrie You Can Only Drive In Your Living Room
+
+- Model/program: Aston Martin Made An $80,000 Valkyrie You Can Only Drive In Your Living Room
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/aston-martin-valkyrie-gaming-rig/)
+
+### Audi Nuvolari Hits The Ring After Celebrating Surprise Debut
+
+- Model/program: Audi Nuvolari Hits The Ring After Celebrating Surprise Debut
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/audi-nuvolari-hits-spied/)
+
+### Colorado Deputies Stopped A 130-MPH Ford Disguised As A Cop Car
+
+- Model/program: Colorado Deputies Stopped A 130-MPH Ford Disguised As A Cop Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/cannonball-ford-arrest/)
+
+### Mercedes Expands The GLC Electric’s Lineup With Cheaper Models
+
+- Model/program: Mercedes Expands The GLC Electric’s Lineup With Cheaper Models
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mercedes-glc-ev-updates/)
+
+### A ‘Photo Meet’ In The LA River Cost 72 Owners Their Cars
+
+- Model/program: A ‘Photo Meet’ In The LA River Cost 72 Owners Their Cars
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lapd-la-river-car-meet-impound/)
+
+### Trump Says Ford And GM Want A Bill To Restrict Your ‘Right To Repair’ Your Own Car
+
+- Model/program: Trump Says Ford And GM Want A Bill To Restrict Your ‘Right To Repair’ Your Own Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/trump-gm-ford-right-to-repair/)
+
+### Mexico’s First Homegrown EV Seats Six And Costs $8,600
+
+- Model/program: Mexico’s First Homegrown EV Seats Six And Costs $8,600
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/olinia-uno-mexico-ev/)
+
+### Dodge Bottled The Charger’s Scent For Guys Who Peaked Years Ago
+
+- Model/program: Dodge Bottled The Charger’s Scent For Guys Who Peaked Years Ago
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/dodge-charger-fragrance/)
+
+### Toyota GR Built A 700-HP Camry With Two Engines And Seven Cylinders
+
+- Model/program: Toyota GR Built A 700-HP Camry With Two Engines And Seven Cylinders
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-twin-engine-camry/)
+
+### Dodge Can’t Sell The Charger To Americans, So It’ll Try With Europeans
+
+- Model/program: Dodge Can’t Sell The Charger To Americans, So It’ll Try With Europeans
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/dodge-charger-europe/)
+
+### Rolls-Royce Won’t Touch Minivans, But China Will
+
+- Model/program: Rolls-Royce Won’t Touch Minivans, But China Will
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/maextro-v800-minivan/)
+
+### Porsche Built Three Real-Life 911s For Toy Story 5, And They’re Going To One Buyer
+
+- Model/program: Porsche Built Three Real-Life 911s For Toy Story 5, And They’re Going To One Buyer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/porsche-911-toy-story/)
+
+### After Four Fires, Chrysler Tells Pacifica Hybrid Owners To Stop Charging And Park Outside
+
+- Model/program: After Four Fires, Chrysler Tells Pacifica Hybrid Owners To Stop Charging And Park Outside
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chrysler-pacifica-hybrid-recall/)
+
+### The 2027 MX-5 Gains 4 Horsepower In Europe, And Mazda Wants You To Hear Every One
+
+- Model/program: The 2027 MX-5 Gains 4 Horsepower In Europe, And Mazda Wants You To Hear Every One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mazda-mx5-europe-update/)
+
+### The New VW Caddy Gets The Golf’s Best Screen And Its Worst Touchscreen Habit
+
+- Model/program: The New VW Caddy Gets The Golf’s Best Screen And Its Worst Touchscreen Habit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/vw-caddy-facelift-van/)
 
 ### This Rusty, Beat Up Mustang Could Be Worth Its Weight In Gold
 

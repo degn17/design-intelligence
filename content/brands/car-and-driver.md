@@ -2,13 +2,213 @@
 
 ## Current positioning
 
-Generated internal notes from 76 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 96 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### GM to Develop Sodium-Ion Battery Cells—for Energy Storage, Not EVs
+
+- Model/program: GM to Develop Sodium-Ion Battery Cells—for Energy Storage, Not EVs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71538744/gm-sodium-ion-battery-cells-plans/)
+
+### GM Reveals Energy Pass That Will Cover 70 Percent of the EV Charging Grid
+
+- Model/program: GM Reveals Energy Pass That Will Cover 70 Percent of the EV Charging Grid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71538996/gm-reveals-energy-pass/)
+
+### Jeep Recalls 1 Million Wranglers and Gladiators That May Catch Fire
+
+- Model/program: Jeep Recalls 1 Million Wranglers and Gladiators That May Catch Fire
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71537749/jeep-1-million-wrangler-gladiator-recall-fire-risk/)
+
+### The Mitsubishi Eclipse Is Back . . . as a Leaf-Based Electric SUV
+
+- Model/program: The Mitsubishi Eclipse Is Back . . . as a Leaf-Based Electric SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71538062/2027-mitsubishi-eclipse-sportback-revealed/)
+
+### 2027 Mitsubishi Eclipse Sportback
+
+- Model/program: 2027 Mitsubishi Eclipse Sportback
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mitsubishi/eclipse-sportback)
+
+### Which Version of the Honda Accord Is the Best for Your Money?
+
+- Model/program: Which Version of the Honda Accord Is the Best for Your Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71523792/honda-accord-trim-level-what-to-buy/)
+
+### 2027 Toyota GR86
+
+- Model/program: 2027 Toyota GR86
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/gr86-2027)
+
+### 2027 McLaren Artura
+
+- Model/program: 2027 McLaren Artura
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mclaren/artura-2027)
+
+### 2028 Rivian R2
+
+- Model/program: 2028 Rivian R2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/rivian/r2-2028)
+
+### Boreham Motorworks Ford Escort Mk1 RS Revealed with 10K-RPM Redline
+
+- Model/program: Boreham Motorworks Ford Escort Mk1 RS Revealed with 10K-RPM Redline
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71534847/boreham-motorworks-ford-escort-mk1-rs-revealed/)
+
+### Three Porsche 911 One-Offs Embody Iconic 'Toy Story' Characters
+
+- Model/program: Three Porsche 911 One-Offs Embody Iconic 'Toy Story' Characters
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71535133/porsche-911-toy-story-one-offs-details/)
+
+### 2027 Rivian R2
+
+- Model/program: 2027 Rivian R2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/rivian/r2)
+
+### View Interior Photos of the 2027 Rivian R2
+
+- Model/program: View Interior Photos of the 2027 Rivian R2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71507030/2027-rivian-r2-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Rivian R2
+
+- Model/program: View Exterior Photos of the 2027 Rivian R2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71507021/2027-rivian-r2-drive-exterior-gallery/)
+
+### 2027 Rivian R2 First Drive: From Normal, Is Normal
+
+- Model/program: 2027 Rivian R2 First Drive: From Normal, Is Normal
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71483800/2027-rivian-r2-drive/)
+
+### 2027 Audi SQ7
+
+- Model/program: 2027 Audi SQ7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/audi/sq7-2027)
+
+### View Exterior Photos of the 2027 Audi Q7
+
+- Model/program: View Exterior Photos of the 2027 Audi Q7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71433133/2027-audi-q7-revealed-exterior-gallery/)
+
+### View Interior Photos of the 2027 Audi Q7
+
+- Model/program: View Interior Photos of the 2027 Audi Q7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71433237/2027-audi-q7-revealed-interior-gallery/)
+
+### 2027 Audi Q7's Third Generation Revealed with 591-HP V-8 Sibling
+
+- Model/program: 2027 Audi Q7's Third Generation Revealed with 591-HP V-8 Sibling
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71424670/2027-audi-q7-sq7-revealed/)
+
+### View Photos of the 2027 Audi SQ7
+
+- Model/program: View Photos of the 2027 Audi SQ7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71527920/2027-audi-sq7-revealed-gallery/)
 
 ### Dodge Is Bringing Charger Sixpack and Charger Daytona to Europe
 
