@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 96 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 105 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Tested: 2026 Toyota bZ Is Quicker, Nicer, and Better at Being an EV
+
+- Model/program: Tested: 2026 Toyota bZ Is Quicker, Nicer, and Better at Being an EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a64842948/2026-toyota-bz-drive/)
+
+### View Exterior Photos of the 2026 Toyota bZ
+
+- Model/program: View Exterior Photos of the 2026 Toyota bZ
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g64842560/2026-toyota-bz-drive-gallery/)
+
+### View Interior Photos of the 2026 Toyota bZ
+
+- Model/program: View Interior Photos of the 2026 Toyota bZ
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71482458/2026-toyota-bz-test-interior-gallery/)
+
+### Honda Recalls 880,000 Vehicles for Rapidly Rusting Subframes
+
+- Model/program: Honda Recalls 880,000 Vehicles for Rapidly Rusting Subframes
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71549498/honda-880000-suvs-trucks-recall-rust-subframe/)
+
+### Budget-Minded 10Best Winners That Are Less Than Five Years Old
+
+- Model/program: Budget-Minded 10Best Winners That Are Less Than Five Years Old
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g71547164/used-recent-10best-budget-cars-marketplace-highlight/)
+
+### Hennessey Gives the Expedition Tremor Even More Off-Road Ability
+
+- Model/program: Hennessey Gives the Expedition Tremor Even More Off-Road Ability
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71547278/hennessey-velociraptor-expedition-tremor-details/)
+
+### How to Figure Out the Sales Tax in Your State When You Buy a Car
+
+- Model/program: How to Figure Out the Sales Tax in Your State When You Buy a Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71496973/how-to-calculate-sales-tax-on-car-by-state/)
+
+### 1987 Ford Festiva LX: An Econobox with an Interesting Lineage
+
+- Model/program: 1987 Ford Festiva LX: An Econobox with an Interesting Lineage
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71473780/1987-ford-festiva-lx-archive-test/)
+
+### View Photos of the 1987 Ford Festiva LX
+
+- Model/program: View Photos of the 1987 Ford Festiva LX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71535568/1987-ford-festiva-lx-archive-test-gallery/)
 
 ### GM to Develop Sodium-Ion Battery Cells—for Energy Storage, Not EVs
 

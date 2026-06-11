@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 129 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 147 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A 1-Of-765 McLaren Died In A Michigan Fire, And Bidders Smell A Deal
+
+- Model/program: A 1-Of-765 McLaren Died In A Michigan Fire, And Bidders Smell A Deal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mclaren-765lt-spider-fire-salvage/)
+
+### ORA 7 Looks Like A Beetle Got Knocked Up By A Porsche
+
+- Model/program: ORA 7 Looks Like A Beetle Got Knocked Up By A Porsche
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gmw-ora-7/)
 
 ### GAC Is Now Building A $248,000 Flying Taxi
 
@@ -39,6 +59,166 @@ Generated internal notes from 129 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/chinese-car-tourist-ban/)
+
+### A New York County Ticketed Over 18,000 Drivers Blowing Past Its Stopped School Buses
+
+- Model/program: A New York County Ticketed Over 18,000 Drivers Blowing Past Its Stopped School Buses
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/monroe-county-bus-cameras/)
+
+### Ford’s Answer To The Jeep Wrangler 392? Surrender
+
+- Model/program: Ford’s Answer To The Jeep Wrangler 392? Surrender
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-bronco-raptor-r/)
+
+### Most 780-HP Sedans Make You Take An Automatic, This Cadillac Doesn’t
+
+- Model/program: Most 780-HP Sedans Make You Take An Automatic, This Cadillac Doesn’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/callaway-ct5-v-blackwing-sc780/)
+
+### Lincoln’s Latest Marketing Stunt Looks Like An Ultra-Luxury Porta Potty
+
+- Model/program: Lincoln’s Latest Marketing Stunt Looks Like An Ultra-Luxury Porta Potty
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lincoln-sanctuary/)
+
+### Toyota Engineered A $470 Skid Plate That Steadies The Old Hilux In Crosswinds
+
+- Model/program: Toyota Engineered A $470 Skid Plate That Steadies The Old Hilux In Crosswinds
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-hilux-aero-skid-plate/)
+
+### Aston Martin Cranks The Vantage Up To 11 With New Hardcore Variant
+
+- Model/program: Aston Martin Cranks The Vantage Up To 11 With New Hardcore Variant
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/aston-martin-vantage-rs-spied/)
+
+### Gran Turismo 7’s June Update Hands You BMW And Ferrari Racers For Free
+
+- Model/program: Gran Turismo 7’s June Update Hands You BMW And Ferrari Racers For Free
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gran-turismo-7-june-update/)
+
+### AI Cameras Fined Empty Seats For Not Wearing Seatbelts
+
+- Model/program: AI Cameras Fined Empty Seats For Not Wearing Seatbelts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/athens-ai-traffic-cameras/)
+
+### Eight $290K Bentleys Left The Factory With The Wrong Driveshaft
+
+- Model/program: Eight $290K Bentleys Left The Factory With The Wrong Driveshaft
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bentley-continental-driveshaft-recall/)
+
+### Thousands Of Tires Appeared On His New Property And Nobody Will Claim Them
+
+- Model/program: Thousands Of Tires Appeared On His New Property And Nobody Will Claim Them
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/portland-illegal-tire-dumping/)
+
+### Akio Toyoda Admits His Biggest Fear Is An All-Electric Future
+
+- Model/program: Akio Toyoda Admits His Biggest Fear Is An All-Electric Future
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/akio-toyoda-combustion-engines/)
+
+### Xiaomi’s New Nurburgring Record Didn’t Need A Driver, But Might Have Required A Sundial
+
+- Model/program: Xiaomi’s New Nurburgring Record Didn’t Need A Driver, But Might Have Required A Sundial
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/xiaomi-yu7-autonomous-nurburgring/)
+
+### BYD Builds Buses In California. The Pentagon Just Called It A Chinese Military Company
+
+- Model/program: BYD Builds Buses In California. The Pentagon Just Called It A Chinese Military Company
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/byd-pentagon-military-list/)
+
+### Texas Is About To Outsell California On New Cars, And Plenty Are Paying Cash
+
+- Model/program: Texas Is About To Outsell California On New Cars, And Plenty Are Paying Cash
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/texas-california-new-car-sales/)
+
+### Europe’s 2027 Mazda CX-30 Has A Manual And Better Headlights Than Yours
+
+- Model/program: Europe’s 2027 Mazda CX-30 Has A Manual And Better Headlights Than Yours
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mazda-cx-30-europe-update/)
+
+### Ford’s $30K Electric Truck Looks So Tiny It Makes A Maverick Seem Grown Up
+
+- Model/program: Ford’s $30K Electric Truck Looks So Tiny It Makes A Maverick Seem Grown Up
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-electric-pickup-prototype/)
 
 ### GM Says A Seizing V8 Isn’t A Defect If Only 3% Of Them Failed
 
