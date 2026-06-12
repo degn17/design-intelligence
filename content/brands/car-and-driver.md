@@ -2,13 +2,163 @@
 
 ## Current positioning
 
-Generated internal notes from 105 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 120 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Trump Learns of Right to Repair Battle from Ford and GM, Farley Responds
+
+- Model/program: Trump Learns of Right to Repair Battle from Ford and GM, Farley Responds
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71562651/trump-ford-gm-right-to-repair-battle/)
+
+### Ford Recalls 548K Expedition SUVs That May Have Dangerous Center Consoles
+
+- Model/program: Ford Recalls 548K Expedition SUVs That May Have Dangerous Center Consoles
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71561823/ford-expedition-center-console-recall/)
+
+### Tested: 2026 Toyota C-HR Has EV Hustle, Lacks Dynamic Delight
+
+- Model/program: Tested: 2026 Toyota C-HR Has EV Hustle, Lacks Dynamic Delight
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a70348992/2026-toyota-c-hr-drive/)
+
+### View Exterior Photos of the 2026 Toyota C-HR
+
+- Model/program: View Exterior Photos of the 2026 Toyota C-HR
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g70345804/2026-toyota-c-hr-drive-exterior-gallery/)
+
+### View Interior Photos of the 2026 Toyota C-HR
+
+- Model/program: View Interior Photos of the 2026 Toyota C-HR
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g70346016/2026-toyota-c-hr-drive-interior-gallery/)
+
+### Looks Like This Popular Lincoln SUV Isn't Dying After All
+
+- Model/program: Looks Like This Popular Lincoln SUV Isn't Dying After All
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71559613/2027-lincoln-corsair-hybrid-china-built/)
+
+### 2029 Rivian R3 / R3X
+
+- Model/program: 2029 Rivian R3 / R3X
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/rivian/r3)
+
+### Report: Porsche CEO Promises There Won't be a 911 EV
+
+- Model/program: Report: Porsche CEO Promises There Won't be a 911 EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71558551/report-porsche-911-will-never-be-an-ev/)
+
+### We're Going to Have to Wait a Bit Longer for Rivian's Sporty R3X
+
+- Model/program: We're Going to Have to Wait a Bit Longer for Rivian's Sporty R3X
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71560018/rivian-r3x-production-couple-of-years-away/)
+
+### 2027 Toyota bZ
+
+- Model/program: 2027 Toyota bZ
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/bz-2027)
+
+### Fun Facts About the Famous Ferrari in 'Ferris Bueller's Day Off'
+
+- Model/program: Fun Facts About the Famous Ferrari in 'Ferris Bueller's Day Off'
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71538391/ferris-bueller-movie-car/)
+
+### 2026 Toyota bZ
+
+- Model/program: 2026 Toyota bZ
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/bz)
+
+### 2026 Polestar 4 Dual Motor Test: Camera Obscura
+
+- Model/program: 2026 Polestar 4 Dual Motor Test: Camera Obscura
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a70733871/2026-polestar-4-long-range-dual-motor-test/)
+
+### Stellantis Starts Testing Solid-State Batteries in a Dodge Charger Daytona
+
+- Model/program: Stellantis Starts Testing Solid-State Batteries in a Dodge Charger Daytona
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71550502/stellantis-road-testing-solid-state-battery-charger-daytona/)
+
+### 2027 Ford Explorer ST Goes Dark with New Sinister Package
+
+- Model/program: 2027 Ford Explorer ST Goes Dark with New Sinister Package
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71546117/2027-ford-explorer-st-sinister-package/)
 
 ### Tested: 2026 Toyota bZ Is Quicker, Nicer, and Better at Being an EV
 

@@ -2,13 +2,73 @@
 
 ## Current positioning
 
-Generated internal notes from 24 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 30 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Time lapse: Porsche's transaxle models
+
+- Model/program: Time lapse: Porsche's transaxle models
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-transaxle-models-history-42008.html)
+
+### Porsche customer team Manthey to compete at Le Mans with two 911 GT3 R
+
+- Model/program: Porsche customer team Manthey to compete at Le Mans with two 911 GT3 R
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-fia-wec-le-mans-manthey-preview-42603.html)
+
+### No asphalt. No turning back - the Porsche Gobi Desert Experience
+
+- Model/program: No asphalt. No turning back - the Porsche Gobi Desert Experience
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-gobi-desert-experience-42594.html)
+
+### Theo Oeverhaus wins the Supercup season opener in Monaco
+
+- Model/program: Theo Oeverhaus wins the Supercup season opener in Monaco
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/06/theo-oeverhaus-wins-the-supercup-season-opener-in-monaco.html)
+
+### Two Porsche 911 GT3 R compete at Le Mans in historic livery from 1951
+
+- Model/program: Two Porsche 911 GT3 R compete at Le Mans in historic livery from 1951
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-fia-wec-le-mans-preview-42577.html)
+
+### Anniversary Sonderwunsch creation: 911 GT3 with Touring Package ‘Tree of Life’
+
+- Model/program: Anniversary Sonderwunsch creation: 911 GT3 with Touring Package ‘Tree of Life’
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-911-gt3-touring-tree-of-life-42549.html)
 
 ### Automotive Industry 2026
 

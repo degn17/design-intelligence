@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 147 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 165 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Someone Dropped A Lexus V8 In Isuzu’s Wildest SUV, And It Sold For $12,000
+
+- Model/program: Someone Dropped A Lexus V8 In Isuzu’s Wildest SUV, And It Sold For $12,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/isuzu-vehicross-v8-swap/)
+
+### Japan’s Lexus ES Offers A Splitter Up Front And A Foot Deodorizer Down Below
+
+- Model/program: Japan’s Lexus ES Offers A Splitter Up Front And A Foot Deodorizer Down Below
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lexus-es-japan-accessories/)
+
+### Trump Suggests He Won’t Renew US-Mexico-Canada Agreement
+
+- Model/program: Trump Suggests He Won’t Renew US-Mexico-Canada Agreement
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/usmca-auto-trade-uncertainty/)
 
 ### A 1-Of-765 McLaren Died In A Michigan Fire, And Bidders Smell A Deal
 
@@ -29,6 +59,156 @@ Generated internal notes from 147 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/gmw-ora-7/)
+
+### New York Caught A Nissan Dealer Charging $2,563 For 8 Cents Of Tape
+
+- Model/program: New York Caught A Nissan Dealer Charging $2,563 For 8 Cents Of Tape
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-lease-buyout-refunds/)
+
+### Dodge Teases Surprise Summer Debuts, One Might Be The Charger SRT Hellcat
+
+- Model/program: Dodge Teases Surprise Summer Debuts, One Might Be The Charger SRT Hellcat
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/dodge-roadkill-night-new-products/)
+
+### Subaru Ascent Sales Are Crashing, These 2027 Updates Won’t Help
+
+- Model/program: Subaru Ascent Sales Are Crashing, These 2027 Updates Won’t Help
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2027-subaru-ascent-updates/)
+
+### He Thought He Beat A BMW Salesman On Price, It Was An AI That Overpaid Him
+
+- Model/program: He Thought He Beat A BMW Salesman On Price, It Was An AI That Overpaid Him
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-dealer-ai-chatbot-offer/)
+
+### Police Warn Drivers About A Potential Gas Pump Screw Scam, But Is It Just A Hoax?
+
+- Model/program: Police Warn Drivers About A Potential Gas Pump Screw Scam, But Is It Just A Hoax?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gas-pump-scam-or-hoax/)
+
+### GM’s Cheaper Battery Could Knock $6,000 Off The Silverado EV Without Losing A Mile Of Range
+
+- Model/program: GM’s Cheaper Battery Could Knock $6,000 Off The Silverado EV Without Losing A Mile Of Range
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gm-lmr-battery-strategy/)
+
+### Ford Recalls Over 548,000 SUVs After Chrome Trim Injures 65 People
+
+- Model/program: Ford Recalls Over 548,000 SUVs After Chrome Trim Injures 65 People
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-expedition-trim-recall/)
+
+### BYD’s 5-Minute Flash Charging Is Coming To Canada Before Its Cars Are
+
+- Model/program: BYD’s 5-Minute Flash Charging Is Coming To Canada Before Its Cars Are
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/byd-canada-charging-network/)
+
+### Maserati Dealers Are Knocking $20,000 Off The Grecale EV, And It Still Seems Overpriced
+
+- Model/program: Maserati Dealers Are Knocking $20,000 Off The Grecale EV, And It Still Seems Overpriced
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/maserati-grecale-ev-discounts/)
+
+### Denza’s 1,139-HP Wagon Will Now Drift Any Shape You Draw On The Screen
+
+- Model/program: Denza’s 1,139-HP Wagon Will Now Drift Any Shape You Draw On The Screen
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/denza-z9-autonomous-drift/)
+
+### This Is BMW’s New Electric M Sedan Concept
+
+- Model/program: This Is BMW’s New Electric M Sedan Concept
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmws-im3-pounds-the-ring-before-le-mans-unveiling/)
+
+### VW Revives A Decades-Old Name For The Multivan, But Not Everywhere
+
+- Model/program: VW Revives A Decades-Old Name For The Multivan, But Not Everywhere
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/vw-multivan-caravelle/)
+
+### 380,000 Canadians Flooded A Headlight Glare Survey In Just Six Weeks
+
+- Model/program: 380,000 Canadians Flooded A Headlight Glare Survey In Just Six Weeks
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/canada-headlight-glare-survey/)
+
+### Ford’s New Explorer ST Sinister Package Is Like A Vampire With Rubber Fangs
+
+- Model/program: Ford’s New Explorer ST Sinister Package Is Like A Vampire With Rubber Fangs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-explorer-st-sinister-package/)
+
+### New Car Prices Fell In May, But High-End Luxury Buyers Paid $8,700 More Than Last Year
+
+- Model/program: New Car Prices Fell In May, But High-End Luxury Buyers Paid $8,700 More Than Last Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/new-car-transaction-prices/)
 
 ### GAC Is Now Building A $248,000 Flying Taxi
 
