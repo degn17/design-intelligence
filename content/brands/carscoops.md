@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 165 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 183 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Almost Every 240SX Got Drifted To Death, This 9,500-Mile One Didn’t
+
+- Model/program: Almost Every 240SX Got Drifted To Death, This 9,500-Mile One Didn’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-240sx-low-mileage/)
+
+### UAW And Dauch Reach Tentative Agreement To End Strike Threatening GM Production
+
+- Model/program: UAW And Dauch Reach Tentative Agreement To End Strike Threatening GM Production
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/uaw-and-dauch-deal/)
+
+### Colorado Just Banned A Letter From Its License Plates
+
+- Model/program: Colorado Just Banned A Letter From Its License Plates
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/colorado-plate-camera-misreads/)
 
 ### Someone Dropped A Lexus V8 In Isuzu’s Wildest SUV, And It Sold For $12,000
 
@@ -39,6 +69,156 @@ Generated internal notes from 165 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/usmca-auto-trade-uncertainty/)
+
+### Watch Audi’s New 987-HP Nuvolari Flex On The Track
+
+- Model/program: Watch Audi’s New 987-HP Nuvolari Flex On The Track
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/audi-nuvolari-hits-the-track/)
+
+### Tennessee Ties Your Plate To Lawful Status And Your Driver’s License Renewal To English
+
+- Model/program: Tennessee Ties Your Plate To Lawful Status And Your Driver’s License Renewal To English
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/tennessee-license-citizenship-law/)
+
+### Jeep Honors A Military Icon With New Sarge Editions
+
+- Model/program: Jeep Honors A Military Icon With New Sarge Editions
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2027-jeep-wrangler-and-gladiator-sarge/)
+
+### BMW Just Opened The Door To More US Wagons After M5 Touring’s Success
+
+- Model/program: BMW Just Opened The Door To More US Wagons After M5 Touring’s Success
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-m5-touring-sales/)
+
+### Lincoln Corsair Set To Return As A Hybrid, But It’ll Speak Mandarin
+
+- Model/program: Lincoln Corsair Set To Return As A Hybrid, But It’ll Speak Mandarin
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2027-lincoln-corsair-hybrid/)
+
+### One Of Only Two Red Spykers Ever Made Sold For $670,000
+
+- Model/program: One Of Only Two Red Spykers Ever Made Sold For $670,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/spyker-c8-laviolette-auction/)
+
+### An Algorithm Now Tells You How Fast To Drive On California’s First Smart Freeway
+
+- Model/program: An Algorithm Now Tells You How Fast To Drive On California’s First Smart Freeway
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/california-smart-freeway/)
+
+### Peugeot’s First Electric GTi Does 62 MPH In 5.5 Seconds For Under €43,000
+
+- Model/program: Peugeot’s First Electric GTi Does 62 MPH In 5.5 Seconds For Under €43,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/peugeot-e208-gti-debut/)
+
+### Two Suitcase-Sized EV Motors Make 3,111 HP, Or So The Claim Goes
+
+- Model/program: Two Suitcase-Sized EV Motors Make 3,111 HP, Or So The Claim Goes
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/kosmera-drive-unit-power/)
+
+### Michigan Cops Are Hunting Aggressive Drivers In Silent Mustang Mach-Es
+
+- Model/program: Michigan Cops Are Hunting Aggressive Drivers In Silent Mustang Mach-Es
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/dearborn-mustang-mach-e-police/)
+
+### Two Months Was All BMW’s iX3 Needed To Crack 10,000 Sales In Europe
+
+- Model/program: Two Months Was All BMW’s iX3 Needed To Crack 10,000 Sales In Europe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-ix3-sales-europe/)
+
+### Genesis Keeps Teasing A G90 Convertible It Still Won’t Promise To Build
+
+- Model/program: Genesis Keeps Teasing A G90 Convertible It Still Won’t Promise To Build
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/genesis-g90-convertible-concepts/)
+
+### Ford’s Recalling A Quarter-Million Cars Because It Can’t Recall If It Fixed Them In 2018
+
+- Model/program: Ford’s Recalling A Quarter-Million Cars Because It Can’t Recall If It Fixed Them In 2018
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-focus-recalled-again/)
+
+### This Manual Honda Kei Truck Makes Less Power Than Some Ride-On Mowers
+
+- Model/program: This Manual Honda Kei Truck Makes Less Power Than Some Ride-On Mowers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-acty-kei-truck-auction/)
+
+### Genesis’ Magma GT Supercar Concept Edges Closer To Production
+
+- Model/program: Genesis’ Magma GT Supercar Concept Edges Closer To Production
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/genesis-magma-gt-production/)
 
 ### A 1-Of-765 McLaren Died In A Michigan Fire, And Bidders Smell A Deal
 

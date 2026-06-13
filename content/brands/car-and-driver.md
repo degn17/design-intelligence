@@ -2,13 +2,183 @@
 
 ## Current positioning
 
-Generated internal notes from 120 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 137 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ford Exec Says R-Rated Ranger and Bronco Raptors Not in the Cards
+
+- Model/program: Ford Exec Says R-Rated Ranger and Bronco Raptors Not in the Cards
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71573706/ford-ranger-raptor-r-bronco-raptor-r-not-happening/)
+
+### 2027 Lincoln Corsair Hybrid
+
+- Model/program: 2027 Lincoln Corsair Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lincoln/corsair-hybrid-2027)
+
+### Ford Recalls 255,404 Focus Models That Could Unexpectedly Stall
+
+- Model/program: Ford Recalls 255,404 Focus Models That Could Unexpectedly Stall
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71572790/ford-focus-unexpected-stalling-recall/)
+
+### Which Version of the Toyota Land Cruiser Gets You the Most for Your Money?
+
+- Model/program: Which Version of the Toyota Land Cruiser Gets You the Most for Your Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71535782/toyota-land-cruiser-trim-level-what-to-buy/)
+
+### View Interior Photos of the 2027 Chevrolet Bolt RS EV
+
+- Model/program: View Interior Photos of the 2027 Chevrolet Bolt RS EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71547918/2027-chevrolet-bolt-rs-test-interior-gallery/)
+
+### 2027 Chevy Bolt vs. 2026 Nissan Leaf Comparison Test: Battle of the Bargains
+
+- Model/program: 2027 Chevy Bolt vs. 2026 Nissan Leaf Comparison Test: Battle of the Bargains
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a71523860/2027-chevrolet-bolt-vs-nissan-leaf-comparison-test/)
+
+### View Exterior Photos of the 2026 Nissan Leaf Platinum+
+
+- Model/program: View Exterior Photos of the 2026 Nissan Leaf Platinum+
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71547387/2026-nissan-leaf-platinum-plus-test-exterior-gallery/)
+
+### View Exterior Photos of the 2027 Chevrolet Bolt RS EV
+
+- Model/program: View Exterior Photos of the 2027 Chevrolet Bolt RS EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71547884/2027-chevrolet-bolt-rs-test-exterior-gallery/)
+
+### View Interior Photos of the 2026 Nissan Leaf Platinum+
+
+- Model/program: View Interior Photos of the 2026 Nissan Leaf Platinum+
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71547458/2026-nissan-leaf-platinum-plus-test-interior-gallery/)
+
+### 2028 BMW iM3
+
+- Model/program: 2028 BMW iM3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/im3)
+
+### Jeep Signs World Cup Agreement With America's Founding Father
+
+- Model/program: Jeep Signs World Cup Agreement With America's Founding Father
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71570734/jeep-wrangler-world-cup-deal/)
+
+### 2028 Genesis Magma GT
+
+- Model/program: 2028 Genesis Magma GT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/genesis/magma-gt)
+
+### View Exterior Photos of the 2026 BMW Concept M Neue Klasse
+
+- Model/program: View Exterior Photos of the 2026 BMW Concept M Neue Klasse
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71562412/2026-bmw-concept-m-neue-klasse-exterior-gallery/)
+
+### BMW Hints at Upcoming Electric M3 with Eye-Catching Concept
+
+- Model/program: BMW Hints at Upcoming Electric M3 with Eye-Catching Concept
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71563004/bmw-concept-m-neue-klasse-revealed/)
+
+### View Interior Photos of the 2026 BMW Concept M Neue Klasse
+
+- Model/program: View Interior Photos of the 2026 BMW Concept M Neue Klasse
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71562436/2026-bmw-concept-m-neue-klasse-interior-gallery/)
+
+### Genesis Unveils a New GT3 Concept Ahead of the 2026 24 Hours of Le Mans
+
+- Model/program: Genesis Unveils a New GT3 Concept Ahead of the 2026 24 Hours of Le Mans
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71564714/genesis-gt3-concept-le-mans-reveal/)
+
+### Genesis Reveals the Magma GT Concept's Enchanting Interior Design
+
+- Model/program: Genesis Reveals the Magma GT Concept's Enchanting Interior Design
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71562841/genesis-magma-gt-concept-interior-revealed/)
 
 ### Trump Learns of Right to Repair Battle from Ford and GM, Farley Responds
 
