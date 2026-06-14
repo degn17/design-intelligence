@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 137 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 141 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 1984 Aston Martin Lagonda on Bring a Trailer Is One Wild Wedge
+
+- Model/program: 1984 Aston Martin Lagonda on Bring a Trailer Is One Wild Wedge
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71550240/1984-aston-martin-lagonda-bring-a-trailer-auction/)
+
+### View Photos of the 1993 Coupe Comparison Test in Mexico
+
+- Model/program: View Photos of the 1993 Coupe Comparison Test in Mexico
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71562641/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test-gallery/)
+
+### The Road to Zacatecas: 1993 Coupes Across the Border
+
+- Model/program: The Road to Zacatecas: 1993 Coupes Across the Border
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/)
+
+### Which Version of the Ford Maverick Gets You the Most for Your Money?
+
+- Model/program: Which Version of the Ford Maverick Gets You the Most for Your Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71525336/ford-maverick-trim-level-what-to-buy/)
 
 ### Ford Exec Says R-Rated Ranger and Bronco Raptors Not in the Cards
 

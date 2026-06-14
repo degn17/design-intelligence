@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 183 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 193 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ford Walked Back Its EVs, Now Its Wildest Cars Are Getting Gas Engines Again
+
+- Model/program: Ford Walked Back Its EVs, Now Its Wildest Cars Are Getting Gas Engines Again
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-demonstrators-powertrain/)
 
 ### Almost Every 240SX Got Drifted To Death, This 9,500-Mile One Didn’t
 
@@ -39,6 +49,96 @@ Generated internal notes from 183 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/colorado-plate-camera-misreads/)
+
+### Porsche’s Facelifted Panamera May Be Killing Its Last Physical Switches
+
+- Model/program: Porsche’s Facelifted Panamera May Be Killing Its Last Physical Switches
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/porsche-panamera-facelift-interior/)
+
+### Which Famous Car Badge Has Lost The Plot The Most?
+
+- Model/program: Which Famous Car Badge Has Lost The Plot The Most?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/most-watered-down-car-badges/)
+
+### $24K For A 63-HP Mazda Kei Car Sounds Steep, Until You See The Gullwing Doors
+
+- Model/program: $24K For A 63-HP Mazda Kei Car Sounds Steep, Until You See The Gullwing Doors
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/24k-sounds-steep-for-63-hp-but-the-az-1s-micro-lambo-design-disagrees/)
+
+### The Cybertruck Costs $1,381 More A Year To Insure Than A Chevy Silverado
+
+- Model/program: The Cybertruck Costs $1,381 More A Year To Insure Than A Chevy Silverado
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ev-insurance-cost-study/)
+
+### Jeep Gave The 2026 Grand Cherokee A Smaller Engine, But Kept The Best Stuff Intact | Review
+
+- Model/program: Jeep Gave The 2026 Grand Cherokee A Smaller Engine, But Kept The Best Stuff Intact | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2026-jeep-grand-cherokee-review/)
+
+### Hyundai’s Venue-Sized Bayon Could Get A 140-HP Hybrid America Won’t
+
+- Model/program: Hyundai’s Venue-Sized Bayon Could Get A 140-HP Hybrid America Won’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hyundai-bayon-2027/)
+
+### Stellantis Boss Admits Old Chrysler Cabins Felt Like Cheap Water Pistols
+
+- Model/program: Stellantis Boss Admits Old Chrysler Cabins Felt Like Cheap Water Pistols
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chrysler-interior-quality/)
+
+### Nissan Buried Five Easter Eggs In The 2027 Z, Starting With The Front End
+
+- Model/program: Nissan Buried Five Easter Eggs In The 2027 Z, Starting With The Front End
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-z-heritage-design/)
+
+### A 141-HP Chinese Hatch And A 215-HP Alpine Dressed As The Same Rally Car
+
+- Model/program: A 141-HP Chinese Hatch And A 215-HP Alpine Dressed As The Same Rally Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/alpine-a290-firefly-rally-tribute/)
 
 ### Someone Dropped A Lexus V8 In Isuzu’s Wildest SUV, And It Sold For $12,000
 
