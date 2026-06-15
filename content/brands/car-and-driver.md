@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 141 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 144 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Your Car Is Smarter, But Fixing It Will Cost You
+
+- Model/program: Your Car Is Smarter, But Fixing It Will Cost You
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71522914/your-car-is-smarter-but-fixing-it-will-cost-you/)
+
+### This 1979 Jeep Cherokee on Bring a Trailer Strikes Like a Viper
+
+- Model/program: This 1979 Jeep Cherokee on Bring a Trailer Strikes Like a Viper
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71550204/1979-jeep-cherokee-bring-a-trailer-auction/)
+
+### This Electric Beach Buggy Is for Folks Who Can Afford Luxury Vacations
+
+- Model/program: This Electric Beach Buggy Is for Folks Who Can Afford Luxury Vacations
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71573780/amble-one-beach-buggy-ev-details/)
 
 ### 1984 Aston Martin Lagonda on Bring a Trailer Is One Wild Wedge
 

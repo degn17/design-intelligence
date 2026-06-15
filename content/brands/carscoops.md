@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 193 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 205 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Bovensiepen’s 05 GT Looks Restrained, But Packs A Punch
+
+- Model/program: Bovensiepen’s 05 GT Looks Restrained, But Packs A Punch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bovensiepens-05-gt-looks-restrained-but-packs-a-punch/)
+
+### Range Rover Sport Is Getting Its First EV, But It Won’t Take The V8 Down With It
+
+- Model/program: Range Rover Sport Is Getting Its First EV, But It Won’t Take The V8 Down With It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/range-rover-sport-facelift/)
 
 ### Ford Walked Back Its EVs, Now Its Wildest Cars Are Getting Gas Engines Again
 
@@ -19,6 +39,96 @@ Generated internal notes from 193 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/ford-demonstrators-powertrain/)
+
+### Kia Admits The Tasman’s Looks Need Fixing, But Not With A Facelift
+
+- Model/program: Kia Admits The Tasman’s Looks Need Fixing, But Not With A Facelift
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/kia-tasman-styling-fix/)
+
+### Chrysler’s Designers Are Finally Free Of The 300 And The Minivan
+
+- Model/program: Chrysler’s Designers Are Finally Free Of The 300 And The Minivan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chrysler-stla-one-revival/)
+
+### GM Wants Your Parked EV To Power The Grid, But There’s A $20,000 Catch
+
+- Model/program: GM Wants Your Parked EV To Power The Grid, But There’s A $20,000 Catch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gm-vehicle-to-grid-charging/)
+
+### The 2026 Chevy Suburban’s Best Seat Isn’t The One You’re Paying $101K To Drive From | Review
+
+- Model/program: The 2026 Chevy Suburban’s Best Seat Isn’t The One You’re Paying $101K To Drive From | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chevrolet-suburban-review-2026/)
+
+### The Mustang Is America’s Least-Driven Car Only If You Count One Kind Of Owner
+
+- Model/program: The Mustang Is America’s Least-Driven Car Only If You Count One Kind Of Owner
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chrysler-pacificas-are-driven-10-times-more-miles-than-ford-mustangs/)
+
+### Here’s The Cheapest Way Mitsubishi Could Revive The Lancer, And It’s All Nissan
+
+- Model/program: Here’s The Cheapest Way Mitsubishi Could Revive The Lancer, And It’s All Nissan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mitsubishi-lancer-revival-nissan/)
+
+### Iowa Spent Years Capping Rural Highways At 55, That Ends July 1
+
+- Model/program: Iowa Spent Years Capping Rural Highways At 55, That Ends July 1
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/iowa-speed-limit-increase/)
+
+### This Subaru Kei Van Parks Like A Motorcycle But Swallows Half Your Garage
+
+- Model/program: This Subaru Kei Van Parks Like A Motorcycle But Swallows Half Your Garage
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/subaru-sambar-kei-van-usa/)
+
+### BMW Let 67 Buyers Test Its Bulletproof Cars, One Shrugs Off Explosives
+
+- Model/program: BMW Let 67 Buyers Test Its Bulletproof Cars, One Shrugs Off Explosives
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-armored-protection-models/)
 
 ### Almost Every 240SX Got Drifted To Death, This 9,500-Mile One Didn’t
 
@@ -139,6 +249,16 @@ Generated internal notes from 193 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/alpine-a290-firefly-rally-tribute/)
+
+### Mazda’s Kei Supercar Only Has 63 HP But Still Pulls Miata Money
+
+- Model/program: Mazda’s Kei Supercar Only Has 63 HP But Still Pulls Miata Money
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mazda-autozam-az1/)
 
 ### Someone Dropped A Lexus V8 In Isuzu’s Wildest SUV, And It Sold For $12,000
 
