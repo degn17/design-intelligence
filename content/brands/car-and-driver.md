@@ -2,13 +2,163 @@
 
 ## Current positioning
 
-Generated internal notes from 144 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 159 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Mercedes-AMG GLS63, GLE63 S Revealed with New 603-HP V-8
+
+- Model/program: 2027 Mercedes-AMG GLS63, GLE63 S Revealed with New 603-HP V-8
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71588315/2027-mercedes-amg-gls63-gle63-s-revealed/)
+
+### View Exterior Photos of the 2027 Mercedes-AMG GLS63
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-AMG GLS63
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71574321/2027-mercedes-amg-gls63-exterior-gallery/)
+
+### View Interior Photos of the 2027 Mercedes-AMG GLS63
+
+- Model/program: View Interior Photos of the 2027 Mercedes-AMG GLS63
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71574437/2027-mercedes-amg-gls63-interior-gallery/)
+
+### View Exterior Photos of the 2027 Mercedes-AMG GLE63 S Coupe
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-AMG GLE63 S Coupe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71589337/2027-mercedes-amg-gle63-s-coupe-exterior-gallery/)
+
+### View Interior Photos of the 2027 Mercedes-AMG GLE63 S Coupe
+
+- Model/program: View Interior Photos of the 2027 Mercedes-AMG GLE63 S Coupe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71589346/2027-mercedes-amg-gle63-s-coupe-interior-gallery/)
+
+### View Photos of the Toyota M Concept Prototype
+
+- Model/program: View Photos of the Toyota M Concept Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71571985/toyota-mr2-concept-prototype-drive-gallery/)
+
+### We Drive (What Could Be) the Reborn Toyota MR2
+
+- Model/program: We Drive (What Could Be) the Reborn Toyota MR2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71578920/toyota-mr2-m-concept-prototype-drive/)
+
+### 2027 Jeep Grand Cherokee Regains the Trailhawk and Overland Trims
+
+- Model/program: 2027 Jeep Grand Cherokee Regains the Trailhawk and Overland Trims
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71593892/2027-jeep-grand-cherokee-trailhawk-overland-details/)
+
+### View Photos of the 2027 BMW G65 X5 Prototype
+
+- Model/program: View Photos of the 2027 BMW G65 X5 Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71589663/2027-bmw-x5-prototype-drive-gallery/)
+
+### 2027 BMW X5 Prototype Drive: EV Power Rises to the Top
+
+- Model/program: 2027 BMW X5 Prototype Drive: EV Power Rises to the Top
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71589409/2027-bmw-x5-prototype-drive/)
+
+### These Vehicles Are Dead for 2027
+
+- Model/program: These Vehicles Are Dead for 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/g71122494/dead-cars-trucks-2027/)
+
+### Honda's New Off-Road App Provides Live Data for TrailSport Owners
+
+- Model/program: Honda's New Off-Road App Provides Live Data for TrailSport Owners
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71591082/honda-trail-experience-app-passport-pilot-crv/)
+
+### New Tesla Cybercab Specs Have Been Revealed in EPA Documents
+
+- Model/program: New Tesla Cybercab Specs Have Been Revealed in EPA Documents
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71590701/tesla-cybercab-specs-epa-documents-revealed/)
+
+### 2027 Jeep Wrangler, Gladiator Sarge Models Salute Their Own History
+
+- Model/program: 2027 Jeep Wrangler, Gladiator Sarge Models Salute Their Own History
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71589618/2027-jeep-wrangler-gladiator-sarge-editions/)
+
+### Acura Combines Olympic Partnership with Pikes Peak Record Attempt
+
+- Model/program: Acura Combines Olympic Partnership with Pikes Peak Record Attempt
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71574303/acura-olympic-partnership-pikes-peak-record-attempt/)
 
 ### Your Car Is Smarter, But Fixing It Will Cost You
 

@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 205 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 223 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Got A Bugatti W16 Lying Around? A Designer Has The Perfect ‘Cuda For It
+
+- Model/program: Got A Bugatti W16 Lying Around? A Designer Has The Perfect ‘Cuda For It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/plymouth-cuda-bugatti-w16-render/)
+
+### BMW’s Next M3 Could Keep Three Pedals And Won’t Plug In
+
+- Model/program: BMW’s Next M3 Could Keep Three Pedals And Won’t Plug In
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2028-bmw-m3-ice-details/)
 
 ### Bovensiepen’s 05 GT Looks Restrained, But Packs A Punch
 
@@ -29,6 +49,166 @@ Generated internal notes from 205 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/range-rover-sport-facelift/)
+
+### AMG’s New 603-HP GLE And GLS Hit 174 MPH With A Flat-Plane V8
+
+- Model/program: AMG’s New 603-HP GLE And GLS Hit 174 MPH With A Flat-Plane V8
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mercedes-amg-gle63-gls63/)
+
+### Nissan’s New Frontier Sport Edition Adds The PRO-4X Look For $990
+
+- Model/program: Nissan’s New Frontier Sport Edition Adds The PRO-4X Look For $990
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2027-nissan-frontier-pricing/)
+
+### Honda’s Smallest Kei Pickup Tops Out At 55 MPH, But It’s Got Race Tires
+
+- Model/program: Honda’s Smallest Kei Pickup Tops Out At 55 MPH, But It’s Got Race Tires
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-acty-kei-truck/)
+
+### Skoda Tested The New Peaq EV In America
+
+- Model/program: Skoda Tested The New Peaq EV In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/skoda-peaq-testing/)
+
+### Nissan Built The Next Skyline In Half The Time By Copying China
+
+- Model/program: Nissan Built The Next Skyline In Half The Time By Copying China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-skyline-development-time/)
+
+### 2027 Jeep Grand Cherokee Ushers In Return Of Trailhawk and Overland Trims
+
+- Model/program: 2027 Jeep Grand Cherokee Ushers In Return Of Trailhawk and Overland Trims
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2027-jeep-grand-cherokee-overland-trailhawk/)
+
+### Dodge’s Charger SRT8 Came With Four Doors. This One-Off Has Two
+
+- Model/program: Dodge’s Charger SRT8 Came With Four Doors. This One-Off Has Two
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/metalcrafters-dodge-charger-coupe/)
+
+### Would You Buy The Pickup Cab Style That Only 3% Of Buyers Choose?
+
+- Model/program: Would You Buy The Pickup Cab Style That Only 3% Of Buyers Choose?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/regular-cab-pickup-qotd/)
+
+### Ford’s Giving Escape Owners A $10,000 Reason To Size Up To An Explorer
+
+- Model/program: Ford’s Giving Escape Owners A $10,000 Reason To Size Up To An Explorer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-escape-explorer-incentives/)
+
+### Porsche’s Cayenne Turbo Electric Makes 1,140 HP, This ICE Turbo Wants To Close The Gap
+
+- Model/program: Porsche’s Cayenne Turbo Electric Makes 1,140 HP, This ICE Turbo Wants To Close The Gap
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/porsche-cayenne-turbo-ehybrid-facelift/)
+
+### Mansory Calls This 1,085-HP Urus Its Understated Build
+
+- Model/program: Mansory Calls This 1,085-HP Urus Its Understated Build
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mansory-urus-se/)
+
+### These Retro Tacomas Look 40 Years Older Than They Are, And Start At $42,000
+
+- Model/program: These Retro Tacomas Look 40 Years Older Than They Are, And Start At $42,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/renoca-windansea-tacoma/)
+
+### 8 Million Cars Were Never Built, And You’re Paying For It At The Used Lot
+
+- Model/program: 8 Million Cars Were Never Built, And You’re Paying For It At The Used Lot
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/used-car-prices-pandemic/)
+
+### BMW Just Stuffed Its Biggest Battery Ever Into The New X5
+
+- Model/program: BMW Just Stuffed Its Biggest Battery Ever Into The New X5
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-ix5-x5-powertrains/)
+
+### Ford Admits Thousands Of Dashboards Can Still Go Blank Seven Years After The Fix
+
+- Model/program: Ford Admits Thousands Of Dashboards Can Still Go Blank Seven Years After The Fix
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-lincoln-cluster-recall/)
+
+### Peugeot Is Putting Le Mans Badges On Everything, Except Two Models
+
+- Model/program: Peugeot Is Putting Le Mans Badges On Everything, Except Two Models
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/peugeot-le-mans-editions/)
 
 ### Ford Walked Back Its EVs, Now Its Wildest Cars Are Getting Gas Engines Again
 
