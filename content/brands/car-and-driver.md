@@ -2,13 +2,213 @@
 
 ## Current positioning
 
-Generated internal notes from 159 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 179 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2026 Lexus ES EV
+
+- Model/program: 2026 Lexus ES EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/es-ev)
+
+### 2027 Toyota C-HR
+
+- Model/program: 2027 Toyota C-HR
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/c-hr-2027)
+
+### 2026 Toyota C-HR
+
+- Model/program: 2026 Toyota C-HR
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/c-hr)
+
+### 2027 Mercedes-AMG E53 Wagon
+
+- Model/program: 2027 Mercedes-AMG E53 Wagon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-amg/e53-wagon-2027)
+
+### 2028 Audi A6 Allroad
+
+- Model/program: 2028 Audi A6 Allroad
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/audi/a6-allroad-2028)
+
+### View Exterior Photos of the 2028 Audi A6 Allroad
+
+- Model/program: View Exterior Photos of the 2028 Audi A6 Allroad
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71604820/2028-audi-a6-allroad-revealed-exterior-gallery/)
+
+### View Interior Photos of the 2028 Audi A6 Allroad
+
+- Model/program: View Interior Photos of the 2028 Audi A6 Allroad
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71604819/2028-audi-a6-allroad-revealed-interior-gallery/)
+
+### 2027 Lexus RZ
+
+- Model/program: 2027 Lexus RZ
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/rz-2027)
+
+### 2028 Audi A6 Allroad Revealed with Wider Fenders, Modern Interior
+
+- Model/program: 2028 Audi A6 Allroad Revealed with Wider Fenders, Modern Interior
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71601580/2028-audi-a6-allroad-revealed/)
+
+### Bentley's New Special Edition Continentals Wear Dazzling Colors
+
+- Model/program: Bentley's New Special Edition Continentals Wear Dazzling Colors
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71603485/2027-bentley-continental-mulliner-bespoke-series-details/)
+
+### View Exterior Photos of the 2026 Lexus ES EV
+
+- Model/program: View Exterior Photos of the 2026 Lexus ES EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71339063/2026-lexus-es-ev-drive-exterior-gallery/)
+
+### View Interior Photos of the 2026 Lexus ES EV
+
+- Model/program: View Interior Photos of the 2026 Lexus ES EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71339645/2026-lexus-es-ev-drive-interior-gallery/)
+
+### Tested: 2026 Lexus ES Goes Electric and Must Play a New Role
+
+- Model/program: Tested: 2026 Lexus ES Goes Electric and Must Play a New Role
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71362521/2026-lexus-es-ev-drive/)
+
+### 2027 Chevy Silverado ZR2 and Trail Boss Revealed with Off-Road Chops
+
+- Model/program: 2027 Chevy Silverado ZR2 and Trail Boss Revealed with Off-Road Chops
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71590840/2027-chevy-silverado-zr2-trail-boss-details/)
+
+### View Exterior Photos of the 2027 Chevrolet Silverado 1500
+
+- Model/program: View Exterior Photos of the 2027 Chevrolet Silverado 1500
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71590357/2027-chevrolet-silverado-1500-exterior-gallery/)
+
+### Screens Galore: 2027 Chevy Silverado Debuts a More Modern Cabin
+
+- Model/program: Screens Galore: 2027 Chevy Silverado Debuts a More Modern Cabin
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71591013/2027-chevy-silverado-1500-interior-revealed/)
+
+### 2027 Chevy Silverado 1500 Makes Ford's F-150 and Ram's Trucks Look Old
+
+- Model/program: 2027 Chevy Silverado 1500 Makes Ford's F-150 and Ram's Trucks Look Old
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71593074/2027-chevy-silverado-1500-revealed/)
+
+### View Interior Photos of the 2027 Chevrolet Silverado 1500
+
+- Model/program: View Interior Photos of the 2027 Chevrolet Silverado 1500
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71590381/2027-chevrolet-silverado-1500-interior-gallery/)
+
+### The Genesis Box Buggy Lets You Rip Four-Wheel Peels on the Golf Course
+
+- Model/program: The Genesis Box Buggy Lets You Rip Four-Wheel Peels on the Golf Course
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71595633/genesis-box-buggy-concept-details/)
+
+### Driven: 1992 Ferrari 512TR Improves the Testarossa Formula
+
+- Model/program: Driven: 1992 Ferrari 512TR Improves the Testarossa Formula
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71535420/1992-ferrari-512tr-archive-drive/)
 
 ### 2027 Mercedes-AMG GLS63, GLE63 S Revealed with New 603-HP V-8
 

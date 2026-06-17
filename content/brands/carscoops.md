@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 223 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 241 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Honda’s New App Films Off-Road Runs From An iPhone Stuck Outside Your SUV
+
+- Model/program: Honda’s New App Films Off-Road Runs From An iPhone Stuck Outside Your SUV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-trailsport-app/)
+
+### Mobileye Built The Brains For Everyone Else, Now It Wants Its Own Robotaxis
+
+- Model/program: Mobileye Built The Brains For Everyone Else, Now It Wants Its Own Robotaxis
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mobileye-robotaxi-service/)
 
 ### Got A Bugatti W16 Lying Around? A Designer Has The Perfect ‘Cuda For It
 
@@ -29,6 +49,166 @@ Generated internal notes from 223 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/2028-bmw-m3-ice-details/)
+
+### Kia’s Carnival Grows 11 Inches Taller In Korea
+
+- Model/program: Kia’s Carnival Grows 11 Inches Taller In Korea
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/kia-carnival-high-roof/)
+
+### GM Just Got Drafted Into America’s Weapons Business
+
+- Model/program: GM Just Got Drafted Into America’s Weapons Business
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gm-defense-lockheed-martin/)
+
+### Pennsylvania Cops Ticketed Nearly 700 Drivers For Holding A Phone In 72 Hours
+
+- Model/program: Pennsylvania Cops Ticketed Nearly 700 Drivers For Holding A Phone In 72 Hours
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/pennsylvania-hands-free-law-2/)
+
+### BMW’s $580,000 V8 Shooting Brake Spied Undisguised
+
+- Model/program: BMW’s $580,000 V8 Shooting Brake Spied Undisguised
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-speedtop-production-spied/)
+
+### Demand For The New i3 Is So High BMW Is Opening Orders Now Instead Of Fall
+
+- Model/program: Demand For The New i3 Is So High BMW Is Opening Orders Now Instead Of Fall
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-i3-orders-early/)
+
+### Bentley Embraces Annual Product Drops With New Bespoke Series
+
+- Model/program: Bentley Embraces Annual Product Drops With New Bespoke Series
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bentley-bespoke-series-2026/)
+
+### Rivian’s R2 Costs More To Lease Now Than The Bigger R1S Did A Month Ago
+
+- Model/program: Rivian’s R2 Costs More To Lease Now Than The Bigger R1S Did A Month Ago
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/rivian-r2-lease-pricing/)
+
+### Ram’s 9-Speed Is Really A 7-Speed, Lawsuit Claims
+
+- Model/program: Ram’s 9-Speed Is Really A 7-Speed, Lawsuit Claims
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lawsuit-claims-rams-9-speed-is-really-a-7-speed/)
+
+### Lucid’s Sub-$50K Cosmos EV Revealed In Patent Drawings
+
+- Model/program: Lucid’s Sub-$50K Cosmos EV Revealed In Patent Drawings
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lucids-sub-50k-cosmos-ev-revealed-in-patent-drawings/)
+
+### This Daihatsu Kei Hot Hatch Packs 5 Speeds, 4 Cylinders, And A US Passport
+
+- Model/program: This Daihatsu Kei Hot Hatch Packs 5 Speeds, 4 Cylinders, And A US Passport
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/daihatsu-mira-kei-hatch/)
+
+### Toyota Replaced Thousands Of These V6s, A Mechanic’s Teardown Shows Why
+
+- Model/program: Toyota Replaced Thousands Of These V6s, A Mechanic’s Teardown Shows Why
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-v6-teardown-debris/)
+
+### Your Next Oil Change Could Be Delayed, Even If The Strait Reopens
+
+- Model/program: Your Next Oil Change Could Be Delayed, Even If The Strait Reopens
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hormuz-auto-supply-shortage/)
+
+### Chevy’s 2027 Silverado Gets Two All-New V8s While The Industry Chases Turbos
+
+- Model/program: Chevy’s 2027 Silverado Gets Two All-New V8s While The Industry Chases Turbos
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chevrolet-silverado-1500-redesign/)
+
+### Ford Now Destroys One New Engine A Day, And It Thinks It’s Working
+
+- Model/program: Ford Now Destroys One New Engine A Day, And It Thinks It’s Working
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-engine-teardown-quality/)
+
+### Lincoln’s Best-Selling SUV Could Be Banned In America
+
+- Model/program: Lincoln’s Best-Selling SUV Could Be Banned In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lincoln-nautilius-sales-ban/)
+
+### A $10 Ronaldo Doll Head Is Fooling Tesla So Drivers Can Doze Off
+
+- Model/program: A $10 Ronaldo Doll Head Is Fooling Tesla So Drivers Can Doze Off
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/tesla-driver-monitoring-doll-head/)
 
 ### Bovensiepen’s 05 GT Looks Restrained, But Packs A Punch
 
