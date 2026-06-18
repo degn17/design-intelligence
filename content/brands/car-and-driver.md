@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 179 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 187 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Land Rover Is Planning a Stellantis-Based Defender for the U.S.
+
+- Model/program: Land Rover Is Planning a Stellantis-Based Defender for the U.S.
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71618173/jaguar-land-rover-stellantis-based-defender-announced/)
+
+### Ford's $30,000 Electric Truck Looks Promising in First Videos
+
+- Model/program: Ford's $30,000 Electric Truck Looks Promising in First Videos
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71606026/ford-ev-truck-first-look-videos/)
+
+### Tested: 2026 Tesla Model Y Performance Takes the Edge Off
+
+- Model/program: Tested: 2026 Tesla Model Y Performance Takes the Edge Off
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a69496119/2026-tesla-model-y-performance-drive/)
+
+### View Interior Photos of the 2026 Tesla Model Y Performance
+
+- Model/program: View Interior Photos of the 2026 Tesla Model Y Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g69497279/2026-tesla-model-y-performance-drive-interior-gallery/)
+
+### View Exterior Photos of the 2026 Tesla Model Y Performance
+
+- Model/program: View Exterior Photos of the 2026 Tesla Model Y Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g69497231/2026-tesla-model-y-performance-drive-exterior-gallery/)
+
+### Patent Images Provide First Look at the Radical Lucid Cosmos
+
+- Model/program: Patent Images Provide First Look at the Radical Lucid Cosmos
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71605805/lucid-cosmos-patent-images/)
+
+### 2027 Porsche Taycan
+
+- Model/program: 2027 Porsche Taycan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/porsche/taycan-2027)
+
+### 2027 Porsche Taycan Gets Simulated Shifts, Larger Standard Battery
+
+- Model/program: 2027 Porsche Taycan Gets Simulated Shifts, Larger Standard Battery
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71605333/2027-porsche-taycan-updates/)
 
 ### 2026 Lexus ES EV
 

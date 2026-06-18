@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 241 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 259 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Aston’s $3.5M Hypercar Can Catch Fire, But Only If You Do Six Things At Once
+
+- Model/program: Aston’s $3.5M Hypercar Can Catch Fire, But Only If You Do Six Things At Once
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/aston-martin-valkyrie-recall/)
+
+### Stellantis Has Maserati’s Future Down To Two Mystery Partners
+
+- Model/program: Stellantis Has Maserati’s Future Down To Two Mystery Partners
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/maseratis-partnership-talks/)
 
 ### Honda’s New App Films Off-Road Runs From An iPhone Stuck Outside Your SUV
 
@@ -29,6 +49,166 @@ Generated internal notes from 241 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/mobileye-robotaxi-service/)
+
+### Rivian Laid Off Hundreds Days After Launching The Car Meant To Save It
+
+- Model/program: Rivian Laid Off Hundreds Days After Launching The Car Meant To Save It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/rivian-layoffs-r2/)
+
+### Gas Is Up 27%, Yet A Record Number Of Americans Will Drive For The Fourth Anyway
+
+- Model/program: Gas Is Up 27%, Yet A Record Number Of Americans Will Drive For The Fourth Anyway
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/july-4-travel-2026/)
+
+### Chevy Never Built A Colorado V8, But Holden Did Before GM Killed It
+
+- Model/program: Chevy Never Built A Colorado V8, But Holden Did Before GM Killed It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hsv-colorado-sportscat-v8/)
+
+### Jeremy Clarkson Reveals Aggressive Cancer Diagnosis
+
+- Model/program: Jeremy Clarkson Reveals Aggressive Cancer Diagnosis
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/jeremy-clarkson-reveals-aggressive-cancer-diagnosis/)
+
+### Uber’s Next Robotaxi Could Be A Stellantis Minivan
+
+- Model/program: Uber’s Next Robotaxi Could Be A Stellantis Minivan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/stellantis-wayve-uber-robotaxi/)
+
+### Rolls-Royce Was Winning Races 120 Years Ago, This Ghost Black Badge Pays Tribute
+
+- Model/program: Rolls-Royce Was Winning Races 120 Years Ago, This Ghost Black Badge Pays Tribute
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/rolls-royce-ghost-black-badge-tourist-trophy/)
+
+### Chery Took Suzuki’s Truck Name, And Suzuki Says It’s Flattered
+
+- Model/program: Chery Took Suzuki’s Truck Name, And Suzuki Says It’s Flattered
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chery-stockman-pickup-name/)
+
+### Slate’s Website May Have Spilled The $24,950 Price It Was Hiding
+
+- Model/program: Slate’s Website May Have Spilled The $24,950 Price It Was Hiding
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/slate-truck-pricing-leak/)
+
+### Corvette Owners Say The ZR1’s Wing Is Cracking Its Own Paint Past 180 MPH
+
+- Model/program: Corvette Owners Say The ZR1’s Wing Is Cracking Its Own Paint Past 180 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/corvette-zr1-wing-paint/)
+
+### Tesla’s Cybercab Weighs 700 Pounds Less Than The Lightest Model 3
+
+- Model/program: Tesla’s Cybercab Weighs 700 Pounds Less Than The Lightest Model 3
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/tesla-cybercab-epa-specs/)
+
+### The Baby Defender Was Supposed To Be Electric, JLR Just Changed Its Mind
+
+- Model/program: The Baby Defender Was Supposed To Be Electric, JLR Just Changed Its Mind
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/baby-defender-hybrid-ema-platform/)
+
+### Ford Botched Repairs On Over 125,000 Vehicles, Leading To Four New Recalls
+
+- Model/program: Ford Botched Repairs On Over 125,000 Vehicles, Leading To Four New Recalls
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-issues-five-new-recalls/)
+
+### Slate’s EV Pickup Is So Cheap It’ll Make You Wrap It At Home
+
+- Model/program: Slate’s EV Pickup Is So Cheap It’ll Make You Wrap It At Home
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/slate-truck-wraps-pricing/)
+
+### Mitsubishi Showed US Dealers The New Pajero That’s Returning As The Montero
+
+- Model/program: Mitsubishi Showed US Dealers The New Pajero That’s Returning As The Montero
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mitsubishi-montero-pajero-return/)
+
+### This Rusty $450,000 Chevy C10 Is Secretly A Brand-New Silverado
+
+- Model/program: This Rusty $450,000 Chevy C10 Is Secretly A Brand-New Silverado
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/icon-4x4-chevrolet-c10/)
+
+### Tesla Is Eating Up More Of America’s EV Market As Many Rivals Fall Apart
+
+- Model/program: Tesla Is Eating Up More Of America’s EV Market As Many Rivals Fall Apart
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/us-ev-registrations-april/)
 
 ### Got A Bugatti W16 Lying Around? A Designer Has The Perfect ‘Cuda For It
 
