@@ -2,13 +2,163 @@
 
 ## Current positioning
 
-Generated internal notes from 187 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 202 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A New Mitsubishi Montero Is Coming, but Not as Soon as Expected
+
+- Model/program: A New Mitsubishi Montero Is Coming, but Not as Soon as Expected
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71630930/mitsubishi-montero-release-timing-2030/)
+
+### 2027 Maserati Grecale Folgore
+
+- Model/program: 2027 Maserati Grecale Folgore
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/maserati/grecale-folgore-2027)
+
+### 2027 Maserati GranTurismo Folgore / GranCabrio Folgore
+
+- Model/program: 2027 Maserati GranTurismo Folgore / GranCabrio Folgore
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/maserati/granturismo-folgore-grancabrio-folgore-2027)
+
+### Maserati Drops the Price of the Electric GranTurismo by over $57K
+
+- Model/program: Maserati Drops the Price of the Electric GranTurismo by over $57K
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71630821/2027-maserati-granturismo-grancabrio-folgore-price-cuts/)
+
+### Slate May Have Accidentally Leaked the Price for Its Electric Truck
+
+- Model/program: Slate May Have Accidentally Leaked the Price for Its Electric Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71628222/slate-truck-price-leaked/)
+
+### Porsche Axes the Gorgeous Taycan Cross Turismo and Sport Turismo
+
+- Model/program: Porsche Axes the Gorgeous Taycan Cross Turismo and Sport Turismo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71628060/porsche-taycan-cross-turismo-sport-turismo-dead/)
+
+### Driven: 2000 BMW M5 Is a Four-Door German Corvette
+
+- Model/program: Driven: 2000 BMW M5 Is a Four-Door German Corvette
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/)
+
+### GM's Mark Reuss Tells Us What He Really Thinks About the Past and the Future
+
+- Model/program: GM's Mark Reuss Tells Us What He Really Thinks About the Past and the Future
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71536090/gms-mark-reuss-tells-us-what-he-really-thinks/)
+
+### View Exterior Photos of the 2026 Ram 2500 Tradesman
+
+- Model/program: View Exterior Photos of the 2026 Ram 2500 Tradesman
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71525268/2026-ram-2500-tradesman-test-exterior-gallery/)
+
+### View Interior Photos of the 2026 Ram 2500 Tradesman
+
+- Model/program: View Interior Photos of the 2026 Ram 2500 Tradesman
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71525136/2026-ram-2500-tradesman-test-interior-gallery/)
+
+### 2026 Ram 2500 Tradesman Test: Power to the People
+
+- Model/program: 2026 Ram 2500 Tradesman Test: Power to the People
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71523416/2026-ram-2500-tradesman-test/)
+
+### Koenigsegg Sadair’s Spear Is Lego's Most Ambitious Technic Set Yet
+
+- Model/program: Koenigsegg Sadair’s Spear Is Lego's Most Ambitious Technic Set Yet
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71619522/koenigsegg-sadairs-spear-lego-technic-set/)
+
+### 2027 Maserati Grecale
+
+- Model/program: 2027 Maserati Grecale
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/maserati/grecale-2027)
+
+### 2027 Maserati Grecale Gets New Base Model, More Range for the EV
+
+- Model/program: 2027 Maserati Grecale Gets New Base Model, More Range for the EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71617188/2027-maserati-grecale-refresh-details/)
+
+### 2027 Maserati GranTurismo Gets More Power and a Sharper Look
+
+- Model/program: 2027 Maserati GranTurismo Gets More Power and a Sharper Look
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71616982/2027-maserati-granturismo-refresh-details/)
 
 ### Land Rover Is Planning a Stellantis-Based Defender for the U.S.
 

@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 259 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 277 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ferrari’s Dino Threw Away Its Original V6 For A V8, And Bidders Pushed It Past $800,000
+
+- Model/program: Ferrari’s Dino Threw Away Its Original V6 For A V8, And Bidders Pushed It Past $800,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ferrari-dino-246-gts-v8-swap/)
+
+### Ford’s New Package Turns Super Duty Into Rolling Tribute To America
+
+- Model/program: Ford’s New Package Turns Super Duty Into Rolling Tribute To America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-proud-to-honor/)
 
 ### Aston’s $3.5M Hypercar Can Catch Fire, But Only If You Do Six Things At Once
 
@@ -29,6 +49,166 @@ Generated internal notes from 259 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/maseratis-partnership-talks/)
+
+### Bugatti’s Top Golf Set Costs $72,000, More Than A New Corvette
+
+- Model/program: Bugatti’s Top Golf Set Costs $72,000, More Than A New Corvette
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bugatti-honma-golf-clubs/)
+
+### Maserati’s Next Quattroporte Could Take After The AMC Eagle Of All Things
+
+- Model/program: Maserati’s Next Quattroporte Could Take After The AMC Eagle Of All Things
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/future-maserati-quattroporte/)
+
+### So Ferrari’s $636K Luce Is Basically The ‘Buy The Boring Rolex To Get The Daytona’ Trick
+
+- Model/program: So Ferrari’s $636K Luce Is Basically The ‘Buy The Boring Rolex To Get The Daytona’ Trick
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ferraris-new-ev-might-be-the-most-expensive-waiting-list-application-ever/)
+
+### Toyota’s Own CEO Says It Has Too Many Models. Which Would You Axe?
+
+- Model/program: Toyota’s Own CEO Says It Has Too Many Models. Which Would You Axe?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-ceo-wants-to-streamline-lineup/)
+
+### A Nuclear Bomber Engine Gave This Jet Car 5,200 Pounds Of Thrust
+
+- Model/program: A Nuclear Bomber Engine Gave This Jet Car 5,200 Pounds Of Thrust
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/flying-caduceus-auction/)
+
+### BMW Opens i3 Orders With New 463-HP First Edition
+
+- Model/program: BMW Opens i3 Orders With New 463-HP First Edition
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-i3-50-xdrive-first-edition/)
+
+### This 69-MPH Life-Size Koenigsegg Is The Fastest Drivable Lego Ever
+
+- Model/program: This 69-MPH Life-Size Koenigsegg Is The Fastest Drivable Lego Ever
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lego-koenigsegg-sadairs-spear/)
+
+### A Toyota GR Sienna Minivan Sounds Wrong, Until You See This Render
+
+- Model/program: A Toyota GR Sienna Minivan Sounds Wrong, Until You See This Render
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-gr-sienna-render/)
+
+### Florida Man Was Doing 90 With 34 Open White Claws On His Passenger Seat
+
+- Model/program: Florida Man Was Doing 90 With 34 Open White Claws On His Passenger Seat
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/florida-civic-dui-white-claw/)
+
+### These License Plate Cameras Can Track Your Car By Your AirPods And Even Your Dog
+
+- Model/program: These License Plate Cameras Can Track Your Car By Your AirPods And Even Your Dog
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/signaltrace-plate-reader-tracking/)
+
+### GM Added 50 Robots To A Plant Where It Just Laid Off Over 1,000 Workers
+
+- Model/program: GM Added 50 Robots To A Plant Where It Just Laid Off Over 1,000 Workers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gm-factory-zero-cobots/)
+
+### Waymo’s Self-Driving Brain Can’t Spot A Closed Freeway
+
+- Model/program: Waymo’s Self-Driving Brain Can’t Spot A Closed Freeway
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/waymo-robotaxi-recall/)
+
+### Hyundai’s New Wedgy Sedan Claims 404 Miles On A Surprisingly Small Battery
+
+- Model/program: Hyundai’s New Wedgy Sedan Claims 404 Miles On A Surprisingly Small Battery
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hyundai-ioniq-v-range/)
+
+### This 1984 Oldsmobile Has Three Shifters For One Automatic Transmission
+
+- Model/program: This 1984 Oldsmobile Has Three Shifters For One Automatic Transmission
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hurst-lightning-rods-cutlass/)
+
+### Mazda Says A Finger On A Screen Beats Reaching For 15 Similar Buttons
+
+- Model/program: Mazda Says A Finger On A Screen Beats Reaching For 15 Similar Buttons
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mazda-cx-5-touchscreen-controls/)
+
+### Dacia’s Budget EV Is Leaving China For Europe, And It’s Getting Pricier
+
+- Model/program: Dacia’s Budget EV Is Leaving China For Europe, And It’s Getting Pricier
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/dacia-spring-redesign/)
 
 ### Honda’s New App Films Off-Road Runs From An iPhone Stuck Outside Your SUV
 
