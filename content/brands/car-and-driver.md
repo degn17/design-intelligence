@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 202 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 211 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Photos of the 2027 Kia Telluride SX Prestige Hybrid AWD
+
+- Model/program: View Photos of the 2027 Kia Telluride SX Prestige Hybrid AWD
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71614397/2027-kia-telluride-sx-prestige-hybrid-awd-gallery/)
+
+### 2027 Kia Telluride vs. 2026 Toyota Grand Highlander: A Battle of Two Hybrid Three-Row SUVs
+
+- Model/program: 2027 Kia Telluride vs. 2026 Toyota Grand Highlander: A Battle of Two Hybrid Three-Row SUVs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a71547035/2027-kia-telluride-hybrid-vs-2026-toyota-grand-highlander-hybrid-comparison-test/)
+
+### View Photos of the 2026 Toyota Grand Highlander Platinum Hybrid Max
+
+- Model/program: View Photos of the 2026 Toyota Grand Highlander Platinum Hybrid Max
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71614520/2026-toyota-grand-highlander-platinum-hybrid-max-gallery/)
+
+### We Tour a Facility in China to See How EV Charging Equipment Is Made
+
+- Model/program: We Tour a Facility in China to See How EV Charging Equipment Is Made
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71630549/lectron-factory-tour-how-ev-charging-equipment-is-made/)
+
+### BMW Hasn't Ruled Out More Fast Wagons for the U.S.
+
+- Model/program: BMW Hasn't Ruled Out More Fast Wagons for the U.S.
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71630579/bmw-hasnt-ruled-out-more-fast-wagons-for-the-us/)
+
+### 1250-HP Chevy Corvette ZR1X Is Now the Quickest Car We’ve Ever Tested
+
+- Model/program: 1250-HP Chevy Corvette ZR1X Is Now the Quickest Car We’ve Ever Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71628040/2026-chevy-corvette-zr1x-quickest-60-mph-time-test/)
+
+### View Exterior Photos of the 2028 Mercedes-Benz VLE-Class EV
+
+- Model/program: View Exterior Photos of the 2028 Mercedes-Benz VLE-Class EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71605534/2028-mercedes-benz-vle-class-ev-drive-exterior-gallery/)
+
+### View Interior Photos of the 2028 Mercedes-Benz VLE-Class EV
+
+- Model/program: View Interior Photos of the 2028 Mercedes-Benz VLE-Class EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71605710/2028-mercedes-benz-vle-class-ev-drive-interior-gallery/)
+
+### 2028 Mercedes-Benz VLE-Class First Drive: Don't Call It a Minivan
+
+- Model/program: 2028 Mercedes-Benz VLE-Class First Drive: Don't Call It a Minivan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71605316/2028-mercedes-benz-vle-class-ev-drive/)
 
 ### A New Mitsubishi Montero Is Coming, but Not as Soon as Expected
 

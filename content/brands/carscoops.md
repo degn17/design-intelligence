@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 277 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 295 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Nissan Gives Aussies One Last Shot At A New V8 Patrol
+
+- Model/program: Nissan Gives Aussies One Last Shot At A New V8 Patrol
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-patrol-v8-production-end/)
+
+### Detroit Automakers Slashed Canadian Production, Setting Up Tense Union Talks
+
+- Model/program: Detroit Automakers Slashed Canadian Production, Setting Up Tense Union Talks
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/detroit-three-unifor-talks/)
 
 ### Ferrari’s Dino Threw Away Its Original V6 For A V8, And Bidders Pushed It Past $800,000
 
@@ -29,6 +49,166 @@ Generated internal notes from 277 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/ford-proud-to-honor/)
+
+### Toyota’s Cheap 80s Minivan Made Real Ice Cubes While You Drove
+
+- Model/program: Toyota’s Cheap 80s Minivan Made Real Ice Cubes While You Drove
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-liteace-ice-maker/)
+
+### Canada May Be Losing The Silverado 1500 For Good
+
+- Model/program: Canada May Be Losing The Silverado 1500 For Good
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/oshawa-assembly-lose-silverado-1500/)
+
+### Massachusetts Will Spend Up To $75M To Stop Drivers Going The Wrong Way
+
+- Model/program: Massachusetts Will Spend Up To $75M To Stop Drivers Going The Wrong Way
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/massachusetts-wrong-way-driver-detection/)
+
+### 1250 HP Corvette ZR1X Aiming For New Pikes Peak Production Record
+
+- Model/program: 1250 HP Corvette ZR1X Aiming For New Pikes Peak Production Record
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/corvette-zr1x-pikes-peak/)
+
+### Suzuki’s Most Expensive Jimny Ever Comes With A Box Of Chocolates
+
+- Model/program: Suzuki’s Most Expensive Jimny Ever Comes With A Box Of Chocolates
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/suzuki-jimny-rhino-edition-2/)
+
+### This Porsche Wagon’s Puke Green Paint Job Took Hundreds Of Hours To Create
+
+- Model/program: This Porsche Wagon’s Puke Green Paint Job Took Hundreds Of Hours To Create
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/porsche-taycan-soho-house/)
+
+### Subaru’s Cheapest Kei Truck Does Everything A Silverado Won’t
+
+- Model/program: Subaru’s Cheapest Kei Truck Does Everything A Silverado Won’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/subaru-sambar-kei-truck/)
+
+### Ford Accuses Law Firm Of Billing $950 An Hour For $13 Work In Mexico And The Philippines
+
+- Model/program: Ford Accuses Law Firm Of Billing $950 An Hour For $13 Work In Mexico And The Philippines
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-lemon-law-lawsuit/)
+
+### North America Cratered And Even China Fell, Dragging Global EV And PHEV Growth To 0.9%
+
+- Model/program: North America Cratered And Even China Fell, Dragging Global EV And PHEV Growth To 0.9%
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/north-america-lags-as-global-ev-and-phev-sales-rise/)
+
+### Shop Called ‘The Good Car Dealer’ Charged With Forging A Dead Woman’s Name To Resell Hail Wrecks
+
+- Model/program: Shop Called ‘The Good Car Dealer’ Charged With Forging A Dead Woman’s Name To Resell Hail Wrecks
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/utah-dealer-title-forgery-charges/)
+
+### JLR May Build A Stellantis-Based Defender In America
+
+- Model/program: JLR May Build A Stellantis-Based Defender In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/jlr-defender-stellantis-us/)
+
+### This GT40 Successor Ditched Ford For An Audi R8
+
+- Model/program: This GT40 Successor Ditched Ford For An Audi R8
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/cav-gt40-mkii-successor/)
+
+### Illinois Was The Only State Forcing A Driving Test At 79, That Ends July 1
+
+- Model/program: Illinois Was The Only State Forcing A Driving Test At 79, That Ends July 1
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/illinois-senior-driving-test/)
+
+### Porsche Killed A Body Style It Spent Years Convincing America To Buy
+
+- Model/program: Porsche Killed A Body Style It Spent Years Convincing America To Buy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/porsche-taycan-wagon-discontinued/)
+
+### Trump Fought Chinese EVs, Then A Hot Mic Caught Him Liking Canada’s Deal
+
+- Model/program: Trump Fought Chinese EVs, Then A Hot Mic Caught Him Liking Canada’s Deal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/canada-china-ev-deal-trump/)
+
+### Toyota And Nissan Warn Japanese Buyers Their US-Built Cars May Have Panel Gaps And Paint Flaws
+
+- Model/program: Toyota And Nissan Warn Japanese Buyers Their US-Built Cars May Have Panel Gaps And Paint Flaws
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/japan-us-built-quality-warning/)
 
 ### Aston’s $3.5M Hypercar Can Catch Fire, But Only If You Do Six Things At Once
 
