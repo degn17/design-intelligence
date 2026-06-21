@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 211 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 216 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Koenigsegg Jesko Absolut Just Blew Two Production-Car Speed Records to Smithereens
+
+- Model/program: Koenigsegg Jesko Absolut Just Blew Two Production-Car Speed Records to Smithereens
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71628845/koenigsegg-jesko-absolut-beats-speed-records/)
+
+### What Does It Take to Debut at the 24 Hours of Le Mans?
+
+- Model/program: What Does It Take to Debut at the 24 Hours of Le Mans?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71644373/24-hours-of-le-mans-genesis-magma-racing-history/)
+
+### 1979 AMC Spirit AMX on Bring a Trailer Has Trans Am Envy
+
+- Model/program: 1979 AMC Spirit AMX on Bring a Trailer Has Trans Am Envy
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71619729/1979-amc-spirit-amx-bring-a-trailer-auction/)
+
+### 1997 Luxury Sedans Compared: Different Approaches to Luxury
+
+- Model/program: 1997 Luxury Sedans Compared: Different Approaches to Luxury
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/)
+
+### View Photos of the 1997 Luxury Sedan Comparison Test
+
+- Model/program: View Photos of the 1997 Luxury Sedan Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71621402/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test-gallery/)
 
 ### View Photos of the 2027 Kia Telluride SX Prestige Hybrid AWD
 

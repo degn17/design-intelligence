@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 295 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 305 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Sovereign Citizen Rejects The Cop’s Authority, The PIT Maneuver Rejects Her Hyundai
+
+- Model/program: Sovereign Citizen Rejects The Cop’s Authority, The PIT Maneuver Rejects Her Hyundai
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hoquiam-sovereign-citizen-pursuit/)
 
 ### Nissan Gives Aussies One Last Shot At A New V8 Patrol
 
@@ -29,6 +39,96 @@ Generated internal notes from 295 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/detroit-three-unifor-talks/)
+
+### Maserati’s Best Idea In Years Could Be A Clutch Pedal
+
+- Model/program: Maserati’s Best Idea In Years Could Be A Clutch Pedal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/maserati-manual-supercar/)
+
+### A Free Tool Maps The License Plate Readers On Your Route, Then Lets You Slide Right Past Them
+
+- Model/program: A Free Tool Maps The License Plate Readers On Your Route, Then Lets You Slide Right Past Them
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/deflock-camera-avoidance-tool/)
+
+### This $21K Mini Chevy K5 Blazer Is Actually A 64-HP Suzuki Jimny
+
+- Model/program: This $21K Mini Chevy K5 Blazer Is Actually A 64-HP Suzuki Jimny
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/suzuki-jimny-chevy-blazer-kit/)
+
+### Charger And Hummer EV Owners Most Likely To Drink, Speed, And Crash, But A Cheap Kia Stole The Headline
+
+- Model/program: Charger And Hummer EV Owners Most Likely To Drink, Speed, And Crash, But A Cheap Kia Stole The Headline
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ev-driver-behavior-study/)
+
+### $12,000 Discounts Still Can’t Move The Edge, Two Years After Ford Killed It
+
+- Model/program: $12,000 Discounts Still Can’t Move The Edge, Two Years After Ford Killed It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-edge-firesale/)
+
+### The 2026 Kia Sorento GT-Line PHEV Is Good, But The Diesel Is Better | Review
+
+- Model/program: The 2026 Kia Sorento GT-Line PHEV Is Good, But The Diesel Is Better | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/kia-sorento-phev-review/)
+
+### This $900,000 Nissan GT-R Is One Of Just 19 Ever Built
+
+- Model/program: This $900,000 Nissan GT-R Is One Of Just 19 Ever Built
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-gt-r50-auction/)
+
+### A $255K Corvette Embarrassed A $4.3M Bugatti To 60 MPH
+
+- Model/program: A $255K Corvette Embarrassed A $4.3M Bugatti To 60 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/corvette-zr1x-acceleration-test/)
+
+### Honda’s Cheapest EV Has A Boost Button That Cuts Its 0-62 Time By Over 4 Seconds
+
+- Model/program: Honda’s Cheapest EV Has A Boost Button That Cuts Its 0-62 Time By Over 4 Seconds
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-super-n-europe-2/)
 
 ### Ferrari’s Dino Threw Away Its Original V6 For A V8, And Bidders Pushed It Past $800,000
 
