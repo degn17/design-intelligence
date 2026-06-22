@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 305 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 315 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A Generation Of Americans Knew This Tiny Pickup Only From Gran Turismo
+
+- Model/program: A Generation Of Americans Knew This Tiny Pickup Only From Gran Turismo
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/daihatsu-midget-ii-auction/)
 
 ### Sovereign Citizen Rejects The Cop’s Authority, The PIT Maneuver Rejects Her Hyundai
 
@@ -19,6 +29,96 @@ Generated internal notes from 305 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/hoquiam-sovereign-citizen-pursuit/)
+
+### Alpina’s Founders Built A 790-HP Sleeper Wagon, But The Sedan Fans Want Is Just A Render
+
+- Model/program: Alpina’s Founders Built A 790-HP Sleeper Wagon, But The Sedan Fans Want Is Just A Render
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bovensiepen-05-gt-sedan-render/)
+
+### We Play Passenger With Stellantis Hands-Free Active Driving Assist | Review
+
+- Model/program: We Play Passenger With Stellantis Hands-Free Active Driving Assist | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/stellantis-hands-free-active-driving-assist-review/)
+
+### The 1969 Hurst/Olds Had A ‘His And Hers’ Shifter, And Yes, It Means What You Think
+
+- Model/program: The 1969 Hurst/Olds Had A ‘His And Hers’ Shifter, And Yes, It Means What You Think
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hurst-olds-dual-gate-shifter/)
+
+### A $63,500 Range Rover Discounted To $26,600 Shows Why Brands Can’t Win The EV Debate
+
+- Model/program: A $63,500 Range Rover Discounted To $26,600 Shows Why Brands Can’t Win The EV Debate
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/range-rover-evoque-china-discounts/)
+
+### This $18K Toyota Van Hides A Private Bathroom With A Shower In The Back
+
+- Model/program: This $18K Toyota Van Hides A Private Bathroom With A Shower In The Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-hiace-shower-conversion/)
+
+### The 519-HP 2026 Optiq-V Is A Cadillac That Stopped Acting Like One | Review
+
+- Model/program: The 519-HP 2026 Optiq-V Is A Cadillac That Stopped Acting Like One | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/cadillac-optiq-v-review/)
+
+### 137,000 Catalytic Converters Were Stolen Last Year, And Hybrids Are The $1,400 Prize
+
+- Model/program: 137,000 Catalytic Converters Were Stolen Last Year, And Hybrids Are The $1,400 Prize
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/catalytic-converter-theft-resurgence/)
+
+### China’s Answer To Europe’s EV Tariffs Came With A Gas Tank
+
+- Model/program: China’s Answer To Europe’s EV Tariffs Came With A Gas Tank
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/eu-china-hybrid-tariffs/)
+
+### This $880 Kit Turns Suzuki’s Boxy Kei Car Into A Retro Off-Roader
+
+- Model/program: This $880 Kit Turns Suzuki’s Boxy Kei Car Into A Retro Off-Roader
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/suzuki-spacia-gear-damd-kit/)
 
 ### Nissan Gives Aussies One Last Shot At A New V8 Patrol
 

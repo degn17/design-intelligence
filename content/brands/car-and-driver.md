@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 216 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 219 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Which Mazda CX-90 Model Is the Best Buy for You?
+
+- Model/program: Which Mazda CX-90 Model Is the Best Buy for You?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71651807/mazda-cx-90-trim-level-what-to-buy/)
+
+### Mega-Miles 1983 Subaru GL 4WD Wagon For Sale on Bring a Trailer
+
+- Model/program: Mega-Miles 1983 Subaru GL 4WD Wagon For Sale on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71620112/1983-subaru-gl-wagon-bring-a-trailer-auction/)
+
+### A Lonely Island Member Bought This Sweet Dragon-Themed JDM Kei Van
+
+- Model/program: A Lonely Island Member Bought This Sweet Dragon-Themed JDM Kei Van
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71633529/the-lonely-island-jorma-taccone-wrapped-kei-van/)
 
 ### Koenigsegg Jesko Absolut Just Blew Two Production-Car Speed Records to Smithereens
 
