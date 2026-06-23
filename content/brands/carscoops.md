@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 315 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 333 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Think You Could Beat This Driverless Xiaomi Around The Ring? You Might Be Right
+
+- Model/program: Think You Could Beat This Driverless Xiaomi Around The Ring? You Might Be Right
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/xiaomi-yu7-driverless-nurburgring/)
+
+### Corvette ZR1X Sets New Pikes Peak Production Record, But Ford Wins Overall
+
+- Model/program: Corvette ZR1X Sets New Pikes Peak Production Record, But Ford Wins Overall
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2026-pikes-peak-results/)
 
 ### A Generation Of Americans Knew This Tiny Pickup Only From Gran Turismo
 
@@ -19,6 +39,166 @@ Generated internal notes from 315 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/daihatsu-midget-ii-auction/)
+
+### China’s New Blackest Black Paint Absorbs 99.9% Of Light. BMW’s Did 99.965%
+
+- Model/program: China’s New Blackest Black Paint Absorbs 99.9% Of Light. BMW’s Did 99.965%
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmws-vantablack-was-too-costly-for-production-a-chinese-team-thinks-it-cracked-the-problem/)
+
+### Hyundai’s Best-Selling Sedan Is Finally Losing Its Origami Bodywork
+
+- Model/program: Hyundai’s Best-Selling Sedan Is Finally Losing Its Origami Bodywork
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2027-hyundai-elantra-spied/)
+
+### Most 85-Year-Olds Take It Easy, This One Hit 110 MPH Allegedly Street Racing A Corvette
+
+- Model/program: Most 85-Year-Olds Take It Easy, This One Hit 110 MPH Allegedly Street Racing A Corvette
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-350z-street-racing-charge/)
+
+### A GMC Dealer Who Sold 99% Of Its GM Allocation Was Told To Buy The Rest From Its Rivals
+
+- Model/program: A GMC Dealer Who Sold 99% Of Its GM Allocation Was Told To Buy The Rest From Its Rivals
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/sun-gmc-gm-allocation-lawsuit/)
+
+### 2027 Ram 1500 TRX SRT Goes Up For Order And $99,995 Gets You 777 HP
+
+- Model/program: 2027 Ram 1500 TRX SRT Goes Up For Order And $99,995 Gets You 777 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ram-1500-trx-srt-orders/)
+
+### A Tesla Allegedly On Driver-Assist Tore Through A Texas Home, Killing A Woman
+
+- Model/program: A Tesla Allegedly On Driver-Assist Tore Through A Texas Home, Killing A Woman
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/tesla-texas-home-crash/)
+
+### Lucid To Lay Off 18% Of Its US Workforce, Just Four Months After Cutting 12%
+
+- Model/program: Lucid To Lay Off 18% Of Its US Workforce, Just Four Months After Cutting 12%
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lucid-layoffs-restructuring/)
+
+### Porsche Built 1,270 Carrera GTs And Painted Only 80 Of Them This Color
+
+- Model/program: Porsche Built 1,270 Carrera GTs And Painted Only 80 Of Them This Color
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/no-modern-hypercar-can-quite-match-this-red-porsche/)
+
+### Brake Checker Gets Instant Karma Delivered By A Semi
+
+- Model/program: Brake Checker Gets Instant Karma Delivered By A Semi
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/suburban-brake-check-crash/)
+
+### Jeep’s New Cherokee Gets Its Mojo Back With The Trailhawk
+
+- Model/program: Jeep’s New Cherokee Gets Its Mojo Back With The Trailhawk
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/jeep-cherokee-trailhawk-teased/)
+
+### The New X1 Wears BMW’s Future Face, But Keeps Its Old Bones (Renders)
+
+- Model/program: The New X1 Wears BMW’s Future Face, But Keeps Its Old Bones (Renders)
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-x1-neue-klasse-facelift/)
+
+### Toyota’s RAV4 Is Selling So Fast Dealers Are Counting Stock In Hours, Not Days
+
+- Model/program: Toyota’s RAV4 Is Selling So Fast Dealers Are Counting Stock In Hours, Not Days
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-rav4-shortage/)
+
+### Massachusetts Warns Dealers To Stop Hiding Fees In The Fine Print
+
+- Model/program: Massachusetts Warns Dealers To Stop Hiding Fees In The Fine Print
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/massachusetts-dealer-doc-fees/)
+
+### This Custom Silverado Proves You Don’t Need A Gladiator For Open-Air Fun
+
+- Model/program: This Custom Silverado Proves You Don’t Need A Gladiator For Open-Air Fun
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/realtruck-silverado-auction/)
+
+### Boat Launch Goes Wrong, Pulls Hummer H3 Underwater In Seconds
+
+- Model/program: Boat Launch Goes Wrong, Pulls Hummer H3 Underwater In Seconds
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hummer-h3-boat-ramp-sinking/)
+
+### Renault Just Helped Us Unwrap The Facelifted Scenic’s Disguise
+
+- Model/program: Renault Just Helped Us Unwrap The Facelifted Scenic’s Disguise
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/renault-scenic-facelift/)
 
 ### Sovereign Citizen Rejects The Cop’s Authority, The PIT Maneuver Rejects Her Hyundai
 

@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 219 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 233 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Porsche's CEO Wants More Profits Despite Production Downturn
+
+- Model/program: Porsche's CEO Wants More Profits Despite Production Downturn
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71668019/porsche-ceo-plans-more-profits-less-production/)
+
+### Lucid Reduces Production and Lays Off 18 Percent of Its Workforce
+
+- Model/program: Lucid Reduces Production and Lays Off 18 Percent of Its Workforce
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71668069/lucid-layoffs-production-cuts/)
+
+### Don't Think About It, Don't Give Up, and Other Lessons from the 2026 Pikes Peak International Hill Climb
+
+- Model/program: Don't Think About It, Don't Give Up, and Other Lessons from the 2026 Pikes Peak International Hill Climb
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71663370/2026-pikes-peak-international-hill-climb-lessons-learned/)
+
+### New Study Shows That Tall Hoods Cause Hundreds of Deaths Per Year
+
+- Model/program: New Study Shows That Tall Hoods Cause Hundreds of Deaths Per Year
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71663782/study-vehicle-hood-height-pedestrian-safety/)
+
+### View Photos of the 1991 Infiniti G20
+
+- Model/program: View Photos of the 1991 Infiniti G20
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71664148/1991-infiniti-g20-archive-test-gallery/)
+
+### 1991 Infiniti G20 Tested: A Good Thing in a Small Package
+
+- Model/program: 1991 Infiniti G20 Tested: A Good Thing in a Small Package
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71592177/1991-infiniti-g20-archive-test/)
+
+### 2028 Mercedes-Benz VLE-Class EV
+
+- Model/program: 2028 Mercedes-Benz VLE-Class EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-benz/vle-class-ev)
+
+### Future Electric Vehicles: The EVs You'll Soon Be Able to Buy
+
+- Model/program: Future Electric Vehicles: The EVs You'll Soon Be Able to Buy
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/g29994375/future-electric-cars-trucks/)
+
+### Jeep Confirms the New Cherokee Will Get the Trailhawk Treatment
+
+- Model/program: Jeep Confirms the New Cherokee Will Get the Trailhawk Treatment
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a70985328/2027-jeep-cherokee-trailhawk-confirmed/)
+
+### 2025 Maserati GranTurismo Folgore / GranCabrio Folgore
+
+- Model/program: 2025 Maserati GranTurismo Folgore / GranCabrio Folgore
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/maserati/granturismo-folgore-grancabrio-folgore-2025)
+
+### 2026 Maserati GranTurismo Folgore / GranCabrio Folgore
+
+- Model/program: 2026 Maserati GranTurismo Folgore / GranCabrio Folgore
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/maserati/granturismo-folgore-grancabrio-folgore)
+
+### View Interior Photos of the 2026 Porsche Macan GTS Electric
+
+- Model/program: View Interior Photos of the 2026 Porsche Macan GTS Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g70300381/2026-porsche-macan-gts-ev-drive-interior-gallery/)
+
+### Tested: 2026 Porsche Macan GTS Electric Piles On the Sugar
+
+- Model/program: Tested: 2026 Porsche Macan GTS Electric Piles On the Sugar
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a70303382/2026-porsche-macan-gts-ev-drive/)
+
+### View Exterior Photos of the 2026 Porsche Macan GTS Electric
+
+- Model/program: View Exterior Photos of the 2026 Porsche Macan GTS Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g70300233/2026-porsche-macan-gts-ev-drive-exterior-gallery/)
 
 ### Which Mazda CX-90 Model Is the Best Buy for You?
 

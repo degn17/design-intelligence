@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 30 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 41 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### South African Keagan Masters celebrates Lausitzring double victory
+
+- Model/program: South African Keagan Masters celebrates Lausitzring double victory
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/06/south-african-keagan-masters-celebrates-lausitzring-double-victory.html)
+
+### Keagan Masters wins heat battle at the Lausitzring
+
+- Model/program: Keagan Masters wins heat battle at the Lausitzring
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/06/keagan-masters-wins-heat-battle-at-the-lausitzring.html)
+
+### Customer teams on the podium for Porsche’s Sanya debut
+
+- Model/program: Customer teams on the podium for Porsche’s Sanya debut
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/06/customer-teams-on-the-podium-for-porsches-sanya-debut.html)
+
+### Porsche Taycan Turbo S Soho House One: craftsmanship, design and a premium experience
+
+- Model/program: Porsche Taycan Turbo S Soho House One: craftsmanship, design and a premium experience
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-taycan-turbo-s-soho-house-one-sonderwunsch-42660.html)
+
+### ‘Design starts on Paper’: Porsche community meets international creative scene in Copenhagen
+
+- Model/program: ‘Design starts on Paper’: Porsche community meets international creative scene in Copenhagen
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-design-starts-on-paper-copenhagen-42652.html)
+
+### Porsche is enhancing the driving experience of all Taycan models
+
+- Model/program: Porsche is enhancing the driving experience of all Taycan models
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-model-year-innovations-taycan-42641.html)
+
+### Porsche South Africa donates Cayenne to The Black Mambas project to protect rhinos
+
+- Model/program: Porsche South Africa donates Cayenne to The Black Mambas project to protect rhinos
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/sustainability/porsche-south-africa-cayenne-black-mambas-project-42614.html)
+
+### Porsche customer team Manthey faced a challenging Le Mans race
+
+- Model/program: Porsche customer team Manthey faced a challenging Le Mans race
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-fia-wec-le-mans-race-42619.html)
+
+### Porsche Junior Flynt Schuring celebrates his first Supercup victory
+
+- Model/program: Porsche Junior Flynt Schuring celebrates his first Supercup victory
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-mobil-1-supercup-saison-2026-race-2-barcelona-42617.html)
+
+### Generation Z: The Growth Engine of the Consumer Health Market
+
+- Model/program: Generation Z: The Growth Engine of the Consumer Health Market
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-generation-z-growth-engine-consumer-health-market-42609.html)
+
+### Top Porsche 911 to start from fifth row on the grid at the 24 Hours of Le Mans
+
+- Model/program: Top Porsche 911 to start from fifth row on the grid at the 24 Hours of Le Mans
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/06/top-porsche-911-to-start-from-fifth-row-on-the-grid-at-the-24-hours-of-le-mans.html)
 
 ### Time lapse: Porsche's transaxle models
 
