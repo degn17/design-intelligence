@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 333 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 351 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Slingshot’s Lamborghini Costume Wore Off At $13,786
+
+- Model/program: This Slingshot’s Lamborghini Costume Wore Off At $13,786
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/polaris-slingshot-aventador-kit/)
+
+### This Mini Diesel Cracked 1 Million Km On Its Original Engine Averaging 80 MPG
+
+- Model/program: This Mini Diesel Cracked 1 Million Km On Its Original Engine Averaging 80 MPG
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mini-cooper-d-million-km/)
 
 ### Think You Could Beat This Driverless Xiaomi Around The Ring? You Might Be Right
 
@@ -29,6 +49,166 @@ Generated internal notes from 333 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/2026-pikes-peak-results/)
+
+### New Mercedes-AMG CLE 63 Reveals Its V8 Engine For The First Time
+
+- Model/program: New Mercedes-AMG CLE 63 Reveals Its V8 Engine For The First Time
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mercedes-amg-cle-63-engine/)
+
+### Skoda Peaq Debuts As Three-Row EV Flagship With 402-Mile Range
+
+- Model/program: Skoda Peaq Debuts As Three-Row EV Flagship With 402-Mile Range
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/skoda-peaq-ev-unveiled/)
+
+### Mississippi’s New AI Cameras Can Catch You Texting At 186 MPH
+
+- Model/program: Mississippi’s New AI Cameras Can Catch You Texting At 186 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mississippi-ai-traffic-cameras/)
+
+### Two-Thirds Of The Most American-Made Cars Come From Foreign Brands
+
+- Model/program: Two-Thirds Of The Most American-Made Cars Come From Foreign Brands
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/most-american-cars-2026/)
+
+### Ford Hired An 800-Pound Bear To Break Into Its New F-150
+
+- Model/program: Ford Hired An 800-Pound Bear To Break Into Its New F-150
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-f150-security-package/)
+
+### Nissan Hits The Brakes On EV Version Of Its European Best-Seller
+
+- Model/program: Nissan Hits The Brakes On EV Version Of Its European Best-Seller
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-qashqai-ev-frozen/)
+
+### Mazda Expected 2,000 CX-5 Orders A Month, Buyers Placed 10,000
+
+- Model/program: Mazda Expected 2,000 CX-5 Orders A Month, Buyers Placed 10,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mazda-cx5-japan-orders/)
+
+### Another Tesla Crash, Another Owner Says It ‘Drove On Its Own’
+
+- Model/program: Another Tesla Crash, Another Owner Says It ‘Drove On Its Own’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/tesla-crash-pennsylvania-mall/)
+
+### The Ferrari You’d Never Recognize Weighs Less Than A Miata
+
+- Model/program: The Ferrari You’d Never Recognize Weighs Less Than A Miata
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ferrari-conciso-michalak-auction/)
+
+### AI Used To Rig Prices At 1,700 California Gas Stations, Lawsuit Says
+
+- Model/program: AI Used To Rig Prices At 1,700 California Gas Stations, Lawsuit Says
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/california-gas-pricing-lawsuit/)
+
+### A US Startup Wants To Sell You A $21,500 Ameri-Kei Pickup With A Manual
+
+- Model/program: A US Startup Wants To Sell You A $21,500 Ameri-Kei Pickup With A Manual
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/reo-industries-runabout-pricing/)
+
+### America’s $1.7 Trillion Auto Debt Is Driving Repos Back To Recession Levels
+
+- Model/program: America’s $1.7 Trillion Auto Debt Is Driving Repos Back To Recession Levels
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/auto-repossessions-affordability/)
+
+### Mitsubishi’s New Boss Wants Another Lancer Evo, But Don’t Clear Your Garage Yet
+
+- Model/program: Mitsubishi’s New Boss Wants Another Lancer Evo, But Don’t Clear Your Garage Yet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mitsubishi-evo-revival-president/)
+
+### GMC Teases The 2027 Sierra And It Looks A Lot Like Its EV Sibling
+
+- Model/program: GMC Teases The 2027 Sierra And It Looks A Lot Like Its EV Sibling
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2027-gmc-sierra-teaser/)
+
+### Honda’s Z Looks Like A Kei Crossover, But It’s A Mid-Engined Hot Hatch
+
+- Model/program: Honda’s Z Looks Like A Kei Crossover, But It’s A Mid-Engined Hot Hatch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-z-um4-kei-car/)
+
+### Costco’s Latest Auto Deal Takes Up To $1,250 Off A New Volkswagen
+
+- Model/program: Costco’s Latest Auto Deal Takes Up To $1,250 Off A New Volkswagen
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/costco-volkswagen-discount/)
 
 ### A Generation Of Americans Knew This Tiny Pickup Only From Gran Turismo
 

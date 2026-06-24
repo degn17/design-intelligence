@@ -2,13 +2,113 @@
 
 ## Current positioning
 
-Generated internal notes from 233 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 243 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Tesla Model Y L Coming to the U.S. as a More Spacious Three-Row SUV
+
+- Model/program: Tesla Model Y L Coming to the U.S. as a More Spacious Three-Row SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71684316/tesla-model-y-l-america-report/)
+
+### 2027 Audi A3 Sedan Trades Familiar Buttons for Bigger Screens
+
+- Model/program: 2027 Audi A3 Sedan Trades Familiar Buttons for Bigger Screens
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71683130/2027-audi-a3-interior-update/)
+
+### Hyundai Is Reportedly Working on 'More Realistic' Electric N Cars
+
+- Model/program: Hyundai Is Reportedly Working on 'More Realistic' Electric N Cars
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71677867/hyundai-more-realistic-electric-n-cars-report/)
+
+### View Exterior Photos of the 2026 Jaecoo 7
+
+- Model/program: View Exterior Photos of the 2026 Jaecoo 7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71629469/2026-jaecoo-7-drive-exterior-gallery/)
+
+### In Britain, They Call the Jaecoo 7 the Temu Range Rover—What's It Like to Drive?
+
+- Model/program: In Britain, They Call the Jaecoo 7 the Temu Range Rover—What's It Like to Drive?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71628831/2026-jaecoo-7-drive/)
+
+### View Interior Photos of the 2026 Jaecoo 7
+
+- Model/program: View Interior Photos of the 2026 Jaecoo 7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71629279/2026-jaecoo-7-drive-interior-gallery/)
+
+### Next-Gen Hyundai Elantra Spied Testing with Funky New Design
+
+- Model/program: Next-Gen Hyundai Elantra Spied Testing with Funky New Design
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71679083/2027-hyundai-elantra-next-gen-spied/)
+
+### View Exterior Photos of the 2026 Toyota GR Corolla Premium Plus
+
+- Model/program: View Exterior Photos of the 2026 Toyota GR Corolla Premium Plus
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71630229/2026-toyota-gr-corolla-premium-plus-test-exterior-gallery/)
+
+### 2026 Toyota GR Corolla Premium Plus Test: The Fix Is In
+
+- Model/program: 2026 Toyota GR Corolla Premium Plus Test: The Fix Is In
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71536189/2026-toyota-gr-corolla-premium-plus-test/)
+
+### View Interior Photos of the 2026 Toyota GR Corolla Premium Plus
+
+- Model/program: View Interior Photos of the 2026 Toyota GR Corolla Premium Plus
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71630301/2026-toyota-gr-corolla-premium-plus-test-interior-gallery/)
 
 ### Porsche's CEO Wants More Profits Despite Production Downturn
 
