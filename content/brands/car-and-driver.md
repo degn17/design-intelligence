@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 243 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 256 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### New Hypercar Startup Wants to Change How Humans Fit into Cars
+
+- Model/program: New Hypercar Startup Wants to Change How Humans Fit into Cars
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71716075/sanrivatti-hypercar-startup-details/)
+
+### Chevrolet Revives Its Iconic 'Heartbeat of America' Ad Campaign
+
+- Model/program: Chevrolet Revives Its Iconic 'Heartbeat of America' Ad Campaign
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71708269/chevy-revives-heartbeat-of-america-ad-campaign/)
+
+### Class-Action Lawsuit Blames AI for Causing Gas Price Inflation in California
+
+- Model/program: Class-Action Lawsuit Blames AI for Causing Gas Price Inflation in California
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71709512/california-ai-gas-price-inflation-class-action/)
+
+### 2027 Mitsubishi Outlander Sport Gets a Price Cut with Revived FWD
+
+- Model/program: 2027 Mitsubishi Outlander Sport Gets a Price Cut with Revived FWD
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71703667/2027-mitsubishi-outlander-sport-fwd-price/)
+
+### Honda Element to Return as an Affordable Hybrid in 2029: Report
+
+- Model/program: Honda Element to Return as an Affordable Hybrid in 2029: Report
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71695248/2029-honda-element-affordable-hybrid-report/)
+
+### 2027 Dodge Durango SRT Hellcat
+
+- Model/program: 2027 Dodge Durango SRT Hellcat
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/dodge/durango-srt-hellcat-2027)
+
+### View Interior Photos of the 2026 Cadillac Escalade IQL
+
+- Model/program: View Interior Photos of the 2026 Cadillac Escalade IQL
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71602390/2026-cadillac-escalade-iql-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Cadillac Escalade IQL
+
+- Model/program: View Exterior Photos of the 2026 Cadillac Escalade IQL
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71602296/2026-cadillac-escalade-iql-test-exterior-gallery/)
+
+### Tested: 2026 Cadillac Escalade IQL on a 1600-Mile Road Trip
+
+- Model/program: Tested: 2026 Cadillac Escalade IQL on a 1600-Mile Road Trip
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71617297/2026-cadillac-escalade-iql-test/)
+
+### View Photos of the 2027 Jeep Wrangler Sarge
+
+- Model/program: View Photos of the 2027 Jeep Wrangler Sarge
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71694000/2027-jeep-wrangler-sarge-gallery/)
+
+### View Photos of the 2027 Tesla Model Y L
+
+- Model/program: View Photos of the 2027 Tesla Model Y L
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71693800/2027-tesla-model-y-l-revealed-gallery/)
+
+### Slate's New Electric Truck Will Cost Slightly More Than $24,950
+
+- Model/program: Slate's New Electric Truck Will Cost Slightly More Than $24,950
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71683095/2027-slate-ev-truck-price-revealed/)
+
+### 2027 Slate Truck
+
+- Model/program: 2027 Slate Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/slate/truck)
 
 ### Tesla Model Y L Coming to the U.S. as a More Spacious Three-Row SUV
 

@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 351 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 369 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### No, Mansory Didn’t Build This SF90 XX, Ferrari Did It To Itself
+
+- Model/program: No, Mansory Didn’t Build This SF90 XX, Ferrari Did It To Itself
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ferrari-sf90-xx-tailor-made/)
+
+### Mercedes-AMG’s Upcoming EV Looks Bland, But Will Let The Performance Do The Talking
+
+- Model/program: Mercedes-AMG’s Upcoming EV Looks Bland, But Will Let The Performance Do The Talking
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mercedes-amg-gla-ev-spied/)
 
 ### This Slingshot’s Lamborghini Costume Wore Off At $13,786
 
@@ -29,6 +49,166 @@ Generated internal notes from 351 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/mini-cooper-d-million-km/)
+
+### Another Automaker Is Killing Its Wagons To Chase SUV Money
+
+- Model/program: Another Automaker Is Killing Its Wagons To Chase SUV Money
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/wagons-discontinued-hyundai/)
+
+### GM Investing Big Bucks In A New Gas-Powered Cadillac
+
+- Model/program: GM Investing Big Bucks In A New Gas-Powered Cadillac
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/cadillac-spring-hill-investment/)
+
+### A 1941 Ford Was Found On A Sunken WWII Carrier 3 Miles Down In The Pacific
+
+- Model/program: A 1941 Ford Was Found On A Sunken WWII Carrier 3 Miles Down In The Pacific
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-woody-yorktown-ww2/)
+
+### Oil Giant Shell Unveils Efficient New EV Concept
+
+- Model/program: Oil Giant Shell Unveils Efficient New EV Concept
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/shell-triple-10-challenge-concept/)
+
+### The Average New Truck Hood Can Floor Anyone Under 5-Foot-6, Which Is Half The Country
+
+- Model/program: The Average New Truck Hood Can Floor Anyone Under 5-Foot-6, Which Is Half The Country
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/truck-height-pedestrian-deaths/)
+
+### After Causing Gas Prices To Spike, Trump Is Now Furious They Aren’t Falling Faster
+
+- Model/program: After Causing Gas Prices To Spike, Trump Is Now Furious They Aren’t Falling Faster
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/trump-gas-price-gouging/)
+
+### Facelifted 2027 Range Rover Is Going Electric, But Its BMW V8 Isn’t Dead Yet
+
+- Model/program: Facelifted 2027 Range Rover Is Going Electric, But Its BMW V8 Isn’t Dead Yet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/range-rover-facelift-ev/)
+
+### Canada Tells Chinese Brands They Can Sell EVs Past The Quota, On One Condition
+
+- Model/program: Canada Tells Chinese Brands They Can Sell EVs Past The Quota, On One Condition
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/canada-chinese-ev-manufacturing/)
+
+### A $160K Range Rover Tried To Rescue A Stuck Ford, The Sea Swallowed Both
+
+- Model/program: A $160K Range Rover Tried To Rescue A Stuck Ford, The Sea Swallowed Both
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/160k-range-rover-svr-ends-up-in-the-sea-while-trying-to-save-van/)
+
+### He Spent 23 Years At BMW, Now He Says His Chinese Brand Is Just As Good
+
+- Model/program: He Spent 23 Years At BMW, Now He Says His Chinese Brand Is Just As Good
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/zeekr-europe-expansion/)
+
+### New Hypercar Startup Wants You To Ride It Like A Superbike, Not Sit In It
+
+- Model/program: New Hypercar Startup Wants You To Ride It Like A Superbike, Not Sit In It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/sanrivatti-hypercar-architecture/)
+
+### Eight-Seat 1966 Mustang Has Rear Doors That Used To Be Front Doors
+
+- Model/program: Eight-Seat 1966 Mustang Has Rear Doors That Used To Be Front Doors
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mustang-stretched-conversion/)
+
+### Honda’s Boxy Element To Return In 2029 With A Powertrain It Never Had
+
+- Model/program: Honda’s Boxy Element To Return In 2029 With A Powertrain It Never Had
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-element-revival/)
+
+### Morgan’s New Pininfarina Coupe Hides A BMW Six And A Wooden Frame
+
+- Model/program: Morgan’s New Pininfarina Coupe Hides A BMW Six And A Wooden Frame
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/morgans-new-pininfarina-coupe-hides-a-bmw-six-and-a-wooden-frame/)
+
+### Ford’s Favorite Tuner Just Signed On To Build A Ram
+
+- Model/program: Ford’s Favorite Tuner Just Signed On To Build A Ram
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ram-roush-truck/)
+
+### Even The $31,950 Slate SUV Skips Power Windows And A Key Fob
+
+- Model/program: Even The $31,950 Slate SUV Skips Power Windows And A Key Fob
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/slate-truck-pricing/)
 
 ### Think You Could Beat This Driverless Xiaomi Around The Ring? You Might Be Right
 
