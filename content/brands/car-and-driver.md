@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 256 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 270 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### These Vehicles Are Dead for 2026
+
+- Model/program: These Vehicles Are Dead for 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/g65676188/dead-cars-trucks-2026/)
+
+### Lamborghini Teases a Mysterious New Urus to Be Revealed on July 1
+
+- Model/program: Lamborghini Teases a Mysterious New Urus to Be Revealed on July 1
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71732614/lamborghini-urus-new-variant-teaser/)
+
+### 2027 Ram 1500 BackCountry Is an Off-Road Truck That Targets Value
+
+- Model/program: 2027 Ram 1500 BackCountry Is an Off-Road Truck That Targets Value
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71716729/2027-ram-1500-backcountry-rebel-x-drive/)
+
+### View Photos of the 2027 Ram 1500 BackCountry and Rebel X
+
+- Model/program: View Photos of the 2027 Ram 1500 BackCountry and Rebel X
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71717135/2027-ram-1500-backcountry-revel-x-drive-gallery/)
+
+### 2026 Toyota GR Corolla
+
+- Model/program: 2026 Toyota GR Corolla
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/gr-corolla)
+
+### 2026 Cadillac Escalade IQ / IQL
+
+- Model/program: 2026 Cadillac Escalade IQ / IQL
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/cadillac/escalade-iq)
+
+### Polestar Will Leave the U.S. Market Due to the Connected-Car Rule
+
+- Model/program: Polestar Will Leave the U.S. Market Due to the Connected-Car Rule
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71728510/polestar-exiting-america-connected-car-rule/)
+
+### 2027 GMC Sierra 1500 Gets New V-8 Power, Goes All In on Screens
+
+- Model/program: 2027 GMC Sierra 1500 Gets New V-8 Power, Goes All In on Screens
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71683792/2027-gmc-sierra-1500-revealed/)
+
+### 2027 GMC Sierra 1500's New Fancy-Pants Interior Hides a Secret
+
+- Model/program: 2027 GMC Sierra 1500's New Fancy-Pants Interior Hides a Secret
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71682811/2027-gmc-sierra-1500-interior-revealed/)
+
+### View Interior Photos of the 2027 GMC Sierra 1500
+
+- Model/program: View Interior Photos of the 2027 GMC Sierra 1500
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71703350/2027-gmc-sierra-1500-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 GMC Sierra 1500
+
+- Model/program: View Exterior Photos of the 2027 GMC Sierra 1500
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71703351/2027-gmc-sierra-1500-revealed-exterior-gallery/)
+
+### How Trading In a Car Works
+
+- Model/program: How Trading In a Car Works
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/auto-loans/a41612674/how-trading-in-car-works/)
+
+### The 1996 Bentley Azure Exists in a World of Its Own
+
+- Model/program: The 1996 Bentley Azure Exists in a World of Its Own
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71591179/1996-bentley-azure-archive-drive/)
+
+### Porsche's New GT4 Race Car Is Based on the 911 for the First Time
+
+- Model/program: Porsche's New GT4 Race Car Is Based on the 911 for the First Time
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71711035/porsche-911-gt4-r-race-car-revealed/)
 
 ### New Hypercar Startup Wants to Change How Humans Fit into Cars
 

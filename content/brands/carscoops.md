@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 369 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 387 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The Cybertruck’s Disco-Era Wheels Will Cost You Over $7,000
+
+- Model/program: The Cybertruck’s Disco-Era Wheels Will Cost You Over $7,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/unplugged-cybertruck-cybrdisc-wheels/)
+
+### Lamborghini’s Most Hardcore Urus Debuts July 1
+
+- Model/program: Lamborghini’s Most Hardcore Urus Debuts July 1
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lamborghini-urus-performante-teaser/)
 
 ### No, Mansory Didn’t Build This SF90 XX, Ferrari Did It To Itself
 
@@ -29,6 +49,166 @@ Generated internal notes from 369 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/mercedes-amg-gla-ev-spied/)
+
+### Someone Spent Over $1 Million On Four Defenders Whose Color Won’t Stay One Color
+
+- Model/program: Someone Spent Over $1 Million On Four Defenders Whose Color Won’t Stay One Color
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/land-rover-defender-bespoke-commission/)
+
+### Zoox Unveils Its Production-Intent Robotaxi, Arrives Later This Year
+
+- Model/program: Zoox Unveils Its Production-Intent Robotaxi, Arrives Later This Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/zoox-production-robotaxi/)
+
+### World’s Quickest Motorcycle Hits 62MPH In 0.4 Seconds Running On Steam
+
+- Model/program: World’s Quickest Motorcycle Hits 62MPH In 0.4 Seconds Running On Steam
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/steam-powered-drag-bike/)
+
+### Ford Went From Recall King To JD Power’s Top Mainstream Brand For Initial Quality
+
+- Model/program: Ford Went From Recall King To JD Power’s Top Mainstream Brand For Initial Quality
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2026-inital-quality-study/)
+
+### Roll A Stop Sign In Virginia July 1 And An AI Camera Can Mail You The Ticket
+
+- Model/program: Roll A Stop Sign In Virginia July 1 And An AI Camera Can Mail You The Ticket
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/virginia-ai-traffic-cameras/)
+
+### 2027 Ram 1500 Gets Fancier And Can Act As A Portable Generator
+
+- Model/program: 2027 Ram 1500 Gets Fancier And Can Act As A Portable Generator
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2027-ram-1500-updates/)
+
+### Chevy’s Silverado HD Gets A Fifth-Wheel Hitch That Can Tow Three BYD Pickups
+
+- Model/program: Chevy’s Silverado HD Gets A Fifth-Wheel Hitch That Can Tow Three BYD Pickups
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/silverado-hd-walkinshaw-towing/)
+
+### The Mazdaspeed AZ-1 Is The Kei Supercar Collectors Call The Holy Grail
+
+- Model/program: The Mazdaspeed AZ-1 Is The Kei Supercar Collectors Call The Holy Grail
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/autozam-az1-mazdaspeed/)
+
+### The UAW Says AI Robots Are Coming For Auto Jobs, And It Wants A Cut
+
+- Model/program: The UAW Says AI Robots Are Coming For Auto Jobs, And It Wants A Cut
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/uaw-automakers-automation-fight/)
+
+### Toyota Will Off-Road Your Old RAV4 For $2,050, Just Not In America
+
+- Model/program: Toyota Will Off-Road Your Old RAV4 For $2,050, Just Not In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-rav4-lift-kit/)
+
+### GMC’s Priciest 2027 Sierra Packs Over 60 Inches Of Screens
+
+- Model/program: GMC’s Priciest 2027 Sierra Packs Over 60 Inches Of Screens
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gmc-sierra-1500-redesign/)
+
+### VW’s $3K ID.Buzz Camping Kit Adds A Bed And Runs The A/C For Two Full Days
+
+- Model/program: VW’s $3K ID.Buzz Camping Kit Adds A Bed And Runs The A/C For Two Full Days
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/vw-id-buzz-camper-kit/)
+
+### Subaru’s Impreza TX Trademark Revives Hope For A Turbo Hatch With A Manual
+
+- Model/program: Subaru’s Impreza TX Trademark Revives Hope For A Turbo Hatch With A Manual
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/subaru-impreza-tx-trademark/)
+
+### Stellantis Turned One Of Its Cheapest SUVs Into A Warship On Wheels
+
+- Model/program: Stellantis Turned One Of Its Cheapest SUVs Into A Warship On Wheels
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/citroen-c3-aircross-marine-nationale/)
+
+### Saleen Wants Your $500 To Build The Supercar It Promised In 2023
+
+- Model/program: Saleen Wants Your $500 To Build The Supercar It Promised In 2023
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/saleen-public-investment/)
+
+### The US Just Banned Polestar From Selling New Cars, Even The One It Builds In America
+
+- Model/program: The US Just Banned Polestar From Selling New Cars, Even The One It Builds In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/polestar-us-sales-ban/)
 
 ### This Slingshot’s Lamborghini Costume Wore Off At $13,786
 
