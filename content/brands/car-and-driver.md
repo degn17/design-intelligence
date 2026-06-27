@@ -2,13 +2,133 @@
 
 ## Current positioning
 
-Generated internal notes from 270 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 282 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### We Drive Porsche's Fake-Shifting 2027 Taycan
+
+- Model/program: We Drive Porsche's Fake-Shifting 2027 Taycan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71741123/2027-porsche-taycan-e-shift-drive/)
+
+### Feds Want to Drop Requirement for Autonomous Cars to Have a Brake Pedal
+
+- Model/program: Feds Want to Drop Requirement for Autonomous Cars to Have a Brake Pedal
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71746274/federal-standards-drop-brake-pedal-requirement-driverless-cars/)
+
+### See the 24 Hours of Le Mans Through the Eyes of a First-Timer
+
+- Model/program: See the 24 Hours of Le Mans Through the Eyes of a First-Timer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/g71743514/see-the-24-hours-of-le-mans-through-the-eyes-of-a-first-timer/)
+
+### View Exterior Photos of the 2026 Tesla Model Y
+
+- Model/program: View Exterior Photos of the 2026 Tesla Model Y
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71664593/2026-tesla-model-y-test-exterior-gallery/)
+
+### 2026 Tesla Model Y vs. 2026 Toyota bZ Comparison Test: Two Bestsellers, One Winner
+
+- Model/program: 2026 Tesla Model Y vs. 2026 Toyota bZ Comparison Test: Two Bestsellers, One Winner
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a71627458/2026-tesla-model-y-vs-2026-toyota-bz-comparison-test/)
+
+### View Interior Photos of the 2026 Tesla Model Y
+
+- Model/program: View Interior Photos of the 2026 Tesla Model Y
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71664698/2026-tesla-model-y-test-interior-gallery/)
+
+### Which Cars Cost Us the Most and the Least to Maintain, and Why?
+
+- Model/program: Which Cars Cost Us the Most and the Least to Maintain, and Why?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g71630210/most-least-expensive-maintenance-cars-long-term/)
+
+### 2027 Hyundai Elantra Is Redesigned and Wears Sharper Features After Its Sci-Fi Makeover
+
+- Model/program: 2027 Hyundai Elantra Is Redesigned and Wears Sharper Features After Its Sci-Fi Makeover
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71744149/2027-hyundai-elantra-revealed-korea/)
+
+### View Photos of the Touring Superleggera Veloce12 Aperta
+
+- Model/program: View Photos of the Touring Superleggera Veloce12 Aperta
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71734068/touring-superleggera-veloce12-aperta-gallery/)
+
+### Touring Superleggera Pops the Top off Its Veloce12 Supercar
+
+- Model/program: Touring Superleggera Pops the Top off Its Veloce12 Supercar
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71734026/touring-superleggera-veloce12-aperta-revealed/)
+
+### Rivian Axed Its Least Expensive R1s, the Dual Motor Standard Pack
+
+- Model/program: Rivian Axed Its Least Expensive R1s, the Dual Motor Standard Pack
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71734405/2026-rivian-r1t-r1s-dual-standard-canceled/)
+
+### Driver of the Week: David Beard
+
+- Model/program: Driver of the Week: David Beard
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71730181/driver-of-the-week-david-beard/)
 
 ### These Vehicles Are Dead for 2026
 

@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 387 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 405 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Mercedes-AMG C-Class Electric Will Bring The Fight To The BMW M3 EV
+
+- Model/program: Mercedes-AMG C-Class Electric Will Bring The Fight To The BMW M3 EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mercedes-amg-c-class-ev-spied/)
+
+### Golfers Watched A Dodge Charger Chase A Stolen Hyundai Across Their NY Country Club
+
+- Model/program: Golfers Watched A Dodge Charger Chase A Stolen Hyundai Across Their NY Country Club
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/stolen-hyundai-golf-course-chase/)
 
 ### The Cybertruck’s Disco-Era Wheels Will Cost You Over $7,000
 
@@ -29,6 +49,166 @@ Generated internal notes from 387 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/lamborghini-urus-performante-teaser/)
+
+### Mercedes Wants Employees To Work Hundreds Of Extra Hours For Free
+
+- Model/program: Mercedes Wants Employees To Work Hundreds Of Extra Hours For Free
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mercedes-germany-worker-changes/)
+
+### 21,000 Toyota And Subaru EVs Recalled Because A Memory Glitch Can Cut Power To The Wheels
+
+- Model/program: 21,000 Toyota And Subaru EVs Recalled Because A Memory Glitch Can Cut Power To The Wheels
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-subaru-lexus-ev-recall/)
+
+### Bentley’s Electric SUV Has An Ultra-Lux Interior With Curved Displays
+
+- Model/program: Bentley’s Electric SUV Has An Ultra-Lux Interior With Curved Displays
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2028-bentley-barnato-interior-spied/)
+
+### Mazda’s Cheapest Crossover Costs $9,950, But It’s Nearly Two Feet Shorter Than A Miata
+
+- Model/program: Mazda’s Cheapest Crossover Costs $9,950, But It’s Nearly Two Feet Shorter Than A Miata
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mazda-flair-crossover-facelift/)
+
+### Skoda’s Octavia Gets A Second Facelift To Catch Up With Its Own Family
+
+- Model/program: Skoda’s Octavia Gets A Second Facelift To Catch Up With Its Own Family
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2027-skoda-octavia-facelift/)
+
+### Meta’s AI Gave An REI Bike Ad Two Sets Of Handlebars, And Nobody Caught It For A Week
+
+- Model/program: Meta’s AI Gave An REI Bike Ad Two Sets Of Handlebars, And Nobody Caught It For A Week
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/rei-meta-ai-ad/)
+
+### Toyota Is Cutting RAV4 Production While Dealers Count Stock In Hours
+
+- Model/program: Toyota Is Cutting RAV4 Production While Dealers Count Stock In Hours
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-rav4-production-cut/)
+
+### The Brand Fined Over Chinese-Origin Cars Is Reviving A Dead Italian Marque With Toyota Power
+
+- Model/program: The Brand Fined Over Chinese-Origin Cars Is Reviving A Dead Italian Marque With Toyota Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/osca-revival-sports-car/)
+
+### California’s Gas Tax Hits A Record 63.4 Cents A Gallon On July 1
+
+- Model/program: California’s Gas Tax Hits A Record 63.4 Cents A Gallon On July 1
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/california-gas-tax-increase/)
+
+### Honda, Nissan, And Mitsubishi Want To Share Parts, Starting With The Car’s Brain
+
+- Model/program: Honda, Nissan, And Mitsubishi Want To Share Parts, Starting With The Car’s Brain
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-nissan-mitsubishi-ecu-sharing/)
+
+### For Nearly $200,000, Shelby’s Raptor R Makes More Power Than Most Supercars
+
+- Model/program: For Nearly $200,000, Shelby’s Raptor R Makes More Power Than Most Supercars
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/shelby-f150-baja-raptor/)
+
+### Navy Veteran Catches Aston Martin Thief, Then Sues The Apartment Complex For $250,000
+
+- Model/program: Navy Veteran Catches Aston Martin Thief, Then Sues The Apartment Complex For $250,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/navy-veteran-aston-martin-lawsuit/)
+
+### A New BMW M1 Has Two Powerful Believers, But Nobody To Split The Bill
+
+- Model/program: A New BMW M1 Has Two Powerful Believers, But Nobody To Split The Bill
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-m1-revival/)
+
+### Mazda Muffled The 2027 MX-5 To Pass Japan’s Noise Law, Then Faked The Sound Back In
+
+- Model/program: Mazda Muffled The 2027 MX-5 To Pass Japan’s Noise Law, Then Faked The Sound Back In
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mazda-mx5-japan-update/)
+
+### Slate Bets Its Electric Truck Is So Cheap That It’ll Turn A Profit
+
+- Model/program: Slate Bets Its Electric Truck Is So Cheap That It’ll Turn A Profit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/slate-ev-profitability/)
+
+### Ford Asked AI To Build Better Cars, Then Rehired Humans To Fix What AI Broke
+
+- Model/program: Ford Asked AI To Build Better Cars, Then Rehired Humans To Fix What AI Broke
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-ai-engineers-quality/)
 
 ### No, Mansory Didn’t Build This SF90 XX, Ferrari Did It To Itself
 
