@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 282 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 290 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### How to Buy or Lease a New Car
+
+- Model/program: How to Buy or Lease a New Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a35768730/how-to-lease-buy-new-car/)
+
+### How to Get the Best Price for Trading In Your Car
+
+- Model/program: How to Get the Best Price for Trading In Your Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/auto-loans/a41994497/how-to-get-best-price-for-trading-in-car/)
+
+### When Your Car Lease Is Over, What Should You Do Next?
+
+- Model/program: When Your Car Lease Is Over, What Should You Do Next?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a39799387/car-lease-ends-next-steps/)
+
+### Redemption at Last? 2001 Pontiac Aztek on Bring a Trailer
+
+- Model/program: Redemption at Last? 2001 Pontiac Aztek on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71728883/2001-pontiac-aztek-bring-a-trailer-auction/)
+
+### View Photos of the 2001 Four Seat Convertible Comparison Test
+
+- Model/program: View Photos of the 2001 Four Seat Convertible Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71728003/2001-four-seat-convertible-archive-comparison-test-gallery/)
+
+### From the Archive: 2001 Four-Seat Convertible Comparison Test
+
+- Model/program: From the Archive: 2001 Four-Seat Convertible Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a71682750/2001-four-seat-convertible-archive-comparison-test/)
+
+### Morgan is Offering Its Six-Cylinder Midsummer as a Limited-Run Coupe
+
+- Model/program: Morgan is Offering Its Six-Cylinder Midsummer as a Limited-Run Coupe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71748502/morgan-midsummer-six-cylinder-coupe-specs-details/)
+
+### Frrom the Archive: 2001 Toyota Camry Solara TRD Tested
+
+- Model/program: Frrom the Archive: 2001 Toyota Camry Solara TRD Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71732269/2001-toyota-camry-solara-trd-archive-test/)
 
 ### We Drive Porsche's Fake-Shifting 2027 Taycan
 

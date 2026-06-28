@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 405 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 414 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Land Rover Halts Sales Of Three SUVs Over A Dab Of Gel
+
+- Model/program: Land Rover Halts Sales Of Three SUVs Over A Dab Of Gel
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/land-rover-airbag-lube-recall/)
 
 ### Mercedes-AMG C-Class Electric Will Bring The Fight To The BMW M3 EV
 
@@ -29,6 +39,86 @@ Generated internal notes from 405 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/stolen-hyundai-golf-course-chase/)
+
+### One State Saves EV Drivers $2,346 A Year, Then The Insurer Takes A Third Back
+
+- Model/program: One State Saves EV Drivers $2,346 A Year, Then The Insurer Takes A Third Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ev-fuel-savings-by-state/)
+
+### $1.1 Million Chevy Is A Tiny House On Wheels
+
+- Model/program: $1.1 Million Chevy Is A Tiny House On Wheels
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/earthroamer-xv-sx-motorhome/)
+
+### Chrysler Is Down To One Model, This Sub-$40K Crossover Is Its Comeback Plan
+
+- Model/program: Chrysler Is Down To One Model, This Sub-$40K Crossover Is Its Comeback Plan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chrysler-airflow-ev-crossover/)
+
+### Neuroscientist Finds Driving A Manual Lights Up A Brain Region Automatics Let Sleep
+
+- Model/program: Neuroscientist Finds Driving A Manual Lights Up A Brain Region Automatics Let Sleep
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/manual-transmission-brain-study/)
+
+### JLR Could Go After Ford’s Bronco With Simpler Stellantis-Based Defender
+
+- Model/program: JLR Could Go After Ford’s Bronco With Simpler Stellantis-Based Defender
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/jlr-defender-stellantis-us-2/)
+
+### Mini’s Electric 2026 Countryman SE ALL4 Is The Most Fun You Can Have With A Bad Idea | Review
+
+- Model/program: Mini’s Electric 2026 Countryman SE ALL4 Is The Most Fun You Can Have With A Bad Idea | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mini-countryman-se-all4-review/)
+
+### Daihatsu’s $12,950 Kei Van Is Also A Crew-Cab Pickup With A 34-Inch Bed
+
+- Model/program: Daihatsu’s $12,950 Kei Van Is Also A Crew-Cab Pickup With A 34-Inch Bed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/daihatsu-hijet-deckvan/)
+
+### Lada Built A $19,800 Wagon With Three Pedals And Black Steelies
+
+- Model/program: Lada Built A $19,800 Wagon With Three Pedals And Black Steelies
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lada-iskra-manual/)
 
 ### The Cybertruck’s Disco-Era Wheels Will Cost You Over $7,000
 
