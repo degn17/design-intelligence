@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 290 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 292 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This 1985 Ferrari 288 GTO Is Bring a Trailer's 250,000th Auction
+
+- Model/program: This 1985 Ferrari 288 GTO Is Bring a Trailer's 250,000th Auction
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71703718/1985-ferrari-288-gto-bring-a-trailer-auction/)
+
+### Two U.K. Companies Used Their Imagination, and Lotus Inspiration, for This Concept Collab
+
+- Model/program: Two U.K. Companies Used Their Imagination, and Lotus Inspiration, for This Concept Collab
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71755341/watt-avant-design-lotus-concept-car-collab/)
 
 ### How to Buy or Lease a New Car
 

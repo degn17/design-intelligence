@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 414 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 423 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Toyota’s $41K Origin Looks Like A 1955 Crown, But Hides The Supra’s 2JZ
+
+- Model/program: Toyota’s $41K Origin Looks Like A 1955 Crown, But Hides The Supra’s 2JZ
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-origin-retro-sedan/)
 
 ### Land Rover Halts Sales Of Three SUVs Over A Dab Of Gel
 
@@ -19,6 +29,86 @@ Generated internal notes from 414 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/land-rover-airbag-lube-recall/)
+
+### Toronto Pulled Its Cameras And Speeding Jumped 480%. The Math Says Relax
+
+- Model/program: Toronto Pulled Its Cameras And Speeding Jumped 480%. The Math Says Relax
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toronto-speed-camera-removal/)
+
+### For Chinese Brands, Expanding From Canada To The US Would Be “Like Flipping A Switch”
+
+- Model/program: For Chinese Brands, Expanding From Canada To The US Would Be “Like Flipping A Switch”
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chinese-automakers-canada-us-strategy/)
+
+### Automakers Keep Adding Colors, Yet Eight In Ten New Cars Are Grayscale
+
+- Model/program: Automakers Keep Adding Colors, Yet Eight In Ten New Cars Are Grayscale
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/2026-color-study/)
+
+### The World’s Tallest Bridge Has A Waterfall Pouring Off It, And Groundwater Is Why
+
+- Model/program: The World’s Tallest Bridge Has A Waterfall Pouring Off It, And Groundwater Is Why
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/huajiang-canyon-bridge/)
+
+### Hyundai’s IONIQ V Has Lambo Looks And 225 HP, So We Imagined The N
+
+- Model/program: Hyundai’s IONIQ V Has Lambo Looks And 225 HP, So We Imagined The N
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hyundai-ioniq-v-n-rendering/)
+
+### Researchers Want To Tax Cars By The Inch To Stop Carspreading
+
+- Model/program: Researchers Want To Tax Cars By The Inch To Stop Carspreading
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/carspreading-car-size-study/)
+
+### A $17,600 Price Made China’s 2026 GAC Emzoom Tempting, Until We Drove It | Review
+
+- Model/program: A $17,600 Price Made China’s 2026 GAC Emzoom Tempting, Until We Drove It | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gac-emzoom-review/)
+
+### This Soviet Rally Lada Defected To Capitalism And Now It Wants $71,500
+
+- Model/program: This Soviet Rally Lada Defected To Capitalism And Now It Wants $71,500
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lada-2105-vfts-rally/)
 
 ### Mercedes-AMG C-Class Electric Will Bring The Fight To The BMW M3 EV
 
