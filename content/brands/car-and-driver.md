@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 292 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 297 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Jaguar XJ220 and XJ220-C Reimagined as Modern Masterpieces
+
+- Model/program: Jaguar XJ220 and XJ220-C Reimagined as Modern Masterpieces
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71773436/jaguar-xj220-ian-callum-concept-revealed/)
+
+### Land Rover Recalls 250,857 SUVs over Potential Airbag Issue
+
+- Model/program: Land Rover Recalls 250,857 SUVs over Potential Airbag Issue
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71772477/land-rover-defender-discovery-range-rover-driver-airbag-recall/)
+
+### 2026 Nissan Frontier Celebrates America with Free Patriotic Badge
+
+- Model/program: 2026 Nissan Frontier Celebrates America with Free Patriotic Badge
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71770532/2026-nissan-frontier-america-250-badge/)
+
+### Mitsubishi Teases the Return of an Iconic Feature on the New Montero
+
+- Model/program: Mitsubishi Teases the Return of an Iconic Feature on the New Montero
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71770022/mitsubishi-montero-iconic-gauges-teased/)
+
+### Tested: The 2027 Chevrolet Bolt Strikes Back
+
+- Model/program: Tested: The 2027 Chevrolet Bolt Strikes Back
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a70627323/2027-chevrolet-bolt-drive/)
 
 ### This 1985 Ferrari 288 GTO Is Bring a Trailer's 250,000th Auction
 

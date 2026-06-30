@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 423 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 441 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### BMW’s Newest American Worker Is A Robot That Looks Eerily Human
+
+- Model/program: BMW’s Newest American Worker Is A Robot That Looks Eerily Human
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-figure-humanoid-robots/)
+
+### CHP Trolls Audi E-Tron GT Driver Who Ran Out Of Juice
+
+- Model/program: CHP Trolls Audi E-Tron GT Driver Who Ran Out Of Juice
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/chp-trolls-audi-e-tron-gt-owner/)
 
 ### Toyota’s $41K Origin Looks Like A 1955 Crown, But Hides The Supra’s 2JZ
 
@@ -19,6 +39,166 @@ Generated internal notes from 423 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-origin-retro-sedan/)
+
+### The Reflecting Pool Sealant May Have Trump’s Motorcade Partly To Blame For Its Peeling
+
+- Model/program: The Reflecting Pool Sealant May Have Trump’s Motorcade Partly To Blame For Its Peeling
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/reflecting-pool-sealant-damage/)
+
+### Hyundai’s Popular Three-Row SUV Is Going Under The Knife
+
+- Model/program: Hyundai’s Popular Three-Row SUV Is Going Under The Knife
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hyundai-santa-fe-facelift-spied/)
+
+### BMW’s M2 Dakar Was An April Fool’s Joke, This M240i Build Is Real
+
+- Model/program: BMW’s M2 Dakar Was An April Fool’s Joke, This M240i Build Is Real
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-m240i-safari-build/)
+
+### Cupra’s Most Extreme Leon Spied Tackling The Nurburgring
+
+- Model/program: Cupra’s Most Extreme Leon Spied Tackling The Nurburgring
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/cupra-leon-vz-tcr-spied/)
+
+### Hyundai’s Recalling Over 96,000 Tucsons Because The Dash Can Blank Out Mid-Drive
+
+- Model/program: Hyundai’s Recalling Over 96,000 Tucsons Because The Dash Can Blank Out Mid-Drive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hyundai-tucson-cluster-recall/)
+
+### Nissan Breaks Out The Stars And Stripes For Frontier Special Edition
+
+- Model/program: Nissan Breaks Out The Stars And Stripes For Frontier Special Edition
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/nissan-frontier-250th-anniversary-edition/)
+
+### A Collector Leaked Ferrari’s Luce Sales Pitch Email And His Reply Was Brutal
+
+- Model/program: A Collector Leaked Ferrari’s Luce Sales Pitch Email And His Reply Was Brutal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ferrari-luce-sales-pitch/)
+
+### Amazon Pulls Driver Who Took A Shortcut Over Indiana Lawn, Will Fix The Tire Damage
+
+- Model/program: Amazon Pulls Driver Who Took A Shortcut Over Indiana Lawn, Will Fix The Tire Damage
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/amazon-driver-lawn-damage/)
+
+### Jim Farley Says It Took Ford Four Years To Finally Get Its Quality Issues Under Control
+
+- Model/program: Jim Farley Says It Took Ford Four Years To Finally Get Its Quality Issues Under Control
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/farley-ford-jd-power-quality/)
+
+### Ferrari’s Luce May Not Have Sold Out In China, But Buyers There Love It Anyway
+
+- Model/program: Ferrari’s Luce May Not Have Sold Out In China, But Buyers There Love It Anyway
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ferrari-luce-china-sales/)
+
+### Hyundai’s EVs Already Fake Engine Sounds, And Now They Might Vibrate Too
+
+- Model/program: Hyundai’s EVs Already Fake Engine Sounds, And Now They Might Vibrate Too
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hyundai-n-ev-engine-vibrations/)
+
+### BMW Tells Owners It’s Okay If Your i3 Or i4 Says It Needs A New Battery
+
+- Model/program: BMW Tells Owners It’s Okay If Your i3 Or i4 Says It Needs A New Battery
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-battery-warning-glitch/)
+
+### Your Windshield Sunshade Barely Cools The Air, But It Saves Your Steering Wheel
+
+- Model/program: Your Windshield Sunshade Barely Cools The Air, But It Saves Your Steering Wheel
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/sunshade-heat-test/)
+
+### Subaru Is Raising Extended Warranty Prices, And Is Partly Blaming Your State
+
+- Model/program: Subaru Is Raising Extended Warranty Prices, And Is Partly Blaming Your State
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/subaru-warranty-price-increase/)
+
+### Ford Fired A Worker Making $200,000 Over A $1.95 Cookie He Didn’t Steal
+
+- Model/program: Ford Fired A Worker Making $200,000 Over A $1.95 Cookie He Didn’t Steal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-worker-cookie-firing/)
+
+### Mazda Says The SUV Boom Still Isn’t Over. Sorry Sedan Fans
+
+- Model/program: Mazda Says The SUV Boom Still Isn’t Over. Sorry Sedan Fans
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/mazda-suv-growth-forecast/)
 
 ### Land Rover Halts Sales Of Three SUVs Over A Dab Of Gel
 
