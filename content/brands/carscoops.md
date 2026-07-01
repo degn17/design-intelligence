@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 441 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 459 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Honda Sold Her the 15 Millionth Accord. Her Sister Bought the 15,000,001st
+
+- Model/program: Honda Sold Her the 15 Millionth Accord. Her Sister Bought the 15,000,001st
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-accord-15-million-milestone/)
+
+### Toyota’s Getting Into The Aircraft Manufacturing Business
+
+- Model/program: Toyota’s Getting Into The Aircraft Manufacturing Business
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-joby-manufacturing-alliance/)
 
 ### BMW’s Newest American Worker Is A Robot That Looks Eerily Human
 
@@ -29,6 +49,166 @@ Generated internal notes from 441 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/chp-trolls-audi-e-tron-gt-owner/)
+
+### James Pond’s Aston Martin Found A Puddle With A License To Drown
+
+- Model/program: James Pond’s Aston Martin Found A Puddle With A License To Drown
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/aston-martin-vantage-flood/)
+
+### VW’s ID. Tiguan Will Be So Much More Than A Facelifted ID.4
+
+- Model/program: VW’s ID. Tiguan Will Be So Much More Than A Facelifted ID.4
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/vw-id-tiguan-spied/)
+
+### GM Throws Shade At Ford Over Who’s More American But Can’t Even Crack The Top 20
+
+- Model/program: GM Throws Shade At Ford Over Who’s More American But Can’t Even Crack The Top 20
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/gm-ford-most-american-jab/)
+
+### Dodge Revives Its Purple Obsession For The Charger’s 60th
+
+- Model/program: Dodge Revives Its Purple Obsession For The Charger’s 60th
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/dodge-charger-purple-haze/)
+
+### No, California Isn’t Banning Performance Tires, But It Might Decide What Aftermarket Tires You Can Buy
+
+- Model/program: No, California Isn’t Banning Performance Tires, But It Might Decide What Aftermarket Tires You Can Buy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/california-replacement-tire-regulation/)
+
+### Fiat Revives The Multiplina And Rolls Out New Topolino Editions
+
+- Model/program: Fiat Revives The Multiplina And Rolls Out New Topolino Editions
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/fiat-multiplina-concept-and-topolinos/)
+
+### A Stolen BMW M4 Fled Police At 130, Then Split In Half On A Sign Post
+
+- Model/program: A Stolen BMW M4 Fled Police At 130, Then Split In Half On A Sign Post
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-m4-crash-pursuit/)
+
+### If Dodge Built A Charger Hellcat In 1971, It Would Look Like This
+
+- Model/program: If Dodge Built A Charger Hellcat In 1971, It Would Look Like This
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/dodge-charger-hellcat-restomod/)
+
+### A V8-Powered 2+2 With RX-8 Suicide Doors Is Just What Lotus Needs
+
+- Model/program: A V8-Powered 2+2 With RX-8 Suicide Doors Is Just What Lotus Needs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/lotus-v8-hybrid-concept/)
+
+### The White House Wants To Make It Easier To Fix Your Own Car, Right-To-Repair Crowd Says It’s Not Enough
+
+- Model/program: The White House Wants To Make It Easier To Fix Your Own Car, Right-To-Repair Crowd Says It’s Not Enough
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/white-house-repair-memo/)
+
+### Toyota’s Global Sales Keep Sliding With A China Collapse It Blames On Gas Prices
+
+- Model/program: Toyota’s Global Sales Keep Sliding With A China Collapse It Blames On Gas Prices
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-global-sales-decline/)
+
+### Hyundai Strips The New Ioniq 3 Down To Its Cleaner, Cheaper Self
+
+- Model/program: Hyundai Strips The New Ioniq 3 Down To Its Cleaner, Cheaper Self
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/hyundai-ioniq-3-standard/)
+
+### 2027 BMW X5 Drops Door Handles For Wings, Adds A 435-Mile Electric iX5
+
+- Model/program: 2027 BMW X5 Drops Door Handles For Wings, Adds A 435-Mile Electric iX5
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/bmw-x5-redesign-ix5/)
+
+### Stellantis Is Bringing Back A 30-Year-Dead Brand For Legal Reasons
+
+- Model/program: Stellantis Is Bringing Back A 30-Year-Dead Brand For Legal Reasons
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/stellantis-pandina-autobianchi/)
+
+### The “Gold Standard For New Vehicle Quality” Recalls 741,000 Roll-Away SUVs And 36,000 Flare-Flinging Broncos
+
+- Model/program: The “Gold Standard For New Vehicle Quality” Recalls 741,000 Roll-Away SUVs And 36,000 Flare-Flinging Broncos
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/ford-transmission-flares-recall/)
+
+### Honda Boss Says Deal With Nissan Is “Close”
+
+- Model/program: Honda Boss Says Deal With Nissan Is “Close”
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/06/honda-boss-says-deal-with-nissan-is-close/)
 
 ### Toyota’s $41K Origin Looks Like A 1955 Crown, But Hides The Supra’s 2JZ
 

@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 297 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 313 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ford and Lincoln Recall 741,195 Trucks and SUVs That May Roll Away
+
+- Model/program: Ford and Lincoln Recall 741,195 Trucks and SUVs That May Roll Away
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71784524/ford-lincoln-truck-suv-rollaway-risk-recall/)
+
+### The Ornate Bugatti Mistral Blanc Éternel Wears Porcelain Accents
+
+- Model/program: The Ornate Bugatti Mistral Blanc Éternel Wears Porcelain Accents
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71786075/bugatti-mistral-blanc-eternel-details/)
+
+### 2027 Honda Prelude Limited Edition Shimmers Under the Summer Sun
+
+- Model/program: 2027 Honda Prelude Limited Edition Shimmers Under the Summer Sun
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71781881/2027-honda-prelude-limited-edition-revealed/)
+
+### View Photos of the 2027 Genesis GV60 Magma
+
+- Model/program: View Photos of the 2027 Genesis GV60 Magma
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71743237/2027-genesis-gv60-magma-drive-gallery/)
+
+### Hot Metal: The 2027 Genesis GV60 Magma Driven
+
+- Model/program: Hot Metal: The 2027 Genesis GV60 Magma Driven
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71743306/2027-genesis-gv60-magma-drive/)
+
+### 2027 Genesis GV60 Magma
+
+- Model/program: 2027 Genesis GV60 Magma
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/genesis/gv60-magma)
+
+### View Interior Photos of the 2027 BMW X5 Hybrid
+
+- Model/program: View Interior Photos of the 2027 BMW X5 Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71783044/2027-bmw-x5-hybrid-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 BMW X5 Hybrid
+
+- Model/program: View Exterior Photos of the 2027 BMW X5 Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71783043/2027-bmw-x5-hybrid-revealed-exterior-gallery/)
+
+### BMW Confirms Next-Generation X5 M Will Have V-8 Power
+
+- Model/program: BMW Confirms Next-Generation X5 M Will Have V-8 Power
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71773509/new-bmw-x5-m-engine-confirmed/)
+
+### View Photos of the 2027 BMW iX5
+
+- Model/program: View Photos of the 2027 BMW iX5
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71763961/2027-bmw-ix5-revealed-gallery/)
+
+### 2027 BMW X5 Hybrid
+
+- Model/program: 2027 BMW X5 Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/x5-hybrid-2027)
+
+### View Photos of the 2027 BMW X5
+
+- Model/program: View Photos of the 2027 BMW X5
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71770700/2027-bmw-x5-revealed-gallery/)
+
+### 2027 BMW X5 Enters a Neue Era with a Never-Before-Available Powertrain
+
+- Model/program: 2027 BMW X5 Enters a Neue Era with a Never-Before-Available Powertrain
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71781672/2027-bmw-x5-ix5-revealed/)
+
+### 2027 BMW iX5
+
+- Model/program: 2027 BMW iX5
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/ix5-2027)
+
+### From the Archive: 1998 Cadillac Seville Touring Sedan Aims Overseas
+
+- Model/program: From the Archive: 1998 Cadillac Seville Touring Sedan Aims Overseas
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71708013/1998-cadillac-seville-touring-sedan-archive-test/)
+
+### View Photos of the 1998 Cadillac Seville Touring Sedan
+
+- Model/program: View Photos of the 1998 Cadillac Seville Touring Sedan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71772524/1998-cadillac-seville-touring-sedan-archive-test-gallery/)
 
 ### Jaguar XJ220 and XJ220-C Reimagined as Modern Masterpieces
 
