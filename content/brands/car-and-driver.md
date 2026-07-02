@@ -2,13 +2,183 @@
 
 ## Current positioning
 
-Generated internal notes from 313 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 330 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Cadillac Escalade IQ / IQL
+
+- Model/program: 2027 Cadillac Escalade IQ / IQL
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/cadillac/escalade-iq-2027)
+
+### TuxMat’s Custom-Fit Floor Mats Are Engineered to Elevate Your Interior
+
+- Model/program: TuxMat’s Custom-Fit Floor Mats Are Engineered to Elevate Your Interior
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/sponsored/a71605162/tuxmat-is-the-ultra-premium-floor-mat-your-vehicle-deserves-1779107399-1781636281/)
+
+### Every EV from Every Brand in America
+
+- Model/program: Every EV from Every Brand in America
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/g64446307/every-ev-automaker/)
+
+### Here's Every New Electric Vehicle Model for Sale in the U.S. for 2026
+
+- Model/program: Here's Every New Electric Vehicle Model for Sale in the U.S. for 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/g32463239/new-ev-models-us/)
+
+### 2027 Kia Niro Hybrid
+
+- Model/program: 2027 Kia Niro Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/kia/niro-2027)
+
+### View Interior Photos of the 2027 Kia Niro Hybrid
+
+- Model/program: View Interior Photos of the 2027 Kia Niro Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71798054/2027-kia-niro-hybrid-refresh-details-interior-gallery/)
+
+### View Exterior Photos of the 2027 Kia Niro Hybrid
+
+- Model/program: View Exterior Photos of the 2027 Kia Niro Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71798055/2027-kia-niro-hybrid-refresh-details-exterior-gallery/)
+
+### 2027 Chevy Corvette Stingray Can Get You into the 200-MPH Club
+
+- Model/program: 2027 Chevy Corvette Stingray Can Get You into the 200-MPH Club
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71785777/2027-chevy-corvette-stingray-200-mph-top-speed/)
+
+### Fiat Shows Cute Multiplina Concept as Topolino Arrives Stateside
+
+- Model/program: Fiat Shows Cute Multiplina Concept as Topolino Arrives Stateside
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71795390/fiat-topolino-timeline-multiplina-concept-revealed/)
+
+### 2027 Kia Niro Dons a New Look but Now Only Offers One Powertrain
+
+- Model/program: 2027 Kia Niro Dons a New Look but Now Only Offers One Powertrain
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71795848/2027-kia-niro-refresh-details/)
+
+### We Highlight the Cars Built North of the Border to Celebrate Canada Day
+
+- Model/program: We Highlight the Cars Built North of the Border to Celebrate Canada Day
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71795241/chevy-silverado-toyota-rav4-canadian-car-industry/)
+
+### 2026 Mercedes-AMG SL63 S E Performance Test: Sound and Fury
+
+- Model/program: 2026 Mercedes-AMG SL63 S E Performance Test: Sound and Fury
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71769437/2026-mercedes-amg-sl63-s-e-performance-test/)
+
+### View Exterior Photos of the 2026 Mercedes-AMG SL63 S E Performance
+
+- Model/program: View Exterior Photos of the 2026 Mercedes-AMG SL63 S E Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71771000/2026-mercedes-amg-sl63-s-e-performance-test-exterior-gallery/)
+
+### View Interior Photos of the 2026 Mercedes-AMG SL63 S E Performance
+
+- Model/program: View Interior Photos of the 2026 Mercedes-AMG SL63 S E Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71771056/2026-mercedes-amg-sl63-s-e-performance-test-interior-gallery/)
+
+### 2027 Lamborghini Urus SE Performante Ups the Ante on Hybrid Power
+
+- Model/program: 2027 Lamborghini Urus SE Performante Ups the Ante on Hybrid Power
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71783168/2027-lamborghini-urus-se-performante-revealed/)
+
+### View Interior Photos of the 2027 Lamborghini Urus SE Performante
+
+- Model/program: View Interior Photos of the 2027 Lamborghini Urus SE Performante
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71782621/2027-lamborghini-urus-se-performante-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 Lamborghini Urus SE Performante
+
+- Model/program: View Exterior Photos of the 2027 Lamborghini Urus SE Performante
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71782620/2027-lamborghini-urus-se-performante-revealed-exterior-gallery/)
 
 ### Ford and Lincoln Recall 741,195 Trucks and SUVs That May Roll Away
 

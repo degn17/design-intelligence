@@ -2,13 +2,183 @@
 
 ## Current positioning
 
-Generated internal notes from 41 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 58 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Porsche pays tribute to its motorsport history with a special exhibition
+
+- Model/program: Porsche pays tribute to its motorsport history with a special exhibition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-museum-75-years-motorsport-exhibition-42766.html)
+
+### Sunday drives: Kathy Mead on Pikes Peak
+
+- Model/program: Sunday drives: Kathy Mead on Pikes Peak
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-sunday-drives-pikes-peak-kathy-mead-42747.html)
+
+### A shining icon of its era: Pop-up headlight
+
+- Model/program: A shining icon of its era: Pop-up headlight
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-icon-christophorus-418-pop-up-headlights-42006.html)
+
+### Porsche secures a podium finish for the 963 and a one-two in the GT class at Watkins Glen
+
+- Model/program: Porsche secures a podium finish for the 963 and a one-two in the GT class at Watkins Glen
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/06/porsche-secures-a-podium-finish-for-the-963-and-a-one-two-in-the-gt-class-at-watkins-glen.html)
+
+### Porsche customer team Lionspeed GP wins the 24 Hours of Spa
+
+- Model/program: Porsche customer team Lionspeed GP wins the 24 Hours of Spa
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/06/porsche-customer-team-lionspeed-gp-wins-the-24-hours-of-spa.html)
+
+### Porsche celebrates its ninth victory at the 24 Hours of Spa-Francorchamps
+
+- Model/program: Porsche celebrates its ninth victory at the 24 Hours of Spa-Francorchamps
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-celebrates-its-ninth-victory-at-the-24-hours-of-spa-francorchamps-42734.html)
+
+### Robert de Haan Wins the Third Round of the Porsche Supercup Season
+
+- Model/program: Robert de Haan Wins the Third Round of the Porsche Supercup Season
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/06/robert-de-haan-wins-the-third-round-of-the-porsche-supercup-season.html)
+
+### 15 Porsche 911 GT3 R set to compete in the 24 Hours of Spa-Francorchamps
+
+- Model/program: 15 Porsche 911 GT3 R set to compete in the 24 Hours of Spa-Francorchamps
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/06/15-porsche-911-gt3-r-set-to-compete-in-the-24-hours-of-spa-francorchamps.html)
+
+### Porsche ranks number one in J.D. Power 2026 U.S. Initial Quality Study
+
+- Model/program: Porsche ranks number one in J.D. Power 2026 U.S. Initial Quality Study
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-number-one-jd-power-2026-us-initial-quality-study-42728.html)
+
+### 911 Love: Interview with Chris Harris
+
+- Model/program: 911 Love: Interview with Chris Harris
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-911-love-chris-harris-42718.html)
+
+### Porsche unveils the new 911 GT4 R for global customer motorsport
+
+- Model/program: Porsche unveils the new 911 GT4 R for global customer motorsport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-911-gt4-r-customer-motorsport-42700.html)
+
+### Porsche celebrates 75 years in the UK
+
+- Model/program: Porsche celebrates 75 years in the UK
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-75-years-in-the-uk-sunstede-festival-silverstone-42692.html)
+
+### Porsche Financial Services realigns Management Board
+
+- Model/program: Porsche Financial Services realigns Management Board
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-financial-services-management-board-42691.html)
+
+### Porsche AG adjusts dividend responsibly
+
+- Model/program: Porsche AG adjusts dividend responsibly
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-annual-general-meeting-dividend-42690.html)
+
+### Porsche AG provides further insight into the three pillars of Strategy 2035
+
+- Model/program: Porsche AG provides further insight into the three pillars of Strategy 2035
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-annual-general-meeting-strategy-2035-42687.html)
+
+### Mid-Sized Machinery Firms Under Cash Flow Pressure
+
+- Model/program: Mid-Sized Machinery Firms Under Cash Flow Pressure
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-cash-flow-pressure-42680.html)
+
+### Porsche powers to class wins at Pikes Peak International Hill Climb 2026
+
+- Model/program: Porsche powers to class wins at Pikes Peak International Hill Climb 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-pikes-peak-international-hill-climb-2026-42676.html)
 
 ### South African Keagan Masters celebrates Lausitzring double victory
 

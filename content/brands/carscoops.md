@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 459 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 477 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ford Started Building US Batteries On Chinese Tech Congress Fought Over
+
+- Model/program: Ford Started Building US Batteries On Chinese Tech Congress Fought Over
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-michigan-catl-battery-plant/)
+
+### Trump Doesn’t Renew US-Mexico-Canada Trade Agreement
+
+- Model/program: Trump Doesn’t Renew US-Mexico-Canada Trade Agreement
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/trump-doesnt-renew-us-mexico-canada-trade-agreement/)
 
 ### Honda Sold Her the 15 Millionth Accord. Her Sister Bought the 15,000,001st
 
@@ -29,6 +49,166 @@ Generated internal notes from 459 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/06/toyota-joby-manufacturing-alliance/)
+
+### Audi Is Done Building One Car For The Whole World
+
+- Model/program: Audi Is Done Building One Car For The Whole World
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/audi-global-car-strategy/)
+
+### Nissan Z And Leaf Sales Stumble, But Crossovers Save Q2
+
+- Model/program: Nissan Z And Leaf Sales Stumble, But Crossovers Save Q2
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/nissan-infiniti-2026-q2-sales/)
+
+### The Feds Could Soon Clear The Way For A Tesla With No Brake Pedal
+
+- Model/program: The Feds Could Soon Clear The Way For A Tesla With No Brake Pedal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/nhtsa-brake-pedal-rule/)
+
+### Kia Sales Are Through The Roof, Breaking Two Big Records In A Single Month
+
+- Model/program: Kia Sales Are Through The Roof, Breaking Two Big Records In A Single Month
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/kia-june-2026-sales/)
+
+### Xiaomi May Be Building A 2,000+ HP Coupe To Chase Porsche
+
+- Model/program: Xiaomi May Be Building A 2,000+ HP Coupe To Chase Porsche
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/xiaomi-coupe-prototype-spied/)
+
+### Kia’s Affordable Niro Gets An Upscale Makeover For 2027 And Drops The EV
+
+- Model/program: Kia’s Affordable Niro Gets An Upscale Makeover For 2027 And Drops The EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-kia-niro-us-debut/)
+
+### VW May Kill Its Biggest Self-Driving Project After Sinking In $1.7 Billion
+
+- Model/program: VW May Kill Its Biggest Self-Driving Project After Sinking In $1.7 Billion
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-bosch-self-driving-split/)
+
+### Polestar Owners Fear A Fisker-Style Resale Collapse After US Ban
+
+- Model/program: Polestar Owners Fear A Fisker-Style Resale Collapse After US Ban
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/polestar-us-sales-ban-2/)
+
+### Mansory Charges Bentley Owners To Do This, Bentley Now Does It In-House
+
+- Model/program: Mansory Charges Bentley Owners To Do This, Bentley Now Does It In-House
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bentley-supersports-mulliner-livery/)
+
+### BMW’s X5 Will Remind You Of Musk Every Time You Turn On The Lights
+
+- Model/program: BMW’s X5 Will Remind You Of Musk Every Time You Turn On The Lights
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-x5-drl-design-x/)
+
+### Reborn Alfa Romeo 155 Race Car Is Really A Giulia QV In Disguise
+
+- Model/program: Reborn Alfa Romeo 155 Race Car Is Really A Giulia QV In Disguise
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/alfa-155-sgt-tribute/)
+
+### Half Of America’s 16-Year-Olds Don’t Bother Getting A License, And That’s A Problem For Detroit
+
+- Model/program: Half Of America’s 16-Year-Olds Don’t Bother Getting A License, And That’s A Problem For Detroit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/us-car-sales-decline-forecast/)
+
+### Lamborghini Gave The New Urus Performante 144 HP More And It Still Can’t Beat The Old One To 62
+
+- Model/program: Lamborghini Gave The New Urus Performante 144 HP More And It Still Can’t Beat The Old One To 62
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lamborghini-urus-performante-se/)
+
+### The Cheapest New 200-MPH Car You Can Buy Now Is A $73,495 Chevy
+
+- Model/program: The Cheapest New 200-MPH Car You Can Buy Now Is A $73,495 Chevy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-corvette-stingray-top-speed/)
+
+### Trump Threatens Gas Retailers, Get To $2.50 Or Face ‘Big Problems’
+
+- Model/program: Trump Threatens Gas Retailers, Get To $2.50 Or Face ‘Big Problems’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gas-price-retailer-pressure/)
+
+### VW May Put Lamborghini And Ducati Up For Sale
+
+- Model/program: VW May Put Lamborghini And Ducati Up For Sale
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-lamborghini-ducati-sale/)
 
 ### BMW’s Newest American Worker Is A Robot That Looks Eerily Human
 
