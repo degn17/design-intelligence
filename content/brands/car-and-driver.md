@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 330 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 341 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Right Now You Can Buy a Polestar 4 for Less Than a New Chevy Bolt
+
+- Model/program: Right Now You Can Buy a Polestar 4 for Less Than a New Chevy Bolt
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71809463/polestar-3-4-models-huge-discounts/)
+
+### Audi Says Markets Are Too Different for a 'Global Car' to Work
+
+- Model/program: Audi Says Markets Are Too Different for a 'Global Car' to Work
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71809100/audi-says-global-car-cant-work/)
+
+### These Are the Biggest Winners and Losers in Auto Sales in Q2 2026
+
+- Model/program: These Are the Biggest Winners and Losers in Auto Sales in Q2 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/g71808102/auto-sales-q2-2026-winners-losers/)
+
+### Trump Refuses to Renew USMCA: Here's What That Means for Autos
+
+- Model/program: Trump Refuses to Renew USMCA: Here's What That Means for Autos
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71806511/trump-refuses-usmca-renewal-what-that-means/)
+
+### Chevy Corvette: A Brief History in Zero-to-60-MPH Acceleration
+
+- Model/program: Chevy Corvette: A Brief History in Zero-to-60-MPH Acceleration
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/g15379023/the-chevrolet-corvette-a-history-in-zero-to-60-times/)
+
+### McMurtry Spéirling Pure Lets You Put the Famous Fan Car in Your Garage
+
+- Model/program: McMurtry Spéirling Pure Lets You Put the Famous Fan Car in Your Garage
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71798584/mcmurtry-speirling-pure-revealed/)
+
+### 2026 Jeep Grand Cherokee Summit Tested: A Not So Mighty Wind
+
+- Model/program: 2026 Jeep Grand Cherokee Summit Tested: A Not So Mighty Wind
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71536995/2026-jeep-grand-cherokee-summit-test/)
+
+### View Interior Photos of the 2026 Jeep Grand Cherokee Summit
+
+- Model/program: View Interior Photos of the 2026 Jeep Grand Cherokee Summit
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71771595/2026-jeep-grand-cherokee-summit-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Jeep Grand Cherokee Summit
+
+- Model/program: View Exterior Photos of the 2026 Jeep Grand Cherokee Summit
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71771516/2026-jeep-grand-cherokee-summit-test-exterior-gallery/)
+
+### 1992 Mazda 929 Test: A Real Sweetheart
+
+- Model/program: 1992 Mazda 929 Test: A Real Sweetheart
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71726887/1992-mazda-929-archive-test/)
+
+### View Photos of the 1992 Mazda 929
+
+- Model/program: View Photos of the 1992 Mazda 929
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71784898/1992-mazda-929-archive-test-gallery/)
 
 ### 2027 Cadillac Escalade IQ / IQL
 

@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 477 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 495 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Historic 1965 Mustang Ran On A Disney Track Before It Ever Hit A Road
+
+- Model/program: This Historic 1965 Mustang Ran On A Disney Track Before It Ever Hit A Road
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-mustang-historic-register/)
+
+### Rolls-Royce’s Latest Phantom Gives New Meaning To Land Yacht
+
+- Model/program: Rolls-Royce’s Latest Phantom Gives New Meaning To Land Yacht
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/rolls-royce-phantom-regatta/)
 
 ### Ford Started Building US Batteries On Chinese Tech Congress Fought Over
 
@@ -29,6 +49,166 @@ Generated internal notes from 477 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/trump-doesnt-renew-us-mexico-canada-trade-agreement/)
+
+### Mitsubishi’s Cheapest, Oldest Sedan Just Got A Lancer Evo-Inspired Grille
+
+- Model/program: Mitsubishi’s Cheapest, Oldest Sedan Just Got A Lancer Evo-Inspired Grille
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mitsubishi-mirage-attrage-facelift/)
+
+### Not Even Employee Pricing And Hybrids Allowed Ford To Escape Their Mess
+
+- Model/program: Not Even Employee Pricing And Hybrids Allowed Ford To Escape Their Mess
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-q2-2026-sales/)
+
+### Suzuki’s Tiny Mid-Engine Supercar Has Gullwing Doors And Just 64 HP
+
+- Model/program: Suzuki’s Tiny Mid-Engine Supercar Has Gullwing Doors And Just 64 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/suzuki-cara-gullwing-kei/)
+
+### 2027 Land Rover Discovery Drops Turbo Four And Gets A New Landmark Edition
+
+- Model/program: 2027 Land Rover Discovery Drops Turbo Four And Gets A New Landmark Edition
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-land-rover-discovery/)
+
+### Sorry Canada, Slate Won’t Sell You Its Cheap Electric Truck, But Ford Will
+
+- Model/program: Sorry Canada, Slate Won’t Sell You Its Cheap Electric Truck, But Ford Will
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/slate-truck-canada/)
+
+### Jim Farley Wants Ford’s Rivals Punished For Importing Nearly Half The Cars They Sell Here
+
+- Model/program: Jim Farley Wants Ford’s Rivals Punished For Importing Nearly Half The Cars They Sell Here
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-farley-import-penalties/)
+
+### The CT5 Sedan Outsold Most Of Cadillac’s Crossovers
+
+- Model/program: The CT5 Sedan Outsold Most Of Cadillac’s Crossovers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/cadillac-q2-2026-sales/)
+
+### Russia Is Selling Bootleg BMWs Built With Leftover Parts From $153,000
+
+- Model/program: Russia Is Selling Bootleg BMWs Built With Leftover Parts From $153,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/russia-bootleg-bmw-production/)
+
+### You Can Now Buy A Fan Car That Hits 60 In 1.55 Seconds And Drives Upside Down
+
+- Model/program: You Can Now Buy A Fan Car That Hits 60 In 1.55 Seconds And Drives Upside Down
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mcmurtry-speirling-pure-production/)
+
+### Ontario’s New Insurance Rules Let You Pocket $2 A Week And Gamble $20,800 After A Crash
+
+- Model/program: Ontario’s New Insurance Rules Let You Pocket $2 A Week And Gamble $20,800 After A Crash
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ontario-insurance-optional-benefits/)
+
+### Honda’s CR-V Is America’s New Best-Seller As F-150 And RAV4 Stumble
+
+- Model/program: Honda’s CR-V Is America’s New Best-Seller As F-150 And RAV4 Stumble
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/honda-cr-v-bestseller/)
+
+### Toyota Killed The GR Supra And Sales Jumped 72% This Year
+
+- Model/program: Toyota Killed The GR Supra And Sales Jumped 72% This Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-supra-gr86-sales/)
+
+### Hyundai’s Wild New Elantra Looks Best In A Wagon Body It Won’t Build
+
+- Model/program: Hyundai’s Wild New Elantra Looks Best In A Wagon Body It Won’t Build
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hyundai-elantra-wagon-rendering/)
+
+### VW May Sell And Even Build Chinese Cars In Europe. Its Own CFO Hates The Idea
+
+- Model/program: VW May Sell And Even Build Chinese Cars In Europe. Its Own CFO Hates The Idea
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-china-models-europe-2/)
+
+### Gas Charger Sales Surged 404% While The Daytona EV Collapsed
+
+- Model/program: Gas Charger Sales Surged 404% While The Daytona EV Collapsed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/dodge-charger-gas-ev-sales/)
+
+### Chevy Sold 206 Examples Of A Sedan It Killed Two Years Ago
+
+- Model/program: Chevy Sold 206 Examples Of A Sedan It Killed Two Years Ago
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/chevrolet-malibu-leftover-inventory/)
 
 ### Honda Sold Her the 15 Millionth Accord. Her Sister Bought the 15,000,001st
 
