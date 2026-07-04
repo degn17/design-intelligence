@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 495 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 508 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Corvette Driver Crashes Fleeing Cops, Tells Them He’ll ‘Simply Buy Another One’
+
+- Model/program: Corvette Driver Crashes Fleeing Cops, Tells Them He’ll ‘Simply Buy Another One’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/corvette-chase-arrest/)
 
 ### This Historic 1965 Mustang Ran On A Disney Track Before It Ever Hit A Road
 
@@ -29,6 +39,126 @@ Generated internal notes from 495 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/rolls-royce-phantom-regatta/)
+
+### iX5 Too Small? BMW’s Electric Crossover Flagship Should Fit The Bill
+
+- Model/program: iX5 Too Small? BMW’s Electric Crossover Flagship Should Fit The Bill
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-ix7-spy-shots/)
+
+### Toyota’s New Rugged Corolla Cross Special Swipes The Land Cruiser’s Grille Badging
+
+- Model/program: Toyota’s New Rugged Corolla Cross Special Swipes The Land Cruiser’s Grille Badging
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-corolla-cross-anniversary-japan/)
+
+### These Cars Are Real, But Your Brain Sees Comic Book Sketches
+
+- Model/program: These Cars Are Real, But Your Brain Sees Comic Book Sketches
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/joshua-vides-petersen-car-art/)
+
+### Ferrari’s New 12Cilindri Has A Gated Shifter And A Clutch. It’s Also An Automatic
+
+- Model/program: Ferrari’s New 12Cilindri Has A Gated Shifter And A Clutch. It’s Also An Automatic
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ferrari-12cilindri-manuale/)
+
+### The 10-Foot-Wide M3 Isn’t Photoshopped, But It Isn’t A BMW Either
+
+- Model/program: The 10-Foot-Wide M3 Isn’t Photoshopped, But It Isn’t A BMW Either
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-m3-squared-wide/)
+
+### Jeep’s $82,000 Wrangler Moab 392 Makes No Sense, Until The V8 Fires | Review
+
+- Model/program: Jeep’s $82,000 Wrangler Moab 392 Makes No Sense, Until The V8 Fires | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/jeep-wrangler-392-review/)
+
+### This Stellantis Brand Thinks A Wagon Might Make More Sense Than A Hatchback
+
+- Model/program: This Stellantis Brand Thinks A Wagon Might Make More Sense Than A Hatchback
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/opel-astra-body-styles/)
+
+### One Dodge Dealer Is Sitting On 15 Challenger Demons
+
+- Model/program: One Dodge Dealer Is Sitting On 15 Challenger Demons
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/dodge-demon-dealer-stockpile/)
+
+### Ford’s New $30K EV Truck Barely Clears An Expedition’s Shoulder
+
+- Model/program: Ford’s New $30K EV Truck Barely Clears An Expedition’s Shoulder
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-electric-truck-spied/)
+
+### BMW’s New X5 Will Get A Pure V8, Batteries Not Included
+
+- Model/program: BMW’s New X5 Will Get A Pure V8, Batteries Not Included
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-x5-m60-v8/)
+
+### Tesla’s $61,990 Model Y L Adds 7 Inches And A Third Row You Might Actually Use
+
+- Model/program: Tesla’s $61,990 Model Y L Adds 7 Inches And A Third Row You Might Actually Use
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/tesla-model-y-l-us/)
+
+### Hyundai’s Ioniq 5 Is Selling Better Now Than It Did With The $7,500 EV Credit
+
+- Model/program: Hyundai’s Ioniq 5 Is Selling Better Now Than It Did With The $7,500 EV Credit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hyundai-sales-ioniq5/)
 
 ### Ford Started Building US Batteries On Chinese Tech Congress Fought Over
 

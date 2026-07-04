@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 341 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 355 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ferrari Revives the Gated Shifter with the New 12Cilindri Manuale
+
+- Model/program: Ferrari Revives the Gated Shifter with the New 12Cilindri Manuale
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71785496/2027-ferrari-12cilindri-manuale-revealed/)
+
+### View Photos of the 2027 Ferrari 12Cilindri Manuale
+
+- Model/program: View Photos of the 2027 Ferrari 12Cilindri Manuale
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71798866/2027-ferrari-12cilindri-manuale-revealed-gallery/)
+
+### Which Version of the Ford Explorer Is the Best Deal for the Money?
+
+- Model/program: Which Version of the Ford Explorer Is the Best Deal for the Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71651820/ford-explorer-trim-level-what-to-buy/)
+
+### Which Volkswagen Atlas Model Gives You the Most for Your Money?
+
+- Model/program: Which Volkswagen Atlas Model Gives You the Most for Your Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71753168/volkswagen-atlas-trim-level-what-to-buy/)
+
+### Which Toyota Grand Highlander Hybrid Is Best for Your Budget?
+
+- Model/program: Which Toyota Grand Highlander Hybrid Is Best for Your Budget?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71726203/toyota-grand-highlander-hybrid-trim-level-what-to-buy/)
+
+### Which Kia Telluride Hybrid Model Packs the Best Punch for the Money?
+
+- Model/program: Which Kia Telluride Hybrid Model Packs the Best Punch for the Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71727013/kia-telluride-hybrid-trim-level-what-to-buy/)
+
+### Which Version of the Honda Pilot Gets You the Most for Your Money?
+
+- Model/program: Which Version of the Honda Pilot Gets You the Most for Your Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71743197/honda-pilot-trim-level-what-to-buy/)
+
+### Which Version of the Hyundai Palisade Hybrid Gets You the Most for Your Money?
+
+- Model/program: Which Version of the Hyundai Palisade Hybrid Gets You the Most for Your Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71754314/hyundai-palisade-hybrid-trim-levels-what-to-buy/)
+
+### 2027 Tesla Model Y L Finally Lands on American Shores Starting at $63,630
+
+- Model/program: 2027 Tesla Model Y L Finally Lands on American Shores Starting at $63,630
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71811162/2027-tesla-model-y-l-specs-price/)
+
+### View Photos of the 2026 Volkswagen Atlas SEL Premium R-Line
+
+- Model/program: View Photos of the 2026 Volkswagen Atlas SEL Premium R-Line
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71772008/2026-volkswagen-atlas-sel-premium-r-line-test-gallery/)
+
+### Roush's 'Red Edition' Ford F-150 Supercharger Kit Salutes America
+
+- Model/program: Roush's 'Red Edition' Ford F-150 Supercharger Kit Salutes America
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71798656/ford-f150-roush-red-edition-kit-details/)
+
+### Chevy's Stars and Steel Corvettes and Trucks Do Subtle Patriotism
+
+- Model/program: Chevy's Stars and Steel Corvettes and Trucks Do Subtle Patriotism
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71810682/chevy-stars-and-steel-corvette-pickups-america-250/)
+
+### Driver of the Week: Caleb Miller
+
+- Model/program: Driver of the Week: Caleb Miller
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71793787/driver-of-the-week-caleb-miller/)
+
+### Modern Family: 2026–27 Three-Row SUVs Compared
+
+- Model/program: Modern Family: 2026–27 Three-Row SUVs Compared
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a71664608/2026-2027-three-row-suv-comparison-test/)
 
 ### Right Now You Can Buy a Polestar 4 for Less Than a New Chevy Bolt
 
