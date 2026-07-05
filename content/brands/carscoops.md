@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 508 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 517 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Singer Keeps The Classic 911 On The Road, Signature Wants One For Everywhere Else
+
+- Model/program: Singer Keeps The Classic 911 On The Road, Signature Wants One For Everywhere Else
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/signature-meridian-911-safari/)
 
 ### Corvette Driver Crashes Fleeing Cops, Tells Them He’ll ‘Simply Buy Another One’
 
@@ -19,6 +29,86 @@ Generated internal notes from 508 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/corvette-chase-arrest/)
+
+### This Aussie Is Funding His Land Cruiser One Gold Nugget At A Time
+
+- Model/program: This Aussie Is Funding His Land Cruiser One Gold Nugget At A Time
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-land-cruiser-river-gold/)
+
+### Ford’s Ranger PHEV Wants To Kill Your Gas Generator
+
+- Model/program: Ford’s Ranger PHEV Wants To Kill Your Gas Generator
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-ranger-phev-generator/)
+
+### Jaguar Stopped Building Cars Last Year, But Dealers Still Have Hundreds In Stock
+
+- Model/program: Jaguar Stopped Building Cars Last Year, But Dealers Still Have Hundreds In Stock
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/jaguar-still-has-new-cars-for-sale/)
+
+### America’s Gen Z Says It Can Change A Tire, Nobody Else Agrees
+
+- Model/program: America’s Gen Z Says It Can Change A Tire, Nobody Else Agrees
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gen-z-tire-change-survey/)
+
+### AMG’s Silent 1,153 HP SUV Will Fake Gear Shifts And A V8 It Doesn’t Have – Renders
+
+- Model/program: AMG’s Silent 1,153 HP SUV Will Fake Gear Shifts And A V8 It Doesn’t Have – Renders
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-amg-electric-suv-renders/)
+
+### China’s 2026 GAC Aion UT Is A $23K EV That Doesn’t Feel That Cheap | Review
+
+- Model/program: China’s 2026 GAC Aion UT Is A $23K EV That Doesn’t Feel That Cheap | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gac-aion-ut-review/)
+
+### Used Hybrid And EV Prices Have Jumped $3,600 Even After The Tax Credit Died
+
+- Model/program: Used Hybrid And EV Prices Have Jumped $3,600 Even After The Tax Credit Died
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/used-car-prices-june/)
+
+### Less Than $1 Million Buys You Three Ferrari-Powered Alfas, And One Was Never Driven
+
+- Model/program: Less Than $1 Million Buys You Three Ferrari-Powered Alfas, And One Was Never Driven
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/alfa-romeo-8c-trio-for-sale/)
 
 ### This Historic 1965 Mustang Ran On A Disney Track Before It Ever Hit A Road
 

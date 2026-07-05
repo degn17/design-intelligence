@@ -2,13 +2,83 @@
 
 ## Current positioning
 
-Generated internal notes from 355 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 362 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Drivers' Parade Returns to F1 Grid with Smaller, Faster Lego Race Cars
+
+- Model/program: Drivers' Parade Returns to F1 Grid with Smaller, Faster Lego Race Cars
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71818864/f1-silverstone-race-drivable-lego-cars/)
+
+### The Toyota 4Runner's Defining Feature Isn't Four-Wheel Drive
+
+- Model/program: The Toyota 4Runner's Defining Feature Isn't Four-Wheel Drive
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71796832/toyota-4runner-defining-feature/)
+
+### Ford's $30,000 Electric Truck Comes into Focus in New Spy Photos
+
+- Model/program: Ford's $30,000 Electric Truck Comes into Focus in New Spy Photos
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71809222/2028-ford-ranchero-ev-truck-spy-photos/)
+
+### This 1975 Chevy Caprice Classic Convertible on Bring a Trailer Got a Late Start in Life
+
+- Model/program: This 1975 Chevy Caprice Classic Convertible on Bring a Trailer Got a Late Start in Life
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71794780/1975-chevrolet-caprice-convertible-bring-a-trailer-auction/)
+
+### Sumo-Sized: 1997 SUVs Compared
+
+- Model/program: Sumo-Sized: 1997 SUVs Compared
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71727678/1997-ford-expedition-chevrolet-suburban-tahoe-archive-comparison-test/)
+
+### View Photos of the 1997 Full Size SUV Comparison Test
+
+- Model/program: View Photos of the 1997 Full Size SUV Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71797343/1997-ford-expedition-chevrolet-suburban-tahoe-archive-comparison-test-gallery/)
+
+### What Ever Happened to the Cars of MTV's 'Pimp My Ride'?
+
+- Model/program: What Ever Happened to the Cars of MTV's 'Pimp My Ride'?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71697079/mtv-pimp-my-ride-where-are-the-cars-now/)
 
 ### Ferrari Revives the Gated Shifter with the New 12Cilindri Manuale
 
