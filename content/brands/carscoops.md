@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 517 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 526 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### GPS Quickly Turned A Dodge Durango Theft Into 9 More Years Behind Bars
+
+- Model/program: GPS Quickly Turned A Dodge Durango Theft Into 9 More Years Behind Bars
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/stolen-dodge-durango-gps-arrest/)
 
 ### Singer Keeps The Classic 911 On The Road, Signature Wants One For Everywhere Else
 
@@ -19,6 +29,86 @@ Generated internal notes from 517 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/signature-meridian-911-safari/)
+
+### AI Cameras Read 20 Billion License Plates A Month, And Now Cities Are Turning On Them
+
+- Model/program: AI Cameras Read 20 Billion License Plates A Month, And Now Cities Are Turning On Them
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/license-plate-reader-backlash/)
+
+### BMW Is Fixing The X2’s Face But Skipping Its Ugliest Angle
+
+- Model/program: BMW Is Fixing The X2’s Face But Skipping Its Ugliest Angle
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-x2-neue-klasse-facelift/)
+
+### Japan’s PM Ditched Her Limo For Toyota’s Most Luxurious SUV
+
+- Model/program: Japan’s PM Ditched Her Limo For Toyota’s Most Luxurious SUV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/japan-prime-minister-century-suv/)
+
+### The 2026 Range Rover Sport PHEV Is A Master Of Nothing And That’s Its Trick | Review
+
+- Model/program: The 2026 Range Rover Sport PHEV Is A Master Of Nothing And That’s Its Trick | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/range-rover-sport-phev-review/)
+
+### Thieves Keep Stealing A $2,600 VW Part That’s Useless The Moment It’s Removed
+
+- Model/program: Thieves Keep Stealing A $2,600 VW Part That’s Useless The Moment It’s Removed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-radar-badge-theft/)
+
+### The Cheapest New Cars Didn’t Get Expensive, Honda And Ford Just Killed Them
+
+- Model/program: The Cheapest New Cars Didn’t Get Expensive, Honda And Ford Just Killed Them
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/cox-vehicle-affordability-analysis/)
+
+### Suzuki’s 657cc Turbo Kei Hatch Makes Less Power Than A Liter Bike
+
+- Model/program: Suzuki’s 657cc Turbo Kei Hatch Makes Less Power Than A Liter Bike
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/suzuki-alto-works-auction/)
+
+### I Gave Alfa’s Last Busso V6 Coupe A Digital Restomod, Then Let The Purists Judge It
+
+- Model/program: I Gave Alfa’s Last Busso V6 Coupe A Digital Restomod, Then Let The Purists Judge It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/alfa-romeo-gt-restomod/)
 
 ### Corvette Driver Crashes Fleeing Cops, Tells Them He’ll ‘Simply Buy Another One’
 

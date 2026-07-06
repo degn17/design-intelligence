@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 362 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 365 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Elana Scherr: Restoring a 1970 Dodge Challenger, Again
+
+- Model/program: Elana Scherr: Restoring a 1970 Dodge Challenger, Again
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/columns/a71729831/elana-scherr-restoring-a-1970-dodge-challenger/)
+
+### 2000 Mitsubishi Pajero Mini on Bring a Trailer Is Perfect for a Peanuts Fan
+
+- Model/program: 2000 Mitsubishi Pajero Mini on Bring a Trailer Is Perfect for a Peanuts Fan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71797050/2000-mitsubishi-pajero-suv-bring-a-trailer-auction/)
+
+### The Only Cizeta Moroder V16T Supercar Ever Made Can Now Be Yours
+
+- Model/program: The Only Cizeta Moroder V16T Supercar Ever Made Can Now Be Yours
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71811275/1988-cizeta-moroder-v16t-rm-sothebys-auction/)
 
 ### Drivers' Parade Returns to F1 Grid with Smaller, Faster Lego Race Cars
 
