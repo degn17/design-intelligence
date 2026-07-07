@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 365 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 379 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Interior Photos of the 2027 Mercedes-Maybach S580
+
+- Model/program: View Interior Photos of the 2027 Mercedes-Maybach S580
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71806378/2027-mercedes-maybach-s580-drive-interior-gallery/)
+
+### 2027 Mercedes-Maybach S580 Drive: More, More, More
+
+- Model/program: 2027 Mercedes-Maybach S580 Drive: More, More, More
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71783027/2027-mercedes-maybach-s580-drive/)
+
+### View Exterior Photos of the 2027 Mercedes-Maybach S580
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-Maybach S580
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71806390/2027-mercedes-maybach-s580-drive-exterior-gallery/)
+
+### This Wild Hot Hatch Has Angry Red Crocodiles Swimming on the Hood
+
+- Model/program: This Wild Hot Hatch Has Angry Red Crocodiles Swimming on the Hood
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71841926/alpine-a290-rallye-lacoste-collab-details/)
+
+### 2026 Lucid Gravity Available with No Interest Due to No Interest
+
+- Model/program: 2026 Lucid Gravity Available with No Interest Due to No Interest
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71841246/leftover-2026-lucid-gravity-models-available-no-interest/)
+
+### 2027 Cadillac Escalade Could Start over $100K with Lineup Changes
+
+- Model/program: 2027 Cadillac Escalade Could Start over $100K with Lineup Changes
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71838749/2027-cadillac-escalade-drops-base-model-rwd-price-hikes/)
+
+### Subaru Isn't Raising Prices on Any of Its Existing EV SUVs for 2027
+
+- Model/program: Subaru Isn't Raising Prices on Any of Its Existing EV SUVs for 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71834911/2027-subaru-uncharted-solterra-trailseeker-prices/)
+
+### 2027 Cadillac Escalade
+
+- Model/program: 2027 Cadillac Escalade
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/cadillac/escalade-2027)
+
+### McLaren Accurately Rebuilds Its Original '60s Road-Going Supercar
+
+- Model/program: McLaren Accurately Rebuilds Its Original '60s Road-Going Supercar
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71837208/mclaren-m6gt-rebuilt-goodwood/)
+
+### Cadillac Vistiqs Recalled for Possibly Dangerous Power-Folding Third Row
+
+- Model/program: Cadillac Vistiqs Recalled for Possibly Dangerous Power-Folding Third Row
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71834296/cadillac-vistiq-power-third-row-recall/)
+
+### 1995 Stillen SMZ 300ZX Test: The Whole Kit and Caboodle
+
+- Model/program: 1995 Stillen SMZ 300ZX Test: The Whole Kit and Caboodle
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71772125/1995-stillen-smz-300zx-archive-test/)
+
+### View Photos of the 1995 Stillen SMZ 300ZX
+
+- Model/program: View Photos of the 1995 Stillen SMZ 300ZX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71799492/1995-stillen-smz-300zx-archive-test-gallery/)
+
+### We Finally Know What Name Bentley Will Call Its First Electric Model
+
+- Model/program: We Finally Know What Name Bentley Will Call Its First Electric Model
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71810312/bentley-torcal-ev-suv-revealed/)
+
+### 2028 Bentley Torcal
+
+- Model/program: 2028 Bentley Torcal
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bentley/torcal)
 
 ### Elana Scherr: Restoring a 1970 Dodge Challenger, Again
 

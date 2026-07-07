@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 526 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 544 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Porsche Never Built A Mid-Engined 911, But Ruf Came Close
+
+- Model/program: Porsche Never Built A Mid-Engined 911, But Ruf Came Close
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ruf-ctr3-clubsport-auction/)
+
+### Redesigned Hyundai Tucson Spied Alongside The Current Model
+
+- Model/program: Redesigned Hyundai Tucson Spied Alongside The Current Model
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-hyundai-tucson-spied/)
 
 ### GPS Quickly Turned A Dodge Durango Theft Into 9 More Years Behind Bars
 
@@ -19,6 +39,166 @@ Generated internal notes from 526 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/stolen-dodge-durango-gps-arrest/)
+
+### BMW’s Next X6 Imagined From The Neue Klasse X5
+
+- Model/program: BMW’s Next X6 Imagined From The Neue Klasse X5
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-x6-neue-klasse-rendering/)
+
+### New Car Buyers Opting For Longer Loans As Average Payment Hits Record Of $777
+
+- Model/program: New Car Buyers Opting For Longer Loans As Average Payment Hits Record Of $777
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/car-loan-study-q2-2026/)
+
+### Caught Doing 100 MPH In Virginia? A Judge Can Now Bolt A Speed Limiter To Your Car
+
+- Model/program: Caught Doing 100 MPH In Virginia? A Judge Can Now Bolt A Speed Limiter To Your Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/virginia-speed-limiter-program/)
+
+### Genesis’ “Facelifted” GV70 Forgot The Whole Facelift Part
+
+- Model/program: Genesis’ “Facelifted” GV70 Forgot The Whole Facelift Part
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-genesis-gv70/)
+
+### McLaren Just Recreated The Lost Supercar That Came Before The Legendary F1
+
+- Model/program: McLaren Just Recreated The Lost Supercar That Came Before The Legendary F1
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mclaren-m6gt-supercar/)
+
+### Alpine Previews Next-Gen A110 With Electric Mule
+
+- Model/program: Alpine Previews Next-Gen A110 With Electric Mule
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/alpine-a110-future/)
+
+### A Standard BMW M2 Beat The CS With No Extra Power, Just $27K In Parts
+
+- Model/program: A Standard BMW M2 Beat The CS With No Extra Power, Just $27K In Parts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-m2-track-kit-nurburgring/)
+
+### Nearly 40% Of Porsche Workers Now Earn Six Figures
+
+- Model/program: Nearly 40% Of Porsche Workers Now Earn Six Figures
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/porsche-salary-disclosure/)
+
+### Buy A New Polestar For $25,000 Off. Small Catch, It’s Leaving The US
+
+- Model/program: Buy A New Polestar For $25,000 Off. Small Catch, It’s Leaving The US
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/polestar-us-exit-discounts/)
+
+### Toyota’s $20K Prius-Inspired GR Sport Hatch Wears The Look, Not The Power
+
+- Model/program: Toyota’s $20K Prius-Inspired GR Sport Hatch Wears The Look, Not The Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-aqua-gr-sport/)
+
+### The Mitsubishi Pajero You Know Is A Full-Size SUV. This Snoopy Edition Is A Kei Car
+
+- Model/program: The Mitsubishi Pajero You Know Is A Full-Size SUV. This Snoopy Edition Is A Kei Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mitsubishi-pajero-mini-snoopy/)
+
+### Infiniti Drift Fail Sends CR-V Cartwheeling
+
+- Model/program: Infiniti Drift Fail Sends CR-V Cartwheeling
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/infiniti-drift-fail-sends-cr-v-cartwheeling/)
+
+### WRX Sales Nearly Quadruple In June After Subaru Slashed Prices By Over $5,000
+
+- Model/program: WRX Sales Nearly Quadruple In June After Subaru Slashed Prices By Over $5,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/subaru-wrx-sales-june/)
+
+### Suzuki XBee Turns Into A Little Defender With $1,850 Kit
+
+- Model/program: Suzuki XBee Turns Into A Little Defender With $1,850 Kit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/suzuki-xbee-damd-bodykits/)
+
+### Chevy Wanted $104K For Its Patriotic Corvette, Bidders Wouldn’t Go Over $89K
+
+- Model/program: Chevy Wanted $104K For Its Patriotic Corvette, Bidders Wouldn’t Go Over $89K
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/chevrolet-corvette-stars-steel-auction/)
+
+### Toyota’s Best-Selling RAV4 Lost A Third Of Its Sales, But Buyers Aren’t The Problem
+
+- Model/program: Toyota’s Best-Selling RAV4 Lost A Third Of Its Sales, But Buyers Aren’t The Problem
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-rav4-sales-decline/)
 
 ### Singer Keeps The Classic 911 On The Road, Signature Wants One For Everywhere Else
 
