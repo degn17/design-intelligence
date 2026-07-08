@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 544 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 562 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Toyota Brings Back The 1980s Land Cruiser 70
+
+- Model/program: Toyota Brings Back The 1980s Land Cruiser 70
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-landcruiser-70-series-return/)
+
+### Scout’s Spirit Of ’26 Is A Retro-Inspired Throwback
+
+- Model/program: Scout’s Spirit Of ’26 Is A Retro-Inspired Throwback
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/scout-traveler-spirit-of-26/)
 
 ### Porsche Never Built A Mid-Engined 911, But Ruf Came Close
 
@@ -29,6 +49,166 @@ Generated internal notes from 544 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/2027-hyundai-tucson-spied/)
+
+### BMW’s Electric M4 Coupe Imagined With 1,000 HP Before It Exists
+
+- Model/program: BMW’s Electric M4 Coupe Imagined With 1,000 HP Before It Exists
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-electric-m4-renders/)
+
+### Two Nissan Recalls, One Sentra That Can Roll Out Of Park
+
+- Model/program: Two Nissan Recalls, One Sentra That Can Roll Out Of Park
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/two-popular-nissan-models-facing-new-recalls/)
+
+### A Tesla Semi Rival Startup Is Reportedly Missing Paychecks And A Truck
+
+- Model/program: A Tesla Semi Rival Startup Is Reportedly Missing Paychecks And A Truck
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/electric-truck-startup-missing-truck/)
+
+### Hyundai’s Popular Palisade Gets A Blacked Out Range-Topper
+
+- Model/program: Hyundai’s Popular Palisade Gets A Blacked Out Range-Topper
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-hyundai-palisade-hybrid-calligraphy-black-ink-edition/)
+
+### Toyota Says PHEVs Aren’t Ready For Real Truck Work
+
+- Model/program: Toyota Says PHEVs Aren’t Ready For Real Truck Work
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-hilux-phev/)
+
+### Pagani’s New Huayra 70 Derecho Is A V12 Roadster That Makes You Shift Yourself
+
+- Model/program: Pagani’s New Huayra 70 Derecho Is A V12 Roadster That Makes You Shift Yourself
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/pagani-huayra-70-derecho/)
+
+### Ford’s Gas Mustang Can Stop Wiping, The Electric Can Stop Moving
+
+- Model/program: Ford’s Gas Mustang Can Stop Wiping, The Electric Can Stop Moving
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-mustang-mach-e-recall/)
+
+### Tesla Driver Who Blamed FSD For Fatal Home Crash Charged With Manslaughter
+
+- Model/program: Tesla Driver Who Blamed FSD For Fatal Home Crash Charged With Manslaughter
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/tesla-home-crash-charge/)
+
+### Adios Mexico! Toyota Is Moving Some Tacoma Production To Texas
+
+- Model/program: Adios Mexico! Toyota Is Moving Some Tacoma Production To Texas
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-tacoma-us-production/)
+
+### Over 66,000 Ford Hybrids Recalled To Fix A Recall
+
+- Model/program: Over 66,000 Ford Hybrids Recalled To Fix A Recall
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-hybrid-pedestrian-alert-recall/)
+
+### Range Rover’s New Velar Is Turning Into A Sedan Of Sorts, And May Ditch Its Rear Window
+
+- Model/program: Range Rover’s New Velar Is Turning Into A Sedan Of Sorts, And May Ditch Its Rear Window
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/range-rover-velar-redesign/)
+
+### Trump Pardons 9 Diesel Tuners For Deleting Emissions Controls, Says They Were Just ‘Fixing Their Car’
+
+- Model/program: Trump Pardons 9 Diesel Tuners For Deleting Emissions Controls, Says They Were Just ‘Fixing Their Car’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/trump-pardons-9-diesel-tuners-for-deleting-emissions-controls-says-they-were-just-fixing-their-car/)
+
+### Fiat’s Kei-Shaming 19 MPH Topolino Reaches America For $13,995
+
+- Model/program: Fiat’s Kei-Shaming 19 MPH Topolino Reaches America For $13,995
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/fiat-topolino-us-launch/)
+
+### Toyota Trademarks Camry Apex, A Badge Last Used On A Sporty Corolla
+
+- Model/program: Toyota Trademarks Camry Apex, A Badge Last Used On A Sporty Corolla
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-camry-apex-trademark/)
+
+### 98% Of Porsche 911 Buyers Personalize Theirs, These Three Take It To The Extreme
+
+- Model/program: 98% Of Porsche 911 Buyers Personalize Theirs, These Three Take It To The Extreme
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/porsche-911-market-editions/)
+
+### You Can Lease Stellantis’ New Chinese EV For Just $56 A Month In Germany
+
+- Model/program: You Can Lease Stellantis’ New Chinese EV For Just $56 A Month In Germany
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/leapmotor-t03-germany-lease/)
 
 ### GPS Quickly Turned A Dodge Durango Theft Into 9 More Years Behind Bars
 

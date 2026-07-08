@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 379 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 393 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Trump's Latest Pardons Include Diesel Tuners Who Violated Clean Air Act
+
+- Model/program: Trump's Latest Pardons Include Diesel Tuners Who Violated Clean Air Act
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71858929/trump-diesel-tuners-presidential-pardons/)
+
+### 2027 Mercedes-Maybach S-Class
+
+- Model/program: 2027 Mercedes-Maybach S-Class
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-maybach/s580-s680-2027)
+
+### Audi Sport Quattro Makes 500+ Horsepower Return in Restomod Form
+
+- Model/program: Audi Sport Quattro Makes 500+ Horsepower Return in Restomod Form
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71855508/audi-sport-quattro-hsr-restomod-revealed/)
+
+### Endless Options Mean the Slate Truck Can End Up Costing over $45K
+
+- Model/program: Endless Options Mean the Slate Truck Can End Up Costing over $45K
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71856215/slate-truck-options-pricing-over-45k/)
+
+### Toyota Investing $3.6 Billion to Move Tacoma Production Back to Texas
+
+- Model/program: Toyota Investing $3.6 Billion to Move Tacoma Production Back to Texas
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71850882/toyota-tacoma-production-moves-texas/)
+
+### 2026 Fiat Topolino
+
+- Model/program: 2026 Fiat Topolino
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/fiat/topolino)
+
+### Fiat Topolino Officially Goes on Sale in the U.S. for Under $15K
+
+- Model/program: Fiat Topolino Officially Goes on Sale in the U.S. for Under $15K
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71852287/fiat-topolino-on-sale-us-pricing/)
+
+### Longest-Range Electric Cars We've Ever Tested
+
+- Model/program: Longest-Range Electric Cars We've Ever Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/g32634624/ev-longest-driving-range/)
+
+### View Exterior Photos of the 2027 Ram 1500 TRX SRT
+
+- Model/program: View Exterior Photos of the 2027 Ram 1500 TRX SRT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71834622/2027-ram-1500-trx-srt-drive-exterior-gallery/)
+
+### Driven: 2027 Ram 1500 TRX SRT Jumps the Competition
+
+- Model/program: Driven: 2027 Ram 1500 TRX SRT Jumps the Competition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71795288/2027-ram-1500-trx-srt-drive/)
+
+### View Interior Photos of the 2027 Ram 1500 TRX SRT
+
+- Model/program: View Interior Photos of the 2027 Ram 1500 TRX SRT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71834915/2027-ram-1500-trx-srt-drive-interior-gallery/)
+
+### 2027 Porsche 911 GT3 S/C Is a True Escape
+
+- Model/program: 2027 Porsche 911 GT3 S/C Is a True Escape
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71795529/2027-porsche-911-gt3-sc-drive/)
+
+### View Interior Photos of the 2027 Porsche 911 GT3 S/C
+
+- Model/program: View Interior Photos of the 2027 Porsche 911 GT3 S/C
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71783906/2027-porsche-911-gt3-s-c-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Porsche 911 GT3 S/C
+
+- Model/program: View Exterior Photos of the 2027 Porsche 911 GT3 S/C
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71783884/2027-porsche-911-gt3-s-c-drive-exterior-gallery/)
 
 ### View Interior Photos of the 2027 Mercedes-Maybach S580
 
