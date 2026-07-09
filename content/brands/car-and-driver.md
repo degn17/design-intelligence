@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 393 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 407 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Honda Recalls 325K Odyssey Minivans Due to Rearview Camera Issue
+
+- Model/program: Honda Recalls 325K Odyssey Minivans Due to Rearview Camera Issue
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71871486/honda-odyssey-rearview-camera-recall/)
+
+### 2027 Maserati Grecale Folgore's Price Cut Is Much More Than a Fiat Topolino
+
+- Model/program: 2027 Maserati Grecale Folgore's Price Cut Is Much More Than a Fiat Topolino
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71867732/2027-maserati-grecale-folgore-price-cut/)
+
+### 2027 Telo MT1
+
+- Model/program: 2027 Telo MT1
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/test/mt1)
+
+### 2027 Mercedes-AMG GT Coupe
+
+- Model/program: 2027 Mercedes-AMG GT Coupe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-amg/gt-coupe-2027)
+
+### Aston Martin Delays V-12's Death as It Develops a New Modular Platform
+
+- Model/program: Aston Martin Delays V-12's Death as It Develops a New Modular Platform
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71867268/aston-martin-new-platform-v12-death-delayed-report/)
+
+### This Svelte Shooting Brake Pays Tribute to an Elegant '70s Ferrari
+
+- Model/program: This Svelte Shooting Brake Pays Tribute to an Elegant '70s Ferrari
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71869710/ferrari-daytona-shooting-brake-hommage-neils-van-roij-details/)
+
+### Best New Car Lease Deals for July 2026
+
+- Model/program: Best New Car Lease Deals for July 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a29127517/best-lease-deals/)
+
+### Best New Car Finance Deals for July 2026
+
+- Model/program: Best New Car Finance Deals for July 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a69287293/best-new-car-finance-deals-this-month/)
+
+### 2028 Ford Ranchero Is a $30,000 Electric Truck Worth Waiting For
+
+- Model/program: 2028 Ford Ranchero Is a $30,000 Electric Truck Worth Waiting For
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71855326/2028-ford-ranchero-future-cars/)
+
+### 2028 Ford Ranchero
+
+- Model/program: 2028 Ford Ranchero
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ford/ranchero)
+
+### View Interior Photos of the Mercedes-AMG GT63 Pro
+
+- Model/program: View Interior Photos of the Mercedes-AMG GT63 Pro
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71795333/2025-mercedes-amg-gt63-pro-test-interior-gallery/)
+
+### Tested: The Mercedes-AMG GT63 Pro Can Be Both Wild and Docile
+
+- Model/program: Tested: The Mercedes-AMG GT63 Pro Can Be Both Wild and Docile
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71769684/2025-mercedes-amg-gt63-pro-test/)
+
+### View Exterior Photos of the 2025 Mercedes-AMG GT63 Pro
+
+- Model/program: View Exterior Photos of the 2025 Mercedes-AMG GT63 Pro
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71795281/2025-mercedes-amg-gt63-pro-test-exterior-gallery/)
 
 ### Trump's Latest Pardons Include Diesel Tuners Who Violated Clean Air Act
 
@@ -149,6 +279,16 @@ Generated internal notes from 393 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/photos/g71783884/2027-porsche-911-gt3-s-c-drive-exterior-gallery/)
+
+### 2027 Mercedes-Maybach S-Class
+
+- Model/program: 2027 Mercedes-Maybach S-Class
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-maybach/s580-s680)
 
 ### View Interior Photos of the 2027 Mercedes-Maybach S580
 

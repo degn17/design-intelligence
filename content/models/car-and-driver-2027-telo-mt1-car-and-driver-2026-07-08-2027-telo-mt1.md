@@ -1,19 +1,19 @@
-# Model Card — Car and Driver 2027 Mercedes-Maybach S-Class
+# Model Card — Car and Driver 2027 Telo MT1
 
-## 2027 Mercedes-Maybach S-Class
+## 2027 Telo MT1
 
 - Brand: Car and Driver
-- Model: 2027 Mercedes-Maybach S-Class
+- Model: 2027 Telo MT1
 - Category: new_car
-- Published: 2026-07-07
+- Published: 2026-07-08
 - Data status: Real · RSS
 - Collection method: rss
-- Source: [Car and Driver](https://www.caranddriver.com/mercedes-maybach/s580-s680)
-- Image URL: https://hips.hearstapps.com/hmg-prod/images/809a2449-cd6d-4f34-a6b4-496c3d56e99d.jpg
+- Source: [Car and Driver](https://www.caranddriver.com/test/mt1)
+- Image URL: https://hips.hearstapps.com/hmg-prod/images/d2b8d108-aaac-4e75-b77c-db249577b069.jpg
 
 ### Summary
 
-Review, Pricing, and Specs
+What We Know So Far
 
 ### Design keywords
 
@@ -37,4 +37,4 @@ Review the linked public source before adding design interpretation or publishin
 
 ## Source attribution
 
-This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/mercedes-maybach/s580-s680). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
+This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/test/mt1). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

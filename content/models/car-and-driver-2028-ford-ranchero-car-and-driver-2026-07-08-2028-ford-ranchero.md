@@ -1,19 +1,19 @@
-# Model Card — Car and Driver 2027 Mercedes-Maybach S-Class
+# Model Card — Car and Driver 2028 Ford Ranchero
 
-## 2027 Mercedes-Maybach S-Class
+## 2028 Ford Ranchero
 
 - Brand: Car and Driver
-- Model: 2027 Mercedes-Maybach S-Class
+- Model: 2028 Ford Ranchero
 - Category: new_car
-- Published: 2026-07-07
+- Published: 2026-07-08
 - Data status: Real · RSS
 - Collection method: rss
-- Source: [Car and Driver](https://www.caranddriver.com/mercedes-maybach/s580-s680)
-- Image URL: https://hips.hearstapps.com/hmg-prod/images/809a2449-cd6d-4f34-a6b4-496c3d56e99d.jpg
+- Source: [Car and Driver](https://www.caranddriver.com/ford/ranchero)
+- Image URL: https://hips.hearstapps.com/hmg-prod/images/214359d7-6abc-45f7-b171-af390c56bcf5.jpg
 
 ### Summary
 
-Review, Pricing, and Specs
+What We Know So Far
 
 ### Design keywords
 
@@ -37,4 +37,4 @@ Review the linked public source before adding design interpretation or publishin
 
 ## Source attribution
 
-This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/mercedes-maybach/s580-s680). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
+This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/ford/ranchero). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

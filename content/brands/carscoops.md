@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 562 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 580 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Geely’s New SUV Looks Like One Defender, Punches Like Two
+
+- Model/program: Geely’s New SUV Looks Like One Defender, Punches Like Two
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/geely-galaxy-cruiser-700/)
+
+### Trump Admin Promotes Mysterious Freedom Fuel Network Selling Cheap Gas
+
+- Model/program: Trump Admin Promotes Mysterious Freedom Fuel Network Selling Cheap Gas
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/trump-freedom-fuel-network/)
 
 ### Toyota Brings Back The 1980s Land Cruiser 70
 
@@ -29,6 +49,166 @@ Generated internal notes from 562 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/scout-traveler-spirit-of-26/)
+
+### Stellantis Brings China’s Leapmotors To North America, But You Won’t See One In The US
+
+- Model/program: Stellantis Brings China’s Leapmotors To North America, But You Won’t See One In The US
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/stellantiss-leapmotor-mexico-launch/)
+
+### Genesis’ Entry-Level Crossover Is Getting A Hybrid Makeover
+
+- Model/program: Genesis’ Entry-Level Crossover Is Getting A Hybrid Makeover
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2028-genesis-gv70-hybrid-spied/)
+
+### 11,000 Licensed California Drivers Have 30 Days To Retake A Test They Already Passed
+
+- Model/program: 11,000 Licensed California Drivers Have 30 Days To Retake A Test They Already Passed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/california-dmv-license-retest/)
+
+### Audi’s Aging A8 Lives Into 2027, While Other Models See Small Updates
+
+- Model/program: Audi’s Aging A8 Lives Into 2027, While Other Models See Small Updates
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-audi-lineup-changes-and-pricing/)
+
+### 35% Of 2027 Corvettes Built So Far Are The Pricier Grand Sport
+
+- Model/program: 35% Of 2027 Corvettes Built So Far Are The Pricier Grand Sport
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/corvette-grand-sport-production/)
+
+### AMG’s New CLA EV Shows Its Red Calipers Before It Shows Its Numbers
+
+- Model/program: AMG’s New CLA EV Shows Its Red Calipers Before It Shows Its Numbers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-amg-cla-ev-teased/)
+
+### Rugged Suzuki Jimny Gozel Concept Approved For Production
+
+- Model/program: Rugged Suzuki Jimny Gozel Concept Approved For Production
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/suzuki-jimny-gozel-concept/)
+
+### 0% For 72 Months Is How You Know Lucid’s Gravity Isn’t Selling
+
+- Model/program: 0% For 72 Months Is How You Know Lucid’s Gravity Isn’t Selling
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lucid-offers-0-financing-to-sell-off-2026-gravity/)
+
+### Audi Is Reversing Its Biggest Interior Decision Of The Decade
+
+- Model/program: Audi Is Reversing Its Biggest Interior Decision Of The Decade
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/audi-interior-buttons-return/)
+
+### Hyundai’s New Ioniq V Offers Some Interesting Color Choices
+
+- Model/program: Hyundai’s New Ioniq V Offers Some Interesting Color Choices
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hyundais-new-ioniq-v-offers-some-interesting-color-choices/)
+
+### VW Fired Its Lawnmowers And Hired 100 Sheep
+
+- Model/program: VW Fired Its Lawnmowers And Hired 100 Sheep
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-poznan-solar-sheep/)
+
+### Most Wagons Load At The Back, This One-Off Ferrari Loads Through Butterfly Windows
+
+- Model/program: Most Wagons Load At The Back, This One-Off Ferrari Loads Through Butterfly Windows
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ferrari-daytona-shooting-brake-homage/)
+
+### BMW’s New X5 Forces Every Early Buyer To Pay $1,085 For A Slab Of Rock
+
+- Model/program: BMW’s New X5 Forces Every Early Buyer To Pay $1,085 For A Slab Of Rock
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-x5-slate-trim/)
+
+### Kia Is Killing Its Flagship Luxury Sedan After Sales Cratered 87%
+
+- Model/program: Kia Is Killing Its Flagship Luxury Sedan After Sales Cratered 87%
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/kia-k9-discontinued/)
+
+### This $570,000 Audi Sport Quattro Tribute Isn’t Built From A Real Quattro
+
+- Model/program: This $570,000 Audi Sport Quattro Tribute Isn’t Built From A Real Quattro
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hsr-type-859-audi-sport-quattro/)
+
+### Brabus Turns Mercedes Into Monsters, Now It’s Building A Yacht Too
+
+- Model/program: Brabus Turns Mercedes Into Monsters, Now It’s Building A Yacht Too
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/brabus-ab-yachts-partnership/)
 
 ### Porsche Never Built A Mid-Engined 911, But Ruf Came Close
 
