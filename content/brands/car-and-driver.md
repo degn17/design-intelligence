@@ -2,13 +2,163 @@
 
 ## Current positioning
 
-Generated internal notes from 407 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 422 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Toyota Highlander Production Delayed Due to 'Final Adjustments'
+
+- Model/program: 2027 Toyota Highlander Production Delayed Due to 'Final Adjustments'
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71888001/2027-toyota-highlander-production-delayed/)
+
+### 2027 Audi RS Q8
+
+- Model/program: 2027 Audi RS Q8
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/audi/rs-q8-2027)
+
+### 2027 Land Rover Defender Updates Include Ditching the Turbo Four
+
+- Model/program: 2027 Land Rover Defender Updates Include Ditching the Turbo Four
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71883187/2027-land-rover-defender-updates-price/)
+
+### Airstream's New Entry-Level Trailer Hits the Market at Under $65,000
+
+- Model/program: Airstream's New Entry-Level Trailer Hits the Market at Under $65,000
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71872089/airstream-world-traveler-17rb-revealed/)
+
+### 2027 Genesis GV70
+
+- Model/program: 2027 Genesis GV70
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/genesis/gv70-2027)
+
+### View Exterior Photos of the 2027 McLaren 788HS
+
+- Model/program: View Exterior Photos of the 2027 McLaren 788HS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71883811/2027-mclaren-788hs-revealed-exterior-gallery/)
+
+### View Interior Photos of the 2027 McLaren 788HS
+
+- Model/program: View Interior Photos of the 2027 McLaren 788HS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71883985/2027-mclaren-788hs-revealed-interior-gallery/)
+
+### The McLaren 788HS Takes the Mid-Engine V-8 Supercar to the Extreme
+
+- Model/program: The McLaren 788HS Takes the Mid-Engine V-8 Supercar to the Extreme
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71884446/mclaren-788hs-revealed/)
+
+### Mercedes-AMG CLA45 EV Revealed as 670-Horsepower Forbidden Fruit
+
+- Model/program: Mercedes-AMG CLA45 EV Revealed as 670-Horsepower Forbidden Fruit
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71882787/2027-mercedes-amg-cla45-ev-revealed/)
+
+### 1987 Isuzu Impulse Turbo RS Tested: Time to Shine
+
+- Model/program: 1987 Isuzu Impulse Turbo RS Tested: Time to Shine
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71834301/1987-isuzu-impulse-turbo-rs-archive-test/)
+
+### View Photos of the 1987 Isuzu Impulse Turbo RS
+
+- Model/program: View Photos of the 1987 Isuzu Impulse Turbo RS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71854028/1987-isuzu-impulse-turbo-rs-archive-test-gallery/)
+
+### View Interior Photos of the 2026 Lincoln Aviator Reserve
+
+- Model/program: View Interior Photos of the 2026 Lincoln Aviator Reserve
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71836168/2026-lincoln-aviator-reserve-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Lincoln Aviator Reserve
+
+- Model/program: View Exterior Photos of the 2026 Lincoln Aviator Reserve
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71836142/2026-lincoln-aviator-reserve-test-exterior-gallery/)
+
+### 2026 Lincoln Aviator Tested: Old-School Luxury
+
+- Model/program: 2026 Lincoln Aviator Tested: Old-School Luxury
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71795078/2026-lincoln-aviator-test/)
+
+### Ruf Reveals New 1000-Plus-HP Twin-Turbo Flat-Eight Engine
+
+- Model/program: Ruf Reveals New 1000-Plus-HP Twin-Turbo Flat-Eight Engine
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71873005/ruf-b8-flat-eight-engine-revealed/)
 
 ### Honda Recalls 325K Odyssey Minivans Due to Rearview Camera Issue
 

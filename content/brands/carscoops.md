@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 580 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 598 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Zeekr Wants To Build A G-Wagen Rival, And Maybe A Pickup Too
+
+- Model/program: Zeekr Wants To Build A G-Wagen Rival, And Maybe A Pickup Too
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/zeekr-off-roader-pickup/)
+
+### New Stellantis Concept Recalls Lost Dogs And Helps Them Get Back Inside
+
+- Model/program: New Stellantis Concept Recalls Lost Dogs And Helps Them Get Back Inside
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/peugeot-e-5008-dog-edition-concept/)
 
 ### Geely’s New SUV Looks Like One Defender, Punches Like Two
 
@@ -29,6 +49,166 @@ Generated internal notes from 580 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/trump-freedom-fuel-network/)
+
+### Thieves Grabbed A $105K Corvette, And It Cost Them A Lamborghini, Two Porsches, And More
+
+- Model/program: Thieves Grabbed A $105K Corvette, And It Cost Them A Lamborghini, Two Porsches, And More
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/corvette-theft-ring-bust/)
+
+### Maserati GranTurismo Drops 882 Lbs And Prepares To Go Racing
+
+- Model/program: Maserati GranTurismo Drops 882 Lbs And Prepares To Go Racing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/maserati-project-gt4/)
+
+### Bridgestone’s Airless Tires Finally Hit The Road, But They Top Out At 12 MPH
+
+- Model/program: Bridgestone’s Airless Tires Finally Hit The Road, But They Top Out At 12 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bridgestone-airfree-airless-tire/)
+
+### Tired Of America 250 Editions? This Mini Is The Cure
+
+- Model/program: Tired Of America 250 Editions? This Mini Is The Cure
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mini-cooper-heritage-oxford-edition/)
+
+### This Is How Much A 17K-Mile EV From A Dead Brand Sells For After 3 Years
+
+- Model/program: This Is How Much A 17K-Mile EV From A Dead Brand Sells For After 3 Years
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/fisker-ocean-auction-depreciation/)
+
+### Mercedes EV Sales Jumped 28% While The Rest Of The Brand Shrank
+
+- Model/program: Mercedes EV Sales Jumped 28% While The Rest Of The Brand Shrank
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-ev-sales-growth-ev-sales-jumped-28-while-the-rest-of-the-brand-shrank/)
+
+### Police Dropped 176 Charges Against Two Mitsubishi Managers, Now Comes The $7.7M Bill
+
+- Model/program: Police Dropped 176 Charges Against Two Mitsubishi Managers, Now Comes The $7.7M Bill
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/police-mitsubishi-lawsuit/)
+
+### 2027 Ram 1500 TRX SRT Video Review: The V8 Tyrant King Returns
+
+- Model/program: 2027 Ram 1500 TRX SRT Video Review: The V8 Tyrant King Returns
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-1500-ram-trx-video-review/)
+
+### 2027 Mercedes-AMG CLA 45 EV Debuts With 3 Motors, 671 HP And A Vibrator
+
+- Model/program: 2027 Mercedes-AMG CLA 45 EV Debuts With 3 Motors, 671 HP And A Vibrator
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-amg-cla-45-ev-debut/)
+
+### Every New Car In Europe Now Spies On Your Face With A Camera. America Is Next
+
+- Model/program: Every New Car In Europe Now Spies On Your Face With A Camera. America Is Next
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/eu-driver-monitoring-mandate/)
+
+### BMW Says Its iX3 Aced Euro NCAP’s Toughest Test. A Chinese EV Beat It Anyway
+
+- Model/program: BMW Says Its iX3 Aced Euro NCAP’s Toughest Test. A Chinese EV Beat It Anyway
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-ix3-zeekr-7gt-euro-ncap/)
+
+### BYD’s New Denza Z More Than Doubles A 911 Turbo S’s Power For Less Than GTS Money
+
+- Model/program: BYD’s New Denza Z More Than Doubles A 911 Turbo S’s Power For Less Than GTS Money
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/denza-z-specs-pricing/)
+
+### Honda’s Fit Lives On In Japan With A Refresh And An $11K Starting Price
+
+- Model/program: Honda’s Fit Lives On In Japan With A Refresh And An $11K Starting Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/honda-fit-facelift/)
+
+### Porsche Can’t Build Enough 911s, And Can’t Sell Enough EVs
+
+- Model/program: Porsche Can’t Build Enough 911s, And Can’t Sell Enough EVs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/porsche-h1-2026-sales/)
+
+### Nissan’s New $11K Baby Patrol Is A Dacia In Disguise
+
+- Model/program: Nissan’s New $11K Baby Patrol Is A Dacia In Disguise
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/nissan-tekton-suv/)
+
+### MG’s Go! Concept Wants You To Forget About The Mini And Renault 5 In 2027
+
+- Model/program: MG’s Go! Concept Wants You To Forget About The Mini And Renault 5 In 2027
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mg-go-cyber-concepts/)
 
 ### Toyota Brings Back The 1980s Land Cruiser 70
 
