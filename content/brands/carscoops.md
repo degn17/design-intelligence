@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 598 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 616 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### One Owner Is Selling Two Aston Martin Valhallas, Both With Exactly 196 Miles
+
+- Model/program: One Owner Is Selling Two Aston Martin Valhallas, Both With Exactly 196 Miles
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/aston-martin-valhalla-auction-2/)
+
+### The VW ID. Unyx 09 Will Have The Power To Back Up Its Aggressive Looks
+
+- Model/program: The VW ID. Unyx 09 Will Have The Power To Back Up Its Aggressive Looks
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-id-unyx-09-specs/)
 
 ### Zeekr Wants To Build A G-Wagen Rival, And Maybe A Pickup Too
 
@@ -29,6 +49,166 @@ Generated internal notes from 598 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/peugeot-e-5008-dog-edition-concept/)
+
+### Mitsubishi Wants To Build Humanoid Robots To Help Build Its Cars
+
+- Model/program: Mitsubishi Wants To Build Humanoid Robots To Help Build Its Cars
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mitsubishi-humanoid-robots/)
+
+### Americans Might Force Alpine To Put Gas Back In Its New Electric Sports Car
+
+- Model/program: Americans Might Force Alpine To Put Gas Back In Its New Electric Sports Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/alpine-a110-ice-us/)
+
+### Tuners Finally Cracked The C8 Corvette’s Last Locked Door
+
+- Model/program: Tuners Finally Cracked The C8 Corvette’s Last Locked Door
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/c8-corvette-transmission-tuning/)
+
+### A Waymo Turned Robocop On Two Teens Drinking And Firing Toy Guns
+
+- Model/program: A Waymo Turned Robocop On Two Teens Drinking And Firing Toy Guns
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/waymo-teens-arrest/)
+
+### Xiaomi’s Biggest SUV Has Front Seats That Spin Around To Face A Table
+
+- Model/program: Xiaomi’s Biggest SUV Has Front Seats That Spin Around To Face A Table
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/xiaomi-sky-nomad-n90/)
+
+### Toyota’s About To Crown A Facelifted 2027 Avalon In China
+
+- Model/program: Toyota’s About To Crown A Facelifted 2027 Avalon In China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-avalon-facelift-china/)
+
+### Dodge Is Paying Charger Buyers $10 For Every Horsepower Under The Hood
+
+- Model/program: Dodge Is Paying Charger Buyers $10 For Every Horsepower Under The Hood
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/dodge-charger-power-dollars/)
+
+### The Supercar Cops Of Dubai Traded Italian Drama For A Chinese Hybrid
+
+- Model/program: The Supercar Cops Of Dubai Traded Italian Drama For A Chinese Hybrid
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/dubai-police-denza-b8/)
+
+### Land Rover Won’t Make A Defender Pickup, So This Shop Did It In Carbon
+
+- Model/program: Land Rover Won’t Make A Defender Pickup, So This Shop Did It In Carbon
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/urban-automotive-defender-pickup/)
+
+### Budget Chinese Tires Are About To Get More Expensive In Europe
+
+- Model/program: Budget Chinese Tires Are About To Get More Expensive In Europe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/budget-chinese-tires-are-about-to-get-more-expensive-in-europe/)
+
+### More Powerful Dodge Charger Arrives In August, But Still Isn’t The Hemi
+
+- Model/program: More Powerful Dodge Charger Arrives In August, But Still Isn’t The Hemi
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/dodge-charger-sixpack-performance-variant/)
+
+### Toyota Delays New Electric Highlander Before It Even Launches, Gas Model Stays
+
+- Model/program: Toyota Delays New Electric Highlander Before It Even Launches, Gas Model Stays
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-highlander-ev-delay/)
+
+### The Apollo Evo Caribbean Dragon’s V12 Screams With A Ferrari Accent
+
+- Model/program: The Apollo Evo Caribbean Dragon’s V12 Screams With A Ferrari Accent
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/apollo-evo-caribbean-dragon/)
+
+### Kia Tells Nearly Half A Million SUV Owners To Park Outside Over Hot Seats
+
+- Model/program: Kia Tells Nearly Half A Million SUV Owners To Park Outside Over Hot Seats
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/kia-telluride-seat-fire-recall/)
+
+### Hardcore Toyota GR GT Spied Chasing Down A Porsche 911 GT3 RS
+
+- Model/program: Hardcore Toyota GR GT Spied Chasing Down A Porsche 911 GT3 RS
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-gr-gt-track-variant/)
+
+### Porsche Ends Gas Macan Production In July With No Successor For Years
+
+- Model/program: Porsche Ends Gas Macan Production In July With No Successor For Years
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/porsche-macan-ice-discontinued/)
 
 ### Geely’s New SUV Looks Like One Defender, Punches Like Two
 

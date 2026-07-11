@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 422 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 436 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A Classic Hyundai Truck Stars in a Hugely Popular Retro-Style Game
+
+- Model/program: A Classic Hyundai Truck Stars in a Hugely Popular Retro-Style Game
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71899077/dave-the-diver-vide-game-hyundai-pony-truck/)
+
+### Bizzarrini Brings a 1960s Beauty to Life with Modern Engineering
+
+- Model/program: Bizzarrini Brings a 1960s Beauty to Life with Modern Engineering
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71899658/bizzarrini-5300-gt-aperta-lusso-details/)
+
+### Could the Currently Banned Polestar 3 Survive as a Volvo?
+
+- Model/program: Could the Currently Banned Polestar 3 Survive as a Volvo?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71899055/2027-polestar-3-ban-volvo-conversion/)
+
+### 2027 Toyota GR Corolla
+
+- Model/program: 2027 Toyota GR Corolla
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/gr-corolla-2027)
+
+### The 25 Bestselling Cars, Trucks, and SUVs of 2026
+
+- Model/program: The 25 Bestselling Cars, Trucks, and SUVs of 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/g71006285/bestselling-cars-2026/)
+
+### 2027 Lexus LX Hybrid
+
+- Model/program: 2027 Lexus LX Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/lx-hybrid-2027)
+
+### How We'd Spec It: 2027 Chevy Corvettes
+
+- Model/program: How We'd Spec It: 2027 Chevy Corvettes
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71887757/2027-chevy-corvette-build-spec-price/)
+
+### 2027 Jeep Grand Wagoneer
+
+- Model/program: 2027 Jeep Grand Wagoneer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/jeep/grand-wagoneer-2027)
+
+### The Ford Escape's Best Trim Level Brings More Power for Less Coin
+
+- Model/program: The Ford Escape's Best Trim Level Brings More Power for Less Coin
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71898085/ford-escape-trim-level-what-to-buy/)
+
+### VW Could Cut Half Its Global Lineup to Prioritize Most Profitable Models
+
+- Model/program: VW Could Cut Half Its Global Lineup to Prioritize Most Profitable Models
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71897612/vw-global-model-lineup-cuts/)
+
+### View Interior Photos of the 2026 Polestar 4 Dual Motor Performance Plus
+
+- Model/program: View Interior Photos of the 2026 Polestar 4 Dual Motor Performance Plus
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71836613/2026-polestar-4-dual-motor-performance-plus-test-interior-gallery/)
+
+### Comparison Test: Tesla Model Y Performance vs. Polestar 4 Dual Motor Performance Plus
+
+- Model/program: Comparison Test: Tesla Model Y Performance vs. Polestar 4 Dual Motor Performance Plus
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a71772123/2026-tesla-model-y-performance-vs-2026-polestar-4-dual-motor-performance-plus-comparison-test/)
+
+### View Exterior Photos of the 2026 Polestar 4 Dual Motor Performance Plus
+
+- Model/program: View Exterior Photos of the 2026 Polestar 4 Dual Motor Performance Plus
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71836592/2026-polestar-4-dual-motor-performance-plus-test-exterior-gallery/)
+
+### Driver of the Week: Meredith Conrow
+
+- Model/program: Driver of the Week: Meredith Conrow
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71884572/driver-of-the-week-meredith-conrow/)
 
 ### 2027 Toyota Highlander Production Delayed Due to 'Final Adjustments'
 
