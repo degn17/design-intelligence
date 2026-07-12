@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 436 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 441 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Photos of the 2001 Lexus SC430 vs. Mercedes-Benz CLK430
+
+- Model/program: View Photos of the 2001 Lexus SC430 vs. Mercedes-Benz CLK430
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71867746/2001-lexus-sc430-vs-mercedes-benz-clk430-archive-comparison-test-gallery/)
+
+### 2001 Lexus SC430 vs. Mercedes-Benz CLK430 Comparison Test
+
+- Model/program: 2001 Lexus SC430 vs. Mercedes-Benz CLK430 Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a71850903/2001-lexus-sc430-vs-mercedes-benz-clk430-archive-comparison-test/)
+
+### This 2012 Cadillac CTS-V Wagon on Bring a Trailer Has a Little Extra
+
+- Model/program: This 2012 Cadillac CTS-V Wagon on Bring a Trailer Has a Little Extra
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71887728/modified-2012-cadillac-cts-v-wagon-bring-a-trailer-auction/)
+
+### The Bestselling Luxury Vehicles of 2026
+
+- Model/program: The Bestselling Luxury Vehicles of 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/g71039041/bestselling-luxury-cars-2026/)
+
+### MG's GO! Concept Is a Funky Electric Mini-Rivaling Hot Hatchback
+
+- Model/program: MG's GO! Concept Is a Funky Electric Mini-Rivaling Hot Hatchback
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71900902/mg-go-concept-revealed/)
 
 ### A Classic Hyundai Truck Stars in a Hugely Popular Retro-Style Game
 

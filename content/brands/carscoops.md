@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 616 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 626 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A Tesla Driver Appears To Nap At 62 MPH With Two Kids Reportedly In The Back
+
+- Model/program: A Tesla Driver Appears To Nap At 62 MPH With Two Kids Reportedly In The Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/tesla-driver-asleep-bc/)
 
 ### One Owner Is Selling Two Aston Martin Valhallas, Both With Exactly 196 Miles
 
@@ -29,6 +39,96 @@ Generated internal notes from 616 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/vw-id-unyx-09-specs/)
+
+### The Latest Jimny Never Got A Soft Top, So Damd Faked One
+
+- Model/program: The Latest Jimny Never Got A Soft Top, So Damd Faked One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/damd-suzuki-jimny-slash-garnish/)
+
+### Slate’s $25K Truck Can Option Its Way Past $46K, And You Still Crank Your Windows
+
+- Model/program: Slate’s $25K Truck Can Option Its Way Past $46K, And You Still Crank Your Windows
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/slate-truck-options-pricing/)
+
+### Winnebago Built A Compact Motorhome For People Who Dread Motorhomes
+
+- Model/program: Winnebago Built A Compact Motorhome For People Who Dread Motorhomes
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/winnebago-elora-resa/)
+
+### The Dodge Charger Is America’s Slowest-Selling New Car
+
+- Model/program: The Dodge Charger Is America’s Slowest-Selling New Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/slowest-selling-new-cars-2026/)
+
+### Take A Ride With Me To Alfa’s Homeland In Its Smallest SUV, Sins And All
+
+- Model/program: Take A Ride With Me To Alfa’s Homeland In Its Smallest SUV, Sins And All
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/alfa-romeo-junior-roadtrip-italy/)
+
+### A 50-Button Mazda Lost A Screen Distraction Test To A Four-Button Tesla
+
+- Model/program: A 50-Button Mazda Lost A Screen Distraction Test To A Four-Button Tesla
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/infotainment-distraction-study/)
+
+### Toyota’s Mid-Engine MR2 Is Closing In, And It’s Hiding Inside A GR Yaris Concept
+
+- Model/program: Toyota’s Mid-Engine MR2 Is Closing In, And It’s Hiding Inside A GR Yaris Concept
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-mr2-mid-engine-gr-prototype/)
+
+### Hyundai And Kia Tell 14 EV Owners To Park Away From Their Houses
+
+- Model/program: Hyundai And Kia Tell 14 EV Owners To Park Away From Their Houses
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hyundai-kia-battery-fire-recall/)
+
+### Renault 5 EV Gets A $2,700 Group B Body Kit That Peels Right Off
+
+- Model/program: Renault 5 EV Gets A $2,700 Group B Body Kit That Peels Right Off
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/milltek-renault-5-widebody-kit/)
 
 ### Zeekr Wants To Build A G-Wagen Rival, And Maybe A Pickup Too
 
