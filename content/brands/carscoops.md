@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 626 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 636 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### US Road Deaths Are Nearing A Record Low, But Cyclist Deaths Hit A 40-Year High Last Year
+
+- Model/program: US Road Deaths Are Nearing A Record Low, But Cyclist Deaths Hit A 40-Year High Last Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/nhtsa-traffic-deaths-decline/)
 
 ### A Tesla Driver Appears To Nap At 62 MPH With Two Kids Reportedly In The Back
 
@@ -19,6 +29,96 @@ Generated internal notes from 626 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/tesla-driver-asleep-bc/)
+
+### Ford Put Its Kill Switch Behind A $7.99 A Month Paywall
+
+- Model/program: Ford Put Its Kill Switch Behind A $7.99 A Month Paywall
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-start-inhibit-police/)
+
+### The Last Real Bugatti Was Finished By A Chrysler Designer
+
+- Model/program: The Last Real Bugatti Was Finished By A Chrysler Designer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bugatti-type-101c-x-sale/)
+
+### Dodge’s Newest Crossover Is Almost Dead With Fewer Than 90 Left
+
+- Model/program: Dodge’s Newest Crossover Is Almost Dead With Fewer Than 90 Left
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/dodge-hornet-inventory/)
+
+### A Leaky Window Cost A GMC Sierra Owner $1,000, Now He’s Suing GM
+
+- Model/program: A Leaky Window Cost A GMC Sierra Owner $1,000, Now He’s Suing GM
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gm-truck-window-leak-lawsuit/)
+
+### The Priciest Repair On A Used EV Isn’t The Battery
+
+- Model/program: The Priciest Repair On A Used EV Isn’t The Battery
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/used-ev-repair-data/)
+
+### Mini’s 2026 Aceman JCW e Is The Quick One, The Fun One, And The One To Avoid | Review
+
+- Model/program: Mini’s 2026 Aceman JCW e Is The Quick One, The Fun One, And The One To Avoid | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mini-aceman-jcw-review/)
+
+### Chery Patents Reveal A Compact Pickup That Could Take The Ford Maverick Formula Global
+
+- Model/program: Chery Patents Reveal A Compact Pickup That Could Take The Ford Maverick Formula Global
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/chery-compact-pickup-truck/)
+
+### Aston Martin Keeps Its V12 By Promising To Sell Almost None Of It
+
+- Model/program: Aston Martin Keeps Its V12 By Promising To Sell Almost None Of It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/aston-martin-v12-future/)
+
+### Stellantis Thinks Your 16-Year-Old Wants An 8-HP Abarth
+
+- Model/program: Stellantis Thinks Your 16-Year-Old Wants An 8-HP Abarth
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/abarth-fiat-topolino/)
 
 ### One Owner Is Selling Two Aston Martin Valhallas, Both With Exactly 196 Miles
 
