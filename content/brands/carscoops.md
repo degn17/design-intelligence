@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 636 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 654 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The Feds Might Let Robotaxis Skip The Steering Wheel
+
+- Model/program: The Feds Might Let Robotaxis Skip The Steering Wheel
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/nhtsa-steering-wheel-rule/)
+
+### Ford Reaches Tentative Deal With Unifor Union
+
+- Model/program: Ford Reaches Tentative Deal With Unifor Union
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-reaches-tentative-deal-with-unifor-union/)
 
 ### US Road Deaths Are Nearing A Record Low, But Cyclist Deaths Hit A 40-Year High Last Year
 
@@ -19,6 +39,166 @@ Generated internal notes from 636 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/nhtsa-traffic-deaths-decline/)
+
+### Air Force Engineer Allegedly Cut Down 13 Flock Cameras Before A Camera Caught Him
+
+- Model/program: Air Force Engineer Allegedly Cut Down 13 Flock Cameras Before A Camera Caught Him
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/flock-camera-destruction-charges/)
+
+### VW Cuts Could Spell End Of Jetta, Crossover Coupes, And Porsche Taycan
+
+- Model/program: VW Cuts Could Spell End Of Jetta, Crossover Coupes, And Porsche Taycan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-models-on-chopping-block/)
+
+### The First Chinese EVs Reaching Canada Aren’t The Bargains Buyers Were Promised
+
+- Model/program: The First Chinese EVs Reaching Canada Aren’t The Bargains Buyers Were Promised
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lotus-eletre-canada-import/)
+
+### Lamborghini Killed The Huracan Sterrato, Rezvani Might Bring It Back
+
+- Model/program: Lamborghini Killed The Huracan Sterrato, Rezvani Might Bring It Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/rezvani-dune-teased/)
+
+### The AI Robots Won’t Strike, So Hyundai’s Workers Did It First
+
+- Model/program: The AI Robots Won’t Strike, So Hyundai’s Workers Did It First
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hyundai-workers-strike-robots/)
+
+### Jeep Wrangler Laredo Returns With 35s And A Desert Vibe
+
+- Model/program: Jeep Wrangler Laredo Returns With 35s And A Desert Vibe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-jeep-wrangler-laredo/)
+
+### BMW’s New iX4 Trades The iX3’s Boxy Roof For A Coupe Cut
+
+- Model/program: BMW’s New iX4 Trades The iX3’s Boxy Roof For A Coupe Cut
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-ix4-coupe-spied/)
+
+### Toyota Gave The Corolla A Mustard Coat Because It Couldn’t Give It A New Face
+
+- Model/program: Toyota Gave The Corolla A Mustard Coat Because It Couldn’t Give It A New Face
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-corolla-anniversary-edition/)
+
+### The Average Chinese Car Is Under 7 Years Old, America’s Is Nearly 13, And That Helps Its 2030 EV Push
+
+- Model/program: The Average Chinese Car Is Under 7 Years Old, America’s Is Nearly 13, And That Helps Its 2030 EV Push
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/china-nev-fleet-target/)
+
+### Tesla’s Per-Car Profit Tumbled To $2,140, And Tariffs Are Part Of Why
+
+- Model/program: Tesla’s Per-Car Profit Tumbled To $2,140, And Tariffs Are Part Of Why
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/tesla-profit-per-vehicle/)
+
+### Ferrari Boss Was Thrilled When Fans Trashed The $640K Luce
+
+- Model/program: Ferrari Boss Was Thrilled When Fans Trashed The $640K Luce
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ferrari-luce-backlash/)
+
+### Mugen’s Sportier Honda Fit Borrows A Damper Trick From The Civic Type R
+
+- Model/program: Mugen’s Sportier Honda Fit Borrows A Damper Trick From The Civic Type R
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mugen-honda-fit-upgrades/)
+
+### Buyer Sues Ford Over $1.3 Billion Tariff Refund He Says He’s Owed A Cut Of
+
+- Model/program: Buyer Sues Ford Over $1.3 Billion Tariff Refund He Says He’s Owed A Cut Of
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-tariff-refund-lawsuit/)
+
+### GM Is Grading Suppliers On How Many Workers They Swap For Robots
+
+- Model/program: GM Is Grading Suppliers On How Many Workers They Swap For Robots
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gm-supplier-automation-policy/)
+
+### Lexus Is Keeping Its Decade-Old LS Alive With Another Update
+
+- Model/program: Lexus Is Keeping Its Decade-Old LS Alive With Another Update
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lexus-ls-2027-update/)
+
+### Roush’s Baby Ram TRX Sounds Angrier Than It Really Is
+
+- Model/program: Roush’s Baby Ram TRX Sounds Angrier Than It Really Is
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/roush-ram-1500-direct-connection/)
 
 ### A Tesla Driver Appears To Nap At 62 MPH With Two Kids Reportedly In The Back
 

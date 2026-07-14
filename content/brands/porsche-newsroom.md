@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 58 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 71 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Exclusive brand experience at The Amundi Evian Championship 2026
+
+- Model/program: Exclusive brand experience at The Amundi Evian Championship 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/sports-society/porsche-the-amundi-evian-championship-2026-42839.html)
+
+### Impressive Collection: A Passion Spanning Generations
+
+- Model/program: Impressive Collection: A Passion Spanning Generations
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-garage-ivaylo-popivantchev-42826.html)
+
+### Max Bögl – the Lord of the Rings
+
+- Model/program: Max Bögl – the Lord of the Rings
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-wind-energy-high-performance-concrete-max-boegl-42817.html)
+
+### Porsche delivers 122,306 sports cars in the first half of the year
+
+- Model/program: Porsche delivers 122,306 sports cars in the first half of the year
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-first-half-2026-42820.html)
+
+### Why is the transaxle concept still so fascinating today?
+
+- Model/program: Why is the transaxle concept still so fascinating today?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-transaxle-models-944-cutaway-model-42011.html)
+
+### The Amundi Evian Championship 2026 to feature Porsche Cayenne Turbo Electric as hole-in-one prize
+
+- Model/program: The Amundi Evian Championship 2026 to feature Porsche Cayenne Turbo Electric as hole-in-one prize
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/sports-society/porsche-the-amundi-evian-championship-2026-preview-42799.html)
+
+### Pascal Wehrlein takes championship lead in second Shanghai race
+
+- Model/program: Pascal Wehrlein takes championship lead in second Shanghai race
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/07/pascal-wehrlein-takes-championship-lead-in-second-shanghai-race.html)
+
+### Porsche Junior Flynt Schuring triumphs after action-packed Norisring race
+
+- Model/program: Porsche Junior Flynt Schuring triumphs after action-packed Norisring race
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/07/porsche-junior-flynt-schuring-triumphs-after-action-packed-norisring-race.html)
+
+### Burton turns pole position into maiden Norisring victory
+
+- Model/program: Burton turns pole position into maiden Norisring victory
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/07/burton-turns-pole-position-into-maiden-norisring-victory.html)
+
+### Pascal Wehrlein takes second win of the season in Shanghai
+
+- Model/program: Pascal Wehrlein takes second win of the season in Shanghai
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/07/pascal-wehrlein-takes-second-win-of-the-season-in-shanghai.html)
+
+### A Sanctuary for the Soul: Porsche Culture on Langkawi
+
+- Model/program: A Sanctuary for the Soul: Porsche Culture on Langkawi
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-roadtrip-langkawi-malaysia-42760.html)
+
+### Top Position in the Lünendonk Ranking 2026
+
+- Model/program: Top Position in the Lünendonk Ranking 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-top-position-luenendonk-ranking-2026-42777.html)
+
+### Porsche showcases the many facets of individualisation
+
+- Model/program: Porsche showcases the many facets of individualisation
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-individualisation-three-editions-42748.html)
 
 ### Porsche pays tribute to its motorsport history with a special exhibition
 

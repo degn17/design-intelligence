@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 444 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 457 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Californians Buying Their First EV Can Save $3500 with New Incentive
+
+- Model/program: Californians Buying Their First EV Can Save $3500 with New Incentive
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71921709/california-first-time-ev-buyer-incentive-3500/)
+
+### 2027 Ram 1500's First Roush Truck Is a V-8 Alternative to the RHO
+
+- Model/program: 2027 Ram 1500's First Roush Truck Is a V-8 Alternative to the RHO
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71920649/2027-ram-1500-roush-package-details/)
+
+### VW Group Reportedly Targeting Jetta, Porsche Models as Cut Candidates
+
+- Model/program: VW Group Reportedly Targeting Jetta, Porsche Models as Cut Candidates
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71921037/vw-jetta-taos-porsche-taycan-chopping-block-report/)
+
+### Which Ford F-150 Trim Level Is the Best Choice?
+
+- Model/program: Which Ford F-150 Trim Level Is the Best Choice?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71921147/ford-f-150-trim-level-what-to-buy/)
+
+### 2027 Mercedes-Benz CLA-Class EV
+
+- Model/program: 2027 Mercedes-Benz CLA-Class EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-benz/cla-class-ev-2027)
+
+### Everything You Need to Know About Car Safety Features
+
+- Model/program: Everything You Need to Know About Car Safety Features
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/g27612164/car-safety-features/)
+
+### 2026 Mercedes-Benz CLA-Class EV
+
+- Model/program: 2026 Mercedes-Benz CLA-Class EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-benz/cla-class-ev)
+
+### 2027 Subaru Crosstrek Scraps Gas-Only Sport Trim but Prices Hold Steady
+
+- Model/program: 2027 Subaru Crosstrek Scraps Gas-Only Sport Trim but Prices Hold Steady
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71918557/2027-subaru-crosstrek-prices/)
+
+### 1992 Porsche 911 America Roadster Tested: Rasberry Red, Pocketbook Blue
+
+- Model/program: 1992 Porsche 911 America Roadster Tested: Rasberry Red, Pocketbook Blue
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71855724/1992-porsche-911-america-roadster-archive-test/)
+
+### View Exterior Photos of the 2026 Mercedes-Benz CLA250+
+
+- Model/program: View Exterior Photos of the 2026 Mercedes-Benz CLA250+
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71869360/2026-mercedes-benz-cla250-ev-test-exterior-gallery/)
+
+### 2026 Mercedes-Benz CLA250+ Tested: Turning the Tide
+
+- Model/program: 2026 Mercedes-Benz CLA250+ Tested: Turning the Tide
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71835796/2026-mercedes-benz-cla250-ev-test/)
+
+### View Interior Photos of the 2026 Mercedes-Benz CLA250+
+
+- Model/program: View Interior Photos of the 2026 Mercedes-Benz CLA250+
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71869486/2026-mercedes-benz-cla250-ev-test-interior-gallery/)
+
+### 2026 Mercedes-Benz CLA EV's Two-Speed Gearbox Boosts Efficiency
+
+- Model/program: 2026 Mercedes-Benz CLA EV's Two-Speed Gearbox Boosts Efficiency
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71851737/2026-mercedes-benz-cla250-efficiency-tested/)
 
 ### View Photos of the 1987 Acura Integra 40 Racer
 
