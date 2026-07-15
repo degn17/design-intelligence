@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 457 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 468 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Red Bull’s $7.5 Million RB17 Breaks Cover at the Goodwood Festival of Speed
+
+- Model/program: Red Bull’s $7.5 Million RB17 Breaks Cover at the Goodwood Festival of Speed
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71920446/red-bull-rb17-goodwood-festival-of-speed/)
+
+### Goodwood Festival of Speed Blends Competition, Exhibition, and Exhilaration
+
+- Model/program: Goodwood Festival of Speed Blends Competition, Exhibition, and Exhilaration
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71910214/goodwood-festival-of-speed-blends-competition-exhibition-and-exhilaration/)
+
+### View Photos of the 2026 Goodwood Festival of Speed
+
+- Model/program: View Photos of the 2026 Goodwood Festival of Speed
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71930075/2026-goodwood-festival-of-speed-gallery/)
+
+### Jeep's Newest Wrangler Is a Laredo Sporting Cowboy Hats and Lassos
+
+- Model/program: Jeep's Newest Wrangler Is a Laredo Sporting Cowboy Hats and Lassos
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71934695/jeep-wrangler-laredo-with-cowboy-theme-revealed/)
+
+### Customer Claims Ford Owes Him a Share of $1.3 Billion Tariff Refund
+
+- Model/program: Customer Claims Ford Owes Him a Share of $1.3 Billion Tariff Refund
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71933688/ford-tariff-refund-class-action-lawsuit/)
+
+### Tested: Entry-Level 2026 Tesla Model Y Takes a Little off the Top—in More Ways Than One
+
+- Model/program: Tested: Entry-Level 2026 Tesla Model Y Takes a Little off the Top—in More Ways Than One
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a68851083/2026-tesla-model-y-standard-drive/)
+
+### 'The Grand Tour' Will Return on September 4 with a New Trio of Hosts
+
+- Model/program: 'The Grand Tour' Will Return on September 4 with a New Trio of Hosts
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71930638/grand-tour-show-september-4-return/)
+
+### Tested: 2026 Bentley Continental GT S Slices the Pie Even Thinner
+
+- Model/program: Tested: 2026 Bentley Continental GT S Slices the Pie Even Thinner
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71178944/2026-bentley-continental-gt-s-drive/)
+
+### Every Car and Driver EV of the Year Winner Since 2021
+
+- Model/program: Every Car and Driver EV of the Year Winner Since 2021
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/g65450659/ev-of-the-year-every-winner-car-and-driver/)
+
+### In the Shadow of the Bolt: Other Contenders for EV of the Year
+
+- Model/program: In the Shadow of the Bolt: Other Contenders for EV of the Year
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71921889/ev-of-the-year-the-contenders-2026/)
+
+### Presenting the 2026 Car and Driver EV of the Year
+
+- Model/program: Presenting the 2026 Car and Driver EV of the Year
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71920044/chevrolet-bolt-ev-of-the-year-2026/)
 
 ### Californians Buying Their First EV Can Save $3500 with New Incentive
 

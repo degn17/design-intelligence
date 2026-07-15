@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 654 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 672 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Classic Defender Restomod Costs More Than Two New OCTAs And Still Runs A Diesel
+
+- Model/program: This Classic Defender Restomod Costs More Than Two New OCTAs And Still Runs A Diesel
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/heldeburg-lange-defender-restomod/)
+
+### The Grand Tour Returns In September With New Hosts, Will You Be Watching?
+
+- Model/program: The Grand Tour Returns In September With New Hosts, Will You Be Watching?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/the-grand-tour-returns-this-fall/)
 
 ### The Feds Might Let Robotaxis Skip The Steering Wheel
 
@@ -29,6 +49,166 @@ Generated internal notes from 654 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/ford-reaches-tentative-deal-with-unifor-union/)
+
+### These Subarus And Land Cruisers Only Look Like Cop Cars After Dark
+
+- Model/program: These Subarus And Land Cruisers Only Look Like Cop Cars After Dark
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/australia-shadow-police-cars/)
+
+### Nissan Confirms Altima’s Death And It’s Not Going Alone
+
+- Model/program: Nissan Confirms Altima’s Death And It’s Not Going Alone
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/nissan-altima-rogue-phev-dead/)
+
+### China’s Beetle Clone Gains More Power, Keeps ‘Warm Man Mode’ For That Time Of The Month
+
+- Model/program: China’s Beetle Clone Gains More Power, Keeps ‘Warm Man Mode’ For That Time Of The Month
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gwm-ora-ballet-cat/)
+
+### First-Time EV Buyers To Get $3,500 Instant Rebate In California
+
+- Model/program: First-Time EV Buyers To Get $3,500 Instant Rebate In California
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/california-ev-credit/)
+
+### Infiniti Delays Its 600-HP SUV Because Power Alone Won’t Beat AMG And M
+
+- Model/program: Infiniti Delays Its 600-HP SUV Because Power Alone Won’t Beat AMG And M
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/infiniti-qx80-red-sport-delay/)
+
+### BMW Tells 29,919 Owners To Keep Their Hybrids Away From The House
+
+- Model/program: BMW Tells 29,919 Owners To Keep Their Hybrids Away From The House
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-starter-fire-recall/)
+
+### Toyota’s 2027 Corolla Hatch Gains More Screens But Drops Our Favorite Trim
+
+- Model/program: Toyota’s 2027 Corolla Hatch Gains More Screens But Drops Our Favorite Trim
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-corolla-hatchback-2027/)
+
+### DOJ Probes UAW President Shawn Fain, Who Calls The Allegations ‘Bogus’
+
+- Model/program: DOJ Probes UAW President Shawn Fain, Who Calls The Allegations ‘Bogus’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/uaw-fain-federal-investigation/)
+
+### One Of America’s Biggest Police Forces Just Declined To Renew Its Flock Camera Deal
+
+- Model/program: One Of America’s Biggest Police Forces Just Declined To Renew Its Flock Camera Deal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lapd-flock-contract-lapse/)
+
+### Suzuki’s Cheapest EV Yet Is Kei-Sized, And It’s Coming To Europe
+
+- Model/program: Suzuki’s Cheapest EV Yet Is Kei-Sized, And It’s Coming To Europe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/suzuki-vision-e-sky-europe/)
+
+### The Average Electric Car In China Is Younger Than Your Phone
+
+- Model/program: The Average Electric Car In China Is Younger Than Your Phone
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/china-ev-average-age/)
+
+### America’s Police Cars Have Their Own Beauty Contest, And One State Owns It
+
+- Model/program: America’s Police Cars Have Their Own Beauty Contest, And One State Owns It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/best-looking-police-cars/)
+
+### BMW’s New M350 Wears i3 Looks Over A Straight-Six That Could Clear 400 HP
+
+- Model/program: BMW’s New M350 Wears i3 Looks Over A Straight-Six That Could Clear 400 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-m350-spied/)
+
+### VW Wanted To Save A Plant With Military Trucks. Qatar Had Other Ideas
+
+- Model/program: VW Wanted To Save A Plant With Military Trucks. Qatar Had Other Ideas
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/volkswagen-osnabruck-defense-veto/)
+
+### Fleeing Suspect’s Car Flung DoorDash Driver Onto Its Hood. She Delivered The Food Anyway
+
+- Model/program: Fleeing Suspect’s Car Flung DoorDash Driver Onto Its Hood. She Delivered The Food Anyway
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/doordash-driver-police-chase/)
+
+### Alfa Teases The Tonale’s Successor, And Maybe A Dodge Called Goes Like Hell
+
+- Model/program: Alfa Teases The Tonale’s Successor, And Maybe A Dodge Called Goes Like Hell
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/alfa-romeo-tonale-successor/)
 
 ### US Road Deaths Are Nearing A Record Low, But Cyclist Deaths Hit A 40-Year High Last Year
 
