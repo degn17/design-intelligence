@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 672 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 690 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A Motorcyclist Did 130 MPH To Escape The CHP, He Forgot To Look Up
+
+- Model/program: A Motorcyclist Did 130 MPH To Escape The CHP, He Forgot To Look Up
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/chp-aircraft-motorcycle-pursuit/)
+
+### Freelanders Were Known For Cheap, Plasticky Interiors But Not Anymore
+
+- Model/program: Freelanders Were Known For Cheap, Plasticky Interiors But Not Anymore
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/freelander-8-interior/)
 
 ### This Classic Defender Restomod Costs More Than Two New OCTAs And Still Runs A Diesel
 
@@ -29,6 +49,166 @@ Generated internal notes from 672 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/the-grand-tour-returns-this-fall/)
+
+### Daihatsu’s $8,800 Taft Looks Tougher Than It Drives
+
+- Model/program: Daihatsu’s $8,800 Taft Looks Tougher Than It Drives
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/daihatsu-taft-update/)
+
+### 1,153 HP Not Enough? Mercedes-AMG Is Working On An Even Hotter GT 4-Door
+
+- Model/program: 1,153 HP Not Enough? Mercedes-AMG Is Working On An Even Hotter GT 4-Door
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hotter-mercedes-amg-gt-4-door-spied/)
+
+### Your Honda’s Google Setup Just Got Smarter And A Little More Curious About You
+
+- Model/program: Your Honda’s Google Setup Just Got Smarter And A Little More Curious About You
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/honda-google-gemini-update/)
+
+### Hyundai’s 641-HP EV Gets A Huge Price Cut
+
+- Model/program: Hyundai’s 641-HP EV Gets A Huge Price Cut
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2026-hyundai-ioniq-5-n/)
+
+### Over Half A Million Subarus Recalled Over A Wrong Sticker
+
+- Model/program: Over Half A Million Subarus Recalled Over A Wrong Sticker
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/subaru-suv-label-recall/)
+
+### The 2027 Hummer EV Icon 25 Celebrates A Long-Dead Gas Guzzler
+
+- Model/program: The 2027 Hummer EV Icon 25 Celebrates A Long-Dead Gas Guzzler
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-gmc-hummer-ev/)
+
+### Dodge Wouldn’t Sell You A Viper V10 Motorcycle, But This Guy Will
+
+- Model/program: Dodge Wouldn’t Sell You A Viper V10 Motorcycle, But This Guy Will
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/millyard-viper-v10-motorcycle-auction/)
+
+### Ford’s Chairman Warns America Can’t Keep Chinese Cars Out Forever
+
+- Model/program: Ford’s Chairman Warns America Can’t Keep Chinese Cars Out Forever
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bill-ford-chinese-cars-warning/)
+
+### Mystery Porsche 911 Spotted Wearing Something No GT Model Has Ever Had
+
+- Model/program: Mystery Porsche 911 Spotted Wearing Something No GT Model Has Ever Had
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/porsche-911-gt3-ducktail/)
+
+### Ohio Just Made A Passenger’s Silence At A Traffic Stop A Jailable Offense
+
+- Model/program: Ohio Just Made A Passenger’s Silence At A Traffic Stop A Jailable Offense
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ohio-traffic-stop-id-law/)
+
+### Alfa Romeo Swears The Next Giulia And Stelvio Aren’t Dead, They’re Just ‘Under Study’
+
+- Model/program: Alfa Romeo Swears The Next Giulia And Stelvio Aren’t Dead, They’re Just ‘Under Study’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/alfa-romeo-giulia-stelvio-successors/)
+
+### Volvo May Bring Sedans And Wagons Back To America
+
+- Model/program: Volvo May Bring Sedans And Wagons Back To America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/volvo-electric-wagon-us-return/)
+
+### GM’s EV Trucks Bombed, So Dealers Are Offering Huge Discounts
+
+- Model/program: GM’s EV Trucks Bombed, So Dealers Are Offering Huge Discounts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gm-electric-truck-discounts/)
+
+### Has Stellantis Cancelled The Return Of Lancia’s Delta?
+
+- Model/program: Has Stellantis Cancelled The Return Of Lancia’s Delta?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lancia-delta-cancellation/)
+
+### Why Do Some American Roads Play A Song When You Drive The Speed Limit?
+
+- Model/program: Why Do Some American Roads Play A Song When You Drive The Speed Limit?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/musical-roads-explained/)
+
+### Toyota Reworks The 2027 Crown Crossover’s Most Criticized Design Choice
+
+- Model/program: Toyota Reworks The 2027 Crown Crossover’s Most Criticized Design Choice
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-crown-crossover-facelift/)
 
 ### The Feds Might Let Robotaxis Skip The Steering Wheel
 

@@ -2,13 +2,133 @@
 
 ## Current positioning
 
-Generated internal notes from 468 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 480 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### California DMV Demands Drivers Retake Test or Lose Their License
+
+- Model/program: California DMV Demands Drivers Retake Test or Lose Their License
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72056809/california-dmv-cheating-scandal-retake-drivers-test/)
+
+### Infiniti Delays Sporty QX80 SUV to Inject Even More Performance
+
+- Model/program: Infiniti Delays Sporty QX80 SUV to Inject Even More Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72054470/infiniti-qx80-red-sport-delayed-upgrades/)
+
+### 2026 Hyundai Ioniq 5 N's Price Cut Makes 641 HP Way More Affordable
+
+- Model/program: 2026 Hyundai Ioniq 5 N's Price Cut Makes 641 HP Way More Affordable
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71993675/2026-hyundai-ioniq-5-n-price-cut/)
+
+### These Are the 10 Bestselling EVs of 2026
+
+- Model/program: These Are the 10 Bestselling EVs of 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/g71029465/bestselling-evs-2026/)
+
+### Electric Volvo Sedan and Wagon Could Reportedly Go on Sale in 2028
+
+- Model/program: Electric Volvo Sedan and Wagon Could Reportedly Go on Sale in 2028
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71943673/electric-volvo-sedan-wagon-2028-report/)
+
+### Nissan Is Preparing to Scrap Altima Sedan as It Pares U.S. Lineup
+
+- Model/program: Nissan Is Preparing to Scrap Altima Sedan as It Pares U.S. Lineup
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71942548/nissan-altima-officially-being-discontinued/)
+
+### 2027 GMC Hummer EV Icon 25 Recalls the Yellow-Painted Original H2
+
+- Model/program: 2027 GMC Hummer EV Icon 25 Recalls the Yellow-Painted Original H2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71933938/2027-gmc-hummer-ev-icon-25-revealed/)
+
+### View Photos of the 2027 GMC Hummer EV Icon 25
+
+- Model/program: View Photos of the 2027 GMC Hummer EV Icon 25
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71934058/2027-gmc-hummer-ev-icon-25-revealed-gallery/)
+
+### 2027 GMC Hummer EV Pickup
+
+- Model/program: 2027 GMC Hummer EV Pickup
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/gmc/hummer-ev-2027)
+
+### View Interior Photos of the 2027 Ferrari 849 Testarossa Spider
+
+- Model/program: View Interior Photos of the 2027 Ferrari 849 Testarossa Spider
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71918667/2027-ferrari-849-testarossa-spider-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Ferrari 849 Testarossa Spider
+
+- Model/program: View Exterior Photos of the 2027 Ferrari 849 Testarossa Spider
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71918626/2027-ferrari-849-testarossa-spider-drive-exterior-gallery/)
+
+### Driven: 2027 Ferrari 849 Testarossa Spider Pushes Further
+
+- Model/program: Driven: 2027 Ferrari 849 Testarossa Spider Pushes Further
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71910840/2027-ferrari-849-testarossa-spider-drive/)
 
 ### Red Bull’s $7.5 Million RB17 Breaks Cover at the Goodwood Festival of Speed
 
