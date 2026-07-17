@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 480 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 493 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 'Conversational' AI Software Is Coming to Some Hondas and Acuras
+
+- Model/program: 'Conversational' AI Software Is Coming to Some Hondas and Acuras
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72737248/honda-acura-conversational-google-gemini-ai-software/)
+
+### 2026 Lamborghini Temerario
+
+- Model/program: 2026 Lamborghini Temerario
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lamborghini/temerario)
+
+### Honda Kills Off the Electric Prologue SUV After Just Three Years
+
+- Model/program: Honda Kills Off the Electric Prologue SUV After Just Three Years
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72753661/honda-prologue-discontinued/)
+
+### View Exterior Photos of the 2026 Lamborghini Temerario
+
+- Model/program: View Exterior Photos of the 2026 Lamborghini Temerario
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71897774/2026-lamborghini-temerario-test-exterior-gallery/)
+
+### Tested: 2026 Lamborghini Temerario Shows Up Its Big Brother
+
+- Model/program: Tested: 2026 Lamborghini Temerario Shows Up Its Big Brother
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71866295/2026-lamborghini-temerario-test/)
+
+### View Interior Photos of the 2026 Lamborghini Temerario
+
+- Model/program: View Interior Photos of the 2026 Lamborghini Temerario
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71897792/2026-lamborghini-temerario-test-interior-gallery/)
+
+### This Tiny EV Says It Can Run Errands While You Relax on the Couch
+
+- Model/program: This Tiny EV Says It Can Run Errands While You Relax on the Couch
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72654671/chip-motors-ev-revealed/)
+
+### Which Version of the Chevy Equinox Gets You the Most for Your Money?
+
+- Model/program: Which Version of the Chevy Equinox Gets You the Most for Your Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a71887086/chevrolet-equinox-trim-level-what-to-buy/)
+
+### This Crazy V-12-Powered Aston Martin SUV Is Ready for Battle
+
+- Model/program: This Crazy V-12-Powered Aston Martin SUV Is Ready for Battle
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72623868/aston-martin-dreadnought-call-of-duty-revealed/)
+
+### View Photos of the 2001 Lexus IS300
+
+- Model/program: View Photos of the 2001 Lexus IS300
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71932230/2001-lexus-is300-archive-test-gallery/)
+
+### Tested: 2001 Lexus IS300 Is an Alternate Take on the BMW 3-Series
+
+- Model/program: Tested: 2001 Lexus IS300 Is an Alternate Take on the BMW 3-Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71866996/2001-lexus-is300-archive-test/)
+
+### Driven: 2026 Subaru WRX Base 6MT Offers Good Fun for a Good Value
+
+- Model/program: Driven: 2026 Subaru WRX Base 6MT Offers Good Fun for a Good Value
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71934066/2026-subaru-wrx-drive/)
+
+### View Photos of the 2026 Subaru WRX
+
+- Model/program: View Photos of the 2026 Subaru WRX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71932410/2026-subaru-wrx-drive-gallery/)
 
 ### California DMV Demands Drivers Retake Test or Lose Their License
 

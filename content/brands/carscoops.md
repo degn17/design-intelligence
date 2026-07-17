@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 690 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 708 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A New V12 Just Roared To Life And It Sounds Like The Anti-EV
+
+- Model/program: A New V12 Just Roared To Life And It Sounds Like The Anti-EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/nilu27-v12-dyno/)
+
+### Honda Pulls The Plug On The Prologue EV
+
+- Model/program: Honda Pulls The Plug On The Prologue EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/honda-prologue-ev-dead/)
 
 ### A Motorcyclist Did 130 MPH To Escape The CHP, He Forgot To Look Up
 
@@ -29,6 +49,166 @@ Generated internal notes from 690 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/freelander-8-interior/)
+
+### People Called This $775,000 SLS AMG Bid A Fat-Finger, Until The Wire Cleared
+
+- Model/program: People Called This $775,000 SLS AMG Bid A Fat-Finger, Until The Wire Cleared
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-sls-amg-auction-record/)
+
+### Jensen’s Reborn Interceptor GTX Is A Track-Only Prototype You Can’t Buy
+
+- Model/program: Jensen’s Reborn Interceptor GTX Is A Track-Only Prototype You Can’t Buy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/jensen-interceptor-gtx-is-a-track-only-special/)
+
+### Bugatti Just Built Its Last W16, Unless You’re Rich Enough To Order One
+
+- Model/program: Bugatti Just Built Its Last W16, Unless You’re Rich Enough To Order One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bugatti-w16-final-mistral/)
+
+### Stellantis Just Made Car Subscriptions A Little Less Terrible
+
+- Model/program: Stellantis Just Made Car Subscriptions A Little Less Terrible
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/stellantis-subscription-changes/)
+
+### Most EVs Fake V8 Sounds. Bentley’s Torcal Plays One On Viola And Drums
+
+- Model/program: Most EVs Fake V8 Sounds. Bentley’s Torcal Plays One On Viola And Drums
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bentley-torcal-ev-sound/)
+
+### Toyota Prius Sales Are Falling And These 2027 Updates Won’t Help
+
+- Model/program: Toyota Prius Sales Are Falling And These 2027 Updates Won’t Help
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-toyota-prius-updates/)
+
+### America Plans 159 New Cars By 2030, China Just Launched 650 In Six Months
+
+- Model/program: America Plans 159 New Cars By 2030, China Just Launched 650 In Six Months
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/china-new-model-flood/)
+
+### America Won’t Get This Practical New Version Of The Polestar 4
+
+- Model/program: America Won’t Get This Practical New Version Of The Polestar 4
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/polestar-4-suv-spied/)
+
+### AI Is Eating All The Chips Your Next Car Needs
+
+- Model/program: AI Is Eating All The Chips Your Next Car Needs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ai-chip-shortage-automakers/)
+
+### VW Owner Says A Free Over-The-Air Update Left Him With A $1,600 Repair Bill
+
+- Model/program: VW Owner Says A Free Over-The-Air Update Left Him With A $1,600 Repair Bill
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-jetta-software-update/)
+
+### This Bridge Collapsed Years Ago, But Drivers Never Stopped Using It
+
+- Model/program: This Bridge Collapsed Years Ago, But Drivers Never Stopped Using It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/greece-collapsed-bridge/)
+
+### Aston Martin’s V12 Tactical SUV Only Exists To Get Shot At In Call Of Duty
+
+- Model/program: Aston Martin’s V12 Tactical SUV Only Exists To Get Shot At In Call Of Duty
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/aston-martin-dreadnought/)
+
+### GM Is Tearing Down The Building Where Pontiac Built Its Legend
+
+- Model/program: GM Is Tearing Down The Building Where Pontiac Built Its Legend
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gm-pontiac-headquarters-demolition/)
+
+### Lamborghini Just Ruled Out The One Thing Ferrari Brought Back
+
+- Model/program: Lamborghini Just Ruled Out The One Thing Ferrari Brought Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lamborghini-manual-transmission/)
+
+### Volvo Could Turn Its Belgian Plant Into A Tariff Back Door For China
+
+- Model/program: Volvo Could Turn Its Belgian Plant Into A Tariff Back Door For China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/volvo-ghent-contract-assembly/)
+
+### 7-Eleven’s New Hot Wheels GT-R Costs A Very Specific $7.11
+
+- Model/program: 7-Eleven’s New Hot Wheels GT-R Costs A Very Specific $7.11
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hot-wheels-7-eleven-gt-r/)
 
 ### This Classic Defender Restomod Costs More Than Two New OCTAs And Still Runs A Diesel
 
