@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 493 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 501 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Next-Generation BMW M3 Spotted Testing with Six-Cylinder Power
+
+- Model/program: Next-Generation BMW M3 Spotted Testing with Six-Cylinder Power
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73172774/2028-bmw-m3-gas-next-generation-spied/)
+
+### Dodge's Most Powerful Charger Sixpack Could Push 600 Horsepower
+
+- Model/program: Dodge's Most Powerful Charger Sixpack Could Push 600 Horsepower
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73171529/dodge-charger-sixpack-more-powerful-variant-announced/)
+
+### The Morgan Supersport Is Coming to America, but There's a Catch
+
+- Model/program: The Morgan Supersport Is Coming to America, but There's a Catch
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72976164/morgan-supersport-coming-to-america/)
+
+### 2026 Mazda CX-5 vs. VW Tiguan: Which Alternative Compact SUV Is the Better Choice?
+
+- Model/program: 2026 Mazda CX-5 vs. VW Tiguan: Which Alternative Compact SUV Is the Better Choice?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a71898592/2026-mazda-cx-5-vs-2026-volkswagen-tiguan-comparison-test/)
+
+### 2028 Land Rover Range Rover Sport Electric
+
+- Model/program: 2028 Land Rover Range Rover Sport Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-sport-ev)
+
+### Jensen Interceptor GTX Will Arrive as a Track-Only V-8 Bruiser
+
+- Model/program: Jensen Interceptor GTX Will Arrive as a Track-Only V-8 Bruiser
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71017979/2026-jensen-interceptor-gtx-prototype-debut-coming/)
+
+### The Range Rover Sport Will Add an Electric Powertrain to its Lineup
+
+- Model/program: The Range Rover Sport Will Add an Electric Powertrain to its Lineup
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73106904/range-rover-sport-electric-prototype-revealed/)
+
+### How We'd Spec It: 2027 BMW iX3
+
+- Model/program: How We'd Spec It: 2027 BMW iX3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72768501/2027-bmw-ix3-build-spec-price/)
 
 ### 'Conversational' AI Software Is Coming to Some Hondas and Acuras
 

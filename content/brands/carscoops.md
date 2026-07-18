@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 708 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 726 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### China’s Porsche Slayer Is Getting Even More Absurd
+
+- Model/program: China’s Porsche Slayer Is Getting Even More Absurd
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/xiaomi-su7-ultra-extreme/)
+
+### Next BMW M3 Hits The Track With ICE-Power And A Bold New Look
+
+- Model/program: Next BMW M3 Hits The Track With ICE-Power And A Bold New Look
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2029-bmw-m3-spied/)
 
 ### A New V12 Just Roared To Life And It Sounds Like The Anti-EV
 
@@ -29,6 +49,166 @@ Generated internal notes from 708 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/honda-prologue-ev-dead/)
+
+### A Deputy Hit 92 MPH And Sank A $73,000 Cruiser Chasing Nothing
+
+- Model/program: A Deputy Hit 92 MPH And Sank A $73,000 Cruiser Chasing Nothing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/volusia-deputy-speed-tracking/)
+
+### You Can Now Configure BMWs With ChatGPT
+
+- Model/program: You Can Now Configure BMWs With ChatGPT
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-chatgtp-configurator/)
+
+### Ferrari’s Designers Wanted Pop-Up Headlights On The Testarossa As Much As You Do
+
+- Model/program: Ferrari’s Designers Wanted Pop-Up Headlights On The Testarossa As Much As You Do
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ferrari-849-testarossa-pop-up-headlights/)
+
+### Hotter Audi S6 E-Tron Spied, But It Might Not Be An RS6
+
+- Model/program: Hotter Audi S6 E-Tron Spied, But It Might Not Be An RS6
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hotter-audi-s6-e-tron-spied/)
+
+### Four Cars Behind You In Montana? The Law Says Pull Over
+
+- Model/program: Four Cars Behind You In Montana? The Law Says Pull Over
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/montana-slow-driver-law/)
+
+### Ford Recalls 288,000 Explorers Because The Roof Trim Keeps Flying Off
+
+- Model/program: Ford Recalls 288,000 Explorers Because The Roof Trim Keeps Flying Off
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-and-hyundai-recalls/)
+
+### Texas Police Paid $4.5 Million For Four Chevy Tahoes, Only $600K Went To The SUVs
+
+- Model/program: Texas Police Paid $4.5 Million For Four Chevy Tahoes, Only $600K Went To The SUVs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/texas-police-tahoe-surveillance/)
+
+### Land Rover’s Chinese Freelander Reveals Its True Colors
+
+- Model/program: Land Rover’s Chinese Freelander Reveals Its True Colors
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/land-rover-freelander-8-colors/)
+
+### Toyota Admits The New RAV4 Went Too Far On Screens, And Even China Agrees
+
+- Model/program: Toyota Admits The New RAV4 Went Too Far On Screens, And Even China Agrees
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-rav4-touchscreen-buttons/)
+
+### Morgan Supersport Finally Comes To America, But It Left Two Things Behind In Europe
+
+- Model/program: Morgan Supersport Finally Comes To America, But It Left Two Things Behind In Europe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/morgan-supersport-us-launch/)
+
+### Atlanta Drivers Keep Beaching Cars On Bike Barriers
+
+- Model/program: Atlanta Drivers Keep Beaching Cars On Bike Barriers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/atlanta-bike-lane-barriers/)
+
+### A Designer Imagined The GR Crown Sports Sedan Toyota Won’t
+
+- Model/program: A Designer Imagined The GR Crown Sports Sedan Toyota Won’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-crown-gr-render/)
+
+### Honda Thinks Its $11K Kei Van Needs Type R Accents And Wheels That Flex On Purpose
+
+- Model/program: Honda Thinks Its $11K Kei Van Needs Type R Accents And Wheels That Flex On Purpose
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/honda-n-box-sporty-accessories/)
+
+### A Bankruptcy Rumor Halved Lucid’s Stock. CEO’s Denial Sent It Up 29%
+
+- Model/program: A Bankruptcy Rumor Halved Lucid’s Stock. CEO’s Denial Sent It Up 29%
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lucid-bankruptcy-denial/)
+
+### Chevy’s Five-Year Plan Includes A New Sedan And Updated Gas Models
+
+- Model/program: Chevy’s Five-Year Plan Includes A New Sedan And Updated Gas Models
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/chevrolet-camaro-sedan-revival/)
+
+### New Lexus Supercar To Debut Toyota’s Solid-State Batteries
+
+- Model/program: New Lexus Supercar To Debut Toyota’s Solid-State Batteries
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lexus-lfa-solid-state-batteries/)
 
 ### A Motorcyclist Did 130 MPH To Escape The CHP, He Forgot To Look Up
 
