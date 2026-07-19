@@ -2,13 +2,83 @@
 
 ## Current positioning
 
-Generated internal notes from 501 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 508 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The Perfect First Car Is a Truck
+
+- Model/program: The Perfect First Car Is a Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a72591225/the-perfect-first-car-is-a-truck/)
+
+### Bentley's EV Will Swap Faux Engine Noise for an Onboard Drum Track
+
+- Model/program: Bentley's EV Will Swap Faux Engine Noise for an Onboard Drum Track
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73172900/bentley-torcal-ev-sound-drum-track/)
+
+### Toyota Exec Says Japanese Automakers Need to Increase Cooperation
+
+- Model/program: Toyota Exec Says Japanese Automakers Need to Increase Cooperation
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73173127/toyota-exec-says-japanese-automakers-need-to-increase-cooperation/)
+
+### Head-Turning 1948 Mercury Woody 4x4 Wagon Is up for Sale on Bring a Trailer
+
+- Model/program: Head-Turning 1948 Mercury Woody 4x4 Wagon Is up for Sale on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72630404/1948-mercury-woody-4x4-bring-a-trailer-auction/)
+
+### From the Archive: 1993 Luxury Sedan Comparison Test
+
+- Model/program: From the Archive: 1993 Luxury Sedan Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/)
+
+### View Photos of the 1993 Luxury Sedan Comparison Test
+
+- Model/program: View Photos of the 1993 Luxury Sedan Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g72695301/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test-gallery/)
+
+### Tested: Dodge Charger R/T Is Heavier Than a Three-Row Mazda CX-90
+
+- Model/program: Tested: Dodge Charger R/T Is Heavier Than a Three-Row Mazda CX-90
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72756338/dodge-charger-rt-heavier-than-mazda-cx-90-tested/)
 
 ### Next-Generation BMW M3 Spotted Testing with Six-Cylinder Power
 

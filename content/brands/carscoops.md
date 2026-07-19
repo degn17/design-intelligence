@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 726 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 735 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Mazda’s New Sports Car Patents Show Butterfly Doors And No Rotary
+
+- Model/program: Mazda’s New Sports Car Patents Show Butterfly Doors And No Rotary
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mazda-sports-car-patents/)
 
 ### China’s Porsche Slayer Is Getting Even More Absurd
 
@@ -29,6 +39,86 @@ Generated internal notes from 726 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/2029-bmw-m3-spied/)
+
+### Hyundai’s One-Off Palisade Isn’t For Sale, And That’s A Shame
+
+- Model/program: Hyundai’s One-Off Palisade Isn’t For Sale, And That’s A Shame
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hyundai-palisade-track-support/)
+
+### Toyota Tundra Owners Are Rolling An Average $8,929 Into Their Next Loan
+
+- Model/program: Toyota Tundra Owners Are Rolling An Average $8,929 Into Their Next Loan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/us-negative-equity-trade-ins/)
+
+### Woman Says Her Audi Loaner Came With An AI Camera That Records Her
+
+- Model/program: Woman Says Her Audi Loaner Came With An AI Camera That Records Her
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/audi-loaner-driver-monitoring/)
+
+### Jim Farley Says The Plants Setting Ford’s Quality Standard Aren’t American
+
+- Model/program: Jim Farley Says The Plants Setting Ford’s Quality Standard Aren’t American
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-plant-quality-benchmark/)
+
+### The 2026 Jeep Grand Wagoneer L Is The Full-Size SUV To Beat, Even If I’d Buy Something Else
+
+- Model/program: The 2026 Jeep Grand Wagoneer L Is The Full-Size SUV To Beat, Even If I’d Buy Something Else
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2026-jeep-grand-wagoneer-review/)
+
+### Skoda’s Next Octavia Wagon Looks Better Rendered Than It Has Any Right To
+
+- Model/program: Skoda’s Next Octavia Wagon Looks Better Rendered Than It Has Any Right To
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/skoda-octavia-next-generation/)
+
+### The Next Cadillac Might Be Based On Platform From Shanghai, Not Detroit
+
+- Model/program: The Next Cadillac Might Be Based On Platform From Shanghai, Not Detroit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/cadillac-optiq-china-platform/)
+
+### Tesla’s Newest Vehicle Has No Pedals, And Its Drivers Are Two To Five
+
+- Model/program: Tesla’s Newest Vehicle Has No Pedals, And Its Drivers Are Two To Five
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/tesla-balance-bike/)
 
 ### A New V12 Just Roared To Life And It Sounds Like The Anti-EV
 

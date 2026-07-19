@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 71 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 74 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### NBA champion Ariel Hukporti receives Porsche Turbo Award
+
+- Model/program: NBA champion Ariel Hukporti receives Porsche Turbo Award
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/sports-society/porsche-jugendfoerderung-turbo-award-ariel-hukporti-nba-champion-42877.html)
+
+### Individuality down to the last detail: a Taycan Turbo GT like no other
+
+- Model/program: Individuality down to the last detail: a Taycan Turbo GT like no other
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-taycan-turbo-gt-sonderwunsch-nordicgoldmetallic-42868.html)
+
+### Porsche at the 2026 Goodwood Festival of Speed
+
+- Model/program: Porsche at the 2026 Goodwood Festival of Speed
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-goodwood-festival-of-speed-2026-42847.html)
 
 ### Exclusive brand experience at The Amundi Evian Championship 2026
 
