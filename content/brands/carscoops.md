@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 735 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 744 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### BMW’s New Electric M3 Proves The Concept Wasn’t Kidding
+
+- Model/program: BMW’s New Electric M3 Proves The Concept Wasn’t Kidding
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-electric-m3-spied/)
 
 ### Mazda’s New Sports Car Patents Show Butterfly Doors And No Rotary
 
@@ -19,6 +29,86 @@ Generated internal notes from 735 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/mazda-sports-car-patents/)
+
+### The Lamborghini Driver Who Outran Two Departments Came Back To A Trap Under His Car
+
+- Model/program: The Lamborghini Driver Who Outran Two Departments Came Back To A Trap Under His Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lamborghini-urus-stop-stick-arrest/)
+
+### Audi’s G-Class Rival Gets A Face In This Render, Scout Can Give It Everything Else
+
+- Model/program: Audi’s G-Class Rival Gets A Face In This Render, Scout Can Give It Everything Else
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/audi-rugged-suv-render/)
+
+### A $200,000 VW Bus Isn’t Worth What It Was, And Neither Is Your Dream Bronco
+
+- Model/program: A $200,000 VW Bus Isn’t Worth What It Was, And Neither Is Your Dream Bronco
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/classic-car-values-decline/)
+
+### Fixing A Ford Once Took A Craftsman Set, Now It Takes A $2,500 Subscription
+
+- Model/program: Fixing A Ford Once Took A Craftsman Set, Now It Takes A $2,500 Subscription
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/independent-repair-software-costs/)
+
+### VW’s New E-Bike Has Radar, A Rear Camera, And Fighter-Pilot Glasses
+
+- Model/program: VW’s New E-Bike Has Radar, A Rear Camera, And Fighter-Pilot Glasses
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/volkswagen-n-plus-ebike/)
+
+### GAC’s M8 Minivan Costs Less Than Half A Lexus LM 500h, But Nothing About It Feels Halved
+
+- Model/program: GAC’s M8 Minivan Costs Less Than Half A Lexus LM 500h, But Nothing About It Feels Halved
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gac-m8-phev-review/)
+
+### Jeep Dealers Are Drowning In Unsold SUVs But Still Won’t Cut You A Better Deal
+
+- Model/program: Jeep Dealers Are Drowning In Unsold SUVs But Still Won’t Cut You A Better Deal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/new-car-inventory-pricing-jeep/)
+
+### BYD’s Most Unhinged Supercar Hits 62 MPH Faster Than You Can Say The Number
+
+- Model/program: BYD’s Most Unhinged Supercar Hits 62 MPH Faster Than You Can Say The Number
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/denza-z-special-edition-spied/)
 
 ### China’s Porsche Slayer Is Getting Even More Absurd
 

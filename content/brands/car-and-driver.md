@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 508 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 509 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### If This BMW M3 on BaT Was Good Enough for an IndyCar Racer, It's Good Enough for You
+
+- Model/program: If This BMW M3 on BaT Was Good Enough for an IndyCar Racer, It's Good Enough for You
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72626251/2006-bmw-m3-bring-a-trailer-auction/)
 
 ### The Perfect First Car Is a Truck
 
