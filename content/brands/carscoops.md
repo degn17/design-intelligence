@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 744 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 762 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Rock Legend’s McLaren F1 GTR Was Crashed Twice And Could Still Clear $35 Million
+
+- Model/program: This Rock Legend’s McLaren F1 GTR Was Crashed Twice And Could Still Clear $35 Million
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mclaren-f1-gtr-auction/)
+
+### The New Maybach GLS Is Rolls-Royce’s Worst Nightmare
+
+- Model/program: The New Maybach GLS Is Rolls-Royce’s Worst Nightmare
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/the-new-maybach-gls-is-rolls-royces-worst-nightmare/)
+
+### Gas Returns To $4 Per Gallon As Iran War Heats Up
+
+- Model/program: Gas Returns To $4 Per Gallon As Iran War Heats Up
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/4-per-gallon-gas-returns/)
 
 ### BMW’s New Electric M3 Proves The Concept Wasn’t Kidding
 
@@ -19,6 +49,156 @@ Generated internal notes from 744 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-electric-m3-spied/)
+
+### Alfa Romeo Once Turned Its Flagship Sedan Into A Pickup To Fight Fires
+
+- Model/program: Alfa Romeo Once Turned Its Flagship Sedan Into A Pickup To Fight Fires
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/alfa-romeo-164-specials/)
+
+### Audi’s Cheapest EV Is A Reborn Cult Classic From The 2000s
+
+- Model/program: Audi’s Cheapest EV Is A Reborn Cult Classic From The 2000s
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/audi-a2-e-tron-spied/)
+
+### China’s Heavy EVs Are Wrecking Its Roads And Skipping The Repair Bill
+
+- Model/program: China’s Heavy EVs Are Wrecking Its Roads And Skipping The Repair Bill
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/china-ev-road-funding/)
+
+### Smart Teases The Production #2, The Two-Seater It Swore Off Years Ago
+
+- Model/program: Smart Teases The Production #2, The Two-Seater It Swore Off Years Ago
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/smart-2-prototype-teaser/)
+
+### Ford Thought It Fixed This Seat Problem In 2025. It Just Recalled 388,000 More
+
+- Model/program: Ford Thought It Fixed This Seat Problem In 2025. It Just Recalled 388,000 More
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-explorer-aviator-seat-recall/)
+
+### The 2027 VW Atlas Got More Luxurious And More Expensive
+
+- Model/program: The 2027 VW Atlas Got More Luxurious And More Expensive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-volkswagen-atlas-pricing/)
+
+### The Decline Button On Toyota.com Was Allegedly There For Show
+
+- Model/program: The Decline Button On Toyota.com Was Allegedly There For Show
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-website-tracking-lawsuit/)
+
+### $1.73 Billion Just Got Redirected Away From ‘DEI Bike Lanes’
+
+- Model/program: $1.73 Billion Just Got Redirected Away From ‘DEI Bike Lanes’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/build-grants-bike-lane-funding/)
+
+### Yangwang’s Driver Pulled Early At 308 MPH And Now BYD Wants Another Go
+
+- Model/program: Yangwang’s Driver Pulled Early At 308 MPH And Now BYD Wants Another Go
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/byd-u9-xtreme-speed-record/)
+
+### Ford’s Tool-Tracking Patent Rules Out A Suspect Before It Cries Theft
+
+- Model/program: Ford’s Tool-Tracking Patent Rules Out A Suspect Before It Cries Theft
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-tool-tracking-patent/)
+
+### Everyone’s Talking About A New Manual McLaren Supercar, Except McLaren
+
+- Model/program: Everyone’s Talking About A New Manual McLaren Supercar, Except McLaren
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mclaren-p50-manual-rumor/)
+
+### Bugatti’s Americas Boss Won’t Be Seen In A Bugatti
+
+- Model/program: Bugatti’s Americas Boss Won’t Be Seen In A Bugatti
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bugatti-americas-coo-inter/)
+
+### Nissan’s Brake Caliper Colors Aren’t For Decoration, They’re Ranking Your Car
+
+- Model/program: Nissan’s Brake Caliper Colors Aren’t For Decoration, They’re Ranking Your Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/nissan-brake-caliper-colors/)
+
+### Insurers Say Iowa’s Phone Ban Prevented 470 Crashes, Give Or Take 20%
+
+- Model/program: Insurers Say Iowa’s Phone Ban Prevented 470 Crashes, Give Or Take 20%
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/iowa-hands-free-driving-study/)
+
+### Ford Fires Up Its New Le Mans Hypercar V8 That Started Life In A Mustang
+
+- Model/program: Ford Fires Up Its New Le Mans Hypercar V8 That Started Life In A Mustang
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-lmdh-hypercar-engine/)
 
 ### Mazda’s New Sports Car Patents Show Butterfly Doors And No Rotary
 

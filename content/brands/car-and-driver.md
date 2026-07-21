@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 509 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 525 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Mercedes-Maybach GLS-Class
+
+- Model/program: 2027 Mercedes-Maybach GLS-Class
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-maybach/gls680-2027)
+
+### View Exterior Photos of the 2027 Mercedes-Maybach GLS680
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-Maybach GLS680
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73195336/2027-mercedes-maybach-gls680-revealed-exterior-gallery/)
+
+### View Interior Photos of the 2027 Mercedes-Maybach GLS680
+
+- Model/program: View Interior Photos of the 2027 Mercedes-Maybach GLS680
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73195335/2027-mercedes-maybach-gls680-revealed-interior-gallery/)
+
+### 2027 Mercedes-Maybach GLS680 Is a Bedazzled, Powerhouse Luxury SUV
+
+- Model/program: 2027 Mercedes-Maybach GLS680 Is a Bedazzled, Powerhouse Luxury SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73194087/2027-mercedes-maybach-gls680-revealed/)
+
+### View Photos of the 1987 Nissan Sentra SE
+
+- Model/program: View Photos of the 1987 Nissan Sentra SE
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73170418/1987-nissan-sentra-se-archive-test-gallery/)
+
+### 1987 Nissan Sentra SE Tested: At Least It's Nice-Looking
+
+- Model/program: 1987 Nissan Sentra SE Tested: At Least It's Nice-Looking
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71932318/1987-nissan-sentra-se-archive-test/)
+
+### Lamborghini Temerario Ad Personam Twins Wear Sketch Lines
+
+- Model/program: Lamborghini Temerario Ad Personam Twins Wear Sketch Lines
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73193995/lamborghini-temerario-ad-personam-models/)
+
+### Honda's CEO Is Considering Building a New Factory in North America
+
+- Model/program: Honda's CEO Is Considering Building a New Factory in North America
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73194211/honda-ceo-new-factory-north-america/)
+
+### New Jeep and Ram CEOs Tapped to Lead Stellantis' Two Biggest Brands
+
+- Model/program: New Jeep and Ram CEOs Tapped to Lead Stellantis' Two Biggest Brands
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73192534/stellantis-jeep-ram-new-ceos/)
+
+### 2027 Porsche Panamera / Panamera E-Hybrid
+
+- Model/program: 2027 Porsche Panamera / Panamera E-Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/porsche/panamera-2027)
+
+### 2027 Toyota Tacoma Hybrid
+
+- Model/program: 2027 Toyota Tacoma Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/tacoma-hybrid-2027)
+
+### Hyundai Recalls 47K Kona, Kona Electric SUVs over Seatbelt Issue
+
+- Model/program: Hyundai Recalls 47K Kona, Kona Electric SUVs over Seatbelt Issue
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73191371/hyundai-kona-47k-recalled-seatbelt-issue/)
+
+### Redesigned 2027 VW Atlas Arrives with a Notably Higher Base Price
+
+- Model/program: Redesigned 2027 VW Atlas Arrives with a Notably Higher Base Price
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73191586/2027-volkswagen-atlas-price/)
+
+### 2024 Acura Integra Type S Won Our Hearts
+
+- Model/program: 2024 Acura Integra Type S Won Our Hearts
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a62736192/2024-acura-integra-type-s-reliability-maintenance/)
+
+### View Interior Photos of the 2024 Acura Integra Type S
+
+- Model/program: View Interior Photos of the 2024 Acura Integra Type S
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g62785424/2024-acura-integra-type-s-reliability-maintenance-interior-gallery/)
+
+### View Exterior Photos of the 2024 Acura Integra Type S
+
+- Model/program: View Exterior Photos of the 2024 Acura Integra Type S
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g62785572/2024-acura-integra-type-s-reliability-maintenance-exterior-gallery/)
 
 ### If This BMW M3 on BaT Was Good Enough for an IndyCar Racer, It's Good Enough for You
 
