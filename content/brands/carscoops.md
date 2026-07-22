@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 762 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 780 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Report Says A New CT5-V Blackwing Is Coming, With Its V8 And Manual Still In Question
+
+- Model/program: Report Says A New CT5-V Blackwing Is Coming, With Its V8 And Manual Still In Question
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/cadillac-ct5-v-blackwing-successor/)
+
+### 2027 Nissan Z Nismo Gains A Six-Speed Manual And A Hefty Price Hike
+
+- Model/program: 2027 Nissan Z Nismo Gains A Six-Speed Manual And A Hefty Price Hike
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-nissan-z-pricing/)
 
 ### This Rock Legend’s McLaren F1 GTR Was Crashed Twice And Could Still Clear $35 Million
 
@@ -39,6 +59,166 @@ Generated internal notes from 762 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/4-per-gallon-gas-returns/)
+
+### Ferrari’s $640K Luce EV Just Got A $1.1 Million Twin
+
+- Model/program: Ferrari’s $640K Luce EV Just Got A $1.1 Million Twin
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ferrari-luce-auction/)
+
+### The Ford F-150 Lightning Is Almost Sold Out, But You Can Save $20,000 If You’re Quick
+
+- Model/program: The Ford F-150 Lightning Is Almost Sold Out, But You Can Save $20,000 If You’re Quick
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-f-150-lightning-discounts/)
+
+### After 62,000 Miles, The Healthiest EV Battery Belonged To A Kia, Not A Tesla
+
+- Model/program: After 62,000 Miles, The Healthiest EV Battery Belonged To A Kia, Not A Tesla
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ev-battery-health-study/)
+
+### Ford Wants To Fix America’s Worker Shortage With Google And BlackRock
+
+- Model/program: Ford Wants To Fix America’s Worker Shortage With Google And BlackRock
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-skilled-trades-alliance/)
+
+### 22-Year-Old Caught Doing 177 km/h In An 80 Zone On Her Motorcycle Learner’s Permit
+
+- Model/program: 22-Year-Old Caught Doing 177 km/h In An 80 Zone On Her Motorcycle Learner’s Permit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bc-learner-rider-speeding/)
+
+### Pep Boys Has A New Owner As Parts And Service Market Sees Major Shakeup
+
+- Model/program: Pep Boys Has A New Owner As Parts And Service Market Sees Major Shakeup
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/pep-boys-bought-by-mavis/)
+
+### Subaru Finally Admits The Getaway EV Is Delayed, And The Reason Sounds Familiar
+
+- Model/program: Subaru Finally Admits The Getaway EV Is Delayed, And The Reason Sounds Familiar
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/subaru-getaway-delay/)
+
+### The Car-Hacking Threat Is Real, Just Not The One Hollywood Sold You
+
+- Model/program: The Car-Hacking Threat Is Real, Just Not The One Hollywood Sold You
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/connected-car-hacking-risks/)
+
+### The Average Used Car Crossed $27,000 For The First Time Since 2023
+
+- Model/program: The Average Used Car Crossed $27,000 For The First Time Since 2023
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/used-car-prices-2026/)
+
+### Ford’s 1964 Concept Predicted Today’s Cars Better Than You’d Expect
+
+- Model/program: Ford’s 1964 Concept Predicted Today’s Cars Better Than You’d Expect
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-aurora-concept-predictions/)
+
+### 140,000 Jobs Are At Now Risk At VW
+
+- Model/program: 140,000 Jobs Are At Now Risk At VW
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/volkswagen-job-cuts/)
+
+### Ford’s New Canadian Agreement Calls For More V8s
+
+- Model/program: Ford’s New Canadian Agreement Calls For More V8s
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-unifor-contract-approved/)
+
+### Mazda Made A Song For Its New CX-5, And It’s As Bad As It Sounds
+
+- Model/program: Mazda Made A Song For Its New CX-5, And It’s As Bad As It Sounds
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mazda-cx5-musical-campaign/)
+
+### Toyota’s 2027 Tundra Found A Cheaper Way Into Overlanding, And It Isn’t The TRD Pro
+
+- Model/program: Toyota’s 2027 Tundra Found A Cheaper Way Into Overlanding, And It Isn’t The TRD Pro
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-tundra-trailhunter-2027/)
+
+### Acura Plans A Bigger SUV Than The MDX And Is Calling It The XL
+
+- Model/program: Acura Plans A Bigger SUV Than The MDX And Is Calling It The XL
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/acura-three-row-flagship-suv/)
+
+### Three Taycans Weren’t Enough, So He Had Porsche Build Him A Special Fourth
+
+- Model/program: Three Taycans Weren’t Enough, So He Had Porsche Build Him A Special Fourth
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/porsche-taycan-sonderwunsch-gold/)
 
 ### BMW’s New Electric M3 Proves The Concept Wasn’t Kidding
 

@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 525 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 538 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -49,6 +49,136 @@ Generated internal notes from 525 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a73194087/2027-mercedes-maybach-gls680-revealed/)
+
+### Range Rover Breaks the Mold and Goes Low with the New Electric GT
+
+- Model/program: Range Rover Breaks the Mold and Goes Low with the New Electric GT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73191489/land-rover-range-rover-gt-prototype-revealed/)
+
+### 2028 Land Rover Range Rover GT
+
+- Model/program: 2028 Land Rover Range Rover GT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-gt-2028)
+
+### View Photos of the Land Rover Range Rover GT
+
+- Model/program: View Photos of the Land Rover Range Rover GT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73219883/land-rover-range-rover-gt-prototype-revealed-gallery/)
+
+### 2027 Toyota Tundra Trailhunter Aims to Be an Affordable Off-Roader
+
+- Model/program: 2027 Toyota Tundra Trailhunter Aims to Be an Affordable Off-Roader
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73220896/2027-toyota-tundra-trailhunter-details/)
+
+### Confirmed! The Cadillac XT6 SUV Will Return with a Gas Engine
+
+- Model/program: Confirmed! The Cadillac XT6 SUV Will Return with a Gas Engine
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73220929/cadillac-xt6-gas-powered-return-confirmed/)
+
+### The Next Cadillac CT5 Will Reportedly Bring a Blackwing Successor
+
+- Model/program: The Next Cadillac CT5 Will Reportedly Bring a Blackwing Successor
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73218061/cadillac-ct5-v-blackwing-successor-report/)
+
+### View Interior Photos of the 2027 Mini Cooper Heritage Edition
+
+- Model/program: View Interior Photos of the 2027 Mini Cooper Heritage Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73219885/2027-mini-cooper-heritage-edition-revealed-interior-gallery/)
+
+### Our 2026 Hyundai Palisade Hybrid Grins and Bears It
+
+- Model/program: Our 2026 Hyundai Palisade Hybrid Grins and Bears It
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71165903/2026-hyundai-palisade-hybrid-reliability-maintenance/)
+
+### View Exterior Photos of the 2027 Mini Cooper Heritage Edition
+
+- Model/program: View Exterior Photos of the 2027 Mini Cooper Heritage Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73219363/2027-mini-cooper-heritage-edition-revealed-exterior-gallery/)
+
+### New Acura Three-Row SUV Flagship Will Slot Above the MDX: Report
+
+- Model/program: New Acura Three-Row SUV Flagship Will Slot Above the MDX: Report
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73218585/acura-large-three-row-suv-flagship-report/)
+
+### View Exterior Photos of the 2027 Kia Seltos
+
+- Model/program: View Exterior Photos of the 2027 Kia Seltos
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73194011/2027-kia-seltos-x-line-sx-test-exterior-gallery/)
+
+### View Interior Photos of the 2027 Kia Seltos
+
+- Model/program: View Interior Photos of the 2027 Kia Seltos
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73194025/2027-kia-seltos-x-line-sx-test-interior-gallery/)
+
+### 2027 Kia Seltos X-Line SX Tested: What a Glow-Up
+
+- Model/program: 2027 Kia Seltos X-Line SX Tested: What a Glow-Up
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73189820/2027-kia-seltos-x-line-sx-test/)
 
 ### View Photos of the 1987 Nissan Sentra SE
 
