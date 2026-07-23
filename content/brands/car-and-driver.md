@@ -2,13 +2,183 @@
 
 ## Current positioning
 
-Generated internal notes from 538 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 556 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The 800-HP Rezvani Dune Is an Even Wilder Lamborghini Sterrato
+
+- Model/program: The 800-HP Rezvani Dune Is an Even Wilder Lamborghini Sterrato
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73235738/rezvani-dune-revealed/)
+
+### Mercedes-Benz Faces Potential Ban in the U.S. Due to Senate Moves
+
+- Model/program: Mercedes-Benz Faces Potential Ban in the U.S. Due to Senate Moves
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73234160/mercedes-benz-potential-ban-us-policy/)
+
+### 2027 Nissan Z NISMO with New Six-Speed Manual Starts Under $69K
+
+- Model/program: 2027 Nissan Z NISMO with New Six-Speed Manual Starts Under $69K
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73232708/2027-nissan-z-nismo-manual-price/)
+
+### View Interior Photos of the 2027 Maserati Grecale Folgore
+
+- Model/program: View Interior Photos of the 2027 Maserati Grecale Folgore
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73235054/2027-maserati-grecale-folgore-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 Maserati Grecale Folgore
+
+- Model/program: View Exterior Photos of the 2027 Maserati Grecale Folgore
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73235055/2027-maserati-grecale-folgore-revealed-exterior-gallery/)
+
+### View Interior Photos of the 2027 Maserati GranCabrio Folgore
+
+- Model/program: View Interior Photos of the 2027 Maserati GranCabrio Folgore
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73234173/2027-maserati-grancabrio-folgore-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 Maserati GranCabrio Folgore
+
+- Model/program: View Exterior Photos of the 2027 Maserati GranCabrio Folgore
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73233738/2027-maserati-grancabrio-folgore-revealed-exterior-gallery/)
+
+### 2026 Toyota RAV4 Woodland PHEV Tested: The Rugged Look Pays Off
+
+- Model/program: 2026 Toyota RAV4 Woodland PHEV Tested: The Rugged Look Pays Off
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a72089618/2026-toyota-rav4-woodland-phev-test/)
+
+### View Exterior Photos of the 2026 Toyota RAV4 Woodland PHEV
+
+- Model/program: View Exterior Photos of the 2026 Toyota RAV4 Woodland PHEV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73171009/2026-toyota-rav4-woodland-phev-test-exterior-gallery/)
+
+### View Interior Photos of the 2026 Toyota RAV4 Woodland PHEV
+
+- Model/program: View Interior Photos of the 2026 Toyota RAV4 Woodland PHEV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73171082/2026-toyota-rav4-woodland-phev-test-interior-gallery/)
+
+### 2027 Nissan Z
+
+- Model/program: 2027 Nissan Z
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/nissan/z)
+
+### Nissan Leaf EV Gets the Famed NISMO Treatment, but There's a Catch
+
+- Model/program: Nissan Leaf EV Gets the Famed NISMO Treatment, but There's a Catch
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73230315/2026-nissan-leaf-nismo-revealed/)
+
+### Toyota MR2 Development Car Spied Testing at Fuji Speedway
+
+- Model/program: Toyota MR2 Development Car Spied Testing at Fuji Speedway
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73229668/toyota-mr2-spy-photos-video/)
+
+### Audi's Redesigned Q7 Drops the Turbo Four and Gets a Huge Price Hike
+
+- Model/program: Audi's Redesigned Q7 Drops the Turbo Four and Gets a Huge Price Hike
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73229860/2027-audi-q7-sq7-price/)
+
+### Lotus Emira 420 Sport Driven: Quick, and Going Quick?
+
+- Model/program: Lotus Emira 420 Sport Driven: Quick, and Going Quick?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73196414/2027-lotus-emira-420-sport-drive/)
+
+### View Exterior Photos of the 2027 Lotus Emira 420 Sport
+
+- Model/program: View Exterior Photos of the 2027 Lotus Emira 420 Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73191427/2027-lotus-emira-420-sport-drive-exterior-gallery/)
+
+### View Interior Photos of the 2027 Lotus Emira 420 Sport
+
+- Model/program: View Interior Photos of the 2027 Lotus Emira 420 Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73219323/2027-lotus-emira-420-sport-drive-interior-gallery/)
 
 ### 2027 Mercedes-Maybach GLS-Class
 
@@ -179,6 +349,16 @@ Generated internal notes from 538 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/reviews/a73189820/2027-kia-seltos-x-line-sx-test/)
+
+### 2028 Land Rover Range Rover GT
+
+- Model/program: 2028 Land Rover Range Rover GT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-gt)
 
 ### View Photos of the 1987 Nissan Sentra SE
 

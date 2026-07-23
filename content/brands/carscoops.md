@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 780 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 798 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Is The World’s First Huayra Roadster With A Third Pedal
+
+- Model/program: This Is The World’s First Huayra Roadster With A Third Pedal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/pagani-huayra-roadster-manual-auction/)
+
+### New VW Group Program Could Save You Up To 50% Off An EV Lease
+
+- Model/program: New VW Group Program Could Save You Up To 50% Off An EV Lease
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-group-eloop/)
 
 ### Report Says A New CT5-V Blackwing Is Coming, With Its V8 And Manual Still In Question
 
@@ -29,6 +49,166 @@ Generated internal notes from 780 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/2027-nissan-z-pricing/)
+
+### The Cybertruck Is Flopping So Hard It Could Knock Ford’s Edsel Off Its Throne
+
+- Model/program: The Cybertruck Is Flopping So Hard It Could Knock Ford’s Edsel Off Its Throne
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/tesla-cybertruck-edsel-comparison/)
+
+### Xpeng CEO Eyes US Launch, Suggests Company Could Build Plants In America
+
+- Model/program: Xpeng CEO Eyes US Launch, Suggests Company Could Build Plants In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/xpeng-us-launch/)
+
+### Canada’s Mounties Are Giving Police Cruisers Their First New Look In Over 30 Years
+
+- Model/program: Canada’s Mounties Are Giving Police Cruisers Their First New Look In Over 30 Years
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/rcmp-cruiser-livery-redesign/)
+
+### Faraday Future Is Still Alive Somehow, Announces Reverse Stock Split
+
+- Model/program: Faraday Future Is Still Alive Somehow, Announces Reverse Stock Split
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/faraday-future-stock-split/)
+
+### Colorado Cops Arrested A Sober Good Samaritan For DUI, Now Taxpayers Owe Him $500,000
+
+- Model/program: Colorado Cops Arrested A Sober Good Samaritan For DUI, Now Taxpayers Owe Him $500,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/fort-collins-sober-dui-settlement/)
+
+### BMW Bails On One Of Europe’s Last Big Auto Shows
+
+- Model/program: BMW Bails On One Of Europe’s Last Big Auto Shows
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-paris-motor-show-skip/)
+
+### You Can Buy An Off-Road V10 Huracan Again, But Not From Lamborghini
+
+- Model/program: You Can Buy An Off-Road V10 Huracan Again, But Not From Lamborghini
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/rezvani-dune-huracan/)
+
+### Police Crushed A Man’s Legal $8,000 e-Bike After Spinning Its Wheel By Hand To Prove It’s Illegal
+
+- Model/program: Police Crushed A Man’s Legal $8,000 e-Bike After Spinning Its Wheel By Hand To Prove It’s Illegal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/police-ebike-seizure/)
+
+### China Is On Track For Its Worst Car Sales Since 2021, But Don’t Blame EVs
+
+- Model/program: China Is On Track For Its Worst Car Sales Since 2021, But Don’t Blame EVs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/china-car-sales-decline/)
+
+### You Can’t Buy Land Rover’s New Flagship Without This Matching 1993 Classic
+
+- Model/program: You Can’t Buy Land Rover’s New Flagship Without This Matching 1993 Classic
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/range-rover-classic-sv-ultra-pair/)
+
+### Volvo Fought The US Ban And Won. Polestar Isn’t Even Trying
+
+- Model/program: Volvo Fought The US Ban And Won. Polestar Isn’t Even Trying
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/volvo-fought-the-us-ban-and-won-an-exemption-polestar-isnt-even-trying/)
+
+### Speeding Learner Driver Gets Family’s New Honda SUV Impounded As Her Family Watches
+
+- Model/program: Speeding Learner Driver Gets Family’s New Honda SUV Impounded As Her Family Watches
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bc-learner-driver-speeding-impound/)
+
+### A New Mercedes G-Class With An Alibaba Kit Bid To $60,000 Below What The Owner Put In
+
+- Model/program: A New Mercedes G-Class With An Alibaba Kit Bid To $60,000 Below What The Owner Put In
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-g550-modified-auction/)
+
+### Toyota’s New MR2 May Have Just Been Caught Testing For The First Time
+
+- Model/program: Toyota’s New MR2 May Have Just Been Caught Testing For The First Time
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-mid-engine-sports-car-prototype/)
+
+### Mystery Prototype Could Be Toyota’s New Land Cruiser EV Soft-Roader
+
+- Model/program: Mystery Prototype Could Be Toyota’s New Land Cruiser EV Soft-Roader
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-land-cruiser-ev-prototype/)
+
+### Mercedes Reportedly Paused CLA L Production In China After Zero Sales In June
+
+- Model/program: Mercedes Reportedly Paused CLA L Production In China After Zero Sales In June
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-cla-l-production-pause/)
 
 ### This Rock Legend’s McLaren F1 GTR Was Crashed Twice And Could Still Clear $35 Million
 

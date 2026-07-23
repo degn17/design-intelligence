@@ -1,19 +1,19 @@
-# Model Card — Car and Driver 2028 Land Rover Range Rover GT
+# Model Card — Car and Driver 2027 Nissan Z
 
-## 2028 Land Rover Range Rover GT
+## 2027 Nissan Z
 
 - Brand: Car and Driver
-- Model: 2028 Land Rover Range Rover GT
+- Model: 2027 Nissan Z
 - Category: new_car
-- Published: 2026-07-21
+- Published: 2026-07-22
 - Data status: Real · RSS
 - Collection method: rss
-- Source: [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-gt)
-- Image URL: https://hips.hearstapps.com/hmg-prod/images/5bb43a89-9d8a-4ee8-9c62-d13ab2878a99.jpg
+- Source: [Car and Driver](https://www.caranddriver.com/nissan/z)
+- Image URL: https://hips.hearstapps.com/hmg-prod/images/a0255d87-0247-4dbb-af38-72a117fe1b0c.jpg
 
 ### Summary
 
-What We Know So Far
+Review, Pricing, and Specs
 
 ### Design keywords
 
@@ -37,4 +37,4 @@ Review the linked public source before adding design interpretation or publishin
 
 ## Source attribution
 
-This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-gt). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
+This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/nissan/z). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
