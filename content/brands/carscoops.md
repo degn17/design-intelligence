@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 798 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 816 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Porsche Never Sold A Mid-Engined 911, So This Italian Shop Is Trying To Make One
+
+- Model/program: Porsche Never Sold A Mid-Engined 911, So This Italian Shop Is Trying To Make One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/angelelli-porsche-754/)
+
+### BMW’s Smallest Crossover Coupe Is Entering The Neue Klasse Era
+
+- Model/program: BMW’s Smallest Crossover Coupe Is Entering The Neue Klasse Era
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2028-bmw-x2-m40-spied/)
 
 ### This Is The World’s First Huayra Roadster With A Third Pedal
 
@@ -29,6 +49,166 @@ Generated internal notes from 798 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/vw-group-eloop/)
+
+### Mitsubishi Pulled The Covers Off The New Pajero In A Room Full Of Owners
+
+- Model/program: Mitsubishi Pulled The Covers Off The New Pajero In A Room Full Of Owners
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mitsubishi-pajero-return/)
+
+### Chinese-Made Teslas Built For Canada Could Be Roaming American Streets, Sparking A Recall
+
+- Model/program: Chinese-Made Teslas Built For Canada Could Be Roaming American Streets, Sparking A Recall
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/tesla-canadian-recall/)
+
+### Toyota’s V8 GR Supercar Isn’t Even On Sale Yet And Two Wilder Ones Are Testing
+
+- Model/program: Toyota’s V8 GR Supercar Isn’t Even On Sale Yet And Two Wilder Ones Are Testing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-gr-gt-variants/)
+
+### Ford’s $30K Electric Truck Will Run Apple Maps, Not Google
+
+- Model/program: Ford’s $30K Electric Truck Will Run Apple Maps, Not Google
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-apple-navigation-partnership/)
+
+### Jeep Says Stop Driving These Wranglers And Gladiators, Their Steel Wheels Might Be Too Thin
+
+- Model/program: Jeep Says Stop Driving These Wranglers And Gladiators, Their Steel Wheels Might Be Too Thin
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/jeep-wrangler-wheel-recall/)
+
+### Lamborghini’s Flagship V12 Is About To Get Considerably Angrier
+
+- Model/program: Lamborghini’s Flagship V12 Is About To Get Considerably Angrier
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lamborghini-revuelto-sv-spied/)
+
+### This 1955 Cadillac Elegante Concept Wears Gold Like It’s Load-Bearing
+
+- Model/program: This 1955 Cadillac Elegante Concept Wears Gold Like It’s Load-Bearing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/cadillac-elegante-auction/)
+
+### This Guy Told Cops He Was Doing Nearly Twice The Speed Limit Because His Car Was Wet
+
+- Model/program: This Guy Told Cops He Was Doing Nearly Twice The Speed Limit Because His Car Was Wet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bc-excessive-speeding-excuse/)
+
+### Over A Third Of Europe’s Plug-In Hybrids Now Come From China
+
+- Model/program: Over A Third Of Europe’s Plug-In Hybrids Now Come From China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/china-phev-europe-tariffs/)
+
+### 2027 Toyota Sequoia Gets Bigger Screens And Its First Trailhunter Trim
+
+- Model/program: 2027 Toyota Sequoia Gets Bigger Screens And Its First Trailhunter Trim
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-sequoia-trailhunter-2027/)
+
+### It Wasn’t Just The $1.95 Cookie Guy, Ford Fired More Workers Over Alleged Snack Theft
+
+- Model/program: It Wasn’t Just The $1.95 Cookie Guy, Ford Fired More Workers Over Alleged Snack Theft
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-kiosk-theft-firings/)
+
+### Honda’s Next Ridgeline Wants To Look More Like A Real Truck, Even If It Isn’t
+
+- Model/program: Honda’s Next Ridgeline Wants To Look More Like A Real Truck, Even If It Isn’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/honda-ridgeline-next-generation/)
+
+### Honda Is Putting The Manual Civic Si And Integra A-Spec On Ice, For Now
+
+- Model/program: Honda Is Putting The Manual Civic Si And Integra A-Spec On Ice, For Now
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/honda-civic-acura-manual-pause/)
+
+### Fake Transformers Mustang Cop Car Ticketed By Real Camaro Cop Car
+
+- Model/program: Fake Transformers Mustang Cop Car Ticketed By Real Camaro Cop Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/chp-transformers-mustang-citations/)
+
+### The 2027 Crown’s Biggest Update Is A $3,770 Price Jump On One Trim
+
+- Model/program: The 2027 Crown’s Biggest Update Is A $3,770 Price Jump On One Trim
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-crown-facelift-pricing/)
+
+### Europe’s Biggest Market Just Bought More EVs Than Anything Else For The First Time
+
+- Model/program: Europe’s Biggest Market Just Bought More EVs Than Anything Else For The First Time
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/germany-ev-registrations-june/)
 
 ### Report Says A New CT5-V Blackwing Is Coming, With Its V8 And Manual Still In Question
 

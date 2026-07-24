@@ -2,13 +2,213 @@
 
 ## Current positioning
 
-Generated internal notes from 556 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 576 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Toyota Updates the Oddball Crown for 2027 with New Hybrid Setup
+
+- Model/program: Toyota Updates the Oddball Crown for 2027 with New Hybrid Setup
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73249953/2027-toyota-crown-update-details/)
+
+### View Interior Photos of the 2027 Toyota Sequoia Trailhunter
+
+- Model/program: View Interior Photos of the 2027 Toyota Sequoia Trailhunter
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73248775/2027-toyota-sequoia-trailhunter-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 Toyota Sequoia Trailhunter
+
+- Model/program: View Exterior Photos of the 2027 Toyota Sequoia Trailhunter
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73248100/2027-toyota-sequoia-trailhunter-revealed-exterior-gallery/)
+
+### The 2026 Nissan Armada is Built to Leave the Pavement Behind
+
+- Model/program: The 2026 Nissan Armada is Built to Leave the Pavement Behind
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/sponsored/a71934506/the-2026-nissan-armada-is-built-to-leave-the-pavement-behind/)
+
+### Ford's $30,000 EV Truck Will Be Its First Vehicle with Apple Maps
+
+- Model/program: Ford's $30,000 EV Truck Will Be Its First Vehicle with Apple Maps
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73247269/fords-30000-ev-truck-integrated-apple-maps/)
+
+### 2027 Chevrolet Corvette Stingray / Grand Sport
+
+- Model/program: 2027 Chevrolet Corvette Stingray / Grand Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/chevrolet/corvette)
+
+### 2027 Toyota RAV4
+
+- Model/program: 2027 Toyota RAV4
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/rav4-2027)
+
+### 2026 Toyota RAV4
+
+- Model/program: 2026 Toyota RAV4
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/rav4)
+
+### 2027 Lotus Emira
+
+- Model/program: 2027 Lotus Emira
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lotus/emira)
+
+### Honda Confirms Third-Gen Ridgeline Pickup Truck with New Teaser Image
+
+- Model/program: Honda Confirms Third-Gen Ridgeline Pickup Truck with New Teaser Image
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73235644/2028-honda-ridgeline-teaser/)
+
+### 2027 Kia Seltos
+
+- Model/program: 2027 Kia Seltos
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/kia/seltos)
+
+### Honda Civic Si and Manual Integra Production to Pause After 2026
+
+- Model/program: Honda Civic Si and Manual Integra Production to Pause After 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73246600/honda-civic-si-acura-manual-integra-production-pause/)
+
+### The Aston Martin Vanquish 25 Is a Quarter Century in the Making
+
+- Model/program: The Aston Martin Vanquish 25 Is a Quarter Century in the Making
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73232788/aston-martin-vanquish-25-revealed/)
+
+### 2027 Porsche Cayenne Electric / Cayenne Coupe Electric
+
+- Model/program: 2027 Porsche Cayenne Electric / Cayenne Coupe Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/porsche/cayenne-ev-2027)
+
+### View Photos of the 2001 Volvo V70 Cross Country
+
+- Model/program: View Photos of the 2001 Volvo V70 Cross Country
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73218198/2001-volvo-v70-cross-country-archive-test-gallery/)
+
+### 2001 Volvo V70 Cross Country Test: Welcome to Flavor Country
+
+- Model/program: 2001 Volvo V70 Cross Country Test: Welcome to Flavor Country
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71952518/2001-volvo-v70-cross-country-archive-test/)
+
+### View Exterior Photos of the 2027 Chevrolet Corvette Grand Sport
+
+- Model/program: View Exterior Photos of the 2027 Chevrolet Corvette Grand Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73221367/2027-chevrolet-corvette-grand-sport-drive-exterior-gallery/)
+
+### 2027 Chevrolet Corvette Grand Sport Driven: A Killer Combo
+
+- Model/program: 2027 Chevrolet Corvette Grand Sport Driven: A Killer Combo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73219937/2027-chevrolet-corvette-grand-sport-drive/)
+
+### View Interior Photos of the 2027 Chevrolet Corvette Grand Sport
+
+- Model/program: View Interior Photos of the 2027 Chevrolet Corvette Grand Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73221397/2027-chevrolet-corvette-grand-sport-drive-interior-gallery/)
+
+### 2027 Toyota Sequoia Joins the Off-Road Party with Trailhunter Trim
+
+- Model/program: 2027 Toyota Sequoia Joins the Off-Road Party with Trailhunter Trim
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73235834/2027-toyota-sequoia-trailhunter-revealed/)
 
 ### The 800-HP Rezvani Dune Is an Even Wilder Lamborghini Sterrato
 
