@@ -1,0 +1,40 @@
+# Model Card — Car and Driver Report: Chevrolet Is Already Cooking Up a Next-Generation Equinox EV
+
+## Report: Chevrolet Is Already Cooking Up a Next-Generation Equinox EV
+
+- Brand: Car and Driver
+- Model: Report: Chevrolet Is Already Cooking Up a Next-Generation Equinox EV
+- Category: new_car
+- Published: 2026-07-24
+- Data status: Real · RSS
+- Collection method: rss
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73259033/chevy-equinox-ev-next-gen-report/)
+- Image URL: https://hips.hearstapps.com/hmg-prod/images/2024-chevrolet-equinox-ev-3rs-584-6657c7cc55102.jpg
+
+### Summary
+
+The next version of the compact electric SUV is expected to arrive for the 2029 model year and will ride on a new platform.
+
+### Design keywords
+
+- Manual review required.
+
+### Design observations
+
+- Manual review required.
+
+### Design breakdown
+
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Volume: Not assessed from RSS metadata. Manual source review required.
+- Surface: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Brand language: RSS-collected source item awaiting editorial design analysis.
+
+### Designer note
+
+Review the linked public source before adding design interpretation or publishing this item.
+
+## Source attribution
+
+This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/news/a73259033/chevy-equinox-ev-next-gen-report/). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

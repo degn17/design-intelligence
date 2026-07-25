@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 816 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 834 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This P1-Based McLaren F1 GTR Tribute Is One Of Just Four In The World
+
+- Model/program: This P1-Based McLaren F1 GTR Tribute Is One Of Just Four In The World
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lanzante-p1-gt-auction/)
+
+### Bad News Rivian R2 Flippers, One Of The First Models Only Fetched $63k
+
+- Model/program: Bad News Rivian R2 Flippers, One Of The First Models Only Fetched $63k
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/rivian-r2-auctioned-for-63k/)
 
 ### Porsche Never Sold A Mid-Engined 911, So This Italian Shop Is Trying To Make One
 
@@ -29,6 +49,166 @@ Generated internal notes from 816 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/2028-bmw-x2-m40-spied/)
+
+### One Collector Got A Maserati That Won’t Be Repeated
+
+- Model/program: One Collector Got A Maserati That Won’t Be Repeated
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/maserati-gt2-stradale-mc12-tribute/)
+
+### Cadillac’s Gassy Rebirth Starts Next Year And Continues Into 2028
+
+- Model/program: Cadillac’s Gassy Rebirth Starts Next Year And Continues Into 2028
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/cadillac-ice-relaunch/)
+
+### Your Toyota Supra Is Getting Recalled Because Of A BMW Starter Motor
+
+- Model/program: Your Toyota Supra Is Getting Recalled Because Of A BMW Starter Motor
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-starter-motor-recall/)
+
+### Mercedes-AMG’s G-Class Cabrio Is A Convertible That Doesn’t Fully Convert
+
+- Model/program: Mercedes-AMG’s G-Class Cabrio Is A Convertible That Doesn’t Fully Convert
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-amg-g-class-cabrio/)
+
+### Florida Sheriff Pulls County’s Flock Cameras Over One Detective
+
+- Model/program: Florida Sheriff Pulls County’s Flock Cameras Over One Detective
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/sumter-county-flock-suspension/)
+
+### Kia’s Next Sportage Is Getting A Rugged Redesign
+
+- Model/program: Kia’s Next Sportage Is Getting A Rugged Redesign
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/kias-best-seller-is-getting-a-rugged-redesign/)
+
+### A Cadillac Escalade EV Is One Way To Lose Nearly $50,000 After Just 13K Miles
+
+- Model/program: A Cadillac Escalade EV Is One Way To Lose Nearly $50,000 After Just 13K Miles
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/escalade-iq-depreciation/)
+
+### Carvana Rebuilt A Stellantis Dealership For Buyers Who Hate Salespeople
+
+- Model/program: Carvana Rebuilt A Stellantis Dealership For Buyers Who Hate Salespeople
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/carvana-dallas-dealership-concept/)
+
+### Mach-E Owner Watched A Car Hacking Video, Then Found The Same Device Under His Dash
+
+- Model/program: Mach-E Owner Watched A Car Hacking Video, Then Found The Same Device Under His Dash
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/karr-security-module-vulnerability/)
+
+### Kia’s Electric Stinger Successor Quietly Showed Off A Second Bodystyle
+
+- Model/program: Kia’s Electric Stinger Successor Quietly Showed Off A Second Bodystyle
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/kia-meta-turismo-shooting-brake/)
+
+### Nine Speeding Stops At 19, And The Tenth Came With Grandma’s Heart Attack Story
+
+- Model/program: Nine Speeding Stops At 19, And The Tenth Came With Grandma’s Heart Attack Story
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/florida-teen-speeding-record/)
+
+### 8 Out Of 10 Americans Would Rather Take A Gas SUV Off-Road Than An EV
+
+- Model/program: 8 Out Of 10 Americans Would Rather Take A Gas SUV Off-Road Than An EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hankook-off-road-survey/)
+
+### Tesla’s Hidden Door Handle Drama Could Change Every New Car In America
+
+- Model/program: Tesla’s Hidden Door Handle Drama Could Change Every New Car In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/nhtsa-door-handle-rulemaking/)
+
+### F1’s New Safety Car Ditched The Roof Lightbar For Something Smarter
+
+- Model/program: F1’s New Safety Car Ditched The Roof Lightbar For Something Smarter
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/amg-gt-f1-safety-car/)
+
+### Nobody Wants To Make A Luxury Pickup, So Genesis Is Still Thinking About One
+
+- Model/program: Nobody Wants To Make A Luxury Pickup, So Genesis Is Still Thinking About One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/genesis-pickup-truck/)
+
+### 15 Bronco Fires Later, Ford’s Fix For 565,000 Broncos Is Basically Tape
+
+- Model/program: 15 Bronco Fires Later, Ford’s Fix For 565,000 Broncos Is Basically Tape
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-bronco-fire-recall/)
 
 ### This Is The World’s First Huayra Roadster With A Third Pedal
 

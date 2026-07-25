@@ -2,13 +2,193 @@
 
 ## Current positioning
 
-Generated internal notes from 576 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 594 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Report: Chevrolet Is Already Cooking Up a Next-Generation Equinox EV
+
+- Model/program: Report: Chevrolet Is Already Cooking Up a Next-Generation Equinox EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73259033/chevy-equinox-ev-next-gen-report/)
+
+### Subaru Delays Its Most Powerful Model Yet, the 420-HP Getaway SUV
+
+- Model/program: Subaru Delays Its Most Powerful Model Yet, the 420-HP Getaway SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73258248/subaru-getaway-production-delayed/)
+
+### 2027 Maserati Grecale
+
+- Model/program: 2027 Maserati Grecale
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/maserati/grecale)
+
+### 2028 BMW M3 EV
+
+- Model/program: 2028 BMW M3 EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/m3-ev)
+
+### 2027 Volvo EX60
+
+- Model/program: 2027 Volvo EX60
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/volvo/ex60)
+
+### 2029 Toyota GR MR2
+
+- Model/program: 2029 Toyota GR MR2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/gr-mr2)
+
+### 2028 BMW M3
+
+- Model/program: 2028 BMW M3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/m3-2028)
+
+### 2027 Mazda CX-90
+
+- Model/program: 2027 Mazda CX-90
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mazda/cx-90-2027)
+
+### 2026 Mazda CX-90
+
+- Model/program: 2026 Mazda CX-90
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mazda/cx-90)
+
+### 2027 Aston Martin Vanquish
+
+- Model/program: 2027 Aston Martin Vanquish
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/aston-martin/vanquish-2027)
+
+### Ford Recalls 565K Bronco, Bronco Raptor SUVs over Potential Engine Fires
+
+- Model/program: Ford Recalls 565K Bronco, Bronco Raptor SUVs over Potential Engine Fires
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73256154/ford-bronco-bronco-raptor-engine-fire-recall/)
+
+### 'Days of Thunder' Reboot Inches Closer to the Start Line
+
+- Model/program: 'Days of Thunder' Reboot Inches Closer to the Start Line
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73252090/days-of-thunder-reboot-details/)
+
+### Ford's New Customization Program Aims to Democratize Performance
+
+- Model/program: Ford's New Customization Program Aims to Democratize Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73249755/ford-customization-program-details/)
+
+### View Exterior Photos of the 2027 Maserati GranCabrio Trofeo
+
+- Model/program: View Exterior Photos of the 2027 Maserati GranCabrio Trofeo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73230120/2027-maserati-grancabrio-trofeo-drive-exterior-gallery/)
+
+### Driven: The Updated 2027 Maserati Grecale Is a Natural Macan Substitute
+
+- Model/program: Driven: The Updated 2027 Maserati Grecale Is a Natural Macan Substitute
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a72647895/2027-maserati-grecale-modena-drive/)
+
+### View Interior Photos of the 2027 Maserati GranCabrio Trofeo
+
+- Model/program: View Interior Photos of the 2027 Maserati GranCabrio Trofeo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73230122/2027-maserati-grancabrio-trofeo-drive-interior-gallery/)
+
+### View Interior Photos of the 2027 Maserati Grecale Modena
+
+- Model/program: View Interior Photos of the 2027 Maserati Grecale Modena
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73230119/2027-maserati-grecale-modena-drive-interior-gallery/)
+
+### Driven: Maserati's Updated 2027 GranCabrio Is Ready for Its Moment in the Sun
+
+- Model/program: Driven: Maserati's Updated 2027 GranCabrio Is Ready for Its Moment in the Sun
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a72645876/2027-maserati-grancabrio-trofeo-drive/)
 
 ### Toyota Updates the Oddball Crown for 2027 with New Hybrid Setup
 
