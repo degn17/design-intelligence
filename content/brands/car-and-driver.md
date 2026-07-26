@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 594 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 599 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 3700-Mile 2008 Audi S4 Avant on Bring a Trailer
+
+- Model/program: 3700-Mile 2008 Audi S4 Avant on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73247820/2008-audi-s4-avant-bring-a-trailer-auction/)
+
+### View Photos of the 2001 Sports Sedan Comparison Test
+
+- Model/program: View Photos of the 2001 Sports Sedan Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73256479/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test-gallery/)
+
+### Andretti's Formula E Cars Get a Japanese Tuner Makeover for Tokyo
+
+- Model/program: Andretti's Formula E Cars Get a Japanese Tuner Makeover for Tokyo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73258716/andretti-formula-e-liberty-walk-tokyo-livery/)
+
+### 2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60
+
+- Model/program: 2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/)
+
+### Locked Out When Loaded: The Future of Ignition Interlock Devices
+
+- Model/program: Locked Out When Loaded: The Future of Ignition Interlock Devices
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71930998/government-mandated-vehicle-ignition-interlock-devices/)
 
 ### Report: Chevrolet Is Already Cooking Up a Next-Generation Equinox EV
 

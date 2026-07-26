@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 834 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 844 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Not Even A Ballistic Missile Could Stop This VW Touareg From Driving Away
+
+- Model/program: Not Even A Ballistic Missile Could Stop This VW Touareg From Driving Away
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-touareg-missile-survival/)
 
 ### This P1-Based McLaren F1 GTR Tribute Is One Of Just Four In The World
 
@@ -29,6 +39,96 @@ Generated internal notes from 834 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/rivian-r2-auctioned-for-63k/)
+
+### BMW Hasn’t Built A G-Wagen Rival Yet, But This Render Argues It Should
+
+- Model/program: BMW Hasn’t Built A G-Wagen Rival Yet, But This Render Argues It Should
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-g-class-rival/)
+
+### China Wants To Build Cars In America. Should We Let Them In?
+
+- Model/program: China Wants To Build Cars In America. Should We Let Them In?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/chinese-usa-production-qotd/)
+
+### Used Porsche 911 Prices Drop $14,000 As Used EVs Get More Expensive
+
+- Model/program: Used Porsche 911 Prices Drop $14,000 As Used EVs Get More Expensive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/used-ev-prices-rising/)
+
+### Water Keeps Wrecking Discovery’s Camera, So Land Rover Is Reaching For A Drill
+
+- Model/program: Water Keeps Wrecking Discovery’s Camera, So Land Rover Is Reaching For A Drill
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/land-rover-discovery-camera-recall/)
+
+### This 1,500-Mile Lexus LS400 Never Learned How To Spy On You
+
+- Model/program: This 1,500-Mile Lexus LS400 Never Learned How To Spy On You
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/lexus-ls400-low-mileage-auction/)
+
+### Mercedes’ New GLA Breaks Cover July 29, But Spy Shots Got There First
+
+- Model/program: Mercedes’ New GLA Breaks Cover July 29, But Spy Shots Got There First
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-gla-electric-spy-shots/)
+
+### Subaru Admits Its Performance Cars Got Boring, Launches New Division To Fix It
+
+- Model/program: Subaru Admits Its Performance Cars Got Boring, Launches New Division To Fix It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/subaru-performance-division/)
+
+### Insurers Are Done Tossing $1,430 Headlights Over One Cracked Lens
+
+- Model/program: Insurers Are Done Tossing $1,430 Headlights Over One Cracked Lens
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/allianz-headlight-repair-costs/)
+
+### Mercedes Sent Its New AMG GT For Hot-Weather Testing And It Cooked Itself
+
+- Model/program: Mercedes Sent Its New AMG GT For Hot-Weather Testing And It Cooked Itself
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-amg-gt-prototype-fire/)
 
 ### Porsche Never Sold A Mid-Engined 911, So This Italian Shop Is Trying To Make One
 
