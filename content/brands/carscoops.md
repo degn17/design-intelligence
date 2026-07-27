@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 844 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 854 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Toyota’s Shortest Land Cruiser Has A Windshield That Folds Flat For Throwing Lassos
+
+- Model/program: Toyota’s Shortest Land Cruiser Has A Windshield That Folds Flat For Throwing Lassos
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-land-cruiser-70-swb/)
 
 ### Not Even A Ballistic Missile Could Stop This VW Touareg From Driving Away
 
@@ -19,6 +29,96 @@ Generated internal notes from 844 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/vw-touareg-missile-survival/)
+
+### EVs Actually Got 18% Cheaper, So Why Did The Median Price Go Up?
+
+- Model/program: EVs Actually Got 18% Cheaper, So Why Did The Median Price Go Up?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ev-battery-cost-pricing/)
+
+### Mao’s Old Limo Brand Is Now Outselling Rolls-Royce In China Two To One
+
+- Model/program: Mao’s Old Limo Brand Is Now Outselling Rolls-Royce In China Two To One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hongqi-rolls-royce-china/)
+
+### Genesis Barely Has One Magma Car And It’s Already Eyeing Something Hotter
+
+- Model/program: Genesis Barely Has One Magma Car And It’s Already Eyeing Something Hotter
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/genesis-magma-black-series-rival/)
+
+### GM Keeps 70 Cents Of Every Subscription Dollar And Just 4 Cents On A Car Sale
+
+- Model/program: GM Keeps 70 Cents Of Every Subscription Dollar And Just 4 Cents On A Car Sale
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gm-software-subscription-revenue/)
+
+### At A Michigan Left, You Turn Left Without Ever Turning Left
+
+- Model/program: At A Michigan Left, You Turn Left Without Ever Turning Left
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/michigan-left-intersection-safety/)
+
+### Someone Turned A Real Fiat Panda Into 1:1 Drivable Fridge Magnet
+
+- Model/program: Someone Turned A Real Fiat Panda Into 1:1 Drivable Fridge Magnet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/fiat-panda-narrowest-build/)
+
+### Honda’s 2026 Civic Hybrid Is A Genuinely Great Car With One Number That Sinks It
+
+- Model/program: Honda’s 2026 Civic Hybrid Is A Genuinely Great Car With One Number That Sinks It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/honda-civic-hybrid-review/)
+
+### Nissan GM Retaliated Over A Customer’s Bad Review, Then 1.4 Million Viewers Returned The Favor
+
+- Model/program: Nissan GM Retaliated Over A Customer’s Bad Review, Then 1.4 Million Viewers Returned The Favor
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/nissan-dealer-review-retaliation/)
+
+### Toyota’s Racing Partner Made An Anti-Bear Helmet
+
+- Model/program: Toyota’s Racing Partner Made An Anti-Bear Helmet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toms-anti-bear-helmet/)
 
 ### This P1-Based McLaren F1 GTR Tribute Is One Of Just Four In The World
 

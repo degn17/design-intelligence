@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 599 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 604 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Test: 2001 Qvale Mangusta Is a Head-Turner and a Head-Scratcher
+
+- Model/program: Test: 2001 Qvale Mangusta Is a Head-Turner and a Head-Scratcher
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73235025/2001-qvale-mangusta-archive-test/)
+
+### View Photos of the 2001 Qvale Mangusta
+
+- Model/program: View Photos of the 2001 Qvale Mangusta
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73257372/2001-qvale-mangusta-archive-test-gallery/)
+
+### Obsessively Maintained 1990 Ferrari Testarossa For Sale on BaT
+
+- Model/program: Obsessively Maintained 1990 Ferrari Testarossa For Sale on BaT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73247872/1990-ferrari-testarossa-bring-a-trailer-auction/)
+
+### AEV's Second Ford Super Duty Package Is Extreme Off-Road Lite
+
+- Model/program: AEV's Second Ford Super Duty Package Is Extreme Off-Road Lite
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73258421/ford-super-duty-aev-fx370-revealed/)
+
+### The Best Odds: 2000-01 Qvale Mangusta
+
+- Model/program: The Best Odds: 2000-01 Qvale Mangusta
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73218951/the-best-odds-2000-01-qvale-mangusta/)
 
 ### 3700-Mile 2008 Audi S4 Avant on Bring a Trailer
 
