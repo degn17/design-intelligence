@@ -2,13 +2,73 @@
 
 ## Current positioning
 
-Generated internal notes from 74 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 80 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Porsche customer teams finish 1–2 in Tokyo as Dan Ticktum claims Saturday victory
+
+- Model/program: Porsche customer teams finish 1–2 in Tokyo as Dan Ticktum claims Saturday victory
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/07/porsche-customer-teams-finish-12-in-tokyo-as-dan-ticktum-claims-saturday-victory.html)
+
+### Changes to the Management Board of Porsche Lifestyle GmbH & Co. KG
+
+- Model/program: Changes to the Management Board of Porsche Lifestyle GmbH & Co. KG
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-changes-to-management-board-lifestyle-gmbh-jan-becker-42920.html)
+
+### Generation change: Porsche board member Albrecht Reimold to retire
+
+- Model/program: Generation change: Porsche board member Albrecht Reimold to retire
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-executive-board-generation-change-albrecht-reimold-christian-friedl-42914.html)
+
+### A Road Trip in the 1950s: From Paris to the North Cape in a 356
+
+- Model/program: A Road Trip in the 1950s: From Paris to the North Cape in a 356
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-356-roadtrip-paris-norway-42904.html)
+
+### Top Gear ranks the greatest 911s of all time
+
+- Model/program: Top Gear ranks the greatest 911s of all time
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-top-gear-best-911-42893.html)
+
+### Porsche Junior Flynt Schuring Extends Supercup Lead
+
+- Model/program: Porsche Junior Flynt Schuring Extends Supercup Lead
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/07/victory-at-spa-porsche-junior-flynt-schuring-extends-supercup-lead.html)
 
 ### NBA champion Ariel Hukporti receives Porsche Turbo Award
 

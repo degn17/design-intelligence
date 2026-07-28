@@ -2,13 +2,83 @@
 
 ## Current positioning
 
-Generated internal notes from 604 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 611 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Photos of the 2027 Mercedes-Benz C-Class EV
+
+- Model/program: View Photos of the 2027 Mercedes-Benz C-Class EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71943490/2027-mercedes-benz-c-class-ev-drive-gallery/)
+
+### 2027 Mercedes-Benz C-Class EV Drive: EQ Who?
+
+- Model/program: 2027 Mercedes-Benz C-Class EV Drive: EQ Who?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73196655/2027-mercedes-benz-c400-ev-drive/)
+
+### Land Rover Discontinues the Discovery Sport After 11 Years
+
+- Model/program: Land Rover Discontinues the Discovery Sport After 11 Years
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73276744/land-rover-discovery-sport-discontinued/)
+
+### This Special Lamborghini Urus SE Celebrates the Newest Halo Game
+
+- Model/program: This Special Lamborghini Urus SE Celebrates the Newest Halo Game
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73275280/lamborghini-urus-se-master-chief-117-halo/)
+
+### This Pink Ford Bronco Is a Bold Tribute to Utah's Great Salt Lake
+
+- Model/program: This Pink Ford Bronco Is a Bold Tribute to Utah's Great Salt Lake
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73274431/ford-bronco-desert-rising-details/)
+
+### Honda Could Target Subaru Outback Buyers with a Lifted Accord SUV
+
+- Model/program: Honda Could Target Subaru Outback Buyers with a Lifted Accord SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73272367/honda-accord-lifted-suv-report/)
+
+### NHTSA Is Looking Into New Regulations Around Door Handle Safety
+
+- Model/program: NHTSA Is Looking Into New Regulations Around Door Handle Safety
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73266202/nhtsa-investigating-new-regulations-door-handle-safety/)
 
 ### Test: 2001 Qvale Mangusta Is a Head-Turner and a Head-Scratcher
 

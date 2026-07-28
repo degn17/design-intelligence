@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 854 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 872 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Mercedes’ New Campervan Adds Headroom And A Window To The Sky
+
+- Model/program: Mercedes’ New Campervan Adds Headroom And A Window To The Sky
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-updated-marco-polo/)
+
+### Toyota’s $12K Time-Warp Wagon Might Finally Leave 2002, And Take Its Price With It
+
+- Model/program: Toyota’s $12K Time-Warp Wagon Might Finally Leave 2002, And Take Its Price With It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-probox-next-generation/)
 
 ### Toyota’s Shortest Land Cruiser Has A Windshield That Folds Flat For Throwing Lassos
 
@@ -19,6 +39,166 @@ Generated internal notes from 854 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-land-cruiser-70-swb/)
+
+### 25 People Looked At Porsche’s Carrera GT And Said Make It Weirder
+
+- Model/program: 25 People Looked At Porsche’s Carrera GT And Said Make It Weirder
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gemballa-mirage-gt-auction/)
+
+### Mercedes-AMG Is Killing Its Best 4-Cylinder Hot Hatch And Charging $90,500 For The Goodbye
+
+- Model/program: Mercedes-AMG Is Killing Its Best 4-Cylinder Hot Hatch And Charging $90,500 For The Goodbye
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-amg-a45s-final-edition/)
+
+### Ram’s 2500 Just Out Muscled The Silverado HD And Ford Super Duty
+
+- Model/program: Ram’s 2500 Just Out Muscled The Silverado HD And Ford Super Duty
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-ram-2500/)
+
+### Bentley Showcases High-Tech Interior For New Torcal EV
+
+- Model/program: Bentley Showcases High-Tech Interior For New Torcal EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bentley-torcal-interior-teaser/)
+
+### Ford Wants To Drop Cars Like Nikes, And It’s Betting You’ll Snag A $57,350 Bronco
+
+- Model/program: Ford Wants To Drop Cars Like Nikes, And It’s Betting You’ll Snag A $57,350 Bronco
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-custom-garage-strategy/)
+
+### Land Rover’s Entry-Level SUV Just Got A December Death Date
+
+- Model/program: Land Rover’s Entry-Level SUV Just Got A December Death Date
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/land-rover-discovery-sport-axed/)
+
+### VW Built A 1,000-HP Golf With An Exhaust That Exits The Front Bumper
+
+- Model/program: VW Built A 1,000-HP Golf With An Exhaust That Exits The Front Bumper
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-golf-hillclimb/)
+
+### This 3,700-Mile Audi S4 Wagon Has A V8, Three Pedals, And A Catch Every Buyer Inherits
+
+- Model/program: This 3,700-Mile Audi S4 Wagon Has A V8, Three Pedals, And A Catch Every Buyer Inherits
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/audi-s4-avant-timing-chains/)
+
+### A 5,831-lbs Porsche Hit 167 MPH Underneath A Plane As It Took Off
+
+- Model/program: A 5,831-lbs Porsche Hit 167 MPH Underneath A Plane As It Took Off
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/porsche-cayenne-electric-plane-stunt/)
+
+### Hungary Pays $18 An Hour, Germany Pays $57, Guess Where Mercedes Is Building
+
+- Model/program: Hungary Pays $18 An Hour, Germany Pays $57, Guess Where Mercedes Is Building
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-hungary-production/)
+
+### Tesla Quietly Raised Its Cheapest Model 3 Lease By 12%
+
+- Model/program: Tesla Quietly Raised Its Cheapest Model 3 Lease By 12%
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/tesla-model-3-lease-increase/)
+
+### Mercedes Dealer Said Extended Test Drive, The Judge Said Tha’ll Be $20,270
+
+- Model/program: Mercedes Dealer Said Extended Test Drive, The Judge Said Tha’ll Be $20,270
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-dealer-bar-lawsuit/)
+
+### The Next Corolla May Have Slipped Out In A Toyota Doc, And It Mirrors The Concept
+
+- Model/program: The Next Corolla May Have Slipped Out In A Toyota Doc, And It Mirrors The Concept
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-corolla-next-generation/)
+
+### Honda’s Accord SUV Brings Back The Crosstour Idea To Fight Subaru’s Outback In 2029
+
+- Model/program: Honda’s Accord SUV Brings Back The Crosstour Idea To Fight Subaru’s Outback In 2029
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/honda-accord-suv-outback/)
+
+### The $9,200 New Nissan You Can’t Have Just Got A Tiny Bit Safer
+
+- Model/program: The $9,200 New Nissan You Can’t Have Just Got A Tiny Bit Safer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/nissan-dayz-facelift/)
+
+### Ex-VW Engineer Accused Of Rivian Insider Trading Allegedly Googled ‘Statute Of Limitations’
+
+- Model/program: Ex-VW Engineer Accused Of Rivian Insider Trading Allegedly Googled ‘Statute Of Limitations’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-engineers-rivian-insider-trading/)
 
 ### Not Even A Ballistic Missile Could Stop This VW Touareg From Driving Away
 
