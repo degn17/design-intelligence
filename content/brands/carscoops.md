@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 872 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 890 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Audi’s Biggest SUV Ever Has The World’s Fanciest Taillights And A Glass Roof Bigger Than Your Bed
+
+- Model/program: Audi’s Biggest SUV Ever Has The World’s Fanciest Taillights And A Glass Roof Bigger Than Your Bed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/audi-q9-reveal/)
+
+### Stellantis Is Selling The Car-Sharing Brand You Probably Forgot It Owned
+
+- Model/program: Stellantis Is Selling The Car-Sharing Brand You Probably Forgot It Owned
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/stellantis-selling-free2move/)
 
 ### Mercedes’ New Campervan Adds Headroom And A Window To The Sky
 
@@ -29,6 +49,166 @@ Generated internal notes from 872 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-probox-next-generation/)
+
+### Someone Drove Their Bugatti 321 Miles And Might Pocket Millions For Their Trouble
+
+- Model/program: Someone Drove Their Bugatti 321 Miles And Might Pocket Millions For Their Trouble
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bugatti-mistral-auction/)
+
+### BMW’s iX3 Is Nearing 100,000 Orders Before Its First Birthday
+
+- Model/program: BMW’s iX3 Is Nearing 100,000 Orders Before Its First Birthday
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-ix3-production-milestone/)
+
+### Florida Showed A Corvette Driver What 85 MPH Over The Speed Limit Gets You
+
+- Model/program: Florida Showed A Corvette Driver What 85 MPH Over The Speed Limit Gets You
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/florida-super-speeder-crovette/)
+
+### Your Next Honda Could Run Nissan’s Software
+
+- Model/program: Your Next Honda Could Run Nissan’s Software
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/honda-nissan-shared-operating-system/)
+
+### Waymo Crashes 68% Less Than Humans, Then You Reach Austin
+
+- Model/program: Waymo Crashes 68% Less Than Humans, Then You Reach Austin
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/waymo-iihs-safety-study/)
+
+### Move Over Audi, BMW Stars In Spider-Man: Brand New Day
+
+- Model/program: Move Over Audi, BMW Stars In Spider-Man: Brand New Day
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-stars-in-spider-man-brand-new-day/)
+
+### Hyundai Dealer Reported A Teen’s Elantra Stolen, And The City Paid Her $250,000
+
+- Model/program: Hyundai Dealer Reported A Teen’s Elantra Stolen, And The City Paid Her $250,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/dealership-stolen-car-settlement/)
+
+### Dodge Charger Super Bee Looks Primed For A Buzzy Return
+
+- Model/program: Dodge Charger Super Bee Looks Primed For A Buzzy Return
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/dodge-charger-suepr-bee-teaser/)
+
+### Charger Driver Fled Police At 130 MPH And Still Stopped For Gas
+
+- Model/program: Charger Driver Fled Police At 130 MPH And Still Stopped For Gas
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/california-police-chase-gas-stop/)
+
+### Hyundai Wants Soft Ride And Sharp Handling From One Clever Sway Bar
+
+- Model/program: Hyundai Wants Soft Ride And Sharp Handling From One Clever Sway Bar
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hyundai-sway-bar-patent/)
+
+### Ford Hit 13.5 Million Recalls This Year With A Driver’s Seat That Reclines On Its Own
+
+- Model/program: Ford Hit 13.5 Million Recalls This Year With A Driver’s Seat That Reclines On Its Own
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-lincoln-seat-recall/)
+
+### 64 Of Waymo’s 83 Austin Tickets Came From One Parking Habit
+
+- Model/program: 64 Of Waymo’s 83 Austin Tickets Came From One Parking Habit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/waymo-austin-parking-fines/)
+
+### Toyota Just Gave Its 2027 TRD Pro Trucks A Sweet New Color
+
+- Model/program: Toyota Just Gave Its 2027 TRD Pro Trucks A Sweet New Color
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-trd-pro-colors/)
+
+### Audi, BMW, And Mercedes Are Building Cars In China Nobody Wants To Buy
+
+- Model/program: Audi, BMW, And Mercedes Are Building Cars In China Nobody Wants To Buy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/german-plants-china-utilization/)
+
+### BMW Is Building The Electric Convertible Everyone Else Gave Up On
+
+- Model/program: BMW Is Building The Electric Convertible Everyone Else Gave Up On
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-i4-convertible-spied/)
+
+### Trump Ordered 250 Escalades For The Secret Service And Called Them Spoiled
+
+- Model/program: Trump Ordered 250 Escalades For The Secret Service And Called Them Spoiled
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/cadillac-escalade-secret-service-fleet/)
 
 ### Toyota’s Shortest Land Cruiser Has A Windshield That Folds Flat For Throwing Lassos
 

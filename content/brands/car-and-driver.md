@@ -2,13 +2,83 @@
 
 ## Current positioning
 
-Generated internal notes from 611 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 628 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Audi Q9
+
+- Model/program: 2027 Audi Q9
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/audi/q9)
+
+### 2027 Audi SQ9
+
+- Model/program: 2027 Audi SQ9
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/audi/sq9)
+
+### View Interior Photos of the 2027 Audi SQ9
+
+- Model/program: View Interior Photos of the 2027 Audi SQ9
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g40208426/2027-audi-sq9-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 Audi Q9
+
+- Model/program: View Exterior Photos of the 2027 Audi Q9
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g39211494/2027-audi-q9-revealed-exterior-gallery/)
+
+### View Interior Photos of the 2027 Audi Q9
+
+- Model/program: View Interior Photos of the 2027 Audi Q9
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g39385947/2027-audi-q9-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 Audi SQ9
+
+- Model/program: View Exterior Photos of the 2027 Audi SQ9
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g40050947/2027-audi-sq9-revealed-exterior-gallery/)
+
+### 2027 Audi Q9 and SQ9 Revealed as the Luxury Brand's Biggest SUVs Ever
+
+- Model/program: 2027 Audi Q9 and SQ9 Revealed as the Luxury Brand's Biggest SUVs Ever
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71938919/2027-audi-a9-sq9-revealed/)
 
 ### View Photos of the 2027 Mercedes-Benz C-Class EV
 
@@ -29,6 +99,106 @@ Generated internal notes from 611 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/reviews/a73196655/2027-mercedes-benz-c400-ev-drive/)
+
+### BMW i4 Convertible Spotted with Soft Top and Neue Klasse Styling
+
+- Model/program: BMW i4 Convertible Spotted with Soft Top and Neue Klasse Styling
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73287243/2028-bmw-i4-convertible-spy-photos/)
+
+### Dodge's Most Powerful Charger Yet Might Wear Super Bee Stripes
+
+- Model/program: Dodge's Most Powerful Charger Yet Might Wear Super Bee Stripes
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73286572/dodge-charger-sixpack-super-bee-teaser/)
+
+### Toyota's 2027 TRD Pro Lineup Offers Sweet New Honey-Colored Paint
+
+- Model/program: Toyota's 2027 TRD Pro Lineup Offers Sweet New Honey-Colored Paint
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73285208/toyota-2027-trd-pro-lineup-honeycomb-paint/)
+
+### 2026 Honda CR-V EX-L vs. 2026 Mazda CX-5 Premium Plus Comparison Test
+
+- Model/program: 2026 Honda CR-V EX-L vs. 2026 Mazda CX-5 Premium Plus Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a73218206/2026-honda-cr-v-ex-l-vs-2026-mazda-cx-5-premium-plus-comparison-test/)
+
+### View Photos of the 2026 Mazda CX-5 Premium Plus
+
+- Model/program: View Photos of the 2026 Mazda CX-5 Premium Plus
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73172329/2026-mazda-cx-5-premium-plus-test-gallery/)
+
+### View Photos of the 2026 Honda CR-V EX-L
+
+- Model/program: View Photos of the 2026 Honda CR-V EX-L
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73172345/2026-honda-cr-v-ex-l-test-gallery/)
+
+### California Energy Commission Loosens Proposals for Regulating Tires
+
+- Model/program: California Energy Commission Loosens Proposals for Regulating Tires
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73275577/california-tire-rules-proposal-changes/)
+
+### 2029 Dodge Copperhead
+
+- Model/program: 2029 Dodge Copperhead
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/dodge/copperhead)
+
+### 1997 Acura NSX-T Test: A Six-Speed and More Power Make Wishes Come True
+
+- Model/program: 1997 Acura NSX-T Test: A Six-Speed and More Power Make Wishes Come True
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73219091/1997-acura-nsx-t-archive-test/)
+
+### 2029 Dodge Copperhead Is a Hyper-Muscle Car Worth Waiting For
+
+- Model/program: 2029 Dodge Copperhead Is a Hyper-Muscle Car Worth Waiting For
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73274804/2029-dodge-copperhead-future-cars/)
 
 ### Land Rover Discontinues the Discovery Sport After 11 Years
 
