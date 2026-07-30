@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 628 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 646 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -79,6 +79,186 @@ Generated internal notes from 628 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a71938919/2027-audi-a9-sq9-revealed/)
+
+### 2027 Genesis GV60 Magma Gives You 641 HP for Just Under $72,000
+
+- Model/program: 2027 Genesis GV60 Magma Gives You 641 HP for Just Under $72,000
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73299287/2027-genesis-gv60-magma-price/)
+
+### Toyota and Nissan Suspend Production After Earthquake Shakes Japan
+
+- Model/program: Toyota and Nissan Suspend Production After Earthquake Shakes Japan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73297750/toyota-nissan-suspend-production-japan-earthquake/)
+
+### Best Auto Gifts and Gadgets for Car-Loving Moms
+
+- Model/program: Best Auto Gifts and Gadgets for Car-Loving Moms
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g41912156/best-car-gifts-gadgets-mom/)
+
+### How the Audi Q9 Stacks Up to the BMW X7 and Mercedes GLS
+
+- Model/program: How the Audi Q9 Stacks Up to the BMW X7 and Mercedes GLS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73296385/audi-q9-vs-bmw-x7-mercedes-gls-specs-compared/)
+
+### View Interior Photos of the 2028 Mercedes-Benz GLA-Class EV
+
+- Model/program: View Interior Photos of the 2028 Mercedes-Benz GLA-Class EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71283626/2028-mercedes-benz-gla-class-ev-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2028 Mercedes-Benz GLA-Class EV
+
+- Model/program: View Exterior Photos of the 2028 Mercedes-Benz GLA-Class EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71798335/2028-mercedes-benz-gla-class-ev-revealed-exterior-gallery/)
+
+### View Exterior Photos of the 2028 Mercedes-Benz GLA-Class Hybrid
+
+- Model/program: View Exterior Photos of the 2028 Mercedes-Benz GLA-Class Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73257380/2028-mercedes-benz-gla-class-revealed-exterior-gallery/)
+
+### 2028 Mercedes-Benz GLA-Class
+
+- Model/program: 2028 Mercedes-Benz GLA-Class
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-benz/gla-class-2028)
+
+### View Interior Photos of the 2028 Mercedes-Benz GLA-Class
+
+- Model/program: View Interior Photos of the 2028 Mercedes-Benz GLA-Class
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71867553/2028-mercedes-benz-gla-class-revealed-interior-gallery/)
+
+### 2028 Mercedes-Benz GLA Follows the CLA Down Electric Avenue
+
+- Model/program: 2028 Mercedes-Benz GLA Follows the CLA Down Electric Avenue
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a72480837/2028-mercedes-benz-gla-reveal/)
+
+### 2028 Mercedes-Benz GLA-Class EV
+
+- Model/program: 2028 Mercedes-Benz GLA-Class EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-benz/gla-class-ev)
+
+### One-of-One 2027 Bentley Continental GTC Goes All-In on Purple Haze
+
+- Model/program: One-of-One 2027 Bentley Continental GTC Goes All-In on Purple Haze
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73295185/2027-bentley-continental-gtc-one-of-one-revealed/)
+
+### Ford Recalls Explorers and Aviators for Unexpectedly Reclining Seats
+
+- Model/program: Ford Recalls Explorers and Aviators for Unexpectedly Reclining Seats
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73295206/ford-explorer-aviator-reclining-seats-recall/)
+
+### Ram's New Rumble Bee Street Trucks Carry an Attractive Base Price
+
+- Model/program: Ram's New Rumble Bee Street Trucks Carry an Attractive Base Price
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73295353/2027-ram-1500-rumble-bee-srt-pricing/)
+
+### Tested: 2026 Dodge Charger Sixpack R/T Is the Model's Best Hope
+
+- Model/program: Tested: 2026 Dodge Charger Sixpack R/T Is the Model's Best Hope
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73274721/2026-dodge-charger-sixpack-rt-sedan-test/)
+
+### View Exterior Photos of the 2026 Dodge Charger Sixpack R/T
+
+- Model/program: View Exterior Photos of the 2026 Dodge Charger Sixpack R/T
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73275022/2026-dodge-charger-sixpack-rt-sedan-test-exterior-gallery/)
+
+### View Interior Photos of the 2026 Dodge Charger Sixpack R/T
+
+- Model/program: View Interior Photos of the 2026 Dodge Charger Sixpack R/T
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73275028/2026-dodge-charger-sixpack-rt-sedan-test-interior-gallery/)
+
+### We Tried Out Range Rover's Sweet New Electrostatic Stereo Speakers
+
+- Model/program: We Tried Out Range Rover's Sweet New Electrostatic Stereo Speakers
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73276828/range-rover-sv-ultra-electrostatic-speakers/)
 
 ### View Photos of the 2027 Mercedes-Benz C-Class EV
 

@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 890 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 908 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Is A Real Pajero From Mitsubishi. For Real
+
+- Model/program: This Is A Real Pajero From Mitsubishi. For Real
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mitsubishi-flying-pug-auction/)
+
+### GV60 Magna Arrives With 641 HP, But You Can Only Get It In Three States
+
+- Model/program: GV60 Magna Arrives With 641 HP, But You Can Only Get It In Three States
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-genesis-gv60-magma-pricing/)
 
 ### Audi’s Biggest SUV Ever Has The World’s Fanciest Taillights And A Glass Roof Bigger Than Your Bed
 
@@ -29,6 +49,166 @@ Generated internal notes from 890 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/stellantis-selling-free2move/)
+
+### A 77-Year-Old Florida Retiree Found A Way To Beat Flock Cameras Without Touching Them
+
+- Model/program: A 77-Year-Old Florida Retiree Found A Way To Beat Flock Cameras Without Touching Them
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/flock-camera-protest/)
+
+### Audi’s A8 Plant Is On The Chopping Block And Workers Are Furious
+
+- Model/program: Audi’s A8 Plant Is On The Chopping Block And Workers Are Furious
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/audi-neckarsulm-protest/)
+
+### The Rental Giant That Dumped 30,000 EVs Is Now Betting On Self-Driving EVs
+
+- Model/program: The Rental Giant That Dumped 30,000 EVs Is Now Betting On Self-Driving EVs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hertz-oro-mobility-robotaxis/)
+
+### Mercedes Reboots Its Entry-Level Crossover With Hybrid And Electric Power
+
+- Model/program: Mercedes Reboots Its Entry-Level Crossover With Hybrid And Electric Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2028-mercedes-gla-debut/)
+
+### Mini Is Finally Making A Rugged Countryman
+
+- Model/program: Mini Is Finally Making A Rugged Countryman
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mini-countryman-off-road/)
+
+### BMW’s Rumored G-Class Rival Looks Increasingly Unlikely
+
+- Model/program: BMW’s Rumored G-Class Rival Looks Increasingly Unlikely
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-g-class-rival-stalled/)
+
+### A Driver Going Just 17 MPH Over Quickly Racked Up Nearly $5,000 In Fines
+
+- Model/program: A Driver Going Just 17 MPH Over Quickly Racked Up Nearly $5,000 In Fines
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/alberta-unlicensed-driver-charges/)
+
+### Ford Wants To Build The US Army A Super Truck That Charges Drones
+
+- Model/program: Ford Wants To Build The US Army A Super Truck That Charges Drones
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-army-truck-contract/)
+
+### Brabus Built A 1,430-HP Catamaran That Gives You ‘The Sensation Of Flying Above The Water’
+
+- Model/program: Brabus Built A 1,430-HP Catamaran That Gives You ‘The Sensation Of Flying Above The Water’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/brabus-sunreef-ultima-55/)
+
+### BMW Wants To Cut 8,000 Jobs Without Touching A Factory Worker
+
+- Model/program: BMW Wants To Cut 8,000 Jobs Without Touching A Factory Worker
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/bmw-job-cuts/)
+
+### Shaq’s Custom Lucid Air Coupe Crashed With Fewer Than 3,000 Miles On It
+
+- Model/program: Shaq’s Custom Lucid Air Coupe Crashed With Fewer Than 3,000 Miles On It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/shaq-lucid-air-salvage/)
+
+### Mazda’s CEO Confirms Next MX-5 Goes Electric Too, Wants A Halo Sports Car Above It
+
+- Model/program: Mazda’s CEO Confirms Next MX-5 Goes Electric Too, Wants A Halo Sports Car Above It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mazda-mx-5-electric-weight/)
+
+### Toyota’s Most Expensive Corolla Ever Costs $64,360 And Only Fits Two People
+
+- Model/program: Toyota’s Most Expensive Corolla Ever Costs $64,360 And Only Fits Two People
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-grmn-corolla-prices/)
+
+### Ex-Top Gear Host Caught Speeding In A Porsche, Then In A Bentley 20 Days Later
+
+- Model/program: Ex-Top Gear Host Caught Speeding In A Porsche, Then In A Bentley 20 Days Later
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/richard-hammond-speeding-charges/)
+
+### After Less Than A Year, This Lucid Gravity Lost Over $30,000
+
+- Model/program: After Less Than A Year, This Lucid Gravity Lost Over $30,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/after-less-than-a-year-this-lucid-gravity-lost-over-30000/)
+
+### BYD’s Kei EV Has The Lowest Sticker In Japan And The Highest Price On The Road
+
+- Model/program: BYD’s Kei EV Has The Lowest Sticker In Japan And The Highest Price On The Road
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/byd-racco-kei-car/)
 
 ### Mercedes’ New Campervan Adds Headroom And A Window To The Sky
 
