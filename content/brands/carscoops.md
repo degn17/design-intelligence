@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 908 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 926 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A Ferrari Collector Repainted His Porsche Carrera GT In Ferrari Red
+
+- Model/program: A Ferrari Collector Repainted His Porsche Carrera GT In Ferrari Red
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/porsche-carrera-gt-ferrari-red/)
+
+### $299,950 Gets You A Chrysler Crossfire Disguised As A Mercedes Gullwing
+
+- Model/program: $299,950 Gets You A Chrysler Crossfire Disguised As A Mercedes Gullwing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/chrysler-crossfire-mercedes-sl-replica/)
 
 ### This Is A Real Pajero From Mitsubishi. For Real
 
@@ -29,6 +49,166 @@ Generated internal notes from 908 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/2027-genesis-gv60-magma-pricing/)
+
+### Woman Wants $10 Million From Tesla After Crashing During Test Drive, Blames Insane Mode
+
+- Model/program: Woman Wants $10 Million From Tesla After Crashing During Test Drive, Blames Insane Mode
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/tesla-model-y-insane-mode-lawsuit/)
+
+### Ferrari’s New V6 Hypercar Loses Its Roof, Not Its 1,184 Horses
+
+- Model/program: Ferrari’s New V6 Hypercar Loses Its Roof, Not Its 1,184 Horses
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ferrari-f80-aperta-spied/)
+
+### Over 65,000 Evenflo Child Car Seats Recalled Across The US And Canada
+
+- Model/program: Over 65,000 Evenflo Child Car Seats Recalled Across The US And Canada
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/evenflo-reo-recall/)
+
+### BYD Hit 100,000 UK Sales In Three Years, A Third Of Them In Six Months
+
+- Model/program: BYD Hit 100,000 UK Sales In Three Years, A Third Of Them In Six Months
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/byd-100k-uk-sales/)
+
+### Runaway Tire Jumps Highway Median And Wrecks A Nissan SUV On Camera
+
+- Model/program: Runaway Tire Jumps Highway Median And Wrecks A Nissan SUV On Camera
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/runaway-tire-nissan-rogue-crash/)
+
+### Japan’s 2027 Subaru BRZ Gets Something The American One Doesn’t
+
+- Model/program: Japan’s 2027 Subaru BRZ Gets Something The American One Doesn’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/2027-subaru-brz-japan/)
+
+### VW’s 321 HP FWD Golf Destroys The Type R To 60 MPH And Beyond
+
+- Model/program: VW’s 321 HP FWD Golf Destroys The Type R To 60 MPH And Beyond
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/vw-gti-edition-50-performance/)
+
+### The Truck With The Highest Death Rate Is Dangerous To Everyone But Its Own Driver
+
+- Model/program: The Truck With The Highest Death Rate Is Dangerous To Everyone But Its Own Driver
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/iihs-death-rate-study/)
+
+### This 15-Mile Ford Thunderbird Has Been Sitting Since 2002 And Costs Half What It Did New
+
+- Model/program: This 15-Mile Ford Thunderbird Has Been Sitting Since 2002 And Costs Half What It Did New
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-thunderbird-low-mileage-listing/)
+
+### EMT Fired For Disabling Ambulance Cameras She Says Secretly Recorded Patients, Sues
+
+- Model/program: EMT Fired For Disabling Ambulance Cameras She Says Secretly Recorded Patients, Sues
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ambulance-camera-lawsuit/)
+
+### K&N Warns 44,000 Drivers To Park Their Cars Over Fuel Filter That Can Start A Fire
+
+- Model/program: K&N Warns 44,000 Drivers To Park Their Cars Over Fuel Filter That Can Start A Fire
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/kn-fuel-filter-recall/)
+
+### Slate’s $25K EV Truck Adds Themed Starter Packs Without Blowing Past $29K
+
+- Model/program: Slate’s $25K EV Truck Adds Themed Starter Packs Without Blowing Past $29K
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/slate-truck-starter-packs/)
+
+### Nearly 70 Car Brands In Australia Could Be Quietly Sending Drivers’ Data To 12 Countries
+
+- Model/program: Nearly 70 Car Brands In Australia Could Be Quietly Sending Drivers’ Data To 12 Countries
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/connected-car-privacy/)
+
+### The Base 2027 Mercedes GLA Reminds You Of Your Cheapness One Star At A Time
+
+- Model/program: The Base 2027 Mercedes GLA Reminds You Of Your Cheapness One Star At A Time
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/mercedes-gla-2027-base/)
+
+### Turns Out A Lot Of You Are Extending Your Car Loan By At Least Two Years
+
+- Model/program: Turns Out A Lot Of You Are Extending Your Car Loan By At Least Two Years
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/car-loan-term-extension-study/)
+
+### Ferrari’s Most Divisive Car In Years Sold Out Before The Hate Even Cooled Off
+
+- Model/program: Ferrari’s Most Divisive Car In Years Sold Out Before The Hate Even Cooled Off
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ferrari-luce-sold-out/)
 
 ### Audi’s Biggest SUV Ever Has The World’s Fanciest Taillights And A Glass Roof Bigger Than Your Bed
 

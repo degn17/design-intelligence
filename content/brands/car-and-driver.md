@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 646 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 660 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Shelby's F-150 Super Snake Sport Packs 810 HP with a Two-Door Cab
+
+- Model/program: Shelby's F-150 Super Snake Sport Packs 810 HP with a Two-Door Cab
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73309686/2026-shelby-f-150-super-snake-sport-details/)
+
+### Mercedes-Benz Recalls 310K Cars That Could Potentially Roll Away
+
+- Model/program: Mercedes-Benz Recalls 310K Cars That Could Potentially Roll Away
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73309968/mercedes-benz-310k-vehicle-rollaway-risk-recall/)
+
+### View Interior Photos of the 2026 Land Rover Range Rover
+
+- Model/program: View Interior Photos of the 2026 Land Rover Range Rover
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73310174/2026-land-rover-range-rover-interior-gallery/)
+
+### View Exterior Photos of the 2026 Land Rover Range Rover
+
+- Model/program: View Exterior Photos of the 2026 Land Rover Range Rover
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/land-rover/2026-land-rover-range-rover-p400-lwb-exterior-gallery)
+
+### Tested: 1997 Ruf Porsche 993BTR Is a Rolling Showcase
+
+- Model/program: Tested: 1997 Ruf Porsche 993BTR Is a Rolling Showcase
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73273492/1997-ruf-porsche-993btr-archive-test/)
+
+### View Photos of the 1997 Ruf Porsche 993BTR
+
+- Model/program: View Photos of the 1997 Ruf Porsche 993BTR
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71664780/1997-ruf-porsche-993btr-archive-test-gallery/)
+
+### 2027 Mercedes-Benz C-Class EV
+
+- Model/program: 2027 Mercedes-Benz C-Class EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-benz/c-class-ev)
+
+### BMW's X5-Based G-Wagen Competitor Has Reportedly Been Scrapped
+
+- Model/program: BMW's X5-Based G-Wagen Competitor Has Reportedly Been Scrapped
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73307305/bmw-x5-based-off-roader-canceled/)
+
+### 2027 Hyundai Ioniq 6 N
+
+- Model/program: 2027 Hyundai Ioniq 6 N
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/hyundai/ioniq-6-n)
+
+### Toyota's Limited-Run GRMN Corolla Costs Nearly as Much as a BMW M2
+
+- Model/program: Toyota's Limited-Run GRMN Corolla Costs Nearly as Much as a BMW M2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73297543/toyota-grmn-corolla-pricing/)
+
+### View Interior Photos of the 2026 Mercedes-Benz E450
+
+- Model/program: View Interior Photos of the 2026 Mercedes-Benz E450
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73249555/2026-mercedes-benz-e450-long-term-reliability-maintenance-interior-gallery/)
+
+### Our Long-Term 2026 Mercedes-Benz E450 Is a Daily Reminder of What Luxury Feels Like
+
+- Model/program: Our Long-Term 2026 Mercedes-Benz E450 Is a Daily Reminder of What Luxury Feels Like
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71900013/2026-mercedes-benz-e450-long-term-reliability-maintenance/)
+
+### View Exterior Photos of the 2026 Mercedes-Benz E450
+
+- Model/program: View Exterior Photos of the 2026 Mercedes-Benz E450
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73249519/2026-mercedes-benz-e450-long-term-reliability-maintenance-exterior-gallery/)
+
+### Porsche Cayenne Turbo EV Is the Quickest SUV We've Ever Tested
+
+- Model/program: Porsche Cayenne Turbo EV Is the Quickest SUV We've Ever Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73298447/porsche-cayenne-turbo-electric-acceleration-braking-roadholding-record/)
 
 ### 2027 Audi Q9
 
