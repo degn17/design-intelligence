@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 926 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 944 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Somebody Rode This Justin Bieber Vespa 84 Miles, Then Gave Up
+
+- Model/program: Somebody Rode This Justin Bieber Vespa 84 Miles, Then Gave Up
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/justin-bieber-vespa-sprint/)
+
+### BYD’s Defender Clone Costs $22k Less Than The Real Thing And Comes Better Equipped
+
+- Model/program: BYD’s Defender Clone Costs $22k Less Than The Real Thing And Comes Better Equipped
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/byd-ti-7-uk-pricing/)
 
 ### A Ferrari Collector Repainted His Porsche Carrera GT In Ferrari Red
 
@@ -29,6 +49,166 @@ Generated internal notes from 926 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/chrysler-crossfire-mercedes-sl-replica/)
+
+### Deputies Say Toyota Driver Took Out Flock Cameras, But Missed The Ones That Filmed Him
+
+- Model/program: Deputies Say Toyota Driver Took Out Flock Cameras, But Missed The Ones That Filmed Him
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/flock-camera-vandalism-arrest/)
+
+### Toyota Developed A Giant Rolling Sponge To Speed Testing And Development
+
+- Model/program: Toyota Developed A Giant Rolling Sponge To Speed Testing And Development
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-developed-a-giant-rolling-sponge-to-speed-testing-and-development/)
+
+### Ford Recalls Three Years Of Mustang Mach-Es Because The Glue Didn’t Have Time To Dry
+
+- Model/program: Ford Recalls Three Years Of Mustang Mach-Es Because The Glue Didn’t Have Time To Dry
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/ford-mach-e-trim-recall/)
+
+### Cadillac’s Update Makes The Touchscreen Buttons Harder To Miss
+
+- Model/program: Cadillac’s Update Makes The Touchscreen Buttons Harder To Miss
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/gm-infotainment-update/)
+
+### A 6,000-Pound Porsche SUV Is Quicker To 60 Than A 1,064-HP Corvette ZR1
+
+- Model/program: A 6,000-Pound Porsche SUV Is Quicker To 60 Than A 1,064-HP Corvette ZR1
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/porsche-cayenne-electric-performance/)
+
+### Amazon’s Zoox Can Now Charge For Rides In A Car With No Steering Wheel Or Pedals
+
+- Model/program: Amazon’s Zoox Can Now Charge For Rides In A Car With No Steering Wheel Or Pedals
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/zoox-robotaxi-exemption/)
+
+### Dad Of The Year Found Two More Seats On His Porsche Cayman. The Judge Was Not Amused
+
+- Model/program: Dad Of The Year Found Two More Seats On His Porsche Cayman. The Judge Was Not Amused
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/porsche-cayman-kids-stunt/)
+
+### Suzuki’s XL7 Died In America In 2012, Now Its Name Lives On A $15K Overseas 7-Seater
+
+- Model/program: Suzuki’s XL7 Died In America In 2012, Now Its Name Lives On A $15K Overseas 7-Seater
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/suzuki-xl7-facelift/)
+
+### Japan’s Biggest Car Importer Is Now A Japanese Brand
+
+- Model/program: Japan’s Biggest Car Importer Is Now A Japanese Brand
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/japan-reverse-imports/)
+
+### Rivian’s Point-To-Point Autonomous Driving System Arrives Later This Year
+
+- Model/program: Rivian’s Point-To-Point Autonomous Driving System Arrives Later This Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/rivian-point-to-point-autonomous-driving/)
+
+### Mugen’s Tiny Honda Minivan Isn’t Fast, But It’s Furious
+
+- Model/program: Mugen’s Tiny Honda Minivan Isn’t Fast, But It’s Furious
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/honda-n-box-mugen-accessories/)
+
+### This 600-Mile Aston Martin Zagato Sat In Storage Longer Than Some Marriages Last
+
+- Model/program: This 600-Mile Aston Martin Zagato Sat In Storage Longer Than Some Marriages Last
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/aston-martin-vantage-zagato/)
+
+### Doing 137 MPH In A 43 Zone Is How You Donate Your AMG To Police
+
+- Model/program: Doing 137 MPH In A 43 Zone Is How You Donate Your AMG To Police
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/marseille-amg-a45-speeding/)
+
+### Toyota Outsold The Entire VW Group By More Than A Million Cars
+
+- Model/program: Toyota Outsold The Entire VW Group By More Than A Million Cars
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/toyota-2026-global-sales/)
+
+### Hyundai’s New Electric Minivan Is Really Just A Kia
+
+- Model/program: Hyundai’s New Electric Minivan Is Really Just A Kia
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/hyundai-neira-rebadged-kia/)
+
+### Florida Wants To Spend $197 Million Of EV Charger Money On Flying-Car Pads Near Golf Courses
+
+- Model/program: Florida Wants To Spend $197 Million Of EV Charger Money On Flying-Car Pads Near Golf Courses
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/07/florida-nevi-flying-cars/)
 
 ### This Is A Real Pajero From Mitsubishi. For Real
 

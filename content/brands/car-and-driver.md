@@ -2,13 +2,163 @@
 
 ## Current positioning
 
-Generated internal notes from 660 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 675 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Porsche Macan Electric
+
+- Model/program: 2027 Porsche Macan Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/porsche/macan-ev-2027)
+
+### Genesis Confirms That the Upcoming GV90 Will Have Coach Doors
+
+- Model/program: Genesis Confirms That the Upcoming GV90 Will Have Coach Doors
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73320718/genesis-gv90-coach-doors-confirmed/)
+
+### View Exterior Photos of the 2026 Rivian R2
+
+- Model/program: View Exterior Photos of the 2026 Rivian R2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73308547/2027-rivian-r2-performance-awd-launch-edition-test-exterior-gallery/)
+
+### Tested: 2027 Rivian R2 Brings All-Terrain EV Capability to the Masses
+
+- Model/program: Tested: 2027 Rivian R2 Brings All-Terrain EV Capability to the Masses
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73308571/2027-rivian-r2-performance-awd-launch-edition-test/)
+
+### Wild Horses: Roush Mustang vs. P-51 Mustang Fighter Plane
+
+- Model/program: Wild Horses: Roush Mustang vs. P-51 Mustang Fighter Plane
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a70000297/1999-roush-ford-mustang-stage-3-vs-p-51d-mustang-fighter-plane-archive-comparison-test/)
+
+### View Interior Photos of the 2026 Rivian R2
+
+- Model/program: View Interior Photos of the 2026 Rivian R2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73308566/2027-rivian-r2-performance-awd-launch-edition-test-interior-gallery/)
+
+### Ram Recalling 1.2 Million 1500 Pickups Over Seatbelt Buckle Issue
+
+- Model/program: Ram Recalling 1.2 Million 1500 Pickups Over Seatbelt Buckle Issue
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73319471/ram-1500-seatbelt-buckle-one-million-truck-recall/)
+
+### Californians Are Buying More Hybrids Than EVs This Year
+
+- Model/program: Californians Are Buying More Hybrids Than EVs This Year
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73317897/california-registrations-hybrids-evs-2026/)
+
+### 2027 Ford E-Transit
+
+- Model/program: 2027 Ford E-Transit
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ford/e-transit-2027)
+
+### Ford CEO Warns That Arrival of Chinese Automakers Is Coming Soon
+
+- Model/program: Ford CEO Warns That Arrival of Chinese Automakers Is Coming Soon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73317556/ford-ceo-chinese-automaker-arrival-warning/)
+
+### Which Jeep Grand Cherokee Trim Level is Best For You?
+
+- Model/program: Which Jeep Grand Cherokee Trim Level is Best For You?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73274987/jeep-grand-cherokee-trim-level-what-to-buy/)
+
+### Which Version of the Toyota 4Runner Gets You the Most for Your Money?
+
+- Model/program: Which Version of the Toyota 4Runner Gets You the Most for Your Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73275294/toyota-4runner-trim-level-what-to-buy/)
+
+### Which Version of the Toyota Corolla Gets You the Most for Your Money?
+
+- Model/program: Which Version of the Toyota Corolla Gets You the Most for Your Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73275190/toyota-corolla-trim-level-what-to-buy/)
+
+### We Drive the Slate Pickup, an EV for the New Austerity Era
+
+- Model/program: We Drive the Slate Pickup, an EV for the New Austerity Era
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73296422/2027-slate-ev-truck-prototype-drive/)
+
+### View Photos of the 2027 Slate Truck Prototype
+
+- Model/program: View Photos of the 2027 Slate Truck Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73310495/2027-slate-truck-prototype-drive-gallery/)
 
 ### Shelby's F-150 Super Snake Sport Packs 810 HP with a Two-Door Cab
 
