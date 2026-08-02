@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 675 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 680 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Photos of the Roush Mustang vs P-51 Mustang Fighter Plane
+
+- Model/program: View Photos of the Roush Mustang vs P-51 Mustang Fighter Plane
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73318096/1999-roush-ford-mustang-stage-3-vs-p-51d-mustang-fighter-plane-archive-comparison-test-gallery/)
+
+### 2001 Roush Stage 3 Mustang Test: Cobra Killer
+
+- Model/program: 2001 Roush Stage 3 Mustang Test: Cobra Killer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73274589/2001-roush-stage-3-mustang-test/)
+
+### View Photos of the 2001 Roush Stage 3 Mustang
+
+- Model/program: View Photos of the 2001 Roush Stage 3 Mustang
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73318383/2001-roush-stage-3-mustang-archive-test-gallery/)
+
+### 2008 Mercedes-Benz SLR McLaren Roadster on Bring a Trailer
+
+- Model/program: 2008 Mercedes-Benz SLR McLaren Roadster on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73316676/2008-mercedes-benz-slr-mclaren-roadster-bring-a-trailer-auction/)
+
+### This Chinese Electric Sports Car Has Nearly 430 HP and Costs About $34K
+
+- Model/program: This Chinese Electric Sports Car Has Nearly 430 HP and Costs About $34K
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73319680/sscc-sc01-electric-sports-car/)
 
 ### 2027 Porsche Macan Electric
 

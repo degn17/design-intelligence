@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 944 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 953 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### VW Built A Ranger-Based Sports Truck That Costs More Than The Ranger Raptor
+
+- Model/program: VW Built A Ranger-Based Sports Truck That Costs More Than The Ranger Raptor
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/vw-amarok-w600-pricing/)
 
 ### Somebody Rode This Justin Bieber Vespa 84 Miles, Then Gave Up
 
@@ -29,6 +39,86 @@ Generated internal notes from 944 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/07/byd-ti-7-uk-pricing/)
+
+### 1.5 Million Ram Trucks Recalled Because Their Seat Belts Might Let Loose When You Do
+
+- Model/program: 1.5 Million Ram Trucks Recalled Because Their Seat Belts Might Let Loose When You Do
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ram-1500-seat-belt-recall/)
+
+### This City’s AI License Plate Cameras Were Wrong 7 Out Of 10 Times
+
+- Model/program: This City’s AI License Plate Cameras Were Wrong 7 Out Of 10 Times
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/roseville-flock-camera-misreads/)
+
+### This Honda Kei Van Needs A Lifetime And All Five Gears Just To Hit 60 MPH
+
+- Model/program: This Honda Kei Van Needs A Lifetime And All Five Gears Just To Hit 60 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-acty-0-60/)
+
+### Chevy’s Camaro Has Always Had Two Doors. Its Revival Might Have Four
+
+- Model/program: Chevy’s Camaro Has Always Had Two Doors. Its Revival Might Have Four
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chevrolet-camaro-sedan-revival-2/)
+
+### Millennials Grew Up Mocking Minivans, Now They Can’t Buy Them Fast Enough
+
+- Model/program: Millennials Grew Up Mocking Minivans, Now They Can’t Buy Them Fast Enough
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/millennials-minivan-resurgence/)
+
+### A Battery On Wheels Turns A Diesel Semi Electric Without Touching The Engine
+
+- Model/program: A Battery On Wheels Turns A Diesel Semi Electric Without Touching The Engine
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/revoy-electric-trailer-dolly/)
+
+### Someone Lifted A Nissan GT-R, Bolted A Spare To The Roof, And Called It An Off-Roader
+
+- Model/program: Someone Lifted A Nissan GT-R, Bolted A Spare To The Roof, And Called It An Off-Roader
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/nissan-gt-r-off-road-build/)
+
+### Ferrari’s Hardcore 12Cilindri May Get Three Pedals And 850 Horses
+
+- Model/program: Ferrari’s Hardcore 12Cilindri May Get Three Pedals And 850 Horses
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ferrari-12cilindri-hardcore/)
 
 ### A Ferrari Collector Repainted His Porsche Carrera GT In Ferrari Red
 
