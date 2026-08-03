@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 953 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 962 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ferrari F80 Convertible Spied Wearing A Cap To Hide Its Roof
+
+- Model/program: Ferrari F80 Convertible Spied Wearing A Cap To Hide Its Roof
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ferrari-f80-aperta-spy-shots/)
 
 ### VW Built A Ranger-Based Sports Truck That Costs More Than The Ranger Raptor
 
@@ -19,6 +29,86 @@ Generated internal notes from 953 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/vw-amarok-w600-pricing/)
+
+### This Prelude Convertible Render Answers A Question Honda Never Asked
+
+- Model/program: This Prelude Convertible Render Answers A Question Honda Never Asked
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-prelude-convertible-rendering/)
+
+### Excessively Long Toyota Corolla Test Drive Ended In Excessive Speeding And A Flatbed
+
+- Model/program: Excessively Long Toyota Corolla Test Drive Ended In Excessive Speeding And A Flatbed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/test-drive-speeding-impound/)
+
+### Mercedes Admits It Went Too Far Killing Buttons, But Don’t Expect Fewer Screens
+
+- Model/program: Mercedes Admits It Went Too Far Killing Buttons, But Don’t Expect Fewer Screens
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mercedes-physical-buttons-return-2/)
+
+### Audi Is Eyeing More Wagons For America Beyond The RS6 Avant
+
+- Model/program: Audi Is Eyeing More Wagons For America Beyond The RS6 Avant
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/audi-wagons-us-market/)
+
+### America’s Last Manual V8 Sedan Is A 668-HP Cadillac, And You’re Almost Out Of Time
+
+- Model/program: America’s Last Manual V8 Sedan Is A 668-HP Cadillac, And You’re Almost Out Of Time
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/cadillac-ct5-v-blackwing-manual/)
+
+### Chrysler Rejected This Lamborghini Design, So It Came Back With 16 Cylinders And 4 Pop-Up Lights
+
+- Model/program: Chrysler Rejected This Lamborghini Design, So It Came Back With 16 Cylinders And 4 Pop-Up Lights
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/cizeta-moroder-v16t-auction/)
+
+### Nissan’s New Electric Camper Pulls A Trick No ICE Van Can
+
+- Model/program: Nissan’s New Electric Camper Pulls A Trick No ICE Van Can
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/nissan-interstar-e-camper/)
+
+### Renault Shipped 100 Frog-Eyed Twingos To The UK Purely So You Can Stare At Them
+
+- Model/program: Renault Shipped 100 Frog-Eyed Twingos To The UK Purely So You Can Stare At Them
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/renault-twingo-uk-showrooms/)
 
 ### Somebody Rode This Justin Bieber Vespa 84 Miles, Then Gave Up
 

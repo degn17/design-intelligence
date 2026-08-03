@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 680 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 682 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 1977 BMW 320i with Just 9000 Miles For Sale on Bring a Trailer
+
+- Model/program: 1977 BMW 320i with Just 9000 Miles For Sale on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73317780/1977-bmw-320i-bring-a-trailer-auction/)
+
+### This Could Be the Most Expensive McLaren F1 of All Time
+
+- Model/program: This Could Be the Most Expensive McLaren F1 of All Time
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73319227/mclaren-f1-most-expensive-auction/)
 
 ### View Photos of the Roush Mustang vs P-51 Mustang Fighter Plane
 
