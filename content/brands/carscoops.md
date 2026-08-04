@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 962 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 980 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Over 150 Complaints Of Teslas Losing Front Suspension Just Put 1.2 Million Under Probe
+
+- Model/program: Over 150 Complaints Of Teslas Losing Front Suspension Just Put 1.2 Million Under Probe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/tesla-suspension-investigation/)
+
+### Honda Hybrid Sales Hit New Record As Gas Tops $4 Per Gallon
+
+- Model/program: Honda Hybrid Sales Hit New Record As Gas Tops $4 Per Gallon
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-acura-sales-july-2026/)
 
 ### Ferrari F80 Convertible Spied Wearing A Cap To Hide Its Roof
 
@@ -19,6 +39,166 @@ Generated internal notes from 962 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/ferrari-f80-aperta-spy-shots/)
+
+### 100 Cars Blocked Florida Interstate For Burnouts, Then One BMW Did Something Even Dumber
+
+- Model/program: 100 Cars Blocked Florida Interstate For Burnouts, Then One BMW Did Something Even Dumber
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/i75-street-takeover-bmw-chase/)
+
+### The 2028 BMW M3 EV Lacks Exhaust, But Not Power
+
+- Model/program: The 2028 BMW M3 EV Lacks Exhaust, But Not Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2028-bmw-m3-ev-spied/)
+
+### Toyota’s Venza Never Really Died, It Just Moved To Japan And Still Gets Updates
+
+- Model/program: Toyota’s Venza Never Really Died, It Just Moved To Japan And Still Gets Updates
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-harrier-2027-update/)
+
+### Grandpa’s Blown 1974 Honda CB500 Came Back As A Sneaky Electric Bike
+
+- Model/program: Grandpa’s Blown 1974 Honda CB500 Came Back As A Sneaky Electric Bike
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/beachman-honda-cb500-electric/)
+
+### Toyota Recalls Over 4,000 Airbags That Were Never In Its Trucks To Begin With
+
+- Model/program: Toyota Recalls Over 4,000 Airbags That Were Never In Its Trucks To Begin With
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-tacoma-tundra-airbag-recall/)
+
+### New Volvo EX50 Could Be Better, Bigger And Cheaper Than The SUV It Replaces
+
+- Model/program: New Volvo EX50 Could Be Better, Bigger And Cheaper Than The SUV It Replaces
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2028-volvo-ex50/)
+
+### Novitec’s Ferrari 12Cilindri Spider Is Here To Treat Your Manuale Blues
+
+- Model/program: Novitec’s Ferrari 12Cilindri Spider Is Here To Treat Your Manuale Blues
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/novitec-ferrari-12cilindri-spider/)
+
+### Ford Killed Off Its Affordable Cars To Become the ‘Porsche Of Off-Road’
+
+- Model/program: Ford Killed Off Its Affordable Cars To Become the ‘Porsche Of Off-Road’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-affordable-cars-strategy/)
+
+### Jeep Reportedly Wants Another Compass That Could Phone China For Its Electric Tech
+
+- Model/program: Jeep Reportedly Wants Another Compass That Could Phone China For Its Electric Tech
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jeep-compass-south-america/)
+
+### Hyundai’s Gas Elantra Is On Fire As EVs Slide
+
+- Model/program: Hyundai’s Gas Elantra Is On Fire As EVs Slide
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-july-sales-elantra/)
+
+### Nine Cars Have Crashed Into This Maryland Woman’s Front Yard In Two Years
+
+- Model/program: Nine Cars Have Crashed Into This Maryland Woman’s Front Yard In Two Years
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/catonsville-yard-crashes/)
+
+### Genesis Is Really Putting Rolls-Royce Coach Doors On Its New Flagship
+
+- Model/program: Genesis Is Really Putting Rolls-Royce Coach Doors On Its New Flagship
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/genesis-gv90-coach-doors/)
+
+### Sixty Years After The Miura, Lamborghini Puts Its Name On A Hybrid V12
+
+- Model/program: Sixty Years After The Miura, Lamborghini Puts Its Name On A Hybrid V12
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lamborghini-revuelto-miura-60-homage/)
+
+### VW Employs 60% More People Than Toyota To Build Fewer Cars
+
+- Model/program: VW Employs 60% More People Than Toyota To Build Fewer Cars
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/volkswagen-toyota-workforce/)
+
+### Lotus Says Its $233K Electric SUV No Longer Makes Sense To Sell In America
+
+- Model/program: Lotus Says Its $233K Electric SUV No Longer Makes Sense To Sell In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lotus-eletre-us-tariffs/)
+
+### Hennessey’s $2.5M Blackbird Has A Gated Manual, A Physical Key, And Zero Turbos
+
+- Model/program: Hennessey’s $2.5M Blackbird Has A Gated Manual, A Physical Key, And Zero Turbos
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hennessey-blackbird-hypercar/)
 
 ### VW Built A Ranger-Based Sports Truck That Costs More Than The Ranger Raptor
 

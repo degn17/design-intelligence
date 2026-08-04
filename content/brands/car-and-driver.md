@@ -2,13 +2,183 @@
 
 ## Current positioning
 
-Generated internal notes from 682 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 699 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The 2027 Polaris RZR Pro R Boost Is the Most Powerful Side-by-Side
+
+- Model/program: The 2027 Polaris RZR Pro R Boost Is the Most Powerful Side-by-Side
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73337414/2027-polaris-rzr-pro-r-boost-details/)
+
+### 2027 Genesis GV60 / GV60 Magma
+
+- Model/program: 2027 Genesis GV60 / GV60 Magma
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/genesis/gv60-2027)
+
+### Limited Edition Lamborghini Revuelto Celebrates the Iconic Miura
+
+- Model/program: Limited Edition Lamborghini Revuelto Celebrates the Iconic Miura
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73336220/lamborghini-revuelto-miura-60-homage-details/)
+
+### Hyundai, Kia, and Genesis All Achieved Record Sales in July
+
+- Model/program: Hyundai, Kia, and Genesis All Achieved Record Sales in July
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73337003/hyundai-kia-genesis-record-sales-july-2026/)
+
+### View Photos of the 2001 Hartge H50 V-8 E46
+
+- Model/program: View Photos of the 2001 Hartge H50 V-8 E46
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73319503/2001-hartge-h50-v-8-e46-archive-gallery/)
+
+### From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series
+
+- Model/program: From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/)
+
+### Can Tesla's Long-Wheelbase Model Y L Reinvent the Station Wagon?
+
+- Model/program: Can Tesla's Long-Wheelbase Model Y L Reinvent the Station Wagon?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73332713/2027-tesla-model-y-l-launch-drive/)
+
+### View Interior Photos of the 2027 Tesla Model Y L
+
+- Model/program: View Interior Photos of the 2027 Tesla Model Y L
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73334711/2027-tesla-model-y-l-launch-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Tesla Model Y L Launch
+
+- Model/program: View Exterior Photos of the 2027 Tesla Model Y L Launch
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73334627/2027-tesla-model-y-l-launch-drive-exterior-gallery/)
+
+### 2027 Toyota Tundra Hybrid
+
+- Model/program: 2027 Toyota Tundra Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/tundra-hybrid-2027)
+
+### View Interior Photos of the 2027 Toyota Tundra Hybrid TRD Pro
+
+- Model/program: View Interior Photos of the 2027 Toyota Tundra Hybrid TRD Pro
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73335068/2027-toyota-tundra-hybrid-trd-pro-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 Toyota Tundra Hybrid TRD Pro
+
+- Model/program: View Exterior Photos of the 2027 Toyota Tundra Hybrid TRD Pro
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73334908/2027-toyota-tundra-hybrid-trd-pro-revealed-exterior-gallery/)
+
+### The Volvo EX40 Will Get Replaced by a Longer, Taller SUV in 2027
+
+- Model/program: The Volvo EX40 Will Get Replaced by a Longer, Taller SUV in 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73333509/volvo-ex50-2027-rumor-report/)
+
+### The Hennessey Blackbird Goes Old School with a Six-Speed Gated Manual
+
+- Model/program: The Hennessey Blackbird Goes Old School with a Six-Speed Gated Manual
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73334521/hennessey-blackbird-revealed/)
+
+### View Interior Photos of the 2026 Porsche 911 GT3
+
+- Model/program: View Interior Photos of the 2026 Porsche 911 GT3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73276301/2026-porsche-911-gt3-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Porsche 911 GT3
+
+- Model/program: View Exterior Photos of the 2026 Porsche 911 GT3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73276288/2026-porsche-911-gt3-test-exterior-gallery/)
+
+### Attack of the Killer Gees: Porsche 911 GT3 vs. Mercedes-AMG GT63 Pro
+
+- Model/program: Attack of the Killer Gees: Porsche 911 GT3 vs. Mercedes-AMG GT63 Pro
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a73246396/2025-porsche-911-gt3-vs-mercedes-amg-gt63-pro-comparison-test/)
 
 ### 1977 BMW 320i with Just 9000 Miles For Sale on Bring a Trailer
 
