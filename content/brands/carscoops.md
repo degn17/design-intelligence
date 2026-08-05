@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 980 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 998 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Off-Duty Cop Got Rear-Ended, Now He’s The One Facing Charges
+
+- Model/program: Off-Duty Cop Got Rear-Ended, Now He’s The One Facing Charges
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/albuquerque-officer-indicted/)
+
+### Mercedes-AMG’s Latest EV Is Already Breaking Lap Records
+
+- Model/program: Mercedes-AMG’s Latest EV Is Already Breaking Lap Records
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mercedes-amg-cla-45-ev-lap-record/)
 
 ### Over 150 Complaints Of Teslas Losing Front Suspension Just Put 1.2 Million Under Probe
 
@@ -29,6 +49,166 @@ Generated internal notes from 980 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/honda-acura-sales-july-2026/)
+
+### Ram Confirms The Hemi V8’s Mild-Hybrid Days Are Numbered
+
+- Model/program: Ram Confirms The Hemi V8’s Mild-Hybrid Days Are Numbered
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ram-hemi-etorque-discontinued/)
+
+### Smart Is Dropping #2s In Cities Worldwide To Tease Its New EV
+
+- Model/program: Smart Is Dropping #2s In Cities Worldwide To Tease Its New EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/smart-2-design-revealed/)
+
+### GM Just Launched Google’s Gemini In Its Cars, Now It’s Building Its Own AI
+
+- Model/program: GM Just Launched Google’s Gemini In Its Cars, Now It’s Building Its Own AI
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gm-in-car-ai-assistant/)
+
+### The A2 e-tron Is Audi’s Most Efficient Car Ever
+
+- Model/program: The A2 e-tron Is Audi’s Most Efficient Car Ever
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/audi-a2-e-tron-inital-specs/)
+
+### Musk Called Lidar A Fool’s Errand, Waymo’s CEO Says Good Luck Without It
+
+- Model/program: Musk Called Lidar A Fool’s Errand, Waymo’s CEO Says Good Luck Without It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/waymo-camera-only-self-driving/)
+
+### You Can Now Supercharge Ram’s Rumble Bee Past 900 HP Without Voiding The Warranty
+
+- Model/program: You Can Now Supercharge Ram’s Rumble Bee Past 900 HP Without Voiding The Warranty
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ram-rumble-bee-direct-connection/)
+
+### A Soldier Proved Her Deployment. The Dealer Still Came After Her Car
+
+- Model/program: A Soldier Proved Her Deployment. The Dealer Still Came After Her Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/servicemember-repossession-settlement/)
+
+### Honda’s Prelude Outsold Subaru’s BRZ By Nearly 300 Cars This Year
+
+- Model/program: Honda’s Prelude Outsold Subaru’s BRZ By Nearly 300 Cars This Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-prelude-brz-sales/)
+
+### Audi Gives Its Biggest SUV Level 2 Hands-Free Driving, Years After Quitting Level 3
+
+- Model/program: Audi Gives Its Biggest SUV Level 2 Hands-Free Driving, Years After Quitting Level 3
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/audi-hands-free-driving-system/)
+
+### McMurtry’s $1.3 Million Fan Car Debuts At Monterey With 1,000 HP And 3G Of Grip
+
+- Model/program: McMurtry’s $1.3 Million Fan Car Debuts At Monterey With 1,000 HP And 3G Of Grip
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mcmurtry-speirling-pure/)
+
+### Subaru Sold Three Times As Many WRXs This July As Last
+
+- Model/program: Subaru Sold Three Times As Many WRXs This July As Last
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/subaru-wrx-sales-pricing/)
+
+### A Pagani’s Bolts Alone Cost More Than A New Porsche 911
+
+- Model/program: A Pagani’s Bolts Alone Cost More Than A New Porsche 911
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/pagani-titanium-bolts-cost/)
+
+### 2027 Hyundai Tucson Prototype Literally Blew Its Tires Off During Testing
+
+- Model/program: 2027 Hyundai Tucson Prototype Literally Blew Its Tires Off During Testing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-tucson-test-2027/)
+
+### Toyota’s GR GT Supercar Could Lose Its Roof And Revive A ’90s Name
+
+- Model/program: Toyota’s GR GT Supercar Could Lose Its Roof And Revive A ’90s Name
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-gr-gt-convertible/)
+
+### Ford’s Little 1.0L Engine Is Killing Itself With Its Own Timing Belt
+
+- Model/program: Ford’s Little 1.0L Engine Is Killing Itself With Its Own Timing Belt
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-ecoboost-timing-belt-probe/)
+
+### Nissan Says Its New Minivan Has Noise-Cancellation Tech No Other Car Does Yet
+
+- Model/program: Nissan Says Its New Minivan Has Noise-Cancellation Tech No Other Car Does Yet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/nissan-elgrand-noise-cancellation/)
 
 ### Ferrari F80 Convertible Spied Wearing A Cap To Hide Its Roof
 

@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 699 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 710 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Lucid Reveals New Cosmos Images, Says Sportier Gravity Coming Soon
+
+- Model/program: Lucid Reveals New Cosmos Images, Says Sportier Gravity Coming Soon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73348862/lucid-cosmos-teaser-performance-gravity/)
+
+### Ram Axes Hybrid Hemis and Stop-Start Tech in New 1500 Models
+
+- Model/program: Ram Axes Hybrid Hemis and Stop-Start Tech in New 1500 Models
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73346716/2027-ram-1500-ditches-hybrid-v8-auto-stop-start/)
+
+### Ram's Rumble Bee Supercharger Kit Gives the Street Truck up to 900 HP
+
+- Model/program: Ram's Rumble Bee Supercharger Kit Gives the Street Truck up to 900 HP
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73347292/2027-ram-1500-rumble-bee-direct-connection-supercharger-kit/)
+
+### View Exterior Photos of the 2026 Lexus RX350h F Sport
+
+- Model/program: View Exterior Photos of the 2026 Lexus RX350h F Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73308152/2026-lexus-rx-350h-hybrid-f-sport-test-exterior-gallery/)
+
+### View Interior Photos of the 2026 Lexus RX350h F Sport
+
+- Model/program: View Interior Photos of the 2026 Lexus RX350h F Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73308162/2026-lexus-rx-350h-hybrid-f-sport-test-interior-gallery/)
+
+### Tested: 2026 Lexus RX350h Takes It Easy
+
+- Model/program: Tested: 2026 Lexus RX350h Takes It Easy
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73298183/2026-lexus-rx-350h-hybrid-f-sport-test/)
+
+### The Man Who Penned the Juke Named Nissan's Global Design Chief
+
+- Model/program: The Man Who Penned the Juke Named Nissan's Global Design Chief
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73345594/nissan-new-global-design-chief-albaisa-weaver/)
+
+### Smart Reveals Its New Tiny Two-Seater Through Hand-Painted Murals
+
+- Model/program: Smart Reveals Its New Tiny Two-Seater Through Hand-Painted Murals
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73344083/smart-2-design-revealed-murals/)
+
+### 2027 Kia Telluride X-Pro Test: Future-Proofed
+
+- Model/program: 2027 Kia Telluride X-Pro Test: Future-Proofed
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73297467/2027-kia-telluride-x-pro-test/)
+
+### View Interior Photos of the 2027 Kia Telluride X-Pro
+
+- Model/program: View Interior Photos of the 2027 Kia Telluride X-Pro
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73295456/2027-kia-telluride-x-pro-sx-prestige-test-interior-gallery/)
+
+### View Exterior Photos of the 2027 Kia Telluride X-Pro
+
+- Model/program: View Exterior Photos of the 2027 Kia Telluride X-Pro
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73295415/2027-kia-telluride-x-pro-sx-prestige-test-exterior-gallery/)
 
 ### The 2027 Polaris RZR Pro R Boost Is the Most Powerful Side-by-Side
 
