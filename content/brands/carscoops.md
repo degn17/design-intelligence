@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 998 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1016 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Stolen MX-5 Dodged Spikes And Tactical Land Cruisers For An Hour Before Physics Won
+
+- Model/program: Stolen MX-5 Dodged Spikes And Tactical Land Cruisers For An Hour Before Physics Won
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/sydney-stolen-mx5-police-chase/)
+
+### Audi CEO Confirms New Q8, Might Be A Ways Off
+
+- Model/program: Audi CEO Confirms New Q8, Might Be A Ways Off
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/audi-ceo-confirms-new-q8/)
 
 ### Off-Duty Cop Got Rear-Ended, Now He’s The One Facing Charges
 
@@ -29,6 +49,166 @@ Generated internal notes from 998 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/mercedes-amg-cla-45-ev-lap-record/)
+
+### Ford’s Leaked 2027 Order Guide Appears To Kill The F-150’s Base Engine
+
+- Model/program: Ford’s Leaked 2027 Order Guide Appears To Kill The F-150’s Base Engine
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-f-150-2027-refresh/)
+
+### $25k Gets You A RWD Buick With 378 HP In China
+
+- Model/program: $25k Gets You A RWD Buick With 378 HP In China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/buick-electra-l7-ev-2/)
+
+### America’s New 700-HP Supercar Is British And Weighs Less Than A Miata
+
+- Model/program: America’s New 700-HP Supercar Is British And Weighs Less Than A Miata
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/peregryn-ultima-gtr/)
+
+### Rezvani’s 1,560-HP Beast X Looks Like A Corvette That Got Way Out Of Hand
+
+- Model/program: Rezvani’s 1,560-HP Beast X Looks Like A Corvette That Got Way Out Of Hand
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/rezvani-beast-x-2027/)
+
+### Audi’s Q9 Had Electric Door Handles. Its CEO Killed Them After One Test Drive
+
+- Model/program: Audi’s Q9 Had Electric Door Handles. Its CEO Killed Them After One Test Drive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/audi-q9-door-handles/)
+
+### Ford’s Terrified Of Chinese Automakers, But GM Just Inked A 20-Year Deal With One
+
+- Model/program: Ford’s Terrified Of Chinese Automakers, But GM Just Inked A 20-Year Deal With One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gm-saic-extension/)
+
+### Maserati Realized Nobody Wants Quiet Supercars, Now It Wants The V8 Back
+
+- Model/program: Maserati Realized Nobody Wants Quiet Supercars, Now It Wants The V8 Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/maserati-v8-manual-return/)
+
+### Chinese Cars Got Cheap, So Toyota’s Are Getting More Expensive
+
+- Model/program: Chinese Cars Got Cheap, So Toyota’s Are Getting More Expensive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-rav4-china-pricing/)
+
+### Golf R Power In An SUV Sounds Great Even If America Won’t Get One
+
+- Model/program: Golf R Power In An SUV Sounds Great Even If America Won’t Get One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/vw-tiguan-r-spied/)
+
+### GM’s Big CarPlay And Android Auto Funeral Keeps Getting Postponed
+
+- Model/program: GM’s Big CarPlay And Android Auto Funeral Keeps Getting Postponed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gm-carplay-android-auto/)
+
+### This BMW M4 Pickup Sold For More Than A Brand New M4 Competition
+
+- Model/program: This BMW M4 Pickup Sold For More Than A Brand New M4 Competition
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-m4-maloo-pickup-auction/)
+
+### Tesla Co-Founder’s Mini EV Truck Out-Tows A Standard Cybertruck
+
+- Model/program: Tesla Co-Founder’s Mini EV Truck Out-Tows A Standard Cybertruck
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/telo-mt1-towing/)
+
+### Nissan’s $22K NX8 Is Getting A Cheaper Rogue-Sized Baby Brother In China
+
+- Model/program: Nissan’s $22K NX8 Is Getting A Cheaper Rogue-Sized Baby Brother In China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/nissan-nx7-electric-suv/)
+
+### The Battery That Made Toyota’s Hybrids Famous Is On Its Way Out
+
+- Model/program: The Battery That Made Toyota’s Hybrids Famous Is On Its Way Out
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyotas-hybrids-will-finally-get-modern-lithium-ion-tech/)
+
+### Mitsubishi Is Coming For The RAV4 With A Compact Pajero
+
+- Model/program: Mitsubishi Is Coming For The RAV4 With A Compact Pajero
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-pajeros-baby-brothers-include-a-rav4-rival-and-tiny-kei-suv/)
+
+### The Mustang Mach-E Has Lost Half Its Sales This Year
+
+- Model/program: The Mustang Mach-E Has Lost Half Its Sales This Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/fords-ev-sales-fell-off-a-cliff-last-month/)
 
 ### Over 150 Complaints Of Teslas Losing Front Suspension Just Put 1.2 Million Under Probe
 

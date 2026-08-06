@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 710 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 723 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Vote for This Awesome Colin McRae Subaru Rally Lego Set
+
+- Model/program: Vote for This Awesome Colin McRae Subaru Rally Lego Set
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73359427/colin-mcrae-subaru-impreza-555-wrc-lego-fen-design/)
+
+### Heated Seats Are Way More Popular Than AWD Among New-Car Shoppers
+
+- Model/program: Heated Seats Are Way More Popular Than AWD Among New-Car Shoppers
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73358226/heated-seats-top-new-car-buyers-lists-survey/)
+
+### 2026 Lexus RX Hybrid
+
+- Model/program: 2026 Lexus RX Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/rx-hybrid)
+
+### Which Lexus GX Trim Level Provides the Best Value for Money?
+
+- Model/program: Which Lexus GX Trim Level Provides the Best Value for Money?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73357323/lexus-gx-trim-level-what-to-buy/)
+
+### 2027 Toyota Crown
+
+- Model/program: 2027 Toyota Crown
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/crown-2027)
+
+### View Photos of the 2027 Toyota Crown
+
+- Model/program: View Photos of the 2027 Toyota Crown
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73357094/2027-toyota-crown-gallery/)
+
+### You're Never Too Old to Drive a 200-mph Rocket Go-Kart
+
+- Model/program: You're Never Too Old to Drive a 200-mph Rocket Go-Kart
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73301074/200-mph-rocket-go-kart-captain-jack/)
+
+### Porsche Promises the 718 EV Sports Car Is Actually Still Coming
+
+- Model/program: Porsche Promises the 718 EV Sports Car Is Actually Still Coming
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73356806/porsche-promises-718-ev-is-still-coming/)
+
+### 2027 Lamborghini Revuelto
+
+- Model/program: 2027 Lamborghini Revuelto
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lamborghini/revuelto-2027)
+
+### A Next-Generation Audi Q8 Is Coming, but It's a Few Years Away
+
+- Model/program: A Next-Generation Audi Q8 Is Coming, but It's a Few Years Away
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73355155/audi-q8-next-generation-confirmed-years-away/)
+
+### 2027 Ferrari Amalfi Spider Driven: Turn On, Tune In, Drop Top
+
+- Model/program: 2027 Ferrari Amalfi Spider Driven: Turn On, Tune In, Drop Top
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73335109/2027-ferrari-amalfi-spider-drive/)
+
+### View Exterior Photos of the 2027 Ferrari Amalfi Spider
+
+- Model/program: View Exterior Photos of the 2027 Ferrari Amalfi Spider
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73345673/2027-ferrari-amalfi-spider-drive-exterior-gallery/)
+
+### View Interior Photos of the 2027 Ferrari Amalfi Spider
+
+- Model/program: View Interior Photos of the 2027 Ferrari Amalfi Spider
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73345714/2027-ferrari-amalfi-spider-drive-interior-gallery/)
 
 ### Lucid Reveals New Cosmos Images, Says Sportier Gravity Coming Soon
 
