@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1016 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1034 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### One Of Just Three CTS-V.R Coupes Ever Built Is Up For Sale
+
+- Model/program: One Of Just Three CTS-V.R Coupes Ever Built Is Up For Sale
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/cadillac-cts-vr-coupe-for-sale/)
+
+### Hennessy Is Turning The Ram 1500 Rumble Bee SRT Into A 1,032 HP Beast
+
+- Model/program: Hennessy Is Turning The Ram 1500 Rumble Bee SRT Into A 1,032 HP Beast
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hennessy-1500-rumble-bee-srt/)
 
 ### Stolen MX-5 Dodged Spikes And Tactical Land Cruisers For An Hour Before Physics Won
 
@@ -29,6 +49,166 @@ Generated internal notes from 1016 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/audi-ceo-confirms-new-q8/)
+
+### He Drove His Land Cruiser V8 To 999,999 Km, Then Left The Last One To The Next Buyer
+
+- Model/program: He Drove His Land Cruiser V8 To 999,999 Km, Then Left The Last One To The Next Buyer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-land-cruiser-million-kilometers/)
+
+### Honda’s Next Platform Is Being Engineered By An Indian Firm To Slash Costs
+
+- Model/program: Honda’s Next Platform Is Being Engineered By An Indian Firm To Slash Costs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-tata-platform-partnership/)
+
+### Honda’s China Slump Got So Bad That Japan Lost The Design Lead
+
+- Model/program: Honda’s China Slump Got So Bad That Japan Lost The Design Lead
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gac-honda-china-strategy/)
+
+### Someone Stole A Minnesota City’s Entire Police Camera Network
+
+- Model/program: Someone Stole A Minnesota City’s Entire Police Camera Network
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/winona-flock-camera-theft/)
+
+### Zoox Robotaxi Skips The Human Driver, But Could Cost More Than An Uber
+
+- Model/program: Zoox Robotaxi Skips The Human Driver, But Could Cost More Than An Uber
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/zoox-robotaxi-pricing/)
+
+### Ram And Fox Factory Show A Lowered Muscle Truck And A TRX Concept
+
+- Model/program: Ram And Fox Factory Show A Lowered Muscle Truck And A TRX Concept
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ram-fox-factory-builds/)
+
+### The Chinese Brand That Didn’t Exist In Britain A Year Ago Just Outsold Honda And Mazda Combined
+
+- Model/program: The Chinese Brand That Didn’t Exist In Britain A Year Ago Just Outsold Honda And Mazda Combined
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chery-uk-market-share/)
+
+### Trump Says EV Drivers Have A ‘Disease’
+
+- Model/program: Trump Says EV Drivers Have A ‘Disease’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/trump-ev-range-anxiety/)
+
+### Dealer Allegedly Cannibalized Customer’s Kia To Fix Another, And She Filmed It
+
+- Model/program: Dealer Allegedly Cannibalized Customer’s Kia To Fix Another, And She Filmed It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/kia-dealer-borrowed-parts/)
+
+### SRT Made A Turbo Six Feel Like A Supercharged V8 And Shoved It Into A Jeep
+
+- Model/program: SRT Made A Turbo Six Feel Like A Supercharged V8 And Shoved It Into A Jeep
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/srt-eboost-air-hurricane/)
+
+### A Cop Dressed As A Shrub Wrote 74 Tickets In Six Hours
+
+- Model/program: A Cop Dressed As A Shrub Wrote 74 Tickets In Six Hours
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/new-jersey-shrub-cop-sting/)
+
+### Mahindra’s Rugged SUV Starts At $14,400 And Now Films Itself From 540 Degrees
+
+- Model/program: Mahindra’s Rugged SUV Starts At $14,400 And Now Films Itself From 540 Degrees
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mahindra-scorpio-n-facelift/)
+
+### Subaru Is Spending $9,650 Per Solterra Just To Get Them Off Lots
+
+- Model/program: Subaru Is Spending $9,650 Per Solterra Just To Get Them Off Lots
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/subaru-ev-marketing-costs/)
+
+### Bugatti Turned Its Track-Only Bolide Into A 1,578-HP Road Car For A 1%er
+
+- Model/program: Bugatti Turned Its Track-Only Bolide Into A 1,578-HP Road Car For A 1%er
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bugatti-destrier-one-off/)
+
+### Ford Promised A Sub-$30K Electric Truck, The Fathom Came In At $28,350
+
+- Model/program: Ford Promised A Sub-$30K Electric Truck, The Fathom Came In At $28,350
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-fathom-pricing/)
+
+### Mercedes-AMG’s Cheapest GT 4-Door Loses 625 HP, Gains Fake 6-Cylinder Soundtrack
+
+- Model/program: Mercedes-AMG’s Cheapest GT 4-Door Loses 625 HP, Gains Fake 6-Cylinder Soundtrack
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mercedes-amg-gt-53-electric/)
 
 ### Off-Duty Cop Got Rear-Ended, Now He’s The One Facing Charges
 

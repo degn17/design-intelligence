@@ -2,13 +2,163 @@
 
 ## Current positioning
 
-Generated internal notes from 723 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 738 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Toyota Prius PHEV
+
+- Model/program: 2027 Toyota Prius PHEV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/prius-phev-2027)
+
+### The Next-Gen 2029 Chevy Camaro Will Reportedly Have Four Doors
+
+- Model/program: The Next-Gen 2029 Chevy Camaro Will Reportedly Have Four Doors
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73368292/2029-chevy-camaro-four-doors-report/)
+
+### View Interior Photos of the 2027 Toyota Tundra Trailhunter
+
+- Model/program: View Interior Photos of the 2027 Toyota Tundra Trailhunter
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73369493/2027-toyota-tundra-trailhunter-details-interior-gallery/)
+
+### 2027 Ford F-150 Gets New Base Engine and Expanded V-8 Availability
+
+- Model/program: 2027 Ford F-150 Gets New Base Engine and Expanded V-8 Availability
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73369150/2027-ford-f-150-new-base-engine-expanded-v-8-availability/)
+
+### View Exterior Photos of the 2027 Toyota Tundra Trailhunter
+
+- Model/program: View Exterior Photos of the 2027 Toyota Tundra Trailhunter
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73369347/2027-toyota-tundra-trailhunter-details-exterior-gallery/)
+
+### SRT Develops System to Beat Turbo Lag and Boost Engine Power
+
+- Model/program: SRT Develops System to Beat Turbo Lag and Boost Engine Power
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73366803/srt-eboost-air-turbocharger-system-details/)
+
+### Ford's Affordable Electric Truck Officially Has a Name and a Price
+
+- Model/program: Ford's Affordable Electric Truck Officially Has a Name and a Price
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73366015/fords-affordable-electric-truck-fathom-price/)
+
+### 2028 Ford Fathom
+
+- Model/program: 2028 Ford Fathom
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ford/fathom)
+
+### View Photos of the 1994 Lexus GS300
+
+- Model/program: View Photos of the 1994 Lexus GS300
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71109611/1994-lexus-gs300-archive-test-gallery/)
+
+### 1994 Lexus GS300 Test: Watch Your Back, Germany
+
+- Model/program: 1994 Lexus GS300 Test: Watch Your Back, Germany
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71051423/1994-lexus-gs300-archive-test/)
+
+### View Exterior Photos of the 2026 Toyota Corolla Cross Hybrid
+
+- Model/program: View Exterior Photos of the 2026 Toyota Corolla Cross Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73307695/2026-toyota-corolla-cross-hybrid-test-exterior-gallery/)
+
+### Tested: 2026 Toyota Corolla Cross Hybrid Is Functional but Lacks Personality
+
+- Model/program: Tested: 2026 Toyota Corolla Cross Hybrid Is Functional but Lacks Personality
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73306970/2026-toyota-corolla-cross-hybrid-test/)
+
+### View Interior Photos of the 2026 Toyota Corolla Cross Hybrid
+
+- Model/program: View Interior Photos of the 2026 Toyota Corolla Cross Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73307725/2026-toyota-corolla-cross-hybrid-test-interior-gallery/)
+
+### The One-Off Destrier Refines Bugatti's 1578-HP Bolide Track Beast
+
+- Model/program: The One-Off Destrier Refines Bugatti's 1578-HP Bolide Track Beast
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73347794/bugatti-destrier-revealed/)
+
+### 2027 Mercedes-AMG GT53: A 536-HP EV That Makes Straight-Six Sounds
+
+- Model/program: 2027 Mercedes-AMG GT53: A 536-HP EV That Makes Straight-Six Sounds
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73361363/2027-mercedes-amg-gt53-ev-revealed/)
 
 ### Vote for This Awesome Colin McRae Subaru Rally Lego Set
 
