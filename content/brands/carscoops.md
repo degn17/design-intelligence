@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1034 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1052 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Porsche Hid A Cheeky Message Under This One-Off 911 Turbo S
+
+- Model/program: Porsche Hid A Cheeky Message Under This One-Off 911 Turbo S
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-911-turbo-s-australia/)
+
+### Bentley Torcal Shows Off Its Rear Seat And Mood Selector
+
+- Model/program: Bentley Torcal Shows Off Its Rear Seat And Mood Selector
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bentley-torcal-curation-engine-teaser/)
 
 ### One Of Just Three CTS-V.R Coupes Ever Built Is Up For Sale
 
@@ -29,6 +49,166 @@ Generated internal notes from 1034 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/hennessy-1500-rumble-bee-srt/)
+
+### Cristiano Ronaldo Has Three Bugattis In One Garage And That’s Not Even Half Of It
+
+- Model/program: Cristiano Ronaldo Has Three Bugattis In One Garage And That’s Not Even Half Of It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/cristiano-ronaldo-car-collection/)
+
+### This Is How Nissan Copied China To Slash Development Times In Half
+
+- Model/program: This Is How Nissan Copied China To Slash Development Times In Half
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/nissan-development-time/)
+
+### A Kansas Man Sues To Rip Out The 200-Flock-Camera Dragnet He Says He’s Trapped In
+
+- Model/program: A Kansas Man Sues To Rip Out The 200-Flock-Camera Dragnet He Says He’s Trapped In
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/wichita-flock-camera-lawsuit/)
+
+### Classic Land Cruiser 70 Trades No-Frills Ruggedness For Brabus Vibes
+
+- Model/program: Classic Land Cruiser 70 Trades No-Frills Ruggedness For Brabus Vibes
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/black-box-land-cruiser-70/)
+
+### Ram Is Betting Truck Buyers Will Pay Six Figures For A Sporty V8 Pickup
+
+- Model/program: Ram Is Betting Truck Buyers Will Pay Six Figures For A Sporty V8 Pickup
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/dealers-selling-ram-rumble-bee/)
+
+### Toyota’s Manual 2026 GR Corolla Is 0.7 Seconds Quicker To 60 And 100 Now, But It Still Runs Hot
+
+- Model/program: Toyota’s Manual 2026 GR Corolla Is 0.7 Seconds Quicker To 60 And 100 Now, But It Still Runs Hot
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-gr-corolla-updates/)
+
+### 19,000 Americans Named Their Most-Wanted Car Feature, And It Isn’t High-Tech
+
+- Model/program: 19,000 Americans Named Their Most-Wanted Car Feature, And It Isn’t High-Tech
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/most-wanted-car-features/)
+
+### The Testarossa Ferrari Couldn’t Legally Build Just Showed Up As A Render
+
+- Model/program: The Testarossa Ferrari Couldn’t Legally Build Just Showed Up As A Render
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ferrari-849-testarossa-redesign/)
+
+### The Cybertruck Finally Found Its Natural Habitat, A Fake Desert Planet
+
+- Model/program: The Cybertruck Finally Found Its Natural Habitat, A Fake Desert Planet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/unplugged-cybertruck-steel-carbon/)
+
+### BMW’s Facelifted 5-Series Wagon Is Getting A Neue Klasse Transplant
+
+- Model/program: BMW’s Facelifted 5-Series Wagon Is Getting A Neue Klasse Transplant
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-5-series-touring-facelift/)
+
+### Maserati Created A Fake Manual Gearbox For Its Axed Electric Sports Car
+
+- Model/program: Maserati Created A Fake Manual Gearbox For Its Axed Electric Sports Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/maserati-fake-ev-shifts/)
+
+### Tow Truck Drivers Dismantle Honda At Drive-Through To Save Trapped Kitten
+
+- Model/program: Tow Truck Drivers Dismantle Honda At Drive-Through To Save Trapped Kitten
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-grille-kitten-rescue/)
+
+### Charger Gets Its First Manual For Drifting, Durango Gets New Colors
+
+- Model/program: Charger Gets Its First Manual For Drifting, Durango Gets New Colors
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/dodge-charger-durango-roadkill-nights/)
+
+### Dodge’s New Charger Super Bee Proves You Don’t Need A V8 To Beat A Hellcat To 60, Just Avoid The 1/4 Mile
+
+- Model/program: Dodge’s New Charger Super Bee Proves You Don’t Need A V8 To Beat A Hellcat To 60, Just Avoid The 1/4 Mile
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/dodge-charger-super-bee/)
+
+### Acura’s Monterey Concept Teases Tomorrow’s RDX
+
+- Model/program: Acura’s Monterey Concept Teases Tomorrow’s RDX
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/acuras-monterey-concept-teases-tomorrows-rdx/)
+
+### Audi Needed Just 405 Days To Turn A Doodle Into Its R8 Successor
+
+- Model/program: Audi Needed Just 405 Days To Turn A Doodle Into Its R8 Successor
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/audi-nuvolari-development/)
 
 ### Stolen MX-5 Dodged Spikes And Tactical Land Cruisers For An Hour Before Physics Won
 

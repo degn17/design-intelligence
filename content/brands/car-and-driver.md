@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 738 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 751 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### These Drift-Spec Dodge Chargers Have 750 HP and a Manual
+
+- Model/program: These Drift-Spec Dodge Chargers Have 750 HP and a Manual
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73378919/dodge-charger-drift-cars-750-hp-manual-transmissions/)
+
+### Ram Rumble Bee-Based Hennessey Maximus Is a 1000-HP Street Truck
+
+- Model/program: Ram Rumble Bee-Based Hennessey Maximus Is a 1000-HP Street Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73379007/hennessey-maximus-ram-rumble-bee-revealed/)
+
+### VW Is Reportedly Developing a New Pickup Truck for the United States
+
+- Model/program: VW Is Reportedly Developing a New Pickup Truck for the United States
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73376547/vw-new-pickup-truck-united-states-report/)
+
+### Dodge Shows New Paint Colors and an Eye-Catching Durango Concept
+
+- Model/program: Dodge Shows New Paint Colors and an Eye-Catching Durango Concept
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73376652/dodge-durango-smokescreen-concept-charger-color-jailbreak/)
+
+### 2027 Dodge Charger Super Bee Brings 600 HP and Track-Focused Hardware
+
+- Model/program: 2027 Dodge Charger Super Bee Brings 600 HP and Track-Focused Hardware
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73370154/2027-dodge-charger-super-bee-revealed/)
+
+### View Photos of the 2027 Dodge Charger Super Bee Launch Edition
+
+- Model/program: View Photos of the 2027 Dodge Charger Super Bee Launch Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73370217/2027-dodge-charger-super-bee-launch-edition-revealed-gallery/)
+
+### 2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class
+
+- Model/program: 2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/)
+
+### View Interior Photos of the 2026 Audi A6 Quattro
+
+- Model/program: View Interior Photos of the 2026 Audi A6 Quattro
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73355030/2026-audi-a6-quattro-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Audi A6 Quattro
+
+- Model/program: View Exterior Photos of the 2026 Audi A6 Quattro
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73355014/2026-audi-a6-quattro-test-exterior-gallery/)
+
+### View Interior Photos of the 2026 BMW 540i xDrive
+
+- Model/program: View Interior Photos of the 2026 BMW 540i xDrive
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73348271/2026-bmw-540i-xdrive-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 BMW 540i xDrive
+
+- Model/program: View Exterior Photos of the 2026 BMW 540i xDrive
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73347925/2026-bmw-540i-xdrive-test-exterior-gallery/)
+
+### Acura Teases New Design Language Ahead of Concept Car Reveal
+
+- Model/program: Acura Teases New Design Language Ahead of Concept Car Reveal
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73369893/acura-the-quail-concept-teaser-new-design-language/)
+
+### Driver of the Week: —Ed
+
+- Model/program: Driver of the Week: —Ed
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73368575/driver-of-the-week-ed/)
 
 ### 2027 Toyota Prius PHEV
 
