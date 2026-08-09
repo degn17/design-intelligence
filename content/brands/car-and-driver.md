@@ -2,13 +2,73 @@
 
 ## Current positioning
 
-Generated internal notes from 751 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 757 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 20 Years Ago, a Ride in a Tesla Roadster Changed Me
+
+- Model/program: 20 Years Ago, a Ride in a Tesla Roadster Changed Me
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73309222/tesla-roadster-remembrance/)
+
+### Lease Like a 'Car and Driver' Editor
+
+- Model/program: Lease Like a 'Car and Driver' Editor
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73355757/best-lease-tip-car-driver-editor/)
+
+### 2000 Corbin Sparrow Lands On Bring a Trailer
+
+- Model/program: 2000 Corbin Sparrow Lands On Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73358449/2000-corbin-sparrow-bring-a-trailer-auction/)
+
+### The Artist Who Created This Lace-Patterned Porsche 911S Bought It Back
+
+- Model/program: The Artist Who Created This Lace-Patterned Porsche 911S Bought It Back
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73379338/1967-porsche-911s-art-car-dr-yes-bring-a-trailer/)
+
+### View Photos of the 2004 Luxury Convertibles
+
+- Model/program: View Photos of the 2004 Luxury Convertibles
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71933877/2004-cadilac-jaguar-lexus-mercedes-benz-porsche-luxury-convertible-archive-comparison-test-gallery/)
+
+### 2004 Luxury Convertibles Compared: Cadillac's XLR Looks To Disrupt the Topless Status Quo
+
+- Model/program: 2004 Luxury Convertibles Compared: Cadillac's XLR Looks To Disrupt the Topless Status Quo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a73285796/2004-cadilac-jaguar-lexus-mercedes-benz-porsche-luxury-convertible-archive-comparison-test/)
 
 ### These Drift-Spec Dodge Chargers Have 750 HP and a Manual
 

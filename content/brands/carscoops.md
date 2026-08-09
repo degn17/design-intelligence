@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1052 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1061 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Driven Just 9K Miles, This 1977 BMW E21 Is About As Frozen In Time As It Gets
+
+- Model/program: Driven Just 9K Miles, This 1977 BMW E21 Is About As Frozen In Time As It Gets
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-320i-e21-auction/)
 
 ### Porsche Hid A Cheeky Message Under This One-Off 911 Turbo S
 
@@ -29,6 +39,86 @@ Generated internal notes from 1052 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/bentley-torcal-curation-engine-teaser/)
+
+### Smart’s New #2 Breaks Cover Early With Nearly Double The Old Fortwo’s Range
+
+- Model/program: Smart’s New #2 Breaks Cover Early With Nearly Double The Old Fortwo’s Range
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/smart-2-city-car-leak/)
+
+### Mazda’s Flagship SUVs Are Bombing And The Rescue Plan Skips The Obvious Move
+
+- Model/program: Mazda’s Flagship SUVs Are Bombing And The Rescue Plan Skips The Obvious Move
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mazda-cx90-cx70-sales-strategy/)
+
+### The Ford Fathom Or The Slate, You’ve Got $28,000 And A Decision To Make
+
+- Model/program: The Ford Fathom Or The Slate, You’ve Got $28,000 And A Decision To Make
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-fathom-vs-slate-truck/)
+
+### Your Car Already Has The Hardware To Stop You Speeding. It Just Isn’t Allowed To Yet
+
+- Model/program: Your Car Already Has The Hardware To Stop You Speeding. It Just Isn’t Allowed To Yet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/geofencing-speed-limiter-cars/)
+
+### Honda’s 2026 CR-V Hybrid AWD Is The SUV You Buy When You’re Done Thinking About It
+
+- Model/program: Honda’s 2026 CR-V Hybrid AWD Is The SUV You Buy When You’re Done Thinking About It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-crv-hybrid-awd-review/)
+
+### BMW-Backed Student EV Looks Like A Homemade Cybertruck But Ends The Day With More Charge Than It Started
+
+- Model/program: BMW-Backed Student EV Looks Like A Homemade Cybertruck But Ends The Day With More Charge Than It Started
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-ev-makes-energy/)
+
+### VW Plans An American-Built Pickup Before The Decade Ends
+
+- Model/program: VW Plans An American-Built Pickup Before The Decade Ends
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/volkswagen-american-pickup/)
+
+### Ford Shows Dealers A Real Four-Door Mustang Mach 4 For Less Than $40,000
+
+- Model/program: Ford Shows Dealers A Real Four-Door Mustang Mach 4 For Less Than $40,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-mustang-mach-4-sedan/)
 
 ### One Of Just Three CTS-V.R Coupes Ever Built Is Up For Sale
 
