@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 757 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 759 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 1969 Subaru Sambar 360 Van For Sale on Bring a Trailer
+
+- Model/program: 1969 Subaru Sambar 360 Van For Sale on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73376851/1969-subaru-sambar-360-van-bring-a-trailer-auction/)
+
+### Here's a Trio of Affordable Car-Themed Watches out of Japan
+
+- Model/program: Here's a Trio of Affordable Car-Themed Watches out of Japan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73380451/affordable-car-themed-watches-japan/)
 
 ### 20 Years Ago, a Ride in a Tesla Roadster Changed Me
 

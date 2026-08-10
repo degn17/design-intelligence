@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1061 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1070 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A Teen Drove A BMW 100 MPH And Killed Two People. He Got Six Months
+
+- Model/program: A Teen Drove A BMW 100 MPH And Killed Two People. He Got Six Months
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-crash-sentence/)
 
 ### Driven Just 9K Miles, This 1977 BMW E21 Is About As Frozen In Time As It Gets
 
@@ -19,6 +29,86 @@ Generated internal notes from 1061 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-320i-e21-auction/)
+
+### The Rarest Lexus V10 In America Just Sat There And Quadrupled In Value
+
+- Model/program: The Rarest Lexus V10 In America Just Sat There And Quadrupled In Value
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lexus-lfa-nurburgring-sale/)
+
+### Only Two New Cars In America Still Offer A CD Player, And Both Are Subarus
+
+- Model/program: Only Two New Cars In America Still Offer A CD Player, And Both Are Subarus
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/us-new-car-cd-player/)
+
+### Automakers’ Answer To $50K Cars Is A $15,000 Golf Cart, And They’re Serious
+
+- Model/program: Automakers’ Answer To $50K Cars Is A $15,000 Golf Cart, And They’re Serious
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/electric-lsv-affordability/)
+
+### Chevy’s Camaro Sedan Slips To 2029MY, But Reportedly Keeps The Stick
+
+- Model/program: Chevy’s Camaro Sedan Slips To 2029MY, But Reportedly Keeps The Stick
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chevy-camaro-sedan-delay/)
+
+### We Drove Both 2026 Outbacks For A Week, The Cheaper One Won
+
+- Model/program: We Drove Both 2026 Outbacks For A Week, The Cheaper One Won
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/subaru-2026-outback-review/)
+
+### Is 1 Hour Enough For Automatic Drivers To Learn Stick Shift? The AA Thinks So
+
+- Model/program: Is 1 Hour Enough For Automatic Drivers To Learn Stick Shift? The AA Thinks So
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/manual-license-conversion/)
+
+### Tesla Driver Caught At 64 In A 45 Insists He Wasn’t The One Driving
+
+- Model/program: Tesla Driver Caught At 64 In A 45 Insists He Wasn’t The One Driving
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/tesla-driver-autopilot-speeding-ticket/)
+
+### Toyota’s GR Performance Cars Just Became Conveyor-Belt Sushi Toys
+
+- Model/program: Toyota’s GR Performance Cars Just Became Conveyor-Belt Sushi Toys
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-gr-sushiro-collaboration/)
 
 ### Porsche Hid A Cheeky Message Under This One-Off 911 Turbo S
 
