@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1070 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1088 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ferrari’s Naturally-Aspirated V8 Supercar Is Now A Seven-Figure Collectible
+
+- Model/program: Ferrari’s Naturally-Aspirated V8 Supercar Is Now A Seven-Figure Collectible
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ferrari-458-speciale-auction-monterey/)
+
+### America’s Strategic Oil Reserve Just Fell To Its Lowest Level Since 1983
+
+- Model/program: America’s Strategic Oil Reserve Just Fell To Its Lowest Level Since 1983
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/strategic-petroleum-reserve-running-low/)
 
 ### A Teen Drove A BMW 100 MPH And Killed Two People. He Got Six Months
 
@@ -19,6 +39,166 @@ Generated internal notes from 1070 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-crash-sentence/)
+
+### Flock Reportedly Pitched Turning 350,000 Ubers And Lyfts Into License Plate Scanners
+
+- Model/program: Flock Reportedly Pitched Turning 350,000 Ubers And Lyfts Into License Plate Scanners
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/flock-rideshare-alpr-rideshare/)
+
+### Hyundai Backs Wild Baja Santa Fe Render It Has No Plans To Build
+
+- Model/program: Hyundai Backs Wild Baja Santa Fe Render It Has No Plans To Build
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-santa-fe-baja-concept/)
+
+### Cops Seize $5 Million Ferrari Monza Among 90 Cars In Massive London Crackdown
+
+- Model/program: Cops Seize $5 Million Ferrari Monza Among 90 Cars In Massive London Crackdown
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/london-supercar-seizures/)
+
+### Gordon Murray Teases A New Supercar You’ll Never Be Rich Enough To Buy
+
+- Model/program: Gordon Murray Teases A New Supercar You’ll Never Be Rich Enough To Buy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gordon-murray-supercar-teaser/)
+
+### Chrysler’s Slammed Pacifica Concept Is A Hellcat Away From Perfection
+
+- Model/program: Chrysler’s Slammed Pacifica Concept Is A Hellcat Away From Perfection
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chrysler-pacifica-roadkill-concepts/)
+
+### Mercedes-AMG Teases An Insane SUV With Over 1,100 HP
+
+- Model/program: Mercedes-AMG Teases An Insane SUV With Over 1,100 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mercedes-amg-suv-ev-teased/)
+
+### Ex-Manager Claims Lucid Dismissed His Warnings About Defect Before Large Recall
+
+- Model/program: Ex-Manager Claims Lucid Dismissed His Warnings About Defect Before Large Recall
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lucid-manager-lawsuit-usa/)
+
+### Google’s AI Told People Flock Cameras Are Stuffed With Gold. They Aren’t
+
+- Model/program: Google’s AI Told People Flock Cameras Are Stuffed With Gold. They Aren’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/flock-cameras-google-gold/)
+
+### There’s A Reason Why Japan’s Land Cruiser 70 Covers Up Its Taillights
+
+- Model/program: There’s A Reason Why Japan’s Land Cruiser 70 Covers Up Its Taillights
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-land-cruiser-70-taillights/)
+
+### China Built A C1 Corvette On BYD Bones And It’s Coming To LA
+
+- Model/program: China Built A C1 Corvette On BYD Bones And It’s Coming To LA
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/fullgood-motors-byd-corvette/)
+
+### Your Rugged Toyota Tacoma TRD Might Have A Rust Problem
+
+- Model/program: Your Rugged Toyota Tacoma TRD Might Have A Rust Problem
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-tacoma-trd-recall/)
+
+### Pininfarina’s Reborn NSX Gets A Modern Cabin But Keeps Three Pedals
+
+- Model/program: Pininfarina’s Reborn NSX Gets A Modern Cabin But Keeps Three Pedals
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jas-pininfarina-nsx-interior/)
+
+### Aston Built Three One-Offs Around A Detail Only Le Mans Nerds Will Clock
+
+- Model/program: Aston Built Three One-Offs Around A Detail Only Le Mans Nerds Will Clock
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/aston-martin-db12-s-one-offs/)
+
+### Nissan’s AI Cameras Now Watch How American Factory Workers Bend And Walk
+
+- Model/program: Nissan’s AI Cameras Now Watch How American Factory Workers Bend And Walk
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/nissan-factory-ai-cameras/)
+
+### Tiny Subaru Sambar Is Smaller Than A Fiat 500e But Still Seats A Family
+
+- Model/program: Tiny Subaru Sambar Is Smaller Than A Fiat 500e But Still Seats A Family
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/suzuki-sambar-van-auction/)
+
+### VW’s New Atlas Cross Sport Keeps The Turbo, Loses The Console Shifter
+
+- Model/program: VW’s New Atlas Cross Sport Keeps The Turbo, Loses The Console Shifter
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-vw-atlas-cross-sport/)
 
 ### Driven Just 9K Miles, This 1977 BMW E21 Is About As Frozen In Time As It Gets
 

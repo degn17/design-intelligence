@@ -2,13 +2,213 @@
 
 ## Current positioning
 
-Generated internal notes from 759 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 779 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Eccentrica V12 Roadster Makes the Diablo Restomod Roofless
+
+- Model/program: Eccentrica V12 Roadster Makes the Diablo Restomod Roofless
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73395007/eccentrica-v12-roadster-revealed/)
+
+### By 2029, Ford's Entry-Level Model Will Reportedly Be a $25K SUV
+
+- Model/program: By 2029, Ford's Entry-Level Model Will Reportedly Be a $25K SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73394692/2029-ford-suv-entry-level-model-report/)
+
+### View Exterior Photos of the 2026 Volkswagen Golf R
+
+- Model/program: View Exterior Photos of the 2026 Volkswagen Golf R
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g70868423/2026-volkswagen-golf-r-reliability-maintenance-exterior-gallery/)
+
+### Our Long-Term 2026 VW Golf R Suffers a Crack and Hits the Track
+
+- Model/program: Our Long-Term 2026 VW Golf R Suffers a Crack and Hits the Track
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a70884349/2026-volkswagen-golf-r-reliability-maintenance/)
+
+### 2027 Maserati MCPura
+
+- Model/program: 2027 Maserati MCPura
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/maserati/mcpura-2027)
+
+### 2027 Audi A6
+
+- Model/program: 2027 Audi A6
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/audi/a6-2027)
+
+### The Rezvani Beast X Is a Last Gasp for GM’s 6.2-Liter V-8
+
+- Model/program: The Rezvani Beast X Is a Last Gasp for GM’s 6.2-Liter V-8
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73393600/rezvani-beast-x-corvette-revealed/)
+
+### 2026 Audi A6
+
+- Model/program: 2026 Audi A6
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/audi/a6)
+
+### 2027 Toyota Corolla Cross Hybrid
+
+- Model/program: 2027 Toyota Corolla Cross Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/corolla-cross-hybrid-2027)
+
+### 2026 Toyota Corolla Cross Hybrid
+
+- Model/program: 2026 Toyota Corolla Cross Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/corolla-cross-hybrid)
+
+### Report: Ford Is Working on a Four-Door Mustang That’s Due by 2029
+
+- Model/program: Report: Ford Is Working on a Four-Door Mustang That’s Due by 2029
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73391896/2029-ford-mustang-four-door-sedan-report/)
+
+### Mercedes-AMG Teases Its Upcoming High-Performance Electric SUV
+
+- Model/program: Mercedes-AMG Teases Its Upcoming High-Performance Electric SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73392707/mercedes-amg-electric-suv-teaser/)
+
+### View Interior Photos of the 2026 Lexus LX700h Overtrail
+
+- Model/program: View Interior Photos of the 2026 Lexus LX700h Overtrail
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73358920/2026-lexus-lx-700h-hybrid-overtrail-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Lexus LX700h Overtrail
+
+- Model/program: View Exterior Photos of the 2026 Lexus LX700h Overtrail
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73359090/2026-lexus-lx-700h-hybrid-overtrail-test-exterior-gallery/)
+
+### Tested: 2026 Lexus LX700h Overtrail Arrives Locked and Loaded
+
+- Model/program: Tested: 2026 Lexus LX700h Overtrail Arrives Locked and Loaded
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73298025/2026-lexus-lx-700h-hybrid-overtrail-test/)
+
+### 2027 Volkswagen Atlas Cross Sport
+
+- Model/program: 2027 Volkswagen Atlas Cross Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/volkswagen/atlas-cross-sport-2027)
+
+### Tested: 2003 Honda Element EX Is a Dorm Room on Wheels
+
+- Model/program: Tested: 2003 Honda Element EX Is a Dorm Room on Wheels
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73358221/2003-honda-element-ex-archive-test/)
+
+### View Photos of the 2003 Honda Element EX
+
+- Model/program: View Photos of the 2003 Honda Element EX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73365683/2003-honda-element-ex-archive-test-gallery/)
+
+### View Exterior Photos of the 2027 Volkswagen Atlas Cross Sport
+
+- Model/program: View Exterior Photos of the 2027 Volkswagen Atlas Cross Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g73380333/2027-volkswagen-atlas-cross-sport-exterior-gallery/)
+
+### 2027 Volkswagen Atlas Cross Sport Revealed with a Clean New Look
+
+- Model/program: 2027 Volkswagen Atlas Cross Sport Revealed with a Clean New Look
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73380263/2027-volkswagen-atlas-cross-sport-revealed/)
 
 ### 1969 Subaru Sambar 360 Van For Sale on Bring a Trailer
 
