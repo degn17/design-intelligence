@@ -2,13 +2,133 @@
 
 ## Current positioning
 
-Generated internal notes from 779 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 791 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Take a Peek Inside the Production Jaguar Type 01
+
+- Model/program: Take a Peek Inside the Production Jaguar Type 01
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73405047/jaguar-01-interior-revealed/)
+
+### 2027 Chevy Express and GMC Savana Vans Finally Get Touchscreens
+
+- Model/program: 2027 Chevy Express and GMC Savana Vans Finally Get Touchscreens
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73406280/2027-chevy-express-gmc-savana-vans-touchscreen-upgrades/)
+
+### The Engineering Behind the All-New CX-5’s Signature Driving Feel
+
+- Model/program: The Engineering Behind the All-New CX-5’s Signature Driving Feel
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71377430/the-engineering-behind-the-all-new-cx-5s-signature-driving-feel/)
+
+### Which Toyota Sienna Trim Level Delivers The Best Value?
+
+- Model/program: Which Toyota Sienna Trim Level Delivers The Best Value?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73404805/toyota-sienna-trim-level-what-to-buy/)
+
+### Thoughtfully Refined: Why the 2026 Mazda CX-5 Feels Like a Premium Upgrade to Daily Life
+
+- Model/program: Thoughtfully Refined: Why the 2026 Mazda CX-5 Feels Like a Premium Upgrade to Daily Life
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a71377300/thoughtfully-refined-why-the-2026-mazda-cx-5-feels-like-a-premium-upgrade-to-daily-life/)
+
+### The Marc Philipp Gemballa Marsien GT Is a Turbo S with Modern 959 Style
+
+- Model/program: The Marc Philipp Gemballa Marsien GT Is a Turbo S with Modern 959 Style
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73402907/marc-philipp-gemballa-marsien-gt-porsche-revealed/)
+
+### A Light-Beer Company Is Giving Away a Vintage Kenworth Semi Truck
+
+- Model/program: A Light-Beer Company Is Giving Away a Vintage Kenworth Semi Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73403359/pabst-beer-semi-truck-giveaway/)
+
+### Toyota Recalls 500K Camrys over Blank Digital Gauge Display
+
+- Model/program: Toyota Recalls 500K Camrys over Blank Digital Gauge Display
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73402826/2025-2026-toyota-camry-recall-blank-instrument-cluster/)
+
+### Tested: 2026 Toyota RAV4 GR Sport Takes the Compact SUV in a Surprisingly Racy Direction
+
+- Model/program: Tested: 2026 Toyota RAV4 GR Sport Takes the Compact SUV in a Surprisingly Racy Direction
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73347571/2026-toyota-rav4-gr-sport-plug-in-hybrid-test/)
+
+### View Interior Photos of the 2026 Toyota RAV4 GR Sport
+
+- Model/program: View Interior Photos of the 2026 Toyota RAV4 GR Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73370104/2026-toyota-rav4-gr-sport-plug-in-hybrid-interior-gallery/)
+
+### View Exterior Photos of the 2026 Toyota RAV4 GR Sport
+
+- Model/program: View Exterior Photos of the 2026 Toyota RAV4 GR Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73369019/2026-toyota-rav4-gr-sport-plug-in-hybrid-test-exterior-gallery/)
+
+### Curated by Cadillac Escalade IQ Is Really Expensive but Bespoke
+
+- Model/program: Curated by Cadillac Escalade IQ Is Really Expensive but Bespoke
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73395844/curated-by-cadillac-escalade-iq-revealed/)
 
 ### Eccentrica V12 Roadster Makes the Diablo Restomod Roofless
 

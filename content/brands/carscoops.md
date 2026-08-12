@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1088 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1106 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This 240-Mile Rolls-Royce Cullinan Drew $555,551 And Still Went Home Unsold
+
+- Model/program: This 240-Mile Rolls-Royce Cullinan Drew $555,551 And Still Went Home Unsold
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/widebody-rolls-royce-cullinan-auction/)
+
+### Hyundai’s Parking Robots Can Pack Up To 50% More Cars Into Existing Garages
+
+- Model/program: Hyundai’s Parking Robots Can Pack Up To 50% More Cars Into Existing Garages
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-parking-robot/)
 
 ### Ferrari’s Naturally-Aspirated V8 Supercar Is Now A Seven-Figure Collectible
 
@@ -29,6 +49,166 @@ Generated internal notes from 1088 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/strategic-petroleum-reserve-running-low/)
+
+### Kentucky’s Trooper Of The Year Went From Award To Holding Cell In 16 Days
+
+- Model/program: Kentucky’s Trooper Of The Year Went From Award To Holding Cell In 16 Days
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/kentucky-trooper-of-the-year-dui/)
+
+### JCB Hydromax Sets New Land Speed Record Of 406 MPH
+
+- Model/program: JCB Hydromax Sets New Land Speed Record Of 406 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jcb-land-speed-record/)
+
+### The Average EV Now Costs Less Than The Average Hybrid, And You Can Thank China
+
+- Model/program: The Average EV Now Costs Less Than The Average Hybrid, And You Can Thank China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ev-hybrid-average-prices/)
+
+### LeBron James Built His Ultimate Mercedes-Maybach S-Class And You Can Buy It
+
+- Model/program: LeBron James Built His Ultimate Mercedes-Maybach S-Class And You Can Buy It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lebron-james-mercedes-maybach-s-class/)
+
+### One MPH Turned Her Porsche 911 Speeding Ticket Into Handcuffs
+
+- Model/program: One MPH Turned Her Porsche 911 Speeding Ticket Into Handcuffs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/pink-porsche-florida-speeding-arrest/)
+
+### Chevrolet Exiting China After Sales Crash 99%
+
+- Model/program: Chevrolet Exiting China After Sales Crash 99%
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chevrolet-exits-china/)
+
+### Your Car’s Sensors Make Repairs Pricier And Still Save You Money
+
+- Model/program: Your Car’s Sensors Make Repairs Pricier And Still Save You Money
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/driver-assist-repair-costs/)
+
+### Citroen Built A Rotary GS, Then Tried To Buy Them All Back And Crush Them
+
+- Model/program: Citroen Built A Rotary GS, Then Tried To Buy Them All Back And Crush Them
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/citroen-gs-birotor-auction/)
+
+### McLaren Wants $156,700 To Fix The P1’s Battery. V Engineering Has A Better Answer
+
+- Model/program: McLaren Wants $156,700 To Fix The P1’s Battery. V Engineering Has A Better Answer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mclaren-p1-battery-replacement/)
+
+### A Harley-Riding Congressman Is Trying To Kill D.C.’s Helmet Rule
+
+- Model/program: A Harley-Riding Congressman Is Trying To Kill D.C.’s Helmet Rule
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/dc-motorcycle-helmet-repeal/)
+
+### VW’s Fix For Heavy Campervans Is An Inflatable Kitchen
+
+- Model/program: VW’s Fix For Heavy Campervans Is An Inflatable Kitchen
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/vw-id-california-inflatable-camper/)
+
+### A Historic Rotary Mazda Just Caught Fire At Laguna Seca, But Its Story Isn’t Over
+
+- Model/program: A Historic Rotary Mazda Just Caught Fire At Laguna Seca, But Its Story Isn’t Over
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mazda-767b-fire/)
+
+### Ford Showed Dealers Its Cheapest New Car Yet, A Boxy $25,000 SUV
+
+- Model/program: Ford Showed Dealers Its Cheapest New Car Yet, A Boxy $25,000 SUV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-budget-suv-pricing/)
+
+### NBA Star’s Classic Chevy Impalas Are Now Nike Sneakers
+
+- Model/program: NBA Star’s Classic Chevy Impalas Are Now Nike Sneakers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/booker-nike-impala-collection/)
+
+### Wild Roofless Diablo Restomod Has A Gated Manual, Even If Its Renders Can’t Count Its Own Gears
+
+- Model/program: Wild Roofless Diablo Restomod Has A Gated Manual, Even If Its Renders Can’t Count Its Own Gears
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/eccentrica-diablo-roadster/)
+
+### Cadillac Will Charge You $55K To Make Sure Nobody Else Has Your Escalade IQ
+
+- Model/program: Cadillac Will Charge You $55K To Make Sure Nobody Else Has Your Escalade IQ
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/curated-by-cadillac-escalade-iq/)
 
 ### A Teen Drove A BMW 100 MPH And Killed Two People. He Got Six Months
 
