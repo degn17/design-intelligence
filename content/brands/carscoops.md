@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1106 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1124 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### China’s New GAC Yue 7 Wants The Defender’s Lunch And Also Its Face
+
+- Model/program: China’s New GAC Yue 7 Wants The Defender’s Lunch And Also Its Face
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gac-yue-7-china-new/)
+
+### Mercedes-AMG CLE 53 Gains Stars, But Is No Longer Star Of The Show
+
+- Model/program: Mercedes-AMG CLE 53 Gains Stars, But Is No Longer Star Of The Show
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2028-mercedes-amg-cle-53-spied/)
 
 ### This 240-Mile Rolls-Royce Cullinan Drew $555,551 And Still Went Home Unsold
 
@@ -29,6 +49,166 @@ Generated internal notes from 1106 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-parking-robot/)
+
+### Honda’s Heritage Program Will Sell You A Real Race Car, Then Rebuild It Piece By Piece
+
+- Model/program: Honda’s Heritage Program Will Sell You A Real Race Car, Then Rebuild It Piece By Piece
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-heritage-racing-program/)
+
+### The Best Fast Charging Experience In America Isn’t From Tesla
+
+- Model/program: The Best Fast Charging Experience In America Isn’t From Tesla
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/best-charging-experience-study/)
+
+### Used Elantra Prices Jumped 56%, Camry 50%, As Pre-Owned Market Locks Out Bargain Hunters
+
+- Model/program: Used Elantra Prices Jumped 56%, Camry 50%, As Pre-Owned Market Locks Out Bargain Hunters
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/used-car-price-study/)
+
+### Cadillac Debuts New XT5 PHEV In China As Americans Are Still Left Waiting
+
+- Model/program: Cadillac Debuts New XT5 PHEV In China As Americans Are Still Left Waiting
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/cadillac-xt5-phev-introduced/)
+
+### Louis Vuitton And Singer Built Two Porsche 911s For People Who Have Everything
+
+- Model/program: Louis Vuitton And Singer Built Two Porsche 911s For People Who Have Everything
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/singer-louis-vuitton-911/)
+
+### Jeep’s 2027 Grand Cherokee Upland Delivers Trailhawk Looks For $5k Less
+
+- Model/program: Jeep’s 2027 Grand Cherokee Upland Delivers Trailhawk Looks For $5k Less
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-jeep-grand-cherokee-pricing/)
+
+### This Mazda Miata Might Be The Best Ferrari You Can Own
+
+- Model/program: This Mazda Miata Might Be The Best Ferrari You Can Own
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/miata-250-gto-tribute/)
+
+### Rivian’s Turn Signal Recall Grows Again, A Year After The First One
+
+- Model/program: Rivian’s Turn Signal Recall Grows Again, A Year After The First One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/rivian-turn-signal-recall-usa/)
+
+### McLaren’s Manual Mystery Just Got A Lot More Real
+
+- Model/program: McLaren’s Manual Mystery Just Got A Lot More Real
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mclaren-manual-supercar-teaser/)
+
+### Genesis GV90 Flagship Specs Leak With A Bigger Battery Than Any Kia Or Hyundai EV
+
+- Model/program: Genesis GV90 Flagship Specs Leak With A Bigger Battery Than Any Kia Or Hyundai EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/genesis-gv90-battery-specs/)
+
+### Audi’s Next RS6 May Drop V8 And Still Beat BMW’s M5
+
+- Model/program: Audi’s Next RS6 May Drop V8 And Still Beat BMW’s M5
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/audi-rs6-avant-scoop/)
+
+### A Hacker Wrapped A Toyota And Flock’s Cameras Couldn’t Tell It Was A Car
+
+- Model/program: A Hacker Wrapped A Toyota And Flock’s Cameras Couldn’t Tell It Was A Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/surveillance-camera-defeating-pattern/)
+
+### Kia Prices New EV3 Nearly $10,000 Less Than The Niro EV
+
+- Model/program: Kia Prices New EV3 Nearly $10,000 Less Than The Niro EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/kia-ev3-pricing/)
+
+### Canadian Union Pushes GM To Build The Truck Canada Actually Prefers
+
+- Model/program: Canadian Union Pushes GM To Build The Truck Canada Actually Prefers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/unifor-gmc-sierra-canada/)
+
+### Cadillac Built One Celestiq For A Person Who Dislikes Chrome
+
+- Model/program: Cadillac Built One Celestiq For A Person Who Dislikes Chrome
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/cadillac-celestiq-night-test/)
+
+### This Ferrari V12 Barchetta Counts To Six Twice, Once In Tailpipes, Once In Gated Gears
+
+- Model/program: This Ferrari V12 Barchetta Counts To Six Twice, Once In Tailpipes, Once In Gated Gears
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ferrari-550-barchetta-koenig/)
 
 ### Ferrari’s Naturally-Aspirated V8 Supercar Is Now A Seven-Figure Collectible
 

@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 791 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 802 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Chrysler Pacifica
+
+- Model/program: 2027 Chrysler Pacifica
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/chrysler/pacifica)
+
+### Volkswagen Is Just Taunting American Camper-Van Fans Now
+
+- Model/program: Volkswagen Is Just Taunting American Camper-Van Fans Now
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73416584/volkswagen-california-camper-concept/)
+
+### McLaren Teases a New Car with a Manual Shifter Inspired by the M6GT
+
+- Model/program: McLaren Teases a New Car with a Manual Shifter Inspired by the M6GT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73414647/mclaren-manual-supercar-teased-m6gt/)
+
+### Singer Introduces Duo of Louis Vuitton 911 Reimaginations
+
+- Model/program: Singer Introduces Duo of Louis Vuitton 911 Reimaginations
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73405739/singer-louis-vuitton-911-reimaginations/)
+
+### 2027 Kia EV3’s Price Starts Well Below the $35,000 Mark
+
+- Model/program: 2027 Kia EV3’s Price Starts Well Below the $35,000 Mark
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73413268/2027-kia-ev3-pricing-specs-revealed/)
+
+### 2028 Jaguar Type 01
+
+- Model/program: 2028 Jaguar Type 01
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/jaguar/type-01)
+
+### HRC Restored This Sebring Winner and Will Help You Get It on Track
+
+- Model/program: HRC Restored This Sebring Winner and Will Help You Get It on Track
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73413060/2007-acura-arx-01a-hrc-honda-restored-sale-montery/)
+
+### View Interior Photos of the 2027 Chrysler Pacifica
+
+- Model/program: View Interior Photos of the 2027 Chrysler Pacifica
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73392930/2027-chrysler-pacifica-test-interior-gallery/)
+
+### View Exterior Photos of the 2027 Chrysler Pacifica
+
+- Model/program: View Exterior Photos of the 2027 Chrysler Pacifica
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73392706/2027-chrysler-pacifica-test-exterior-gallery/)
+
+### Tested: 2027 Chrysler Pacifica Still Has a Few Clever Tricks
+
+- Model/program: Tested: 2027 Chrysler Pacifica Still Has a Few Clever Tricks
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73378596/2027-chrysler-pacifica-test/)
+
+### 2027 Cadillac Celestiq
+
+- Model/program: 2027 Cadillac Celestiq
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/cadillac/celestiq-2027)
 
 ### Take a Peek Inside the Production Jaguar Type 01
 
