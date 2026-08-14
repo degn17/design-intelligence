@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1124 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1142 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Lucid’s Gravity GT-S Pushes Electric Power To New Heights
+
+- Model/program: Lucid’s Gravity GT-S Pushes Electric Power To New Heights
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lucid-gravity-gts-monterey/)
+
+### Suzuki’s New $13K Police Van Seats 10, But It Will Never Win A Chase
+
+- Model/program: Suzuki’s New $13K Police Van Seats 10, But It Will Never Win A Chase
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/suzuki-carry-patrol-van/)
+
+### Lincoln Gives The 2027 Nautilus A Facelift And A ‘Black Eye’
+
+- Model/program: Lincoln Gives The 2027 Nautilus A Facelift And A ‘Black Eye’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-lincoln-nautilus/)
 
 ### China’s New GAC Yue 7 Wants The Defender’s Lunch And Also Its Face
 
@@ -29,6 +59,156 @@ Generated internal notes from 1124 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/2028-mercedes-amg-cle-53-spied/)
+
+### A 6,900-Mile Porsche Taycan Wagon Shed Nearly $100K Before Its Second Owner Arrived
+
+- Model/program: A 6,900-Mile Porsche Taycan Wagon Shed Nearly $100K Before Its Second Owner Arrived
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-taycan-depreciation/)
+
+### Hyundai’s Eco-Friendly Kona Is Transforming Into A Seltos Twin
+
+- Model/program: Hyundai’s Eco-Friendly Kona Is Transforming Into A Seltos Twin
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2028-hyundai-kona-spied/)
+
+### The S2000 Revival Honda Won’t Build, Rendered From Acura’s Newest Concept
+
+- Model/program: The S2000 Revival Honda Won’t Build, Rendered From Acura’s Newest Concept
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-s2000-acura-nexera/)
+
+### 2027 Rivian R1 Finally Gets Its Most Requested Feature, And It Costs Up To $4,000
+
+- Model/program: 2027 Rivian R1 Finally Gets Its Most Requested Feature, And It Costs Up To $4,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-rivian-r1-lineup/)
+
+### $7,890 Buys A BMW E46 Doing A Very Bad Mustang Impression
+
+- Model/program: $7,890 Buys A BMW E46 Doing A Very Bad Mustang Impression
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-e46-ford-mustang-replica/)
+
+### Nissan’s New Kicks Rock Creek Picks A Fight With The Subaru Crosstrek
+
+- Model/program: Nissan’s New Kicks Rock Creek Picks A Fight With The Subaru Crosstrek
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-nissan-kicks-rock-creek/)
+
+### Mercedes And IWC’s $47,200 Watch Is Wrong By One Day Every 1,040 Years
+
+- Model/program: Mercedes And IWC’s $47,200 Watch Is Wrong By One Day Every 1,040 Years
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/iwc-mercedes-benz-watch/)
+
+### Koenigsegg Built A 1,600-HP Hypercar Tribute To A Race Car That Never Raced
+
+- Model/program: Koenigsegg Built A 1,600-HP Hypercar Tribute To A Race Car That Never Raced
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/koenigsegg-ccgt1/)
+
+### CHP Is Catching Supercars At Monterey Car Week Like They’re Pokémon
+
+- Model/program: CHP Is Catching Supercars At Monterey Car Week Like They’re Pokémon
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chp-monterey-car-week-enforcement/)
+
+### Ford Spent $2 Billion On A Factory To Build Its $28K Fathom Pickup In Three Pieces
+
+- Model/program: Ford Spent $2 Billion On A Factory To Build Its $28K Fathom Pickup In Three Pieces
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-fathom-production/)
+
+### Acura Built A Sharp Sports Coupe Just To Sell You An SUV
+
+- Model/program: Acura Built A Sharp Sports Coupe Just To Sell You An SUV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/acura-nexera-vision/)
+
+### Someone Already Wrecked A 2027 Rivian R2 After Just 110 Miles
+
+- Model/program: Someone Already Wrecked A 2027 Rivian R2 After Just 110 Miles
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/rivian-r2-salvage-auction/)
+
+### Nobody Needed A Matte Green Carbon Escalade-V, But Here’s One Anyway
+
+- Model/program: Nobody Needed A Matte Green Carbon Escalade-V, But Here’s One Anyway
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/larte-escalade-v-carbon-kit/)
+
+### Porsche Brings The Manual Carrera S Back As A Junior GT3
+
+- Model/program: Porsche Brings The Manual Carrera S Back As A Junior GT3
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-911-carrera-manual/)
+
+### $25M Dealer Lawsuit Says Polestar Rigged Its Own US Ban, A Senator Says $35K Per Car Is Why
+
+- Model/program: $25M Dealer Lawsuit Says Polestar Rigged Its Own US Ban, A Senator Says $35K Per Car Is Why
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/polestar-dealers-25m-lawsuit/)
 
 ### This 240-Mile Rolls-Royce Cullinan Drew $555,551 And Still Went Home Unsold
 

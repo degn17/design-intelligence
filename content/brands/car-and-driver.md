@@ -2,13 +2,203 @@
 
 ## Current positioning
 
-Generated internal notes from 802 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 821 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Lincoln Nautilus
+
+- Model/program: 2027 Lincoln Nautilus
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lincoln/nautilus-2027)
+
+### View Photos of the 2027 Lincoln Nautilus
+
+- Model/program: View Photos of the 2027 Lincoln Nautilus
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73429983/2027-lincoln-nautilus-refresh-details-gallery/)
+
+### A Dream No Longer: Lucid Unveils the 1070-HP Gravity GT-S
+
+- Model/program: A Dream No Longer: Lucid Unveils the 1070-HP Gravity GT-S
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73402285/2027-lucid-gravity-gt-s-revealed/)
+
+### View Exterior Photos of the 2027 Lucid Gravity GT-S
+
+- Model/program: View Exterior Photos of the 2027 Lucid Gravity GT-S
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73393609/2027-lucid-gravity-gts-exterior-gallery/)
+
+### View Interior Photos of the 2027 Lucid Gravity GT-S
+
+- Model/program: View Interior Photos of the 2027 Lucid Gravity GT-S
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73393921/2027-lucid-gravity-gts-interior-gallery/)
+
+### We’re the First to Drive Meyers Manx’s Groovey Vintage-Styled EV Buggy
+
+- Model/program: We’re the First to Drive Meyers Manx’s Groovey Vintage-Styled EV Buggy
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73425521/electric-meyers-manx-first-drive/)
+
+### Brembo's New Six-Piston Calipers Are for Huge Trucks and SUVs
+
+- Model/program: Brembo's New Six-Piston Calipers Are for Huge Trucks and SUVs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73426997/brembo-boldika-brake-calipers-details/)
+
+### 2027 Kia Sportage Hybrid
+
+- Model/program: 2027 Kia Sportage Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/kia/sportage-hybrid-2027)
+
+### 2026 Pebble Beach and Monterey Car Week Live Blog
+
+- Model/program: 2026 Pebble Beach and Monterey Car Week Live Blog
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73424121/pebble-beach-2026-monterey-car-week-live-blog/)
+
+### 2026 Kia Sportage Hybrid
+
+- Model/program: 2026 Kia Sportage Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/kia/sportage-hybrid)
+
+### 2027 Lincoln Nautilus Looks Sleeker and More Refined
+
+- Model/program: 2027 Lincoln Nautilus Looks Sleeker and More Refined
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73425395/2027-lincoln-nautilus-refresh-details/)
+
+### 2027 Jeep Grand Cherokee Upland Is a Trailhawk-Lite for Under $50K
+
+- Model/program: 2027 Jeep Grand Cherokee Upland Is a Trailhawk-Lite for Under $50K
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73425770/2027-jeep-grand-cherokee-upland-revealed/)
+
+### 2026 Lexus LX Hybrid
+
+- Model/program: 2026 Lexus LX Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/lx-hybrid)
+
+### 2027 Porsche 911
+
+- Model/program: 2027 Porsche 911
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/porsche/911-2027)
+
+### 2027 Porsche 911 Carrera S Gets Its Manual Gearbox Back
+
+- Model/program: 2027 Porsche 911 Carrera S Gets Its Manual Gearbox Back
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73425346/2027-porsche-911-carrera-s-manual-option-details/)
+
+### Acura Lays Out Its Vision for the Future with the Nexera Concept
+
+- Model/program: Acura Lays Out Its Vision for the Future with the Nexera Concept
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73414496/acura-nexera-vision-concept-revealed/)
+
+### 1994 Chevrolet S-10 ZR2 Test: Big Dreams, Bigger Tires
+
+- Model/program: 1994 Chevrolet S-10 ZR2 Test: Big Dreams, Bigger Tires
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/1994-chevrolet-s-10-zr2-archive-test/)
+
+### Lincoln to Phase Out Chinese Imports, Expand U.S. Production
+
+- Model/program: Lincoln to Phase Out Chinese Imports, Expand U.S. Production
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73423893/lincoln-expand-us-production-phase-out-china/)
+
+### 2027 Nissan Kicks Rock Creek Tells the Subaru Crosstrek to Go Kick Rocks
+
+- Model/program: 2027 Nissan Kicks Rock Creek Tells the Subaru Crosstrek to Go Kick Rocks
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73415453/2027-nissan-kicks-rock-creek-revealed/)
 
 ### 2027 Chrysler Pacifica
 
