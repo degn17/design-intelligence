@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 821 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 839 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -29,6 +29,186 @@ Generated internal notes from 821 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/photos/a73429983/2027-lincoln-nautilus-refresh-details-gallery/)
+
+### Gordon Murray Strikes Again with the S1
+
+- Model/program: Gordon Murray Strikes Again with the S1
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73429418/gordon-murray-special-vehicles-s1-revealed/)
+
+### The Defender Dakar Is the Most Extreme Land Rover Yet
+
+- Model/program: The Defender Dakar Is the Most Extreme Land Rover Yet
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73396356/land-rover-defender-dakar-revealed/)
+
+### View Interior Photos of the 2027 Lamborghini Revuelto SV
+
+- Model/program: View Interior Photos of the 2027 Lamborghini Revuelto SV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73395546/2027-lamborghini-revuelto-sv-revealed-interior-gallery/)
+
+### 2027 Lamborghini Revuelto SV Gains More Power and Downforce
+
+- Model/program: 2027 Lamborghini Revuelto SV Gains More Power and Downforce
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73403892/2027-lamborghini-revuelto-sv-revealed/)
+
+### View Exterior Photos of the 2027 Lamborghini Revuelto SV
+
+- Model/program: View Exterior Photos of the 2027 Lamborghini Revuelto SV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73395543/2027-lamborghini-revuelto-sv-revealed-exterior-gallery/)
+
+### 2027 Lincoln Nautilus Hybrid
+
+- Model/program: 2027 Lincoln Nautilus Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lincoln/nautilus-hybrid-2027)
+
+### One-Off Ferrari CZ26 Is an Ode to Retro Industrial Design
+
+- Model/program: One-Off Ferrari CZ26 Is an Ode to Retro Industrial Design
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73436440/ferrari-cz26-revealed/)
+
+### The Spyker C8 Preliator XXV Packs a 789-HP V-8 Engine from Audi
+
+- Model/program: The Spyker C8 Preliator XXV Packs a 789-HP V-8 Engine from Audi
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73417176/spyker-c8-preliator-xxv-coupe-revealed/)
+
+### View Photos of the 2027 Lincoln Nautilus Hybrid
+
+- Model/program: View Photos of the 2027 Lincoln Nautilus Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73437718/2027-lincoln-nautilus-hybrid-gallery/)
+
+### View Photos of the Porsche Flachbau RS
+
+- Model/program: View Photos of the Porsche Flachbau RS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73416027/porsche-flachbau-rs-gallery/)
+
+### Porsche Revives the Slant Nose with the New One-of-One Flachbau RS
+
+- Model/program: Porsche Revives the Slant Nose with the New One-of-One Flachbau RS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73415606/porsche-gt2-rs-one-off-slant-nose-revealed/)
+
+### View Interior Photos of the 2027 Aston Martin Valen
+
+- Model/program: View Interior Photos of the 2027 Aston Martin Valen
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73403017/2027-aston-martin-valen-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 Aston Martin Valen
+
+- Model/program: View Exterior Photos of the 2027 Aston Martin Valen
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73402751/2027-aston-martin-valen-revealed-exterior-gallery/)
+
+### Brabus Bodo Cabriolet Arrives As the Open-Top Counterpart to the Coupe
+
+- Model/program: Brabus Bodo Cabriolet Arrives As the Open-Top Counterpart to the Coupe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73403733/brabus-bodo-cabriolet-reveal/)
+
+### Gunther Werks GXR-Evo Is a Naturally Aspirated Track Missile
+
+- Model/program: Gunther Werks GXR-Evo Is a Naturally Aspirated Track Missile
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73428070/gunther-werks-gxr-evo-revealed/)
+
+### Cadillac V-One Concept Brings Le Mans Race Car to the Showroom
+
+- Model/program: Cadillac V-One Concept Brings Le Mans Race Car to the Showroom
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73414510/cadillac-v-one-concept-revealed/)
+
+### Ruf Reveals an All-Wheel-Drive Grand Tourer Called the Ehra
+
+- Model/program: Ruf Reveals an All-Wheel-Drive Grand Tourer Called the Ehra
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73427410/ruf-ehra-revealed/)
+
+### Aston Martin Valen Is a Louder, Lighter Vanquish with Mean Looks and 838 HP
+
+- Model/program: Aston Martin Valen Is a Louder, Lighter Vanquish with Mean Looks and 838 HP
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73404044/aston-martin-valen-revealed/)
 
 ### A Dream No Longer: Lucid Unveils the 1070-HP Gravity GT-S
 

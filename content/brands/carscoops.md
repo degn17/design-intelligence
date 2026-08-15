@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1142 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1160 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Google’s Waymo Is Paying 127.5% Tariffs To Fill Its Robotaxi Fleet With Chinese EVs
+
+- Model/program: Google’s Waymo Is Paying 127.5% Tariffs To Fill Its Robotaxi Fleet With Chinese EVs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/waymo-zeekr-robotaxi-usa/)
+
+### Next-Gen Jeep Cherokee Trades Mexico For America, Arrives Sooner Than You Think
+
+- Model/program: Next-Gen Jeep Cherokee Trades Mexico For America, Arrives Sooner Than You Think
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2029-jeep-cherokee/)
 
 ### Lucid’s Gravity GT-S Pushes Electric Power To New Heights
 
@@ -39,6 +59,166 @@ Generated internal notes from 1142 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/2027-lincoln-nautilus/)
+
+### Mansory Thought Bugatti’s Mistral And Chiron Looked A Bit Plain. Peanut Butter Fixed That
+
+- Model/program: Mansory Thought Bugatti’s Mistral And Chiron Looked A Bit Plain. Peanut Butter Fixed That
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mansory-bugatti-mistral-chiron/)
+
+### Gordon Murray’s S1 Is An Analog Supercar For The Modern Era
+
+- Model/program: Gordon Murray’s S1 Is An Analog Supercar For The Modern Era
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gordon-murray-special-vehicles-s1/)
+
+### Your Volvo Can Grade Your Driving For Cheaper Insurance Premiums, If You Let It
+
+- Model/program: Your Volvo Can Grade Your Driving For Cheaper Insurance Premiums, If You Let It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/volvo-safety-coach-app/)
+
+### Lamborghini Introduces Fastest And Most Powerful Model Ever
+
+- Model/program: Lamborghini Introduces Fastest And Most Powerful Model Ever
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lamborghini-revuelto-sv-2/)
+
+### The People Who Perfected Alfa Restomods Are Making A Manual V12 Supercar
+
+- Model/program: The People Who Perfected Alfa Restomods Are Making A Manual V12 Supercar
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/totem-automobili-tiziano-platform/)
+
+### Ford Drops Its Most Powerful Mustang Convertible In History
+
+- Model/program: Ford Drops Its Most Powerful Mustang Convertible In History
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-mustang-dark-horse-sc-convertible/)
+
+### Tesla’s Redesigned ‘Flying’ Roadster Finally Debuts This Month. Maybe
+
+- Model/program: Tesla’s Redesigned ‘Flying’ Roadster Finally Debuts This Month. Maybe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/tesla-roadster-spacex-thrusters/)
+
+### The Defender Racer Won Dakar With 394 HP. The Street Version Makes 626
+
+- Model/program: The Defender Racer Won Dakar With 394 HP. The Street Version Makes 626
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/land-rover-defender-dakar/)
+
+### Porsche Reportedly Wants To Buy RUF After Singer Told It No
+
+- Model/program: Porsche Reportedly Wants To Buy RUF After Singer Told It No
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-ruf-acquisition/)
+
+### Porsche’s Slant-Nose 911 Is A Love Letter To Moby Dick, Bare Metal And All
+
+- Model/program: Porsche’s Slant-Nose 911 Is A Love Letter To Moby Dick, Bare Metal And All
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-flachbau-rs/)
+
+### Brabus’s $1.2M Bodo Cabriolet Uses Its Rear Spoiler As An Air Brake At 87 MPH
+
+- Model/program: Brabus’s $1.2M Bodo Cabriolet Uses Its Rear Spoiler As An Air Brake At 87 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/brabus-bodo-convertible-debut/)
+
+### Gunther Werks Built Its Fastest 911 Yet Without A Single Turbo
+
+- Model/program: Gunther Werks Built Its Fastest 911 Yet Without A Single Turbo
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gunther-werks-gxr-evo/)
+
+### Cadillac’s V-One Hints At Track-Focused Hypercar That Won’t Step On The Corvette
+
+- Model/program: Cadillac’s V-One Hints At Track-Focused Hypercar That Won’t Step On The Corvette
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/cadillac-v-one-concept/)
+
+### Aston’s New Valen Is The World’s Most Powerful Front-Engined Production Car
+
+- Model/program: Aston’s New Valen Is The World’s Most Powerful Front-Engined Production Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/aston-martin-valen-debut/)
+
+### RUF’s Ehra Is The Analog 911 Porsche Won’t Sell You
+
+- Model/program: RUF’s Ehra Is The Analog 911 Porsche Won’t Sell You
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ruf-ehra-monterey-car-week/)
+
+### The Curse Of Fisker Continues As Karma Reboots Their Delayed Gyesera
+
+- Model/program: The Curse Of Fisker Continues As Karma Reboots Their Delayed Gyesera
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-karma-gyesera/)
 
 ### China’s New GAC Yue 7 Wants The Defender’s Lunch And Also Its Face
 
