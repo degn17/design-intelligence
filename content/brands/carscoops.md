@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1160 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1169 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### BMW’s 2028 iX5 M Has No Engine, But It Might Embarrass The One That Does
+
+- Model/program: BMW’s 2028 iX5 M Has No Engine, But It Might Embarrass The One That Does
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-ix5m-nurburging-scoop/)
 
 ### Google’s Waymo Is Paying 127.5% Tariffs To Fill Its Robotaxi Fleet With Chinese EVs
 
@@ -29,6 +39,86 @@ Generated internal notes from 1160 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/2029-jeep-cherokee/)
+
+### Porsche Built The One 911 GT3 Money Can’t Buy In America
+
+- Model/program: Porsche Built The One 911 GT3 Money Can’t Buy In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-911-gt3-nurburgring-edition/)
+
+### Subaru Won’t Cover Her Blown Engine Because She Changed Her Own Oil
+
+- Model/program: Subaru Won’t Cover Her Blown Engine Because She Changed Her Own Oil
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/subaru-outback-warranty-denial/)
+
+### Toyota Built The 1997 Land Cruiser To Be Thrashed, This One Did 170 Miles A Year
+
+- Model/program: Toyota Built The 1997 Land Cruiser To Be Thrashed, This One Did 170 Miles A Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-land-cruiser-auction-monterey/)
+
+### Chevy’s 2026 Silverado ZR2 Is A Trail Weapon That Hates The Drive-Through
+
+- Model/program: Chevy’s 2026 Silverado ZR2 Is A Trail Weapon That Hates The Drive-Through
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chevrolet-silverado-zr2-review/)
+
+### Tesla’s Average Worker Would Need 2.5 Million Years To Match Musk’s 2025 Pay
+
+- Model/program: Tesla’s Average Worker Would Need 2.5 Million Years To Match Musk’s 2025 Pay
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/tesla-ceo-worker-pay-ratio/)
+
+### Porsche’s Poster-Child EV Is Reportedly Living On Borrowed Time
+
+- Model/program: Porsche’s Poster-Child EV Is Reportedly Living On Borrowed Time
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-taycan-discontinuation/)
+
+### America’s Oldest New Vehicle On Sale Today Is Getting A Color Touchscreen
+
+- Model/program: America’s Oldest New Vehicle On Sale Today Is Getting A Color Touchscreen
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chevrolet-express-touchscreen/)
+
+### Spyker’s Comeback Supercar Has 800 HP, Three Pedals, And The Restraint Of A Fabergé Egg
+
+- Model/program: Spyker’s Comeback Supercar Has 800 HP, Three Pedals, And The Restraint Of A Fabergé Egg
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/spyker-preliator-xxv/)
 
 ### Lucid’s Gravity GT-S Pushes Electric Power To New Heights
 

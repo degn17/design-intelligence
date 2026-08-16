@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 839 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 842 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Koenigsegg CCGT1 Pays Tribute to a Decades-Old Le Mans Dream
+
+- Model/program: Koenigsegg CCGT1 Pays Tribute to a Decades-Old Le Mans Dream
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73438334/koenigsegg-ccgt1-revealed/)
+
+### View Photos of the 1995 Cadillac SLS vs. Lincoln Continental
+
+- Model/program: View Photos of the 1995 Cadillac SLS vs. Lincoln Continental
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73427142/1995-cadillac-sls-vs-lincoln-continental-archive-comparison-test-gallery/)
+
+### 1995 America Luxorunners: Cadillac vs. Lincoln
+
+- Model/program: 1995 America Luxorunners: Cadillac vs. Lincoln
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a73378916/1995-cadillac-sls-vs-lincoln-continental-archive-comparison-test/)
 
 ### 2027 Lincoln Nautilus
 
