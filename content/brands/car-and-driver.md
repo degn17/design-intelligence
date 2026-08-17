@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 842 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 843 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 1935 Duesenberg SSJ Special Speedster Wins 2026 Pebble Beach Best of Show
+
+- Model/program: 1935 Duesenberg SSJ Special Speedster Wins 2026 Pebble Beach Best of Show
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73446879/best-of-show-2026-pebble-beach-concours-delegance/)
 
 ### Koenigsegg CCGT1 Pays Tribute to a Decades-Old Le Mans Dream
 

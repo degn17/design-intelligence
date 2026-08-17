@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1169 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1179 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### New Tech Can Link Your Phone And Dog’s Collar To Your License Plate In Maryland
+
+- Model/program: New Tech Can Link Your Phone And Dog’s Collar To Your License Plate In Maryland
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/signaltrace-maryland-surveillance/)
 
 ### BMW’s 2028 iX5 M Has No Engine, But It Might Embarrass The One That Does
 
@@ -19,6 +29,96 @@ Generated internal notes from 1169 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-ix5m-nurburging-scoop/)
+
+### Mercedes-AMG’s Flat-Plane V8 Mythos Is Being Built To Ruin The BMW M4
+
+- Model/program: Mercedes-AMG’s Flat-Plane V8 Mythos Is Being Built To Ruin The BMW M4
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mercedes-amg-cle63-mythos-spied/)
+
+### Ford Gave Up On The Police Sedan, So Dodge Is Bringing It Back
+
+- Model/program: Ford Gave Up On The Police Sedan, So Dodge Is Bringing It Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/dodge-charger-police-return/)
+
+### Hyundai Won’t Build This Elantra N Wagon, But It’d Be The Poor Man’s RS6 Avant
+
+- Model/program: Hyundai Won’t Build This Elantra N Wagon, But It’d Be The Poor Man’s RS6 Avant
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-elantra-n-wagon-render/)
+
+### A Cheaper US Defender Could Ride On Jeep Bones
+
+- Model/program: A Cheaper US Defender Could Ride On Jeep Bones
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jlr-defender-stellantis-us-production/)
+
+### Toyota Could Give The Prius A GR Sport Send-Off In 2027
+
+- Model/program: Toyota Could Give The Prius A GR Sport Send-Off In 2027
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-gr-prius-report/)
+
+### Jaecoo’s $26,000 ‘Temu Range Rover’ Is A Bargain Until You Actually Live With It
+
+- Model/program: Jaecoo’s $26,000 ‘Temu Range Rover’ Is A Bargain Until You Actually Live With It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jaecoo-j5-ev-review/)
+
+### Backup Cameras Have Triggered 21 Million Recalls, And It Isn’t The Camera’s Fault
+
+- Model/program: Backup Cameras Have Triggered 21 Million Recalls, And It Isn’t The Camera’s Fault
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/backup-camera-recalls/)
+
+### Finally, A Camper Trailer You Can Cruise Across A Lake For The Price of A Toyota
+
+- Model/program: Finally, A Camper Trailer You Can Cruise Across A Lake For The Price of A Toyota
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/sealander-amphibious-camper-ttailer/)
+
+### Washington Wants More American-Made Cars. Detroit Warns That’ll Cost You More
+
+- Model/program: Washington Wants More American-Made Cars. Detroit Warns That’ll Cost You More
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/detroit-usmca-content-tariffs/)
 
 ### Google’s Waymo Is Paying 127.5% Tariffs To Fill Its Robotaxi Fleet With Chinese EVs
 
