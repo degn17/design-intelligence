@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 843 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 856 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,136 @@ Generated internal notes from 843 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a73446879/best-of-show-2026-pebble-beach-concours-delegance/)
+
+### We Drive the Brabus Bodo Coupe and Talk with the High-End Tuner’s CEO
+
+- Model/program: We Drive the Brabus Bodo Coupe and Talk with the High-End Tuner’s CEO
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73446472/brabus-bodo-coupe-drive-ceo-interview/)
+
+### 2027 Mercedes-Benz C-Class Refresh Brings New Looks and More Tech
+
+- Model/program: 2027 Mercedes-Benz C-Class Refresh Brings New Looks and More Tech
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73456396/2027-mercedes-benz-c-class-refresh-revealed/)
+
+### Anything but Subtle: 1997 Hennessey Venom 550GTS Tested
+
+- Model/program: Anything but Subtle: 1997 Hennessey Venom 550GTS Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73405894/1997-hennessey-venom-550gts-archive-test/)
+
+### View Photos of the 1997 Hennessey Venom 550GTS
+
+- Model/program: View Photos of the 1997 Hennessey Venom 550GTS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73438036/1997-hennessey-venom-550gts-archive-test-gallery/)
+
+### The Most Unusual Cars We Saw at the 2026 Woodward Dream Cruise
+
+- Model/program: The Most Unusual Cars We Saw at the 2026 Woodward Dream Cruise
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73454418/2026-woodward-dream-cruise-most-unusual-cars/)
+
+### Idled Jeep Cherokee Plant Will Restart Later Than Expected
+
+- Model/program: Idled Jeep Cherokee Plant Will Restart Later Than Expected
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73453603/stellantis-jeep-cherokee-belvidere-plant-delayed/)
+
+### What Do You Get with the Chevy Silverado 1500’s Work Truck Trim?
+
+- Model/program: What Do You Get with the Chevy Silverado 1500’s Work Truck Trim?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73453917/chevrolet-silverado-work-truck-trim/)
+
+### View Interior Photos of the 2027 Mitsubishi Eclipse Sportback EV Prototype
+
+- Model/program: View Interior Photos of the 2027 Mitsubishi Eclipse Sportback EV Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73436193/2027-mitsubishi-eclipse-sportback-ev-prototype-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Mitsubishi Eclipse Sportback EV Prototype
+
+- Model/program: View Exterior Photos of the 2027 Mitsubishi Eclipse Sportback EV Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73436146/2027-mitsubishi-eclipse-sportback-prototype-drive-exterior-gallery/)
+
+### 2027 Eclipse Sportback Puts Mitsubishi Back in the EV Game
+
+- Model/program: 2027 Eclipse Sportback Puts Mitsubishi Back in the EV Game
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73431133/2027-mitsubishi-eclipse-sportback-prototype-drive/)
+
+### Tested: Best Windshield Wiper Blades
+
+- Model/program: Tested: Best Windshield Wiper Blades
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g40678649/best-windshield-wiper-blades-tested/)
+
+### The Coolest Cars We Saw at the 2026 Woodward Dream Cruise
+
+- Model/program: The Coolest Cars We Saw at the 2026 Woodward Dream Cruise
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73453367/2026-woodward-dream-cruise-coolest-cars/)
+
+### 2027 Porsche Panamera Turbo E-Hybrid / Turbo S E-Hybrid
+
+- Model/program: 2027 Porsche Panamera Turbo E-Hybrid / Turbo S E-Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/porsche/panamera-turbo-turbo-s-2027)
 
 ### Koenigsegg CCGT1 Pays Tribute to a Decades-Old Le Mans Dream
 

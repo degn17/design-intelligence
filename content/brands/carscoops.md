@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1179 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1197 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A Twice-Crashed McLaren Is Now The Priciest British Car Ever Auctioned
+
+- Model/program: A Twice-Crashed McLaren Is Now The Priciest British Car Ever Auctioned
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mclaren-f1-gtr-auction-record/)
+
+### BMW And Kith Throw A V10 And 6-Speed Manual Into First-Gen X5
+
+- Model/program: BMW And Kith Throw A V10 And 6-Speed Manual Into First-Gen X5
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-kith-x5/)
 
 ### New Tech Can Link Your Phone And Dog’s Collar To Your License Plate In Maryland
 
@@ -19,6 +39,166 @@ Generated internal notes from 1179 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/signaltrace-maryland-surveillance/)
+
+### Free Tool Tells You If Someone Ran Your Plate Through Flock, With One Big Catch
+
+- Model/program: Free Tool Tells You If Someone Ran Your Plate Through Flock, With One Big Catch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/haveibeenflocked-plate-search/)
+
+### Airstream Just Hired The Company That Shapes Ferraris To Redesign Its Trailers
+
+- Model/program: Airstream Just Hired The Company That Shapes Ferraris To Redesign Its Trailers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/airstream-pininfarina-design-partnership/)
+
+### The 2027 Charger’s Newest Color Is A Deep Red That Forgot To Be Red
+
+- Model/program: The 2027 Charger’s Newest Color Is A Deep Red That Forgot To Be Red
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/dodge-charger-red-oxide/)
+
+### Bentley’s Torcal Will Offer Something No Other Automobile Has
+
+- Model/program: Bentley’s Torcal Will Offer Something No Other Automobile Has
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bentley-torcal-wool-and-wood/)
+
+### Another Jeep Could Follow Next Cherokee Back To Its Old Illinois Home
+
+- Model/program: Another Jeep Could Follow Next Cherokee Back To Its Old Illinois Home
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jeep-compass-belvidere-production/)
+
+### Mexican Engineers Who Say They Were Put On The Line At Georgia Kia Plant Win $11.5M
+
+- Model/program: Mexican Engineers Who Say They Were Put On The Line At Georgia Kia Plant Win $11.5M
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-kia-engineer-settlement/)
+
+### Mini’s Newest Special Edition Is Just The Same Car Twice, Reversed
+
+- Model/program: Mini’s Newest Special Edition Is Just The Same Car Twice, Reversed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mini-cooper-rooftop-edition/)
+
+### Collectors Want A Stick-Shift, Lamborghini’s Boss Says That’s Exactly The Problem
+
+- Model/program: Collectors Want A Stick-Shift, Lamborghini’s Boss Says That’s Exactly The Problem
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lamborghini-manual-transmission-2/)
+
+### A Trooper’s PIT Move Put An Innocent Elderly Pair In The Hospital After A 130-MPH Chase
+
+- Model/program: A Trooper’s PIT Move Put An Innocent Elderly Pair In The Hospital After A 130-MPH Chase
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/arkansas-pit-maneuver-bystanders-injured/)
+
+### Used Cars Under $15K Are Vanishing, Down 20 Percent In A Year
+
+- Model/program: Used Cars Under $15K Are Vanishing, Down 20 Percent In A Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/used-car-inventory-pricing/)
+
+### Mercedes Gives The Gas C-Class A Bigger Overhaul Than Its New Grille Lets On
+
+- Model/program: Mercedes Gives The Gas C-Class A Bigger Overhaul Than Its New Grille Lets On
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mercedes-ice-c-class-facelift/)
+
+### This 1960s Mercedes W111 Coupe Is Really A 2020s AMG C63 S Coupe
+
+- Model/program: This 1960s Mercedes W111 Coupe Is Really A 2020s AMG C63 S Coupe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mercedes-w111-restomod/)
+
+### A Plate Reader Found Lapsed Insurance, The Cop Found 11 People Crammed In His Pathfinder
+
+- Model/program: A Plate Reader Found Lapsed Insurance, The Cop Found 11 People Crammed In His Pathfinder
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ontario-pathfinder-overloaded-charges/)
+
+### Korea’s Best-Selling New Car Right Now Is American, Not Korean
+
+- Model/program: Korea’s Best-Selling New Car Right Now Is American, Not Korean
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/tesla-model-y-korea-sales/)
+
+### Ex-Pininfarina Designer’s Japanese V12 Hypercar Stays Manual In An Age Of Automatics
+
+- Model/program: Ex-Pininfarina Designer’s Japanese V12 Hypercar Stays Manual In An Age Of Automatics
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ken-okuyama-kode89-hypercar/)
+
+### BYD’s New UK Flash Chargers Do In 9 Minutes What Most EV Rivals Do In An Hour
+
+- Model/program: BYD’s New UK Flash Chargers Do In 9 Minutes What Most EV Rivals Do In An Hour
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/byd-uk-flash-charging/)
 
 ### BMW’s 2028 iX5 M Has No Engine, But It Might Embarrass The One That Does
 
