@@ -2,13 +2,213 @@
 
 ## Current positioning
 
-Generated internal notes from 80 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 100 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Pascal Wehrlein becomes Formula E World Champion with Porsche again
+
+- Model/program: Pascal Wehrlein becomes Formula E World Champion with Porsche again
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/08/pascal-wehrlein-becomes-formula-e-world-champion-with-porsche-again.html)
+
+### Porsche’s most successful single-seater crosses the finish line for the final time
+
+- Model/program: Porsche’s most successful single-seater crosses the finish line for the final time
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-99x-electric-most-successful-porsche-single-seater-43062.html)
+
+### Maiden victory for rookie Chester Kieffer in action-packed race
+
+- Model/program: Maiden victory for rookie Chester Kieffer in action-packed race
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/08/maiden-victory-for-rookie-chester-kieffer-in-action-packed-race.html)
+
+### Pascal Wehrlein wins Saturday’s London race and moves into the championship lead
+
+- Model/program: Pascal Wehrlein wins Saturday’s London race and moves into the championship lead
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/08/formula-e-london-e-prix-race-one.html)
+
+### Robert de Haan keeps his cool in Eifel heat: Defending champion takes commanding victory
+
+- Model/program: Robert de Haan keeps his cool in Eifel heat: Defending champion takes commanding victory
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/08/porsche-carrera-cup-deutschland-nuerburgring-43060.html)
+
+### In the footsteps of Moby Dick: an extraordinary one-off slantnose model
+
+- Model/program: In the footsteps of Moby Dick: an extraordinary one-off slantnose model
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-sonderwunsch-911-GT2-RS-flachbau-42857.html)
+
+### Porsche pays tribute to 100 years of the Nürburgring with a market edition 911 GT3
+
+- Model/program: Porsche pays tribute to 100 years of the Nürburgring with a market edition 911 GT3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-911-gt3-100-years-nuerburgring-market-edition-43032.html)
+
+### Porsche launches Advanced Package for the Macan
+
+- Model/program: Porsche launches Advanced Package for the Macan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-macan-advanced-package-43029.html)
+
+### Cold Air – The New Business Model
+
+- Model/program: Cold Air – The New Business Model
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-ebm-papst-neo-cold-air-data-center-43035.html)
+
+### E-Shift: how Porsche is adding a new dimension to electric driving
+
+- Model/program: E-Shift: how Porsche is adding a new dimension to electric driving
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-e-shift-electromobility-43019.html)
+
+### Formula E: Historic colours for the finale
+
+- Model/program: Formula E: Historic colours for the finale
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-abb-fia-formula-e-world-championship-preview-london-43014.html)
+
+### Sir Chris Hoy on taking one corner at a time
+
+- Model/program: Sir Chris Hoy on taking one corner at a time
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-sir-chris-hoy-spa-francorchamps-911-gt3-rs-43004.html)
+
+### Magarigawa: Porsche GT Circle in Japan
+
+- Model/program: Magarigawa: Porsche GT Circle in Japan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-magarigawa-gt-circle-japan-42998.html)
+
+### Porsche Cars Australia presents the 911 Turbo S Land Down Under
+
+- Model/program: Porsche Cars Australia presents the 911 Turbo S Land Down Under
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-911-turbo-s-down-under-australia-42993.html)
+
+### Porsche Latin America and TECHO build house No. 911
+
+- Model/program: Porsche Latin America and TECHO build house No. 911
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/sustainability/porsche-latin-america-techo-house-911-42987.html)
+
+### Porsche realigns marketing: Serviceplan new global lead agency
+
+- Model/program: Porsche realigns marketing: Serviceplan new global lead agency
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-marketing-organisation-global-lead-agency-serviceplan-42989.html)
+
+### The sound of a global Porsche community: Megaphonics 26
+
+- Model/program: The sound of a global Porsche community: Megaphonics 26
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-megaphonics-community-meeting-oxfordshire-42984.html)
+
+### Bad luck for Porsche Penske, JDC-Miller MotorSports on the Podium
+
+- Model/program: Bad luck for Porsche Penske, JDC-Miller MotorSports on the Podium
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/08/bad-luck-for-porsche-penske-motorsport-jdc-miller-motorsports-on-the-podium.html)
+
+### Tribute to the Porsche Museum: Final 718 takes to the Racetrack
+
+- Model/program: Tribute to the Porsche Museum: Final 718 takes to the Racetrack
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-718-cayman-gt4-rs-clubsport-six-hour-race-nuerburgring-42972.html)
+
+### When the 924 redefined Porsche's DNA
+
+- Model/program: When the 924 redefined Porsche's DNA
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-transaxle-models-924-new-direction-42007.html)
 
 ### Porsche customer teams finish 1–2 in Tokyo as Dan Ticktum claims Saturday victory
 

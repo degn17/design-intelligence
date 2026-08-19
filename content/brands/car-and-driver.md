@@ -2,13 +2,163 @@
 
 ## Current positioning
 
-Generated internal notes from 856 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 871 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Report: Next-Gen Mini Cooper EV Could Go Rear-Wheel Drive
+
+- Model/program: Report: Next-Gen Mini Cooper EV Could Go Rear-Wheel Drive
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73466096/next-gen-mini-cooper-ev-rear-wheel-drive-report/)
+
+### Patent Reveals Production Design of Acura's DOA EV
+
+- Model/program: Patent Reveals Production Design of Acura's DOA EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73467130/acura-rsx-dead-production-patent-images/)
+
+### View Interior Photos of the 2026 Aston Martin Vantage S Roadster
+
+- Model/program: View Interior Photos of the 2026 Aston Martin Vantage S Roadster
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73465153/2026-aston-martin-vantage-s-roadster-interior-gallery/)
+
+### View Exterior Photos of the 2026 Aston Martin Vantage S Roadster
+
+- Model/program: View Exterior Photos of the 2026 Aston Martin Vantage S Roadster
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73465152/2026-aston-martin-vantage-s-roadster-exterior-gallery/)
+
+### View Interior Photos of the 2026 Toyota Land Cruiser 1958
+
+- Model/program: View Interior Photos of the 2026 Toyota Land Cruiser 1958
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73464952/view-interior-photos-of-the-2026-toyota-land-cruiser-1958/)
+
+### Toyota Says First Run of U.S.-Bound GR GTs Won’t Meet Demand ‘By Design’
+
+- Model/program: Toyota Says First Run of U.S.-Bound GR GTs Won’t Meet Demand ‘By Design’
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73463825/toyota-gr-gt-sold-out/)
+
+### View Exterior Photos of the 2026 Toyota Land Cruiser 1958
+
+- Model/program: View Exterior Photos of the 2026 Toyota Land Cruiser 1958
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73464851/2026-toyota-land-cruiser-1958-exterior-gallery/)
+
+### Dodge Is Bringing Back the Charger Police Car
+
+- Model/program: Dodge Is Bringing Back the Charger Police Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73458416/dodge-charger-police-car-returns/)
+
+### What MPG Does the Toyota Prius Get?
+
+- Model/program: What MPG Does the Toyota Prius Get?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73456022/toyota-prius-mpg-fuel-economy-details/)
+
+### View Interior Photos of the 2027 Mercedes-Benz C-Class
+
+- Model/program: View Interior Photos of the 2027 Mercedes-Benz C-Class
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73463031/2027-mercedes-benz-c-class-refresh-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 Mercedes-Benz C-Class
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-Benz C-Class
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73462906/2027-mercedes-benz-c-class-refresh-revealed-exterior-gallery/)
+
+### View Exterior Photos of the 2027 Toyota Sequoia Trailhunter Prototype
+
+- Model/program: View Exterior Photos of the 2027 Toyota Sequoia Trailhunter Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73453389/2027-toyota-sequoia-trailhunter-prototype-drive-exterior-gallery/)
+
+### View Exterior Photos of the 2027 Toyota Tundra Trailhunter Prototype
+
+- Model/program: View Exterior Photos of the 2027 Toyota Tundra Trailhunter Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73453078/2027-toyota-tundra-trailhunter-prototype-drive-exterior-gallery/)
+
+### Prototype Drive: 2027 Toyota Sequoia and Tundra Go Trail Hunting
+
+- Model/program: Prototype Drive: 2027 Toyota Sequoia and Tundra Go Trail Hunting
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73447484/2027-toyota-sequoia-tundra-trailhunter-prototype-drive/)
+
+### The Stick-Shift 2027 Porsche 911 Carrera S Wasn't Supposed to Happen
+
+- Model/program: The Stick-Shift 2027 Porsche 911 Carrera S Wasn't Supposed to Happen
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73457674/porsche-north-america-ceo-manual-transmission/)
 
 ### 1935 Duesenberg SSJ Special Speedster Wins 2026 Pebble Beach Best of Show
 

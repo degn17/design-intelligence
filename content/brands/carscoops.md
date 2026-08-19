@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1197 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1215 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ford Made A Fire-Fighting Ranger Super Duty That Runs Its Pumps On Sunshine
+
+- Model/program: Ford Made A Fire-Fighting Ranger Super Duty That Runs Its Pumps On Sunshine
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-ranger-super-duty-fire-truck/)
+
+### 2027 Nissan Sentra Goes Dark With New Midnight Edition
+
+- Model/program: 2027 Nissan Sentra Goes Dark With New Midnight Edition
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-nissan-sentra-updates/)
 
 ### A Twice-Crashed McLaren Is Now The Priciest British Car Ever Auctioned
 
@@ -29,6 +49,166 @@ Generated internal notes from 1197 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-kith-x5/)
+
+### One Family’s Gladiator Fire Case Hits Court As A Million-Jeep Recall Looms
+
+- Model/program: One Family’s Gladiator Fire Case Hits Court As A Million-Jeep Recall Looms
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jeep-gladiator-fire-lawsuit/)
+
+### As Gas Prices Soar, Americans Are Changing Their Driving Habits
+
+- Model/program: As Gas Prices Soar, Americans Are Changing Their Driving Habits
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/changing-transportation-habits/)
+
+### Aston Martin’s 838 HP Vanquish S Has An Exhaust Problem We Can’t Ignore
+
+- Model/program: Aston Martin’s 838 HP Vanquish S Has An Exhaust Problem We Can’t Ignore
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/aston-martins-838-hp-vanquish-s-has-an-exhaust-problem-we-cant-ignore/)
+
+### Skoda’s Facelifted Slavia Embraces AI And Modern Features
+
+- Model/program: Skoda’s Facelifted Slavia Embraces AI And Modern Features
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/skoda-slavia-facelift/)
+
+### GM Bans Used And Aftermarket Parts From All ADAS Collision Repairs
+
+- Model/program: GM Bans Used And Aftermarket Parts From All ADAS Collision Repairs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gm-adas-parts-warning/)
+
+### Toyota Celebrates 60 Years Of Corolla With New Special Edition
+
+- Model/program: Toyota Celebrates 60 Years Of Corolla With New Special Edition
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-toyota-corolla/)
+
+### Someone Wants $14,000 For A Pontiac Gallardo That Makes 98 HP
+
+- Model/program: Someone Wants $14,000 For A Pontiac Gallardo That Makes 98 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/fiero-gallardo-replica-ebay/)
+
+### North Carolina Legalizes AI Plate Cameras On Nearly Every State Road
+
+- Model/program: North Carolina Legalizes AI Plate Cameras On Nearly Every State Road
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/north-carolina-plate-readers/)
+
+### Grubhub And DoorDash Are Taking The Delivery Robots Uber Didn’t Want
+
+- Model/program: Grubhub And DoorDash Are Taking The Delivery Robots Uber Didn’t Want
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/serve-robotics-delivery-robots/)
+
+### Bugatti’s Boss Wants A Manual V16, And He Won’t Fake It Like Ferrari
+
+- Model/program: Bugatti’s Boss Wants A Manual V16, And He Won’t Fake It Like Ferrari
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bugatti-v16-manual-transmission/)
+
+### Mini’s Next Cooper Could Break The One Rule It’s Followed For Nearly 70 Years
+
+- Model/program: Mini’s Next Cooper Could Break The One Rule It’s Followed For Nearly 70 Years
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mini-cooper-rear-wheel-drive/)
+
+### Lincoln Wants To Build A Mercedes G-Class Rival On A Bronco For Half The Price
+
+- Model/program: Lincoln Wants To Build A Mercedes G-Class Rival On A Bronco For Half The Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lincoln-rugged-suv/)
+
+### GM To Lay Off Hundreds At Michigan Plant That Was Going To Build EVs
+
+- Model/program: GM To Lay Off Hundreds At Michigan Plant That Was Going To Build EVs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gm-lansing-layoffs-usa/)
+
+### $300K Camper Has A Fold-Out Balcony For The Middle Of Nowhere And A Hemi To Get You There
+
+- Model/program: $300K Camper Has A Fold-Out Balcony For The Middle Of Nowhere And A Hemi To Get You There
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/storyteller-gxv-wild-camper/)
+
+### Mercedes Gave Up On Taxis, Now It Wants Back In As BYD Circles
+
+- Model/program: Mercedes Gave Up On Taxis, Now It Wants Back In As BYD Circles
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mercedes-germany-taxi-sales/)
+
+### This Chinese EV Nailed Schumacher’s 360° Tunnel Loop, But Not The Way The Video Says
+
+- Model/program: This Chinese EV Nailed Schumacher’s 360° Tunnel Loop, But Not The Way The Video Says
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/voyah-passion-s-tunnel-stunt/)
 
 ### New Tech Can Link Your Phone And Dog’s Collar To Your License Plate In Maryland
 
