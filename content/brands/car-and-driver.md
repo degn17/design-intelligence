@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 871 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 880 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The Grand Tour Season 7 Trailer Has Everything It Needs to Succeed
+
+- Model/program: The Grand Tour Season 7 Trailer Has Everything It Needs to Succeed
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73476319/the-grand-tour-season-7-trailer/)
+
+### 2027 Nissan Murano Gets Price Increase After Dropping Base Model
+
+- Model/program: 2027 Nissan Murano Gets Price Increase After Dropping Base Model
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73476570/2027-nissan-murano-pricing/)
+
+### View Interior Photos of the 2026 Hyundai Venue
+
+- Model/program: View Interior Photos of the 2026 Hyundai Venue
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73414750/2026-hyundai-venue-sel-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Hyundai Venue
+
+- Model/program: View Exterior Photos of the 2026 Hyundai Venue
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73414712/2026-hyundai-venue-sel-test-exterior-gallery/)
+
+### 2026 Hyundai Venue Test: No Frills, No Surprises
+
+- Model/program: 2026 Hyundai Venue Test: No Frills, No Surprises
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73455753/2026-hyundai-venue-test/)
+
+### 2027 Hyundai Tucson
+
+- Model/program: 2027 Hyundai Tucson
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/hyundai/tucson-2027)
+
+### Aston Martin Vantage RS Spied Testing at the ‘Ring with Aggro Aero
+
+- Model/program: Aston Martin Vantage RS Spied Testing at the ‘Ring with Aggro Aero
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73474255/aston-martin-vantage-rs-spy-photos/)
+
+### Report: Ford Is Developing a Bronco-Based Pickup Truck by 2030
+
+- Model/program: Report: Ford Is Developing a Bronco-Based Pickup Truck by 2030
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73474686/ford-bronco-pickup-truck-2030-report/)
+
+### 2027 Hyundai Tucson Revealed with a Radical New Design
+
+- Model/program: 2027 Hyundai Tucson Revealed with a Radical New Design
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73469617/2027-hyundai-tucson-revealed/)
 
 ### Report: Next-Gen Mini Cooper EV Could Go Rear-Wheel Drive
 

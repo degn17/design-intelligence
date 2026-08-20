@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1215 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1233 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Speeding Is The New Normal As 79% Of Americans Exceed The Speed Limit
+
+- Model/program: Speeding Is The New Normal As 79% Of Americans Exceed The Speed Limit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/aaa-speeding-study/)
+
+### An American Hypercar Might Be Coming From The AMG One’s Nürburgring Record
+
+- Model/program: An American Hypercar Might Be Coming From The AMG One’s Nürburgring Record
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/czinger-nurburgring-lap-record/)
 
 ### Ford Made A Fire-Fighting Ranger Super Duty That Runs Its Pumps On Sunshine
 
@@ -29,6 +49,166 @@ Generated internal notes from 1215 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/2027-nissan-sentra-updates/)
+
+### The Era Of The 1,973 HP Wagon Could Be Upon Us
+
+- Model/program: The Era Of The 1,973 HP Wagon Could Be Upon Us
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/denza-z9-gt-special-edition-spied/)
+
+### BMW’s Fix For A Driveshaft Recall? Glue, Unless It’s Too Late
+
+- Model/program: BMW’s Fix For A Driveshaft Recall? Glue, Unless It’s Too Late
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-driveline-recall/)
+
+### Here’s Your First Look At The Grand Tour Reboot
+
+- Model/program: Here’s Your First Look At The Grand Tour Reboot
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/the-grand-tour-trailer/)
+
+### Cadillac Might Make That Hypercar Concept, If Enough Rich People Raise Their Hands
+
+- Model/program: Cadillac Might Make That Hypercar Concept, If Enough Rich People Raise Their Hands
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/cadillac-customer-hypercar-le-mans/)
+
+### Nissan’s 2027 Murano Adds Dark Armor Menace But Takes Away Your Cheapest Way In
+
+- Model/program: Nissan’s 2027 Murano Adds Dark Armor Menace But Takes Away Your Cheapest Way In
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-nissan-murano/)
+
+### Police Are Slipping Warning Cards Under Hyundai And Kia Wipers Again
+
+- Model/program: Police Are Slipping Warning Cards Under Hyundai And Kia Wipers Again
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-kia-theft-warning-police/)
+
+### Mazda Keeps Teasing Us With Rotary Sports Cars That Never Leave The Screen
+
+- Model/program: Mazda Keeps Teasing Us With Rotary Sports Cars That Never Leave The Screen
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mazda-rx-vision-gt3-evo/)
+
+### BMW’s New Wagon Is The Cure For Everyone Bored By Electric SUVs
+
+- Model/program: BMW’s New Wagon Is The Cure For Everyone Bored By Electric SUVs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-i3-touring-nurburgring/)
+
+### Finally, An Off-Road Camper Trailer That’s Cheaper Than The Truck You Tow It With
+
+- Model/program: Finally, An Off-Road Camper Trailer That’s Cheaper Than The Truck You Tow It With
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/motsmann-outranger-camper/)
+
+### Geely’s New Solid-State Battery Lasts 621,000 Miles And Starts Pilot Testing Next Year
+
+- Model/program: Geely’s New Solid-State Battery Lasts 621,000 Miles And Starts Pilot Testing Next Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/geely-solid-state-batteries/)
+
+### Two Good Samaritans Tried To Save A Driver In A Dangling Sequoia And Dropped Him Off A Ledge
+
+- Model/program: Two Good Samaritans Tried To Save A Driver In A Dangling Sequoia And Dropped Him Off A Ledge
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-sequoia-ledge-rollover/)
+
+### Rivian, Hyundai, Toyota, And Cadillac Are Fighting For Tesla’s Scraps
+
+- Model/program: Rivian, Hyundai, Toyota, And Cadillac Are Fighting For Tesla’s Scraps
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/tesla-electric-car-market-share/)
+
+### The Bronco Pickup Ford Refused To Build Is Reportedly Coming After All
+
+- Model/program: The Bronco Pickup Ford Refused To Build Is Reportedly Coming After All
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-bronco-pickup/)
+
+### Mazda’s Second-Best-Selling SUV Will Go 12 Years Without A Redesign
+
+- Model/program: Mazda’s Second-Best-Selling SUV Will Go 12 Years Without A Redesign
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mazda-cx-30-redesign-delay/)
+
+### The Steering Wheel In 13 BMW X3s Might Not Reliably Steer
+
+- Model/program: The Steering Wheel In 13 BMW X3s Might Not Reliably Steer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-x3-recall-steering/)
+
+### Can-Am’s Six-Wheeled Defender Concept Is Wonderfully Wild
+
+- Model/program: Can-Am’s Six-Wheeled Defender Concept Is Wonderfully Wild
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/can-am-sxs-concepts/)
 
 ### A Twice-Crashed McLaren Is Now The Priciest British Car Ever Auctioned
 
