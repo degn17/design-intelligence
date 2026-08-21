@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1233 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1251 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Genesis GV80 Hybrid Adds 47 HP And 25% Fuel Economy Boost
+
+- Model/program: Genesis GV80 Hybrid Adds 47 HP And 25% Fuel Economy Boost
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/genesis-gv80-hybrid-details/)
+
+### The BMW XM Splits Opinion Just Fine On Its Own. Larte Disagreed
+
+- Model/program: The BMW XM Splits Opinion Just Fine On Its Own. Larte Disagreed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/larte-carbon-bmw-xm/)
 
 ### Speeding Is The New Normal As 79% Of Americans Exceed The Speed Limit
 
@@ -29,6 +49,166 @@ Generated internal notes from 1233 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/czinger-nurburgring-lap-record/)
+
+### Jeep’s Latest Special Edition Is A Blacked Out Wrangler For Mama Bears
+
+- Model/program: Jeep’s Latest Special Edition Is A Blacked Out Wrangler For Mama Bears
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jeep-wrangler-smoky-mountain/)
+
+### California Is The First State To Regulate Your Replacement Tires, But Your Track Rubber Is Safe
+
+- Model/program: California Is The First State To Regulate Your Replacement Tires, But Your Track Rubber Is Safe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/california-tire-efficiency-standards/)
+
+### Aston Martin Is Open To Manuals Again, But With A Ferrari-Style Setup
+
+- Model/program: Aston Martin Is Open To Manuals Again, But With A Ferrari-Style Setup
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/aston-martin-manual-return/)
+
+### Toyota Sets The Record Straight: Not A Single GR GT Has Been Sold
+
+- Model/program: Toyota Sets The Record Straight: Not A Single GR GT Has Been Sold
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-gr-gt-sold-out/)
+
+### Lamborghini’s Newest Limited-Run Model Isn’t A Car, And It Costs $3,995
+
+- Model/program: Lamborghini’s Newest Limited-Run Model Isn’t A Car, And It Costs $3,995
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lamborghini-silver-cross-stroller/)
+
+### Dodge Keeps Recalling Durangos That Can Fall Apart While Driving
+
+- Model/program: Dodge Keeps Recalling Durangos That Can Fall Apart While Driving
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/dodge-duango-spoiler-recall-three/)
+
+### Tesla’s Design Boss Sent Model S Plaid Signature #001 Straight To Unplugged Performance, But Not For Tuning
+
+- Model/program: Tesla’s Design Boss Sent Model S Plaid Signature #001 Straight To Unplugged Performance, But Not For Tuning
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/von-holzhausen-model-s-plaid-signature/)
+
+### An American Sedan Just Smoked The New Corvette ZR1X To 200 MPH And Back
+
+- Model/program: An American Sedan Just Smoked The New Corvette ZR1X To 200 MPH And Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/200mph-to-zero-speed-test/)
+
+### Brembo’s Strongest Passenger Car Brake Ever Went To A Chevy Truck, Not A Ferrari Supercar
+
+- Model/program: Brembo’s Strongest Passenger Car Brake Ever Went To A Chevy Truck, Not A Ferrari Supercar
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/brembo-boldika-caliper/)
+
+### Turns Out The Fastest Way To Sell A $2.5M American Hypercar Is A Third Pedal
+
+- Model/program: Turns Out The Fastest Way To Sell A $2.5M American Hypercar Is A Third Pedal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hennessey-blackbird-sold-out/)
+
+### Honda’s Cheapest Type R Costs $41 And Goes On Your Kid’s Feet
+
+- Model/program: Honda’s Cheapest Type R Costs $41 And Goes On Your Kid’s Feet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-type-r-sneakers/)
+
+### This Ex-Army Camper Truck Has A Miele Oven And A Better Bathroom Than Your Apartment
+
+- Model/program: This Ex-Army Camper Truck Has A Miele Oven And A Better Bathroom Than Your Apartment
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/military-truck-overland-auction/)
+
+### Tesla Just Set A Date For The Semi’s European Debut
+
+- Model/program: Tesla Just Set A Date For The Semi’s European Debut
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/tesla-semi-europe-launch/)
+
+### Ford’s $4,010 F-150 Raptor Discount Comes With A $4,120 Catch
+
+- Model/program: Ford’s $4,010 F-150 Raptor Discount Comes With A $4,120 Catch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-ford-f150-raptor-price/)
+
+### LiveWire’s One Now Costs Less Than Half The Original Electric Harley
+
+- Model/program: LiveWire’s One Now Costs Less Than Half The Original Electric Harley
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/livewire-one-price-cut/)
+
+### Honda Might Have An Answer For The Crosstrek And Corolla Cross Hybrids
+
+- Model/program: Honda Might Have An Answer For The Crosstrek And Corolla Cross Hybrids
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-acura-adx-hybrid/)
 
 ### Ford Made A Fire-Fighting Ranger Super Duty That Runs Its Pumps On Sunshine
 

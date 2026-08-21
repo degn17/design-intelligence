@@ -2,13 +2,213 @@
 
 ## Current positioning
 
-Generated internal notes from 880 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 900 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2028 Genesis GV90
+
+- Model/program: 2028 Genesis GV90
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/genesis/gv90)
+
+### Genesis Reveals Details on the Upcoming GV80 Hybrid’s Powertrain
+
+- Model/program: Genesis Reveals Details on the Upcoming GV80 Hybrid’s Powertrain
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73487175/genesis-gv80-hybrid-details/)
+
+### 2027 Ford F-150 Raptor Gets a Price Cut to Challenge Its Ram Rival
+
+- Model/program: 2027 Ford F-150 Raptor Gets a Price Cut to Challenge Its Ram Rival
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73487285/2027-ford-f-150-raptor-pricing/)
+
+### Mazda Says the Next-Generation CX-30 SUV Isn’t Coming Until 2031
+
+- Model/program: Mazda Says the Next-Generation CX-30 SUV Isn’t Coming Until 2031
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73485325/mazda-cx-30-next-generation-delayed-2031/)
+
+### 2027 Hyundai Ioniq 5
+
+- Model/program: 2027 Hyundai Ioniq 5
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/hyundai/ioniq-5-2027)
+
+### Douglas-Kalmar TBL-280 Tugmaster
+
+- Model/program: Douglas-Kalmar TBL-280 Tugmaster
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a15140108/douglas-kalmar-tbl-280-tugmaster-specialty-file/)
+
+### Behind-the-Scenes Photos of the 0–150–0 Speed Test 2026
+
+- Model/program: Behind-the-Scenes Photos of the 0–150–0 Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73454294/0-150-0-mph-speed-test-2026-behind-the-scenes-gallery/)
+
+### Porsche Cayenne Turbo Electric at the 0–150–0-MPH Speed Test 2026
+
+- Model/program: Porsche Cayenne Turbo Electric at the 0–150–0-MPH Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73416307/porsche-cayenne-turbo-ev-0-150-0-speed-test-2026/)
+
+### Porsche 911 Turbo S at the 0–150–0-MPH Speed Test 2026
+
+- Model/program: Porsche 911 Turbo S at the 0–150–0-MPH Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73416152/porsche-911-turbo-s-0-150-0-speed-test-2026/)
+
+### Audi RS6 Avant at the 0–150–0-MPH Speed Test 2026
+
+- Model/program: Audi RS6 Avant at the 0–150–0-MPH Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73415383/audi-rs6-avant-0-150-0-speed-test-2026/)
+
+### Car and Driver’s 0–150–0 Speed Test 2026
+
+- Model/program: Car and Driver’s 0–150–0 Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73414330/0-150-0-speed-test-2026/)
+
+### BMW M2 CS at the 0–150–0-MPH Speed Test 2026
+
+- Model/program: BMW M2 CS at the 0–150–0-MPH Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73415566/bmw-m2-cs-0-150-0-speed-test-2026/)
+
+### Bentley Continental GT S at the 0–150–0-MPH Speed Test 2026
+
+- Model/program: Bentley Continental GT S at the 0–150–0-MPH Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73415467/bentley-continental-gt-s-0-150-0-speed-test-2026/)
+
+### Hyundai Elantra N at the 0–150–0-MPH Speed Test 2026
+
+- Model/program: Hyundai Elantra N at the 0–150–0-MPH Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73414843/hyundai-elantra-n-0-150-0-speed-test-2026/)
+
+### Lucid’s EV Supersedan Hits 200 MPH Way Quicker Than the Corvette ZR1X
+
+- Model/program: Lucid’s EV Supersedan Hits 200 MPH Way Quicker Than the Corvette ZR1X
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73477231/0-200-0-speed-test-corvette-zr1x/)
+
+### Dodge Charger Scat Pack at the 0–150–0-MPH Speed Test 2026
+
+- Model/program: Dodge Charger Scat Pack at the 0–150–0-MPH Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73415200/dodge-charger-scat-pack-0-150-0-speed-test-2026/)
+
+### Chevrolet Corvette ZR1X at the 0–150–0-MPH Speed Test 2026
+
+- Model/program: Chevrolet Corvette ZR1X at the 0–150–0-MPH Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73416687/chevrolet-corvette-zr1x-0-150-0-speed-test-2026/)
+
+### McLaren 750S at the 0–150–0-MPH Speed Test 2026
+
+- Model/program: McLaren 750S at the 0–150–0-MPH Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73416378/mclaren-750s-0-150-0-speed-test-2026/)
+
+### Porsche Taycan Turbo GT Weissach at the 0–150–0-MPH Speed Test 2026
+
+- Model/program: Porsche Taycan Turbo GT Weissach at the 0–150–0-MPH Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73416436/porsche-taycan-turbo-gt-weissach-0-150-0-speed-test-2026/)
+
+### BMW M5 at the 0–150–0-MPH Speed Test 2026
+
+- Model/program: BMW M5 at the 0–150–0-MPH Speed Test 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73416104/bmw-m5-0-150-0-speed-test-2026/)
 
 ### The Grand Tour Season 7 Trailer Has Everything It Needs to Succeed
 
