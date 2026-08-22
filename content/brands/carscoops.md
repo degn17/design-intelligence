@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1251 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1269 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### China’s Wackiest Electric Minivan Is Getting Another Update
+
+- Model/program: China’s Wackiest Electric Minivan Is Getting Another Update
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/li-auto-mega-update-china/)
+
+### Genesis G70 Could Lose Its Best Engine For 2027
+
+- Model/program: Genesis G70 Could Lose Its Best Engine For 2027
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-genesis-g70/)
 
 ### Genesis GV80 Hybrid Adds 47 HP And 25% Fuel Economy Boost
 
@@ -29,6 +49,166 @@ Generated internal notes from 1251 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/larte-carbon-bmw-xm/)
+
+### Toyota’s Fix For Its Self-Destructing V6 Is A Guy With A Mallet
+
+- Model/program: Toyota’s Fix For Its Self-Destructing V6 Is A Guy With A Mallet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-engine-recall-hammer-fix/)
+
+### Ford’s $28k Electric Truck Is Set To Spawn A New Lincoln Crossover
+
+- Model/program: Ford’s $28k Electric Truck Is Set To Spawn A New Lincoln Crossover
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lincoln-compact-ev/)
+
+### China’s Biggest Recall Ever Comes Down To One Part, And Tesla Owns Most Of It
+
+- Model/program: China’s Biggest Recall Ever Comes Down To One Part, And Tesla Owns Most Of It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/china-hidden-door-handle-recall/)
+
+### GM’s 6.2-Liter V8 Recall Mess Gets Worse As Engines Keep Failing After Fixes
+
+- Model/program: GM’s 6.2-Liter V8 Recall Mess Gets Worse As Engines Keep Failing After Fixes
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gm-6-2-v8-investigation/)
+
+### After 33 Years, A Stolen 1971 Chevelle SS Is Finally Back With Its Owner
+
+- Model/program: After 33 Years, A Stolen 1971 Chevelle SS Is Finally Back With Its Owner
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/33-years-after-vanishing-this-classic-chevy-chevelle-is-finally-back-home/)
+
+### Hyundai Workers Go On Strike For The First Time In A Decade And Robots Are Partly To Blame
+
+- Model/program: Hyundai Workers Go On Strike For The First Time In A Decade And Robots Are Partly To Blame
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-korea-strike/)
+
+### A Solar Sunroof For EVs Is Ready For Mass Production, Just Don’t Expect Miracles
+
+- Model/program: A Solar Sunroof For EVs Is Ready For Mass Production, Just Don’t Expect Miracles
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chinese-solar-roof-panels/)
+
+### Hyundai’s Georgia Plant Could Become America’s Largest Car Factory, And Trump’s Tariffs Are Why
+
+- Model/program: Hyundai’s Georgia Plant Could Become America’s Largest Car Factory, And Trump’s Tariffs Are Why
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-georgia-plant-expansion/)
+
+### AUDIs Built For China Are Sneaking Into Germany For Double The Price, Still Cheaper Than Some Audis
+
+- Model/program: AUDIs Built For China Are Sneaking Into Germany For Double The Price, Still Cheaper Than Some Audis
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/audi-china-ev-germany/)
+
+### Jeep’s Toughest Small SUV Is A Doctor Doom Avenger You’ll Never Get To Buy
+
+- Model/program: Jeep’s Toughest Small SUV Is A Doctor Doom Avenger You’ll Never Get To Buy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jeep-avenger-concepts/)
+
+### A Tesla Robotaxi Got Boxed In By Bollards, So It Bulldozed Its Way Out
+
+- Model/program: A Tesla Robotaxi Got Boxed In By Bollards, So It Bulldozed Its Way Out
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/tesla-robotaxi-austin-accident/)
+
+### Hyundai’s Ioniq V Looks Like A Lambo, Is As Big As A Camry, And Costs Less Than America’s Cheapest New Car
+
+- Model/program: Hyundai’s Ioniq V Looks Like A Lambo, Is As Big As A Camry, And Costs Less Than America’s Cheapest New Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-ioniq-v-china-pricing/)
+
+### 3.2 Million Cars In America Are Under Orders To Park Outside Before They Catch Fire
+
+- Model/program: 3.2 Million Cars In America Are Under Orders To Park Outside Before They Catch Fire
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/park-outside-recalls-usa/)
+
+### The White House Has No Idea What They’re Talking About: Rolls-Royce Edition
+
+- Model/program: The White House Has No Idea What They’re Talking About: Rolls-Royce Edition
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/white-house-rolls-royce-mistake/)
+
+### Ferrari Made Luxeed Prove Its RX Was Drawn By A Ferrari Guy, So It Named Him
+
+- Model/program: Ferrari Made Luxeed Prove Its RX Was Drawn By A Ferrari Guy, So It Named Him
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/luxeed-rx-ferrari-designer-2/)
+
+### Opel’s Cheapest New Car Is Now A Family SUV With Three Pedals And Steelies
+
+- Model/program: Opel’s Cheapest New Car Is Now A Family SUV With Three Pedals And Steelies
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/opel-frontera-start-pricing/)
 
 ### Speeding Is The New Normal As 79% Of Americans Exceed The Speed Limit
 

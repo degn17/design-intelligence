@@ -2,13 +2,133 @@
 
 ## Current positioning
 
-Generated internal notes from 900 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 912 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### NHTSA Opens Investigation into GM V-8s That Won’t Stop Imploding
+
+- Model/program: NHTSA Opens Investigation into GM V-8s That Won’t Stop Imploding
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73497654/nhtsa-investigation-general-motors-v8-failures/)
+
+### 2026 Aston Martin DB12 S Volante Drive: Can a $300K Convertible Be the Rational Choice?
+
+- Model/program: 2026 Aston Martin DB12 S Volante Drive: Can a $300K Convertible Be the Rational Choice?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73391121/2026-aston-martin-db12-s-convertible-drive/)
+
+### View Interior Photos of the 2027 Aston Martin DB12 S Volante
+
+- Model/program: View Interior Photos of the 2027 Aston Martin DB12 S Volante
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73404965/2027-aston-martin-db12-s-volante-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Aston Martin DB12 S Volante
+
+- Model/program: View Exterior Photos of the 2027 Aston Martin DB12 S Volante
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73404527/2027-aston-martin-db12-s-volante-drive-exterior-gallery/)
+
+### Fiat's Tiny Topolino Is Proving to Be a Popular Golf-Cart Substitute
+
+- Model/program: Fiat's Tiny Topolino Is Proving to Be a Popular Golf-Cart Substitute
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73496269/fiat-topolino-popular-golf-cart-substitute/)
+
+### We Test Chevy’s New Small-Block V-8 in the 2027 Corvette Grand Sport
+
+- Model/program: We Test Chevy’s New Small-Block V-8 in the 2027 Corvette Grand Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73485331/2027-chevy-corvette-grand-sport-new-v8-test-results/)
+
+### BMW Recalls 27,720 Cars That Could Roll Away or Lose Rear-Wheel Power
+
+- Model/program: BMW Recalls 27,720 Cars That Could Roll Away or Lose Rear-Wheel Power
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73496081/bmw-driveshaft-rear-differential-recall/)
+
+### Jeep’s Latest Special Edition Wrangler Only Costs an Extra $80
+
+- Model/program: Jeep’s Latest Special Edition Wrangler Only Costs an Extra $80
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73495630/2027-jeep-wrangler-smoky-mountain-special-edition-details/)
+
+### 2027 Genesis G70 Ditches V-6 for What Could Be Its Final Year on Sale
+
+- Model/program: 2027 Genesis G70 Ditches V-6 for What Could Be Its Final Year on Sale
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73488343/2027-genesis-g70-v-6-discontinued/)
+
+### California Officially Adopts Replacement Tire Efficiency Program
+
+- Model/program: California Officially Adopts Replacement Tire Efficiency Program
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73488040/california-official-replacement-tire-efficiency-program/)
+
+### View Photos of the 2027 Porsche Taycan Turbo GT Manthey
+
+- Model/program: View Photos of the 2027 Porsche Taycan Turbo GT Manthey
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73473877/2027-porsche-taycan-turbo-gt-manthey-racing-drive-gallery/)
+
+### 2027 Porsche Taycan Turbo GT Manthey Tracked: Maximum Taycan
+
+- Model/program: 2027 Porsche Taycan Turbo GT Manthey Tracked: Maximum Taycan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73467195/2027-porsche-taycan-turbo-gt-manthey-racing-drive/)
 
 ### 2028 Genesis GV90
 
