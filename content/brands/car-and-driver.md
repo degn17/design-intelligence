@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 912 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 914 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 1988 Mazda 323 GTX on Bring a Trailer
+
+- Model/program: 1988 Mazda 323 GTX on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73476479/1988-mazda-323-gtx-bring-a-trailer-auction/)
+
+### BMW and Kith Team Up to Build a One-Off X5 with a V-10 and a Manual
+
+- Model/program: BMW and Kith Team Up to Build a One-Off X5 with a V-10 and a Manual
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73498041/bmw-kith-x5-v10-manual-details/)
 
 ### NHTSA Opens Investigation into GM V-8s That Won’t Stop Imploding
 

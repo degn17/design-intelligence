@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1269 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1278 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Toyota’s Corolla KE70 Was Never A Pickup Until Someone In Poland Disagreed
+
+- Model/program: Toyota’s Corolla KE70 Was Never A Pickup Until Someone In Poland Disagreed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-corolla-ke70-ute-conversion/)
 
 ### China’s Wackiest Electric Minivan Is Getting Another Update
 
@@ -29,6 +39,86 @@ Generated internal notes from 1269 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/2027-genesis-g70/)
+
+### After Super Speeders, Florida’s Cops Are Now Cracking Down On Slow Drivers Too
+
+- Model/program: After Super Speeders, Florida’s Cops Are Now Cracking Down On Slow Drivers Too
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/florida-left-lane-enforcement/)
+
+### Dealers Only Need $1 Of Service To Erase $10 Of Lost Car Sales
+
+- Model/program: Dealers Only Need $1 Of Service To Erase $10 Of Lost Car Sales
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/dealers-service-sales-profits/)
+
+### Need A Porsche Or A GT-R For The Afterlife? This Shop Has You Covered
+
+- Model/program: Need A Porsche Or A GT-R For The Afterlife? This Shop Has You Covered
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hong-kong-paper-cars-funerals/)
+
+### New-Car Prices Are Going Up, But Your Discount Is Going Down
+
+- Model/program: New-Car Prices Are Going Up, But Your Discount Is Going Down
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/new-car-prices-discounts/)
+
+### We Drifted Zeekr’s Lineup On Ice, And The Cheapest One Surprised Us
+
+- Model/program: We Drifted Zeekr’s Lineup On Ice, And The Cheapest One Surprised Us
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/zeekr-on-ice-review/)
+
+### Winnebago’s $332K Off-Roader Makes You Want To Answer The Call Of The Wild, But Not The Call Of Nature
+
+- Model/program: Winnebago’s $332K Off-Roader Makes You Want To Answer The Call Of The Wild, But Not The Call Of Nature
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/winnebago-arka-truck-camper/)
+
+### One In Five Drivers Switches Off The Safety Tech Meant To Save Their Lives
+
+- Model/program: One In Five Drivers Switches Off The Safety Tech Meant To Save Their Lives
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/unused-car-features-study/)
+
+### The Smallest Mercedes-AMG SUV Is Almost Ready To Humble Cars Twice Its Price
+
+- Model/program: The Smallest Mercedes-AMG SUV Is Almost Ready To Humble Cars Twice Its Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mercedes-amg-gla-ev-spied-2/)
 
 ### Genesis GV80 Hybrid Adds 47 HP And 25% Fuel Economy Boost
 
