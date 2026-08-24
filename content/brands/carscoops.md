@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1278 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1287 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This One-Off Aston Martin Is Gloriously The Wedgiest Wagon On Four Wheels
+
+- Model/program: This One-Off Aston Martin Is Gloriously The Wedgiest Wagon On Four Wheels
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/aston-martin-lagonda-shooting-brake/)
 
 ### Toyota’s Corolla KE70 Was Never A Pickup Until Someone In Poland Disagreed
 
@@ -19,6 +29,86 @@ Generated internal notes from 1278 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-corolla-ke70-ute-conversion/)
+
+### America’s Cheapest New Car To Run Is The One Almost No One Wants
+
+- Model/program: America’s Cheapest New Car To Run Is The One Almost No One Wants
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/new-car-ownership-costs/)
+
+### Walking, Talking Factory Robots Are Here, But Humans Are Still Faster. For Now
+
+- Model/program: Walking, Talking Factory Robots Are Here, But Humans Are Still Faster. For Now
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/automakers-humanoid-robots-factory/)
+
+### Range Rover’s New GT Rendered As The Sedan-Like Crossover Gaydon Knows Will Split Buyers
+
+- Model/program: Range Rover’s New GT Rendered As The Sedan-Like Crossover Gaydon Knows Will Split Buyers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/range-rover-gt-electric-suv/)
+
+### Even Veyron Owners Balk At $42,000 Tires, But Bugatti’s $3,600 Fix Has A Catch
+
+- Model/program: Even Veyron Owners Balk At $42,000 Tires, But Bugatti’s $3,600 Fix Has A Catch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bugatti-veyron-wheels-tires/)
+
+### The New 2027 Jeep Compass e-Hybrid’s Rugged Looks Write A Check It Can’t Cash
+
+- Model/program: The New 2027 Jeep Compass e-Hybrid’s Rugged Looks Write A Check It Can’t Cash
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jeep-compass-e-hybrid-review/)
+
+### Infiniti’s Coolest Car Never Made Had A Tiny 3-Cylinder That Never Drove A Wheel
+
+- Model/program: Infiniti’s Coolest Car Never Made Had A Tiny 3-Cylinder That Never Drove A Wheel
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/infiniti-emerg-e-mid-engine/)
+
+### Kawasaki’s New $7,899 Electric Ninja Makes Just 12 HP For 15 Seconds
+
+- Model/program: Kawasaki’s New $7,899 Electric Ninja Makes Just 12 HP For 15 Seconds
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/kawasaki-ninja-e1-pricing/)
+
+### South America Gets A Charming Little VW Pickup You Can’t Have
+
+- Model/program: South America Gets A Charming Little VW Pickup You Can’t Have
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/vw-tukan-pickup-reveal/)
 
 ### China’s Wackiest Electric Minivan Is Getting Another Update
 

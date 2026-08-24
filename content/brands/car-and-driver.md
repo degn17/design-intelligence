@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 914 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 916 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Dukes of Hazzard Plymouth Fury Cop Car Appears on Bring a Trailer
+
+- Model/program: Dukes of Hazzard Plymouth Fury Cop Car Appears on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73476333/1971-plymouth-fury-cop-car-bring-a-trailer-auction/)
+
+### Porsche Has High Hopes for the Future of Sonderwunsch
+
+- Model/program: Porsche Has High Hopes for the Future of Sonderwunsch
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73494602/porsche-sonderwunsch-future-plans/)
 
 ### 1988 Mazda 323 GTX on Bring a Trailer
 
