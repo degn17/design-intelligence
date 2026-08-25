@@ -2,13 +2,73 @@
 
 ## Current positioning
 
-Generated internal notes from 916 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 922 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### BMW Blames Young People for Loss of Real Buttons in New Cars
+
+- Model/program: BMW Blames Young People for Loss of Real Buttons in New Cars
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73513693/bmw-executive-interview-loss-of-buttons/)
+
+### Toyota Recalls Tacoma TRD Off-Road Models for Faulty Dampers
+
+- Model/program: Toyota Recalls Tacoma TRD Off-Road Models for Faulty Dampers
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73513946/toyota-tacoma-trd-off-road-bilstein-damper-recall/)
+
+### Trump Threatens 50 Percent Tariffs on Canadian Autos as Trade Talks Fail
+
+- Model/program: Trump Threatens 50 Percent Tariffs on Canadian Autos as Trade Talks Fail
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73511341/trump-threatens-50-percent-auto-tariffs-canada/)
+
+### 2027 Hyundai Santa Cruz
+
+- Model/program: 2027 Hyundai Santa Cruz
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/hyundai/santa-cruz-2027)
+
+### View Interior Photos of the Long-Term 2026 Mazda CX-5 Premium Plus
+
+- Model/program: View Interior Photos of the Long-Term 2026 Mazda CX-5 Premium Plus
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71285684/2026-mazda-cx-5-premium-plus-reliability-maintenance-interior-gallery/)
+
+### 10,000 Miles in and We’re Still Experiencing Intermittent Bricking of the CX-5’s Infotainment
+
+- Model/program: 10,000 Miles in and We’re Still Experiencing Intermittent Bricking of the CX-5’s Infotainment
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71271745/2026-mazda-cx-5-premium-plus-reliability-maintenance/)
 
 ### Dukes of Hazzard Plymouth Fury Cop Car Appears on Bring a Trailer
 

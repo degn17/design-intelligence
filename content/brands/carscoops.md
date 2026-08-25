@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1287 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1305 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### China’s Most Famous Brand Might Sell A Million-Dollar Sedan In Australia
+
+- Model/program: China’s Most Famous Brand Might Sell A Million-Dollar Sedan In Australia
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hongqi-australia-launch-report/)
 
 ### This One-Off Aston Martin Is Gloriously The Wedgiest Wagon On Four Wheels
 
@@ -19,6 +29,176 @@ Generated internal notes from 1287 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/aston-martin-lagonda-shooting-brake/)
+
+### Lamborghini Tricolore Returns After A 15 Year Absence And It’s Packing Nearly Twice The Power
+
+- Model/program: Lamborghini Tricolore Returns After A 15 Year Absence And It’s Packing Nearly Twice The Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lamborghini-temerario-tricolore/)
+
+### Two Recalls Later, The Dodge Durango’s Spoiler Still Won’t Stay Down
+
+- Model/program: Two Recalls Later, The Dodge Durango’s Spoiler Still Won’t Stay Down
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/dodge-durango-spoiler-recall/)
+
+### Chinese Brands Released 542 Models In Five Months And Officials Are Getting Worried
+
+- Model/program: Chinese Brands Released 542 Models In Five Months And Officials Are Getting Worried
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chinese-automakers-lauching-too-many-models/)
+
+### One More Special BMW M2 Is Rumored Before 2029
+
+- Model/program: One More Special BMW M2 Is Rumored Before 2029
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-m2-next-report/)
+
+### Ram Auctioning First Production Rumble Bee SRT And It Comes With A V10 Surprise
+
+- Model/program: Ram Auctioning First Production Rumble Bee SRT And It Comes With A V10 Surprise
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ram-1500-rumble-bee-srt-auction/)
+
+### Genesis Could Give The GV90 A Gas Engine To Do What Cadillac’s EV Won’t
+
+- Model/program: Genesis Could Give The GV90 A Gas Engine To Do What Cadillac’s EV Won’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/genesis-gv90-erev-report/)
+
+### GM Strikes Deal With Canadian Autoworkers
+
+- Model/program: GM Strikes Deal With Canadian Autoworkers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gm-unifor-deal/)
+
+### BMW Thinks Drivers Under 45 Are Done Poking Buttons. Other Brands Disagree
+
+- Model/program: BMW Thinks Drivers Under 45 Are Done Poking Buttons. Other Brands Disagree
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-buttons-dashboard/)
+
+### Cobblestone Car Wash Owes 71,235 Members $19 Each For A Subscription They Couldn’t Quit
+
+- Model/program: Cobblestone Car Wash Owes 71,235 Members $19 Each For A Subscription They Couldn’t Quit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/cobblestone-car-wash-settlement/)
+
+### Dealer Allegedly Crashes Owner’s Rare Hellcat, Then Tries To Sell Him Another At Sticker
+
+- Model/program: Dealer Allegedly Crashes Owner’s Rare Hellcat, Then Tries To Sell Him Another At Sticker
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hellcat-dealer-service-crash/)
+
+### Totem’s Latest Alfa Is So Beautiful Inside You’ll Forget To Start That Twin-Turbo V6
+
+- Model/program: Totem’s Latest Alfa Is So Beautiful Inside You’ll Forget To Start That Twin-Turbo V6
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/totem-super-gt-monterey/)
+
+### Honda’s 2028 Accord Might Fake Manual Shifts, And Also Grow A Fastback Roof
+
+- Model/program: Honda’s 2028 Accord Might Fake Manual Shifts, And Also Grow A Fastback Roof
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-accord-next-generation/)
+
+### Darth Vader Tells San Diego Council The Empire Loves Its Flock Cameras
+
+- Model/program: Darth Vader Tells San Diego Council The Empire Loves Its Flock Cameras
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/san-diego-flock-cameras-vader/)
+
+### Trump Threatens 50% Tariffs On Canadian Cars, Ontario Threatens To Cut The Power (Updated)
+
+- Model/program: Trump Threatens 50% Tariffs On Canadian Cars, Ontario Threatens To Cut The Power (Updated)
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/us-canada-auto-tariffs/)
+
+### Missouri Says You Can Drive 75 MPH On August 28, Just Don’t Actually Do It Yet
+
+- Model/program: Missouri Says You Can Drive 75 MPH On August 28, Just Don’t Actually Do It Yet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/missouri-speed-limit-change/)
+
+### Toyota’s New MR2 Might Arrive In 2028 Without A Single Toyota Badge
+
+- Model/program: Toyota’s New MR2 Might Arrive In 2028 Without A Single Toyota Badge
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-mr2-revival/)
+
+### Suzuki’s New Electric Kei Car Squeezes 193 Miles From A Really Tiny Battery
+
+- Model/program: Suzuki’s New Electric Kei Car Squeezes 193 Miles From A Really Tiny Battery
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/suzuki-e-sky-kei-ev/)
 
 ### Toyota’s Corolla KE70 Was Never A Pickup Until Someone In Poland Disagreed
 
