@@ -2,13 +2,163 @@
 
 ## Current positioning
 
-Generated internal notes from 922 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 937 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Lincoln Corsair Keeps the Compact Luxury SUV Alive
+
+- Model/program: 2027 Lincoln Corsair Keeps the Compact Luxury SUV Alive
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73522942/2027-lincoln-corsair-hybrid-details/)
+
+### View Interior Photos of the 2027 Lincoln Corsair Hybrid
+
+- Model/program: View Interior Photos of the 2027 Lincoln Corsair Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73524108/2027-lincoln-corsair-hybrid-details-interior-gallery/)
+
+### View Exterior Photos of the 2027 Lincoln Corsair Hybrid
+
+- Model/program: View Exterior Photos of the 2027 Lincoln Corsair Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73524080/2027-lincoln-corsair-hybrid-details-exterior-gallery/)
+
+### 2027 Chevrolet Traverse
+
+- Model/program: 2027 Chevrolet Traverse
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/chevrolet/traverse-2027)
+
+### Volkswagen Teases Next-Gen Version of Its Amarok Pickup Truck
+
+- Model/program: Volkswagen Teases Next-Gen Version of Its Amarok Pickup Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73520708/volkswagen-amarok-next-gen-hybrid-truck-teased/)
+
+### 2027 Lexus ES vs. Toyota Crown: What's the Better Hybrid Luxury Sedan to Buy?
+
+- Model/program: 2027 Lexus ES vs. Toyota Crown: What's the Better Hybrid Luxury Sedan to Buy?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73456129/lexus-es-vs-toyota-crown-what-to-buy/)
+
+### Next-Generation Honda Ridgeline Will Hone a Successful Formula
+
+- Model/program: Next-Generation Honda Ridgeline Will Hone a Successful Formula
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73516521/next-generation-honda-ridgeline-unibody-rugged/)
+
+### Test: You Can Feel the 1994 Acura Integra LS in Your Fingertips
+
+- Model/program: Test: You Can Feel the 1994 Acura Integra LS in Your Fingertips
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73464093/1994-acura-integra-ls-archive-test/)
+
+### View Exterior Photos of the 2028 Audi Nuvolari Prototype
+
+- Model/program: View Exterior Photos of the 2028 Audi Nuvolari Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73511516/2028-audi-nuvolari-prototype-drive-exterior-gallery/)
+
+### View Interior Photos of the 2027 Chevy Traverse High Country
+
+- Model/program: View Interior Photos of the 2027 Chevy Traverse High Country
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73516236/2027-chevy-traverse-high-country-revealed-interior-gallery/)
+
+### Audi Makes an Audacious Return to Supercardom with the 987-HP Nuvolari
+
+- Model/program: Audi Makes an Audacious Return to Supercardom with the 987-HP Nuvolari
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73496871/2028-audi-nuvolari-prototype-drive/)
+
+### 2027 Chevy Traverse Debuts Evolved Version of the High Country
+
+- Model/program: 2027 Chevy Traverse Debuts Evolved Version of the High Country
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73516137/2027-chevy-traverse-high-country-revealed/)
+
+### View Exterior Photos of the 2027 Chevy Traverse High Country
+
+- Model/program: View Exterior Photos of the 2027 Chevy Traverse High Country
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73516168/2027-chevy-traverse-high-country-revealed-exterior-gallery/)
+
+### View Interior Photos of the 2028 Audi Nuvolari Prototype
+
+- Model/program: View Interior Photos of the 2028 Audi Nuvolari Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73511618/2028-audi-nuvolari-prototype-drive-interior-gallery/)
+
+### Two Loud Ram Street Trucks Are Heading to Auction for Charity
+
+- Model/program: Two Loud Ram Street Trucks Are Heading to Auction for Charity
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73514509/2027-ram-rumble-bee-srt-2005-ram-srt-10-ufc-charity-auction/)
 
 ### BMW Blames Young People for Loss of Real Buttons in New Cars
 

@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 100 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 108 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Icon: The Spherical Fuel Tank of the Porsche 909 Bergspyder
+
+- Model/program: Icon: The Spherical Fuel Tank of the Porsche 909 Bergspyder
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-lightweight-spherical-fuel-tank-909-bergspyder-43109.html)
+
+### Porsche sells MHP to Tata Consultancy Services
+
+- Model/program: Porsche sells MHP to Tata Consultancy Services
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-mhp-sale-tata-consultancy-services-43113.html)
+
+### Porsche Junior Flynt Schuring is the New Supercup Champion
+
+- Model/program: Porsche Junior Flynt Schuring is the New Supercup Champion
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/08/porsche-junior-flynt-schuring-is-the-new-supercup-champion.html)
+
+### Rookie Paul Cauhaupé celebrates his first Supercup victory
+
+- Model/program: Rookie Paul Cauhaupé celebrates his first Supercup victory
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/08/rookie-paul-cauhaup-celebrates-his-first-supercup-victory.html)
+
+### Porsche introduces Gallium Nitride Technology for high-end audio
+
+- Model/program: Porsche introduces Gallium Nitride Technology for high-end audio
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/innovation/porsche-burmester-high-end-audio-gallium-nitride-43089.html)
+
+### Racing for Charity: Porsche donates 500,000 euros
+
+- Model/program: Racing for Charity: Porsche donates 500,000 euros
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-abb-fia-formula-e-world-championship-racing-for-charity-43099.html)
+
+### Monterey Car Week 2026: Porsche presents exclusive highlights
+
+- Model/program: Monterey Car Week 2026: Porsche presents exclusive highlights
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-flachbau-rs-monterey-car-week-2026-43079.html)
+
+### Meet the life-saving doctor and his rapid-response Porsche Macan
+
+- Model/program: Meet the life-saving doctor and his rapid-response Porsche Macan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-dr-john-ferries-macan-gts-43075.html)
 
 ### Pascal Wehrlein becomes Formula E World Champion with Porsche again
 

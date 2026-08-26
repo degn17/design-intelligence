@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1305 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1323 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Now’s Your Chance To Buy An Ex-SEMA ’73 Camaro With 680 HP
+
+- Model/program: Now’s Your Chance To Buy An Ex-SEMA ’73 Camaro With 680 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chevy-camaro-rs-sema-auction/)
 
 ### China’s Most Famous Brand Might Sell A Million-Dollar Sedan In Australia
 
@@ -19,6 +29,176 @@ Generated internal notes from 1305 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/hongqi-australia-launch-report/)
+
+### Are Cadillac And Lincoln Making A Mistake By Killing Off Affordable Luxury?
+
+- Model/program: Are Cadillac And Lincoln Making A Mistake By Killing Off Affordable Luxury?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/cadillac-lincoln-afforable-luxury/)
+
+### Pedestrian Cheats Death After Being Hit By Corvette That Crashed Into Mercedes SUV
+
+- Model/program: Pedestrian Cheats Death After Being Hit By Corvette That Crashed Into Mercedes SUV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/corvette-mercedes-new-york-crash/)
+
+### Mercedes-AMG Appears To Be Chasing The Autonomous Nurburgring Record
+
+- Model/program: Mercedes-AMG Appears To Be Chasing The Autonomous Nurburgring Record
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mercedes-amg-gt-autonomous/)
+
+### Nissan Note Aura Nismo Goes Full Stealth, But We’re Still Waiting For The Widebody RS
+
+- Model/program: Nissan Note Aura Nismo Goes Full Stealth, But We’re Still Waiting For The Widebody RS
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/nissan-note-japan-update/)
+
+### A 2026 Porsche Macan Turbo EV Lost Nearly $50,000 After Just Three Months And 2K Miles
+
+- Model/program: A 2026 Porsche Macan Turbo EV Lost Nearly $50,000 After Just Three Months And 2K Miles
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-macan-ev-auction-usa/)
+
+### This $64.99 Lego Dodge Viper Has Moving V10 Pistons
+
+- Model/program: This $64.99 Lego Dodge Viper Has Moving V10 Pistons
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lego-dodge-viper-model/)
+
+### Watch Out Denali, Chevrolet Is Revamping Their Range-Topping Trim
+
+- Model/program: Watch Out Denali, Chevrolet Is Revamping Their Range-Topping Trim
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-chevrolet-traverse/)
+
+### The Lincoln Corsair Is Back As An Overpriced, Chinese Import
+
+- Model/program: The Lincoln Corsair Is Back As An Overpriced, Chinese Import
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-lincoln-corsair-hybrid-2/)
+
+### Tesla’s Cybertruck Isn’t Selling, So Naturally It Now Costs $5,000 More
+
+- Model/program: Tesla’s Cybertruck Isn’t Selling, So Naturally It Now Costs $5,000 More
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/teslas-cybertruck-isnt-selling-so-naturally-it-now-costs-5000-more/)
+
+### The 2027 Corvette GS Out-Grips The Z06 And The ZR1, But An Old C7 GS Out-Brakes It
+
+- Model/program: The 2027 Corvette GS Out-Grips The Z06 And The ZR1, But An Old C7 GS Out-Brakes It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chevy-corvette-grand-sport-test/)
+
+### Mitsubishi Pajero Has A Debut Date But America Launch Still Undecided
+
+- Model/program: Mitsubishi Pajero Has A Debut Date But America Launch Still Undecided
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mitsubishi-pajero-has-a-debut-date-but-america-launch-still-undecided/)
+
+### Nissan Built 149 Altimas With Airbags Held In Place By The Wrong Bolts
+
+- Model/program: Nissan Built 149 Altimas With Airbags Held In Place By The Wrong Bolts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/nissan-altima-airbag-recall/)
+
+### Hyundai Settles With Striking Workers Worried Robots Will Take Their Jobs
+
+- Model/program: Hyundai Settles With Striking Workers Worried Robots Will Take Their Jobs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-korea-union-deal/)
+
+### This One-Off $3.5 Million G-Class Hides Its Priciest Work On The Roof
+
+- Model/program: This One-Off $3.5 Million G-Class Hides Its Priciest Work On The Roof
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/carlex-mercedes-g-class-abu-dhabi/)
+
+### Mitsubishi Is Finally Making A Pickup For America, But Not On Its Own
+
+- Model/program: Mitsubishi Is Finally Making A Pickup For America, But Not On Its Own
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mitsubishi-pickup-nissan/)
+
+### Dreame Is Over: Chinese Vacuum Brand Behind Copycat Bugatti Reportedly Quits Before Selling A Single Car
+
+- Model/program: Dreame Is Over: Chinese Vacuum Brand Behind Copycat Bugatti Reportedly Quits Before Selling A Single Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/dreame-car-business-shutdown/)
+
+### Lamborghini’s CEO Says China’s Fastest Cars Are Missing One Thing He Won’t Sell Without
+
+- Model/program: Lamborghini’s CEO Says China’s Fastest Cars Are Missing One Thing He Won’t Sell Without
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lamborghini-chinese-supercars/)
 
 ### This One-Off Aston Martin Is Gloriously The Wedgiest Wagon On Four Wheels
 
