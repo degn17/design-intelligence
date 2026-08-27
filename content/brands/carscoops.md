@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 1323 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1341 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The World’s First $3M Koenigsegg Gemera Got Smashed Days After Its Owner Took Delivery
+
+- Model/program: The World’s First $3M Koenigsegg Gemera Got Smashed Days After Its Owner Took Delivery
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/koenigsegg-gemera-damaged/)
+
+### Lamborghini’s New $4,999 Baby Stroller Is Rarer Than The Revuelto SV
+
+- Model/program: Lamborghini’s New $4,999 Baby Stroller Is Rarer Than The Revuelto SV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lamborghini-silver-cross-newbaby-stroller/)
+
+### Failing Front Camera Cost One Honda Owner Nearly $3,000, Lawsuit Says
+
+- Model/program: Failing Front Camera Cost One Honda Owner Nearly $3,000, Lawsuit Says
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-front-sensor-lawsuit/)
+
+### Kia’s Three-Row EV9 Recalled Over Airbag Issue
+
+- Model/program: Kia’s Three-Row EV9 Recalled Over Airbag Issue
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/kia-ev9-airbag-recall/)
 
 ### Now’s Your Chance To Buy An Ex-SEMA ’73 Camaro With 680 HP
 
@@ -19,6 +59,146 @@ Generated internal notes from 1323 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/chevy-camaro-rs-sema-auction/)
+
+### Six Ford Explorers Need New Engines As Their Originals Might Blow Up
+
+- Model/program: Six Ford Explorers Need New Engines As Their Originals Might Blow Up
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-explorer-engine-recall/)
+
+### Hyundai Is Slashing Battery Costs And Increasing Their Lifespan By 20%
+
+- Model/program: Hyundai Is Slashing Battery Costs And Increasing Their Lifespan By 20%
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-battery-autonomous-update/)
+
+### MG Will Sell You A Three-Row EV For Just $14,600, Batteries Not Included
+
+- Model/program: MG Will Sell You A Three-Row EV For Just $14,600, Batteries Not Included
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/mg-hector-tomahawk/)
+
+### Hyundai Is Launching More Than 100 New Vehicles By 2030
+
+- Model/program: Hyundai Is Launching More Than 100 New Vehicles By 2030
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-ceo-investor-day-2026/)
+
+### Ferrari Might Yank The Hybrid Out Of Its Wildest 296 Yet
+
+- Model/program: Ferrari Might Yank The Hybrid Out Of Its Wildest 296 Yet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ferrari-296-challenge-road-car/)
+
+### Porsche 911 Challenge Debuts As $275k Entry-Level Race Car
+
+- Model/program: Porsche 911 Challenge Debuts As $275k Entry-Level Race Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-911-challenge-racer/)
+
+### Good News, There’s A Cheaper Way Into Hyundai N Coming, Plus A RWD Surprise
+
+- Model/program: Good News, There’s A Cheaper Way Into Hyundai N Coming, Plus A RWD Surprise
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/good-news-theres-a-cheaper-way-into-hyundai-n-coming-plus-a-rwd-surprise/)
+
+### Jeep’s New Chinese EVs Will Run On Dongfeng Batteries, And They’re Not Staying Home
+
+- Model/program: Jeep’s New Chinese EVs Will Run On Dongfeng Batteries, And They’re Not Staying Home
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jeep-dongfeng-chinese-production/)
+
+### Updated Renault 5 Borrows The Clio Williams Look But Gains Miles, Not Speed
+
+- Model/program: Updated Renault 5 Borrows The Clio Williams Look But Gains Miles, Not Speed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/renault-5-etech-update/)
+
+### Land Rover Delays Electric Defender Because The Gas One Won’t Stop Selling
+
+- Model/program: Land Rover Delays Electric Defender Because The Gas One Won’t Stop Selling
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/land-rover-defender-ev-plans/)
+
+### Honda Threatens To Walk Away From A New Plant It Admits It Needs
+
+- Model/program: Honda Threatens To Walk Away From A New Plant It Admits It Needs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-north-american-plant-trade/)
+
+### GR’s New Lexus RX Morizo RR Is Coming To Bully The BMW X5 M
+
+- Model/program: GR’s New Lexus RX Morizo RR Is Coming To Bully The BMW X5 M
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lexus-rx-morizo-rr-spied/)
+
+### Europe’s 60th Anniversary Corolla Gets A Color The Rest Of Us Don’t
+
+- Model/program: Europe’s 60th Anniversary Corolla Gets A Color The Rest Of Us Don’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-corolla-60th-europe/)
+
+### Polestar Tells Dealers It Still Doesn’t Know Why It Was Banned In The US While Volvo Wasn’t
+
+- Model/program: Polestar Tells Dealers It Still Doesn’t Know Why It Was Banned In The US While Volvo Wasn’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/polestar-usa-ban-volvo/)
 
 ### China’s Most Famous Brand Might Sell A Million-Dollar Sedan In Australia
 

@@ -2,13 +2,133 @@
 
 ## Current positioning
 
-Generated internal notes from 937 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 949 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Tesla Raises the Base Price of the Cybertruck by $5000
+
+- Model/program: Tesla Raises the Base Price of the Cybertruck by $5000
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73535450/tesla-cybertruck-5000-dollar-price-hike/)
+
+### 2027 BMW M2
+
+- Model/program: 2027 BMW M2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/m2-2027)
+
+### See Photos of the Hyundai E3W Three-Wheeler
+
+- Model/program: See Photos of the Hyundai E3W Three-Wheeler
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73528691/hyundai-e3w-three-wheeler-gallery/)
+
+### Hyundai’s New Workhorse Is This Futuristic Three-Wheeled Cutie
+
+- Model/program: Hyundai’s New Workhorse Is This Futuristic Three-Wheeled Cutie
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73528076/hyundai-e3w-three-wheeler/)
+
+### View Photos of the 1976 Jeep CJ-5 and CJ-7 Renegade
+
+- Model/program: View Photos of the 1976 Jeep CJ-5 and CJ-7 Renegade
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73524142/1976-jeep-cj-5-and-cj-7-renegade-archive-test-gallery/)
+
+### 1976 Jeep CJ-5 and CJ-7 Renegade Test: A Virtuous Pair
+
+- Model/program: 1976 Jeep CJ-5 and CJ-7 Renegade Test: A Virtuous Pair
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73464614/1976-jeep-cj-5-and-cj-7-renegade-archive-test/)
+
+### Our Long-Term XC90 Plods Its Way Through 10,000 Miles
+
+- Model/program: Our Long-Term XC90 Plods Its Way Through 10,000 Miles
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a70984750/2026-volvo-xc90-b6-awd-ultra-reliability-maintenance/)
+
+### Hyundai’s N Performance Division Gets the Green Flag for Expansion
+
+- Model/program: Hyundai’s N Performance Division Gets the Green Flag for Expansion
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73528959/hyundai-n-performance-division-expansion-plan/)
+
+### 2028 Dodge GLH Is a Muscular Hot Hatchback Worth Waiting For
+
+- Model/program: 2028 Dodge GLH Is a Muscular Hot Hatchback Worth Waiting For
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73523188/2028-dodge-glh-future-cars/)
+
+### What Happened to Two-Door Cars Like the Honda Accord Coupe?
+
+- Model/program: What Happened to Two-Door Cars Like the Honda Accord Coupe?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73456080/honda-accord-coupe-history-alternatives/)
+
+### EREV Powertrains Heading to Hyundai and Genesis Lineup in 2027
+
+- Model/program: EREV Powertrains Heading to Hyundai and Genesis Lineup in 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73527970/hyundai-genesis-erev-powertrains-2027/)
+
+### Porsche Debuts a 911 GT3-Based ‘Entry-Level’ Race Car
+
+- Model/program: Porsche Debuts a 911 GT3-Based ‘Entry-Level’ Race Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73525722/porsche-911-challenge-race-car-revealed/)
 
 ### 2027 Lincoln Corsair Keeps the Compact Luxury SUV Alive
 
