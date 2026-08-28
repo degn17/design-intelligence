@@ -2,13 +2,73 @@
 
 ## Current positioning
 
-Generated internal notes from 949 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 955 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Photos of the 2027 Audi A3
+
+- Model/program: View Photos of the 2027 Audi A3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73546979/2027-audi-a3-interior-update-gallery/)
+
+### 2027 Kia Niro Hybrid Brings Fresh Styling but Starts $2500 Higher
+
+- Model/program: 2027 Kia Niro Hybrid Brings Fresh Styling but Starts $2500 Higher
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73546288/2027-kia-niro-hybrid-pricing/)
+
+### 2027 Ferrari F80
+
+- Model/program: 2027 Ferrari F80
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ferrari/f80-2027)
+
+### Ford’s Most Exciting Maverick Trims Get Sizeable Price Cuts
+
+- Model/program: Ford’s Most Exciting Maverick Trims Get Sizeable Price Cuts
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73542725/2027-ford-maverick-ecoboost-price-cut/)
+
+### The 2027 Ram ProMaster City Is the Most Affordable Van in the U.S.
+
+- Model/program: The 2027 Ram ProMaster City Is the Most Affordable Van in the U.S.
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73543889/2027-ram-promaster-city-pricing/)
+
+### 2028 Bentley Torcal Prototype Ride: An Electric New Era
+
+- Model/program: 2028 Bentley Torcal Prototype Ride: An Electric New Era
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73520706/2028-bentley-torcal-prototype-ride/)
 
 ### Tesla Raises the Base Price of the Cybertruck by $5000
 

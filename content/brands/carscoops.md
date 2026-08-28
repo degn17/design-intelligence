@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1341 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1359 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### New Toyota Celica To Be An AWD Hybrid Coupe Based On Corolla Bones
+
+- Model/program: New Toyota Celica To Be An AWD Hybrid Coupe Based On Corolla Bones
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/toyota-celica-hybrid-render/)
+
+### BYD Flash-Charged Its Luxury EV Over 350 Times In A Week Covering Nearly 19,000 Miles, Then Checked The Battery
+
+- Model/program: BYD Flash-Charged Its Luxury EV Over 350 Times In A Week Covering Nearly 19,000 Miles, Then Checked The Battery
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/yangwang-u7-battery-test/)
+
+### VW’s First Electric California Is An ID. Buzz With A Bed
+
+- Model/program: VW’s First Electric California Is An ID. Buzz With A Bed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/vw-id-california-cruise/)
 
 ### The World’s First $3M Koenigsegg Gemera Got Smashed Days After Its Owner Took Delivery
 
@@ -49,6 +79,156 @@ Generated internal notes from 1341 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/kia-ev9-airbag-recall/)
+
+### Ford Maverick Owner Blames Crash On Brake Issues Despite Four Attempts To Fix Them
+
+- Model/program: Ford Maverick Owner Blames Crash On Brake Issues Despite Four Attempts To Fix Them
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-maverick-brake-issue-nhtsa/)
+
+### Bentley’s Torcal Is Basically A Mid-Grade Cayenne Electric With 850 HP And A British Accent
+
+- Model/program: Bentley’s Torcal Is Basically A Mid-Grade Cayenne Electric With 850 HP And A British Accent
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bentley-torcal-inital-specs/)
+
+### This Monster Toyota HiAce 4×4 Camper Out-Clears A Land Cruiser
+
+- Model/program: This Monster Toyota HiAce 4×4 Camper Out-Clears A Land Cruiser
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/monster-toyota-hiace-4x4-camper/)
+
+### Top Gear Is Returning To TV, Here’s Who Might Be Hosting
+
+- Model/program: Top Gear Is Returning To TV, Here’s Who Might Be Hosting
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/top-gear-reboot-announced/)
+
+### Fisker Owners In Sweden Are Finally Getting A Payout After Bankruptcy, But It’s Much Less Than What They Asked For
+
+- Model/program: Fisker Owners In Sweden Are Finally Getting A Payout After Bankruptcy, But It’s Much Less Than What They Asked For
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/fisker-ocean-sweden-bankruptcy/)
+
+### Kia Niro Gets A Hefty Price Hike To Match Its Classier Design
+
+- Model/program: Kia Niro Gets A Hefty Price Hike To Match Its Classier Design
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-kia-niro-pricing/)
+
+### Porsche Admits Current Hybrid 911 Can’t Get A Manual, But That May Change
+
+- Model/program: Porsche Admits Current Hybrid 911 Can’t Get A Manual, But That May Change
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-911-hybrid-manual-report/)
+
+### Kia EV Owner Adds $2 Of Electricity, Gets A Bill For $16,000
+
+- Model/program: Kia EV Owner Adds $2 Of Electricity, Gets A Bill For $16,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/kia-ev-owner-adds-2-of-electricity-gets-a-bill-for-16000/)
+
+### Honda Won’t Rule Out A US Return Of The Fit
+
+- Model/program: Honda Won’t Rule Out A US Return Of The Fit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-fit-usa-return/)
+
+### Daihatsu’s Revised Mira e:S Proves You Can Still Buy A Brand-New Car For $6,900
+
+- Model/program: Daihatsu’s Revised Mira e:S Proves You Can Still Buy A Brand-New Car For $6,900
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/daihatsus-mira-updated/)
+
+### US Escalates Probe Into 1.1 Million GM Vehicles Linked To 745 Brake Incidents And 21 Crashes
+
+- Model/program: US Escalates Probe Into 1.1 Million GM Vehicles Linked To 745 Brake Incidents And 21 Crashes
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gm-brake-failure-investigation/)
+
+### BMW’s New iX3 Can Physically Refuse To Let You Open Your Own Door
+
+- Model/program: BMW’s New iX3 Can Physically Refuse To Let You Open Your Own Door
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-ix3-safety-tech/)
+
+### Mercedes’ CEO Says A Fake V8 Made Him Feel ‘Like A Born-Again Christian’
+
+- Model/program: Mercedes’ CEO Says A Fake V8 Made Him Feel ‘Like A Born-Again Christian’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/amg-cla-45-sound-simulation/)
+
+### Ram’s Baby TRX Pickup Has The Look, The Plaque, And None Of The Power
+
+- Model/program: Ram’s Baby TRX Pickup Has The Look, The Plaque, And None Of The Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ram-rampage-rebel-ignition/)
+
+### Ram’s New Work Van Is A Steal, Costs Thousands Less Than Rivals
+
+- Model/program: Ram’s New Work Van Is A Steal, Costs Thousands Less Than Rivals
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-ram-promaster-city-pricing/)
 
 ### Now’s Your Chance To Buy An Ex-SEMA ’73 Camaro With 680 HP
 
