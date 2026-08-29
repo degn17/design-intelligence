@@ -2,13 +2,113 @@
 
 ## Current positioning
 
-Generated internal notes from 955 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 965 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### GTA VI Will Finally Let You Role Play in Traffic, Blinkers and All
+
+- Model/program: GTA VI Will Finally Let You Role Play in Traffic, Blinkers and All
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73556603/gta-vi-gameplay-car-details/)
+
+### 2029 Lotus Esprit to Offer V-6 Option Alongside Hybrid V-8: Report
+
+- Model/program: 2029 Lotus Esprit to Offer V-6 Option Alongside Hybrid V-8: Report
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73555945/2029-lotus-esprit-v6-engine-option-report/)
+
+### 2027 Genesis GV80 Hybrid
+
+- Model/program: 2027 Genesis GV80 Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/genesis/gv80-hybrid-2027)
+
+### 2027 Genesis Electrified GV70
+
+- Model/program: 2027 Genesis Electrified GV70
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/genesis/electrified-gv70-2027)
+
+### Lucid Recalls 27,185 Air Sedans That Pose a Fire Risk
+
+- Model/program: Lucid Recalls 27,185 Air Sedans That Pose a Fire Risk
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73554008/lucid-air-fire-risk-recall/)
+
+### Tested: Porsche Macan GTS Electric vs. Hyundai Ioniq 5 N are More Similar than Different
+
+- Model/program: Tested: Porsche Macan GTS Electric vs. Hyundai Ioniq 5 N are More Similar than Different
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73545392/porsche-macan-gts-electric-vs-hyundai-ioniq-5-n-tested/)
+
+### Lucid Air Pure Long-Term Test Wrap-Up: Not So Basic
+
+- Model/program: Lucid Air Pure Long-Term Test Wrap-Up: Not So Basic
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a63391898/2024-lucid-air-pure-rwd-reliability-maintenance/)
+
+### View Exterior Photos of the 2024 Lucid Air Pure RWD
+
+- Model/program: View Exterior Photos of the 2024 Lucid Air Pure RWD
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g63392062/2024-lucid-air-pure-rwd-reliability-maintenance-exterior-gallery/)
+
+### Kia Recalls 21,290 EV9 SUVs That Could Fail to Disable Front Airbags
+
+- Model/program: Kia Recalls 21,290 EV9 SUVs That Could Fail to Disable Front Airbags
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73553264/kia-ev9-front-airbag-detection-recall/)
+
+### 2029 Chevrolet Camaro Sedan Is a New V-8 Muscle Car Worth Waiting For
+
+- Model/program: 2029 Chevrolet Camaro Sedan Is a New V-8 Muscle Car Worth Waiting For
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71002717/2028-chevy-camaro-future-cars/)
 
 ### View Photos of the 2027 Audi A3
 

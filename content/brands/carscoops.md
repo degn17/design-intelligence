@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1359 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1375 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Jeep Recon EV Has More Power Than Originally Announced
+
+- Model/program: Jeep Recon EV Has More Power Than Originally Announced
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jeep-recon-updated-specs/)
 
 ### New Toyota Celica To Be An AWD Hybrid Coupe Based On Corolla Bones
 
@@ -39,6 +49,156 @@ Generated internal notes from 1359 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/vw-id-california-cruise/)
+
+### Half Of All BMW M2 Buyers In America Are Still Rowing Their Own Gears
+
+- Model/program: Half Of All BMW M2 Buyers In America Are Still Rowing Their Own Gears
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-m2-manual-sales-usa/)
+
+### Next-Gen Lexus EV Arrives Soon With Gigacasting Tech
+
+- Model/program: Next-Gen Lexus EV Arrives Soon With Gigacasting Tech
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/next-gen-lexus-ev-china/)
+
+### Lucid Air Recall Has Owners Parking Outside While Software Plays Firefighter
+
+- Model/program: Lucid Air Recall Has Owners Parking Outside While Software Plays Firefighter
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lucid-air-recall-ota-update/)
+
+### August Gas Prices Are On Track To Set An All-Time High
+
+- Model/program: August Gas Prices Are On Track To Set An All-Time High
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/august-gas-price-record/)
+
+### Ford Dealer To Deliver Parts By Drone Over Detroit, With A Parachute On Standby In Case It Doesn’t
+
+- Model/program: Ford Dealer To Deliver Parts By Drone Over Detroit, With A Parachute On Standby In Case It Doesn’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/autonomous-drones-delivering-car-parts/)
+
+### Jeep Cherokee Trailhawk Proves Its Off-Road Mettle In New Teaser Video
+
+- Model/program: Jeep Cherokee Trailhawk Proves Its Off-Road Mettle In New Teaser Video
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jeep-cherokee-trailhawk-teaser-video/)
+
+### Hyundai’s New Mid-Size Hilux And Ranger Rival Could Skip The Plain Gas Engine
+
+- Model/program: Hyundai’s New Mid-Size Hilux And Ranger Rival Could Skip The Plain Gas Engine
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-pickup-truck-powertrain/)
+
+### eBay To Ban Airbag Sales After Counterfeits Kill Drivers
+
+- Model/program: eBay To Ban Airbag Sales After Counterfeits Kill Drivers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ebay-airbag-sales-ban/)
+
+### VW’s New ID. Tiguan Finally Stops Pretending It’s An ID.4
+
+- Model/program: VW’s New ID. Tiguan Finally Stops Pretending It’s An ID.4
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/vw-id-tiguan-electric/)
+
+### Ford Fired Two-Thirds Of The Bosses Who Said Its Trucks Were Good Enough
+
+- Model/program: Ford Fired Two-Thirds Of The Bosses Who Said Its Trucks Were Good Enough
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-quality-turnaround/)
+
+### Yugo’s New 4-Door Convertible Is AI-Generated But The Joke Is Real
+
+- Model/program: Yugo’s New 4-Door Convertible Is AI-Generated But The Joke Is Real
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/yugo-cabrio-concept/)
+
+### Hertz’s Free Ex-Rental Warranty Says 100K Miles, But Counts The Ones Already Driven
+
+- Model/program: Hertz’s Free Ex-Rental Warranty Says 100K Miles, But Counts The Ones Already Driven
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hertz-used-car-warranty/)
+
+### Porsche’s Next Gas Macan Is Shedding Its Audi Skin
+
+- Model/program: Porsche’s Next Gas Macan Is Shedding Its Audi Skin
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-macan-combustion-return/)
+
+### Half Of British Drivers Would Now Buy A Chinese Brand They Couldn’t Name 3 Years Ago
+
+- Model/program: Half Of British Drivers Would Now Buy A Chinese Brand They Couldn’t Name 3 Years Ago
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/chinese-cars-uk-consideration/)
+
+### Acura’s Nexera Coupe Could Still Happen, And Honda’s US CEO Wants It Burning Gas
+
+- Model/program: Acura’s Nexera Coupe Could Still Happen, And Honda’s US CEO Wants It Burning Gas
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/acura-nexera-production/)
 
 ### The World’s First $3M Koenigsegg Gemera Got Smashed Days After Its Owner Took Delivery
 
