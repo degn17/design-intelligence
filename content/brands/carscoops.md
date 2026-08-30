@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1375 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1383 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Florida Cyclists Clash With SUV, Shot Gets Fired, But Police Won’t Say By Whom
+
+- Model/program: Florida Cyclists Clash With SUV, Shot Gets Fired, But Police Won’t Say By Whom
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/cyclists-clash-with-suv-shot-gets-fired/)
 
 ### Jeep Recon EV Has More Power Than Originally Announced
 
@@ -19,6 +29,76 @@ Generated internal notes from 1375 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/jeep-recon-updated-specs/)
+
+### Aston Martin’s Vantage RS Roadster Is Chasing Porsche’s Most Controversial 911
+
+- Model/program: Aston Martin’s Vantage RS Roadster Is Chasing Porsche’s Most Controversial 911
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/aston-martin-vantage-rs-roadster-scoop/)
+
+### BMW M Is Building EVs Not Because It Has To, But Because It Wants To
+
+- Model/program: BMW M Is Building EVs Not Because It Has To, But Because It Wants To
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-m-ev-plans/)
+
+### We’re Entering Our Mundane Era Of Classics, As More Collectors Turn To Everyday Examples
+
+- Model/program: We’re Entering Our Mundane Era Of Classics, As More Collectors Turn To Everyday Examples
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/more-collectors-turn-to-everyday-examples/)
+
+### Your 1,000 HP EV Might Not Be Making 1,000 HP All Of The Time – Here’s Why
+
+- Model/program: Your 1,000 HP EV Might Not Be Making 1,000 HP All Of The Time – Here’s Why
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/evs-true-hp-output/)
+
+### Porsche’s 1,139-HP Cayenne Turbo Electric Is A Supercar In Family-SUV Clothing
+
+- Model/program: Porsche’s 1,139-HP Cayenne Turbo Electric Is A Supercar In Family-SUV Clothing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-cayenne-electric-review/)
+
+### Italy Wanted To Ban Drivers Over 85 From Freeways, Should America?
+
+- Model/program: Italy Wanted To Ban Drivers Over 85 From Freeways, Should America?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/italy-senior-driver-restrictions/)
+
+### Toyota’s Updated 2027 Land Cruiser 300 Drops Gas V6 For Its Most Powerful Setup Yet
+
+- Model/program: Toyota’s Updated 2027 Land Cruiser 300 Drops Gas V6 For Its Most Powerful Setup Yet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/land-cruiser-hybrid-japan/)
 
 ### New Toyota Celica To Be An AWD Hybrid Coupe Based On Corolla Bones
 

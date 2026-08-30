@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 965 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 970 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 1960 Ford Anglia Lands at Bring a Trailer
+
+- Model/program: 1960 Ford Anglia Lands at Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73542732/1960-ford-anglia-bring-a-trailer-auction/)
+
+### The EPA Approves Early Sale of Winter-Blend Fuel
+
+- Model/program: The EPA Approves Early Sale of Winter-Blend Fuel
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73559564/epa-winter-blend-fuel-early-approval-lower-gas-prices/)
+
+### View Photos of the 1994 Affordable Small Sedans Comparison Test
+
+- Model/program: View Photos of the 1994 Affordable Small Sedans Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73555417/1994-dodge-ford-honda-hyundai-kia-mazda-nissan-saturn-toyota-small-sedan-archive-comparison-test-gallery/)
+
+### From the Archive: 1994 Small Sedan Comparison Test
+
+- Model/program: From the Archive: 1994 Small Sedan Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73465494/1994-dodge-ford-honda-hyundai-kia-mazda-nissan-saturn-toyota-small-sedan-archive-comparison-test/)
 
 ### GTA VI Will Finally Let You Role Play in Traffic, Blinkers and All
 
@@ -109,6 +149,16 @@ Generated internal notes from 965 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a71002717/2028-chevy-camaro-future-cars/)
+
+### 2027 Genesis GV80 Hybrid
+
+- Model/program: 2027 Genesis GV80 Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/genesis/gv80-hybrid)
 
 ### View Photos of the 2027 Audi A3
 
