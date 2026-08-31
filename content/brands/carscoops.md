@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1383 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1391 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Zeekr’s 7GT Shooting Brake Might Be The Perfect EV To Convince You To Ditch SUVs | Review
+
+- Model/program: Zeekr’s 7GT Shooting Brake Might Be The Perfect EV To Convince You To Ditch SUVs | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/zeekr-7gt-review-australia/)
 
 ### Florida Cyclists Clash With SUV, Shot Gets Fired, But Police Won’t Say By Whom
 
@@ -19,6 +29,76 @@ Generated internal notes from 1383 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/cyclists-clash-with-suv-shot-gets-fired/)
+
+### This Mid-Engine Split-Window ’63 Corvette C2 Is Guaranteed To Split Opinion
+
+- Model/program: This Mid-Engine Split-Window ’63 Corvette C2 Is Guaranteed To Split Opinion
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/corvette-split-window-restomod/)
+
+### The Nerdy Little Chip In Your Phone Charger Is About To Live In A Porsche Subwoofer
+
+- Model/program: The Nerdy Little Chip In Your Phone Charger Is About To Live In A Porsche Subwoofer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/porsche-gan-audio-system/)
+
+### 21 Rich Guys Got Genesis To Launch A Bespoke Program In The Middle East, America Is Next
+
+- Model/program: 21 Rich Guys Got Genesis To Launch A Bespoke Program In The Middle East, America Is Next
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/genesis-one-of-one-usa/)
+
+### One In Three Owners Got A Passenger Screen And Never Once Turned It On
+
+- Model/program: One In Three Owners Got A Passenger Screen And Never Once Turned It On
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/jd-power-tech-study-2026/)
+
+### Hyundai Is Coming For The Bronco, And A Patent May Have Given The SUV Away
+
+- Model/program: Hyundai Is Coming For The Bronco, And A Patent May Have Given The SUV Away
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-boulder-off-roader/)
+
+### Viral Posts Are Urging People To Target Flock Cameras This Halloween
+
+- Model/program: Viral Posts Are Urging People To Target Flock Cameras This Halloween
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/flock-camera-halloween/)
+
+### BMW’s Next X7 Is Testing With A Badge That Doesn’t Exist Yet And A V8 That Does
+
+- Model/program: BMW’s Next X7 Is Testing With A Badge That Doesn’t Exist Yet And A V8 That Does
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/bmw-x7-redesign-spied/)
 
 ### Jeep Recon EV Has More Power Than Originally Announced
 

@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 970 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 974 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Lamborghini’s Big Books of Bulls
+
+- Model/program: Lamborghini’s Big Books of Bulls
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73512395/lamborghinis-big-books-of-bulls/)
+
+### New Maserati Biopic Features an All-Star Cast and Prewar Cars
+
+- Model/program: New Maserati Biopic Features an All-Star Cast and Prewar Cars
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73562728/maserati-movie-trailer/)
+
+### So Fancy: 1964 Jeep CJ-5A Tuxedo Park on Bring a Trailer
+
+- Model/program: So Fancy: 1964 Jeep CJ-5A Tuxedo Park on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73542792/1964-jeep-cj-5a-tuxedo-park-bring-a-trailer-auction/)
+
+### Who Teaches a Robotaxi’s Remote Helpers? SAE Has a Driver’s Ed Plan
+
+- Model/program: Who Teaches a Robotaxi’s Remote Helpers? SAE Has a Driver’s Ed Plan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73556507/sae-robotaxi-remote-assistance-human-factors-best-practice/)
 
 ### 1960 Ford Anglia Lands at Bring a Trailer
 
