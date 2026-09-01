@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1391 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1406 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Callaway’s Silverado Street Truck Could Make For An Interesting Rumble Bee Rival
+
+- Model/program: Callaway’s Silverado Street Truck Could Make For An Interesting Rumble Bee Rival
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/callaway-waldoch-chevy-silverado/)
 
 ### Zeekr’s 7GT Shooting Brake Might Be The Perfect EV To Convince You To Ditch SUVs | Review
 
@@ -19,6 +29,146 @@ Generated internal notes from 1391 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/zeekr-7gt-review-australia/)
+
+### After Ferrari And Lamborghini Movies, Maserati Is The Latest To Get Hollywood Treatment
+
+- Model/program: After Ferrari And Lamborghini Movies, Maserati Is The Latest To Get Hollywood Treatment
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/maserati-brothers-movie/)
+
+### Think You Know The Suzuki Alto? There Are Five Different Versions On Sale Right Now
+
+- Model/program: Think You Know The Suzuki Alto? There Are Five Different Versions On Sale Right Now
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/suzuki-alto-blitz/)
+
+### Honda And Nissan Join Forces On Software And Electronics
+
+- Model/program: Honda And Nissan Join Forces On Software And Electronics
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/honda-nissan-software-partnership/)
+
+### Big Changes Coming To Mazda’s Large SUVs After Sales Sputter
+
+- Model/program: Big Changes Coming To Mazda’s Large SUVs After Sales Sputter
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/big-changes-coming-to-mazdas-large-suvs/)
+
+### Unifor Approves GM Deal, Will Build-Next Gen Trucks In Canada
+
+- Model/program: Unifor Approves GM Deal, Will Build-Next Gen Trucks In Canada
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/gm-unifor-agreement-details/)
+
+### The Same Renault Hatch Costs $4,700 In India And $16,000 In Brazil
+
+- Model/program: The Same Renault Hatch Costs $4,700 In India And $16,000 In Brazil
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/renault-kwid-facelift/)
+
+### Kia Isn’t Replacing The K5 For 2028, It’s Copying Toyota’s Camry Playbook Instead
+
+- Model/program: Kia Isn’t Replacing The K5 For 2028, It’s Copying Toyota’s Camry Playbook Instead
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/kia-k5-facelift-future-cars/)
+
+### Ford Showed Dealers An Off-Road Mustang V8 That Ditches Rear-Wheel Drive
+
+- Model/program: Ford Showed Dealers An Off-Road Mustang V8 That Ditches Rear-Wheel Drive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/ford-mustang-baja/)
+
+### Alfa’s 2026 Giulia Quadrifoglio Is Over A Decade Old And Still Out-Handles A New M3
+
+- Model/program: Alfa’s 2026 Giulia Quadrifoglio Is Over A Decade Old And Still Out-Handles A New M3
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/alfa-romeo-giulia-quadrifoglio-new-review/)
+
+### Acura Is Building An ‘XL’ Flagship SUV Because The MDX Isn’t Big Enough Anymore
+
+- Model/program: Acura Is Building An ‘XL’ Flagship SUV Because The MDX Isn’t Big Enough Anymore
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/acura-xl-flagship-suv/)
+
+### Hyundai’s Ladder-Frame Plan Is Much Bigger Than One Pickup, It’s A Whole Family
+
+- Model/program: Hyundai’s Ladder-Frame Plan Is Much Bigger Than One Pickup, It’s A Whole Family
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/hyundai-body-on-frame-lineup/)
+
+### Lexus Still Sells A Naturally Aspirated V6 Sports Sedan, And Only 350 Get This Green One
+
+- Model/program: Lexus Still Sells A Naturally Aspirated V6 Sports Sedan, And Only 350 Get This Green One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/2027-lexus-is-envious-green-limited-edition/)
+
+### Range Rover Built An SUV That Would Rather Be A Sedan
+
+- Model/program: Range Rover Built An SUV That Would Rather Be A Sedan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/range-rover-gt-electric-suv-spied/)
+
+### Lexus Hands Its Second Best-Seller The RX’s Face And The ES’s Wheel
+
+- Model/program: Lexus Hands Its Second Best-Seller The RX’s Face And The ES’s Wheel
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/08/lexus-nx-facelift-teaser/)
 
 ### Florida Cyclists Clash With SUV, Shot Gets Fired, But Police Won’t Say By Whom
 

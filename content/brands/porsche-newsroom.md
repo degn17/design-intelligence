@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 109 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 112 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Next Generation: The development of the Porsche 975 RSE
+
+- Model/program: Next Generation: The development of the Porsche 975 RSE
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-975-rse-formula-e-gen4-technic-43154.html)
+
+### Sunday Drives: Kristin Lätt in a Macan in Estonia
+
+- Model/program: Sunday Drives: Kristin Lätt in a Macan in Estonia
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-sunday-drives-estonia-kristin-laett-43148.html)
+
+### Raceborn: Motorsport Is Customer Racing
+
+- Model/program: Raceborn: Motorsport Is Customer Racing
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-motorsport-customer-racing-raceborn-43141.html)
 
 ### Professional motorsport without compromise: the new 911 Challenge
 

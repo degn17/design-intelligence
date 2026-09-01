@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 974 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 983 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Photos of the 2027 Bentley Supersports
+
+- Model/program: View Photos of the 2027 Bentley Supersports
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73524414/2027-bentley-supersports-drive-gallery/)
+
+### The 2027 Supersports Is Bentley’s First Real Track Star
+
+- Model/program: The 2027 Supersports Is Bentley’s First Real Track Star
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73545475/2027-bentley-supersports-drive/)
+
+### The 1994 Land Rover Discovery Doesn’t Need Roads
+
+- Model/program: The 1994 Land Rover Discovery Doesn’t Need Roads
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73534249/1994-land-rover-discovery-archive-off-road-drive/)
+
+### View Photos of the 1994 Land Rover Discovery
+
+- Model/program: View Photos of the 1994 Land Rover Discovery
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73570296/1994-land-rover-discovery-archive-off-road-drive-gallery/)
+
+### BBC Confirms ‘Top Gear’ TV Show Will Return, but Who Will Host?
+
+- Model/program: BBC Confirms ‘Top Gear’ TV Show Will Return, but Who Will Host?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73572281/bbc-top-gear-return-confirmed-who-will-host/)
+
+### Nissan and Honda Announce Software and Electronics Partnership
+
+- Model/program: Nissan and Honda Announce Software and Electronics Partnership
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73571919/nissan-honda-software-electronics-partnership/)
+
+### 2027 Lexus IS Goes Green with New Special Edition
+
+- Model/program: 2027 Lexus IS Goes Green with New Special Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73569687/2027-lexus-is-special-edition/)
+
+### An Off-Road-Ready Ford Mustang May Still Be in the Cards
+
+- Model/program: An Off-Road-Ready Ford Mustang May Still Be in the Cards
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73570197/ford-mustang-off-road-model-report/)
+
+### 2027 Chrysler Pacifica Is Among the Laziest Updates Ever
+
+- Model/program: 2027 Chrysler Pacifica Is Among the Laziest Updates Ever
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73569499/2027-chrysler-pacifica-lazy-update/)
 
 ### Lamborghini’s Big Books of Bulls
 
