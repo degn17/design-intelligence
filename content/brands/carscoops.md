@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1406 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1423 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Toyota’s Latest Collab Involves $86 Ice Cream Sandwiches
+
+- Model/program: Toyota’s Latest Collab Involves $86 Ice Cream Sandwiches
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-seinna-ice-cream/)
 
 ### Callaway’s Silverado Street Truck Could Make For An Interesting Rumble Bee Rival
 
@@ -19,6 +29,166 @@ Generated internal notes from 1406 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/08/callaway-waldoch-chevy-silverado/)
+
+### NYC Crash Crew Busted For Staging Wrecks And Faking Injuries To Collect Insurance Payouts
+
+- Model/program: NYC Crash Crew Busted For Staging Wrecks And Faking Injuries To Collect Insurance Payouts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/crew-staged-wrecks-for-insurance-payouts/)
+
+### Subaru EV Sales Jumped 21%, Despite Huge Solterra Decline
+
+- Model/program: Subaru EV Sales Jumped 21%, Despite Huge Solterra Decline
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/subaru-august-2026-sales/)
+
+### Former CR-V Owner Slapped With $815 Bill For SUV He Sold 15 Years Ago
+
+- Model/program: Former CR-V Owner Slapped With $815 Bill For SUV He Sold 15 Years Ago
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/former-cr-v-owner-slapped-with-815-bill-for-suv-he-sold-15-years-ago/)
+
+### Kia Sets All-Time August Sales Record As Hybrids Soar
+
+- Model/program: Kia Sets All-Time August Sales Record As Hybrids Soar
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/kia-august-2026-sales/)
+
+### Ford’s Mustang Might Leave You Grounded Because Its Wiring Isn’t
+
+- Model/program: Ford’s Mustang Might Leave You Grounded Because Its Wiring Isn’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ford-mustang-wiring-recall/)
+
+### Nissan Waves To The Renault Twingo With New Entry-Level EV
+
+- Model/program: Nissan Waves To The Renault Twingo With New Entry-Level EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2027-nissan-wave-spied/)
+
+### New Rider’s 106 MPH Run Ends With His Motorcycle Behind Bars
+
+- Model/program: New Rider’s 106 MPH Run Ends With His Motorcycle Behind Bars
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/new-riders-106-mph-run-ends-with-his-motorcycle-behind-bars/)
+
+### Renault Scenic E-Tech Gains Longer Range And Smarter Tech But Skips The Mustache
+
+- Model/program: Renault Scenic E-Tech Gains Longer Range And Smarter Tech But Skips The Mustache
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/renault-scenic-update/)
+
+### Electric Kia PV7 Is Coming For The Ford Transit
+
+- Model/program: Electric Kia PV7 Is Coming For The Ford Transit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/kia-pv7-teaser/)
+
+### Porsche’s New 911 GT3 Bergsport Is An Alpine Treat America Can’t Have
+
+- Model/program: Porsche’s New 911 GT3 Bergsport Is An Alpine Treat America Can’t Have
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/porsches-new-911-gt3-bergsport-is-an-alpine-treat-america-cant-have/)
+
+### Reborn Mitsubishi Pajero Drops Final Teaser Hours Before Big Reveal
+
+- Model/program: Reborn Mitsubishi Pajero Drops Final Teaser Hours Before Big Reveal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/reborn-mitsubishi-pajero-drops-final-teaser-hours-before-big-reveal/)
+
+### Daihatsu Turns Its Practical Kei Wagon Into A Sporty-Looking Daily Tool
+
+- Model/program: Daihatsu Turns Its Practical Kei Wagon Into A Sporty-Looking Daily Tool
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/daihatsu-tanto-update/)
+
+### Can’t Wait For The New Toyota Celica? This 1994 WRC Homologation Special Is Up For Grabs
+
+- Model/program: Can’t Wait For The New Toyota Celica? This 1994 WRC Homologation Special Is Up For Grabs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/celica-wrc-edition/)
+
+### Ram’s Latest Special Edition Serves An Overlooked Segment
+
+- Model/program: Ram’s Latest Special Edition Serves An Overlooked Segment
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ram-chassis-cab-night-edition/)
+
+### Toyota’s Smallest Minivan Gains Smarter Tech, Starts From $11,500
+
+- Model/program: Toyota’s Smallest Minivan Gains Smarter Tech, Starts From $11,500
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyotas-smallest-minivan-updated/)
+
+### 2027 Lexus NX Debuts With A New Face And Big Changes Under The Skin
+
+- Model/program: 2027 Lexus NX Debuts With A New Face And Big Changes Under The Skin
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lexus-nx-debut/)
 
 ### Zeekr’s 7GT Shooting Brake Might Be The Perfect EV To Convince You To Ditch SUVs | Review
 

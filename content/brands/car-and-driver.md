@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 983 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 997 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Electrifying an Icon: Range Rover Finally Adds an EV to Its Roster
+
+- Model/program: Electrifying an Icon: Range Rover Finally Adds an EV to Its Roster
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73570105/2027-range-rover-electric-revealed/)
+
+### View Interior Photos of the 2027 Land Rover Range Rover Electric
+
+- Model/program: View Interior Photos of the 2027 Land Rover Range Rover Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73571112/2027-land-rover-range-rover-electric-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 Land Rover Range Rover Electric
+
+- Model/program: View Exterior Photos of the 2027 Land Rover Range Rover Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73570996/2027-land-rover-range-rover-electric-revealed-exterior-gallery/)
+
+### 2027 Land Rover Range Rover Electric
+
+- Model/program: 2027 Land Rover Range Rover Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-electric-2027)
+
+### Ford Ranger Tremor Spotted Testing as a Mid-Tier Off-Road Truck
+
+- Model/program: Ford Ranger Tremor Spotted Testing as a Mid-Tier Off-Road Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73584598/2027-ford-ranger-tremor-spied/)
+
+### Instrument Clusters Are Now Paid Extras in Two Hyundai Models
+
+- Model/program: Instrument Clusters Are Now Paid Extras in Two Hyundai Models
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/)
+
+### 2027 Lexus NX Hybrid
+
+- Model/program: 2027 Lexus NX Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/nx-hybrid-2027)
+
+### Ford Recalls Nearly 160K Cars That Could Lose Drive Power
+
+- Model/program: Ford Recalls Nearly 160K Cars That Could Lose Drive Power
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73580996/ford-recalls-160k-cars-that-could-lose-drive-power/)
+
+### View Interior Photos of the 2027 Lexus NX Hybrid
+
+- Model/program: View Interior Photos of the 2027 Lexus NX Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73581461/2027-lexus-nx-hybrid-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2027 Lexus NX Hybrid
+
+- Model/program: View Exterior Photos of the 2027 Lexus NX Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73581092/2027-lexus-nx-hybrid-revealed-exterior-gallery/)
+
+### 2027 Lexus NX Wears a Bolder Face and Now Comes Only as a Hybrid
+
+- Model/program: 2027 Lexus NX Wears a Bolder Face and Now Comes Only as a Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73581369/2027-lexus-nx-hybrid-refresh-revealed/)
+
+### Maximum-Strength Dose: 2026 Porsche 911 Turbo S Cabriolet Tested
+
+- Model/program: Maximum-Strength Dose: 2026 Porsche 911 Turbo S Cabriolet Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73546673/2026-porsche-911-turbo-s-cabriolet-test/)
+
+### View Interior Photos of the 2026 Porsche 911 Turbo S Cabriolet
+
+- Model/program: View Interior Photos of the 2026 Porsche 911 Turbo S Cabriolet
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73553736/2026-porsche-911-turbo-s-cabriolet-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Porsche 911 Turbo S Cabriolet
+
+- Model/program: View Exterior Photos of the 2026 Porsche 911 Turbo S Cabriolet
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73553645/2026-porsche-911-turbo-s-cabriolet-test-exterior-gallery/)
 
 ### View Photos of the 2027 Bentley Supersports
 
