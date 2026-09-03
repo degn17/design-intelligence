@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1423 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1440 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### FTC Warns Scammers Are Using AI To Create Fake Dealership Websites
+
+- Model/program: FTC Warns Scammers Are Using AI To Create Fake Dealership Websites
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ftc-warns-scammers-are-using-ai-to-create-fake-dealership-websites/)
 
 ### Toyota’s Latest Collab Involves $86 Ice Cream Sandwiches
 
@@ -19,6 +29,166 @@ Generated internal notes from 1423 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-seinna-ice-cream/)
+
+### Nokia Is Replacing VW In A Major European Stock Index, And That’s The Least Of VW’s Problems
+
+- Model/program: Nokia Is Replacing VW In A Major European Stock Index, And That’s The Least Of VW’s Problems
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vw-restructuring-job-cuts-nokia/)
+
+### Canada Opens The Door To 33,397 More Chinese Vehicles
+
+- Model/program: Canada Opens The Door To 33,397 More Chinese Vehicles
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/canada-chinese-ev-imports/)
+
+### A Used Lotus Elise Costs $28K. This Center-Seat Restomod Costs Nearly $500,000
+
+- Model/program: A Used Lotus Elise Costs $28K. This Center-Seat Restomod Costs Nearly $500,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lotus-elise-vhpk/)
+
+### New Ford Fathom Prototype Breaks Cover Ahead Of Its 2027 Debut
+
+- Model/program: New Ford Fathom Prototype Breaks Cover Ahead Of Its 2027 Debut
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ford-fathom-teased-by-ceo/)
+
+### London Ticketed UAE Supercar Drivers 13,423 Times, Only 1% Ever Paid
+
+- Model/program: London Ticketed UAE Supercar Drivers 13,423 Times, Only 1% Ever Paid
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/foreign-cars-illegal-parking-london/)
+
+### Ford’s Missteps Continue To Bite As August Sales Fall Over 10%, With EVs Down Nearly 80%
+
+- Model/program: Ford’s Missteps Continue To Bite As August Sales Fall Over 10%, With EVs Down Nearly 80%
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ford-august-2026-sales/)
+
+### Toyota’s Third Best-Selling Vehicle Has A Supercar-Style Waiting List
+
+- Model/program: Toyota’s Third Best-Selling Vehicle Has A Supercar-Style Waiting List
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-rav4-shortage-america/)
+
+### You Can Hide From Flock’s Cameras, If You Turn Your Car Into A Blindfold
+
+- Model/program: You Can Hide From Flock’s Cameras, If You Turn Your Car Into A Blindfold
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/donut-flock-camera-wrap/)
+
+### Bentley’s Torcal Is Its Quickest And Most Powerful Car Ever, Just Don’t Ask About Its Porsche Cousin
+
+- Model/program: Bentley’s Torcal Is Its Quickest And Most Powerful Car Ever, Just Don’t Ask About Its Porsche Cousin
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bentley-torcal-power-ev/)
+
+### Ford Just Revived The V10 Mustang It Never Let You Buy
+
+- Model/program: Ford Just Revived The V10 Mustang It Never Let You Buy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ford-v10-mustang-prototype/)
+
+### Watch A Loaded Toyota Hilux Drag A Camper Trailer Down A Near-Vertical Mud Wall
+
+- Model/program: Watch A Loaded Toyota Hilux Drag A Camper Trailer Down A Near-Vertical Mud Wall
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-hilux-gunshot-creek-descent/)
+
+### VW’s Leaked Restructuring Plan Targets 4 Plants And Tens Of Thousands Of German Jobs
+
+- Model/program: VW’s Leaked Restructuring Plan Targets 4 Plants And Tens Of Thousands Of German Jobs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vw-german-plant-closures/)
+
+### The Dodge Viper Is Dead In America, But Its V10 Just Came Back In Britain With Gullwing Doors
+
+- Model/program: The Dodge Viper Is Dead In America, But Its V10 Just Came Back In Britain With Gullwing Doors
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bristol-fighter-revival/)
+
+### The Electric Range Rover Costs $25,000 More Than The Gas One And Tows A Ton Less
+
+- Model/program: The Electric Range Rover Costs $25,000 More Than The Gas One And Tows A Ton Less
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/range-rover-electric-official-launch/)
+
+### The Polestar 4 Nobody Could See Out Of Just Became An SUV You Can, For Less
+
+- Model/program: The Polestar 4 Nobody Could See Out Of Just Became An SUV You Can, For Less
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/polestar-4-suv-launch/)
+
+### The Mitsubishi Pajero Is Back, And It Looks Like A Proper Land Cruiser Rival Again
+
+- Model/program: The Mitsubishi Pajero Is Back, And It Looks Like A Proper Land Cruiser Rival Again
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mitsubishi-pajero-returns/)
 
 ### Callaway’s Silverado Street Truck Could Make For An Interesting Rumble Bee Rival
 

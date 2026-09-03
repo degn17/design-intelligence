@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 997 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1007 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Bentley Torcal Will Be the Brand’s Most Powerful Model Ever
+
+- Model/program: Bentley Torcal Will Be the Brand’s Most Powerful Model Ever
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73596379/2028-bentley-torcal-power-acceleration-teaser/)
+
+### Honda Tells Suppliers to Cut Prices as It Aims to Save $9 Billion
+
+- Model/program: Honda Tells Suppliers to Cut Prices as It Aims to Save $9 Billion
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73594877/honda-tells-suppliers-cut-prices/)
+
+### This Is Our Best Look Yet at Ford’s $30K Fathom Electric Truck
+
+- Model/program: This Is Our Best Look Yet at Ford’s $30K Fathom Electric Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73596510/ford-fathom-electric-truck-testing-las-vegas/)
+
+### View Interior Photos of the 2027 Land Rover Range Rover Twenty Edition
+
+- Model/program: View Interior Photos of the 2027 Land Rover Range Rover Twenty Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73596373/2027-land-rover-range-rover-sport-twenty-edition-interior-gallery/)
+
+### View Exterior Photos of the 2027 Land Rover Range Rover Sport Twenty Edition
+
+- Model/program: View Exterior Photos of the 2027 Land Rover Range Rover Sport Twenty Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73593973/2027-land-rover-range-rover-sport-twenty-edition-exterior-gallery/)
+
+### Polestar Built an Electric Station Wagon, and You Can’t Have It
+
+- Model/program: Polestar Built an Electric Station Wagon, and You Can’t Have It
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73593203/polestar-4-suv-revealed/)
+
+### I See Dead Cars: A Mailman's Daily Trip Down Memory Lane
+
+- Model/program: I See Dead Cars: A Mailman's Daily Trip Down Memory Lane
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a15135647/classic-cars-left-for-dead/)
+
+### 2027 Mitsubishi Pajero Returns to Take on the Toyota Land Cruiser
+
+- Model/program: 2027 Mitsubishi Pajero Returns to Take on the Toyota Land Cruiser
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73592111/2027-mitsubishi-pajero-revealed/)
+
+### Our Long-Term Porsche Macan T Stays Shiny After 40,000 Miles
+
+- Model/program: Our Long-Term Porsche Macan T Stays Shiny After 40,000 Miles
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a63229615/2024-porsche-macan-t-reliability-maintenance/)
 
 ### Electrifying an Icon: Range Rover Finally Adds an EV to Its Roster
 
@@ -149,6 +239,16 @@ Generated internal notes from 997 clearly labeled source-attributed item(s). Tre
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/photos/a73553645/2026-porsche-911-turbo-s-cabriolet-test-exterior-gallery/)
+
+### 2027 Land Rover Range Rover Electric
+
+- Model/program: 2027 Land Rover Range Rover Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-electric)
 
 ### View Photos of the 2027 Bentley Supersports
 

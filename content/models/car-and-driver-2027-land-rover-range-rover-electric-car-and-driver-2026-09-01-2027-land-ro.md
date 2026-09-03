@@ -8,7 +8,7 @@
 - Published: 2026-09-01
 - Data status: Real · RSS
 - Collection method: rss
-- Source: [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-electric-2027)
+- Source: [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-electric)
 - Image URL: https://hips.hearstapps.com/hmg-prod/images/088b4df0-fded-4887-a019-73b99f9c06d8.jpg
 
 ### Summary
@@ -37,4 +37,4 @@ Review the linked public source before adding design interpretation or publishin
 
 ## Source attribution
 
-This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-electric-2027). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
+This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-electric). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

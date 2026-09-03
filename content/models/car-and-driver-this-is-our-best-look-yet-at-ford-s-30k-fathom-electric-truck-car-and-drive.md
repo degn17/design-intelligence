@@ -1,0 +1,40 @@
+# Model Card — Car and Driver This Is Our Best Look Yet at Ford’s $30K Fathom Electric Truck
+
+## This Is Our Best Look Yet at Ford’s $30K Fathom Electric Truck
+
+- Brand: Car and Driver
+- Model: This Is Our Best Look Yet at Ford’s $30K Fathom Electric Truck
+- Category: new_car
+- Published: 2026-09-02
+- Data status: Real · RSS
+- Collection method: rss
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73596510/ford-fathom-electric-truck-testing-las-vegas/)
+- Image URL: https://hips.hearstapps.com/hmg-prod/images/60bc86d3-1a26-47a4-b2cd-04350120afdf.jpeg
+
+### Summary
+
+The compact truck will start at just $29,945 and will go on sale sometime in 2027.
+
+### Design keywords
+
+- Manual review required.
+
+### Design observations
+
+- Manual review required.
+
+### Design breakdown
+
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Volume: Not assessed from RSS metadata. Manual source review required.
+- Surface: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Brand language: RSS-collected source item awaiting editorial design analysis.
+
+### Designer note
+
+Review the linked public source before adding design interpretation or publishing this item.
+
+## Source attribution
+
+This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/news/a73596510/ford-fathom-electric-truck-testing-las-vegas/). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
