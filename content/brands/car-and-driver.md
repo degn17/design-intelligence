@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 1007 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1018 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### We Talk Cars and More with the New Hosts of ‘The Grand Tour’ Reboot
+
+- Model/program: We Talk Cars and More with the New Hosts of ‘The Grand Tour’ Reboot
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73584174/grand-tour-reboot-new-hosts-interview/)
+
+### Bristol Cars Is Back from the Dead with Five V-10 Fighters
+
+- Model/program: Bristol Cars Is Back from the Dead with Five V-10 Fighters
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73607629/bristol-cars-resurrects-five-v10-fighters/)
+
+### Callaway Is Back in the Street Truck Game with a New Partner
+
+- Model/program: Callaway Is Back in the Street Truck Game with a New Partner
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73605877/waldoch-callaway-chevy-silverado-sc602-launch-edition/)
+
+### 2027 Land Rover Range Rover Sport Hybrid
+
+- Model/program: 2027 Land Rover Range Rover Sport Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/land-rover/range-rover-sport-hybrid-2027)
+
+### View Interior Photos of the 2027 Land Rover Range Rover Sport Hybrid Battersea Edition
+
+- Model/program: View Interior Photos of the 2027 Land Rover Range Rover Sport Hybrid Battersea Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73597365/2027-land-rover-range-rover-sport-hybrid-battersea-edition-interior-gallery/)
+
+### View Exterior Photos of the 2027 Land Rover Range Rover Sport Hybrid Battersea Edition
+
+- Model/program: View Exterior Photos of the 2027 Land Rover Range Rover Sport Hybrid Battersea Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73597363/2027-land-rover-range-rover-sport-hybrid-battersea-edition-exterior-gallery/)
+
+### Toyota Highlander EV Is Reportedly Delayed for a Second Time
+
+- Model/program: Toyota Highlander EV Is Reportedly Delayed for a Second Time
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73605028/2027-toyota-highlander-ev-delayed-again-report/)
+
+### Michael Jordan's Ferrari 550 Could Set a Record at Auction
+
+- Model/program: Michael Jordan's Ferrari 550 Could Set a Record at Auction
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73604721/michael-jordan-ferrari-550-maranello-auction-record/)
+
+### From the Archive: 1995 Nissan Sentra GXE
+
+- Model/program: From the Archive: 1995 Nissan Sentra GXE
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73535398/1995-nissan-sentra-gxe-archive-test/)
+
+### 2027 Chevrolet Corvette Grand Sport X Brings the Heat
+
+- Model/program: 2027 Chevrolet Corvette Grand Sport X Brings the Heat
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73591474/2027-chevrolet-corvette-grand-sport-x-drive/)
+
+### Driven: The 2027 Chevrolet Corvette Stingray Is Ready to Go 200 MPH
+
+- Model/program: Driven: The 2027 Chevrolet Corvette Stingray Is Ready to Go 200 MPH
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73583684/2027-chevrolet-corvette-stingray-drive/)
 
 ### Bentley Torcal Will Be the Brand’s Most Powerful Model Ever
 

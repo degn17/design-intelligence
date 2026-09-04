@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1440 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1458 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### What VW Group Models Would You Axe?
+
+- Model/program: What VW Group Models Would You Axe?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/what-vw-group-models-would-you-axe/)
 
 ### FTC Warns Scammers Are Using AI To Create Fake Dealership Websites
 
@@ -19,6 +29,176 @@ Generated internal notes from 1440 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/ftc-warns-scammers-are-using-ai-to-create-fake-dealership-websites/)
+
+### Hyundai Dealer Added $5 A Minute On Top Of $5 Per kWh On Public EV Charger To Scare Off Outsiders
+
+- Model/program: Hyundai Dealer Added $5 A Minute On Top Of $5 Per kWh On Public EV Charger To Scare Off Outsiders
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ev-dealer-charger-overpricing/)
+
+### 2028 Kia Sportage Drops Disguise And Looks Like A Smaller Telluride
+
+- Model/program: 2028 Kia Sportage Drops Disguise And Looks Like A Smaller Telluride
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2028-kia-sportage-spied-revealing/)
+
+### Mitsubishi’s New Pajero Undercuts The Toyota Land Cruiser By Thousands
+
+- Model/program: Mitsubishi’s New Pajero Undercuts The Toyota Land Cruiser By Thousands
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mitsubishi-pajero-pricing/)
+
+### VW Group Confirms Plans To Kill Half Its Lineup And Slash 50,000 Jobs
+
+- Model/program: VW Group Confirms Plans To Kill Half Its Lineup And Slash 50,000 Jobs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vw-group-confirms-steep-cuts/)
+
+### Bugatti Says The Tourbillon’s V16 Needs To Sound A Little ‘Dirty And Raw’
+
+- Model/program: Bugatti Says The Tourbillon’s V16 Needs To Sound A Little ‘Dirty And Raw’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bugatti-tourbillon-v16-sound/)
+
+### Scout’s Latest Concepts Embrace Adventure And Luxury
+
+- Model/program: Scout’s Latest Concepts Embrace Adventure And Luxury
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/scout-mountainside-trail-ready-concepts/)
+
+### Gran Turismo 7’s Biggest Free Update Brings Back A Track That Vanished After GT6
+
+- Model/program: Gran Turismo 7’s Biggest Free Update Brings Back A Track That Vanished After GT6
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/gran-turismo-7-spec-iv-update/)
+
+### London’s First Robotaxi Is A Ford Mustang EV, And Only 15 Exist
+
+- Model/program: London’s First Robotaxi Is A Ford Mustang EV, And Only 15 Exist
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ford-mustang-mach-e-uk-robotaxi/)
+
+### Dodge Will Sell You A 2011 SUV In A Very Nice 2027 Shade Of Blue
+
+- Model/program: Dodge Will Sell You A 2011 SUV In A Very Nice 2027 Shade Of Blue
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/dodge-durango-after-dark-color/)
+
+### Toyota Denies Its Highlander EV Has Been Delayed Again To ‘2027 Or Later’
+
+- Model/program: Toyota Denies Its Highlander EV Has Been Delayed Again To ‘2027 Or Later’
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-highlander-ev-delay-again/)
+
+### Toyota And Nissan Go Long With Star-Studded Football Ads
+
+- Model/program: Toyota And Nissan Go Long With Star-Studded Football Ads
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2026-football-kickoff-ads/)
+
+### Hyundai Is Now Charging You Extra For A Damn Gauge Cluster
+
+- Model/program: Hyundai Is Now Charging You Extra For A Damn Gauge Cluster
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-ioniq-3-instrument-cluster/)
+
+### Trump’s MPG Rollback Could Cut $930 From A New Car, But You Might Never See It
+
+- Model/program: Trump’s MPG Rollback Could Cut $930 From A New Car, But You Might Never See It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/trumps-lower-mpg-rules-could-reduce-prices/)
+
+### Ford’s $30K Fathom Is Chasing A First-Year EV Sales Number Only Tesla Has Ever Hit
+
+- Model/program: Ford’s $30K Fathom Is Chasing A First-Year EV Sales Number Only Tesla Has Ever Hit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ford-fathom-ev-sales/)
+
+### The Toyota C-HR GR Sport You Actually Want Just Got Darker And We Still Can’t Buy It
+
+- Model/program: The Toyota C-HR GR Sport You Actually Want Just Got Darker And We Still Can’t Buy It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-c-hr-anniversary-update/)
+
+### VW To Discontinue Seat Brand, Keep The Badge It Spawned: Report
+
+- Model/program: VW To Discontinue Seat Brand, Keep The Badge It Spawned: Report
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/seat-cupra-phase-out/)
+
+### Tesla Settles Its Autopilot Fire Truck Case Right Before A Jury Could Weigh In
+
+- Model/program: Tesla Settles Its Autopilot Fire Truck Case Right Before A Jury Could Weigh In
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tesla-autopilot-crash-settlement/)
 
 ### Toyota’s Latest Collab Involves $86 Ice Cream Sandwiches
 
