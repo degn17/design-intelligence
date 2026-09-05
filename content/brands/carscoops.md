@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1458 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1471 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The UK Needs A New Military Vehicle And Land Rover Is Answering The Call
+
+- Model/program: The UK Needs A New Military Vehicle And Land Rover Is Answering The Call
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/land-rover-defender-wolf-series-ii/)
 
 ### What VW Group Models Would You Axe?
 
@@ -19,6 +29,126 @@ Generated internal notes from 1458 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/what-vw-group-models-would-you-axe/)
+
+### Florida Loved Its License Plate Cameras. Now It’s Tearing Them Down
+
+- Model/program: Florida Loved Its License Plate Cameras. Now It’s Tearing Them Down
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/florida-license-plate-reader-permits/)
+
+### Lamborghini’s 907 HP Police Car Is Designed For When Every Second Counts
+
+- Model/program: Lamborghini’s 907 HP Police Car Is Designed For When Every Second Counts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lamborghini-temerario-polizia/)
+
+### Tesla May Be About To Lose A Bet With YouTube’s Biggest Tech Creator
+
+- Model/program: Tesla May Be About To Lose A Bet With YouTube’s Biggest Tech Creator
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tesla-cybercab-mkbhd/)
+
+### Seat Says They’re Not Dead, But Might Not Survive Either
+
+- Model/program: Seat Says They’re Not Dead, But Might Not Survive Either
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/seat-not-dead-but-might-not-live/)
+
+### Seller Called This Underwater 1991 NSX Junk, 93 Bids Disagreed
+
+- Model/program: Seller Called This Underwater 1991 NSX Junk, 93 Bids Disagreed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/flooded-honda-nsx-auction/)
+
+### Toyota’s Ancient $12,600 Wagon Gains Modern Tech That Calls The Cops On Bad Drivers
+
+- Model/program: Toyota’s Ancient $12,600 Wagon Gains Modern Tech That Calls The Cops On Bad Drivers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-probox-2027-update/)
+
+### Your First-Gen Rivian R1 Just Got The Same Software As A Brand-New R2
+
+- Model/program: Your First-Gen Rivian R1 Just Got The Same Software As A Brand-New R2
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/rivian-r1-software-update/)
+
+### Tesla Offers Rides In A Car With No Wheel Or Pedals, So Naturally The Feds Showed Up
+
+- Model/program: Tesla Offers Rides In A Car With No Wheel Or Pedals, So Naturally The Feds Showed Up
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tesla-cybercab-nhtsa-audit/)
+
+### Mitsubishi Is Turning The Pajero Into A Family Of SUVs, And One’s Coming For The RAV4
+
+- Model/program: Mitsubishi Is Turning The Pajero Into A Family Of SUVs, And One’s Coming For The RAV4
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mitsubishi-pajero-family-report/)
+
+### US Automakers Demanding A China Car Ban Include Two With Chinese Owners
+
+- Model/program: US Automakers Demanding A China Car Ban Include Two With Chinese Owners
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/chinese-vehicles-permanent-ban/)
+
+### Everyone Thinks BMW’s Badge Is A Spinning Propeller. It Isn’t
+
+- Model/program: Everyone Thinks BMW’s Badge Is A Spinning Propeller. It Isn’t
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bmws-logo-story/)
+
+### Jensen’s Interceptor Is Back With A 960 HP Chevy Bang And A Seriously Big Wing
+
+- Model/program: Jensen’s Interceptor Is Back With A 960 HP Chevy Bang And A Seriously Big Wing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/jensen-interceptor-gtx-v8/)
 
 ### FTC Warns Scammers Are Using AI To Create Fake Dealership Websites
 

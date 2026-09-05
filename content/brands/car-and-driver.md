@@ -2,13 +2,113 @@
 
 ## Current positioning
 
-Generated internal notes from 1018 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1028 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### VW Approves Plan to Reduce Lineup by 50 Percent and Cut 50,000 Jobs
+
+- Model/program: VW Approves Plan to Reduce Lineup by 50 Percent and Cut 50,000 Jobs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73617309/volkswagen-board-approves-plan-cut-50000-jobs-model-lineup-by-half/)
+
+### View Exterior Photos of the 2027 Ram 2500 HD Power Wagon
+
+- Model/program: View Exterior Photos of the 2027 Ram 2500 HD Power Wagon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73581994/2027-ram-2500-hd-power-wagon-diesel-test-exterior-gallery/)
+
+### View Interior Photos of the 2027 Ram 2500 HD Power Wagon
+
+- Model/program: View Interior Photos of the 2027 Ram 2500 HD Power Wagon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73582204/2027-ram-2500-hd-power-wagon-diesel-test-interior-gallery/)
+
+### Ram 2500 Power Wagon Diesel Tested: They Said It Couldn’t Be Done
+
+- Model/program: Ram 2500 Power Wagon Diesel Tested: They Said It Couldn’t Be Done
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73555680/2027-ram-2500-hd-power-wagon-diesel-test/)
+
+### The Cost of Diesel in the United States Reaches a New Record High
+
+- Model/program: The Cost of Diesel in the United States Reaches a New Record High
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73617208/diesel-price-united-states-record-us-iran/)
+
+### Jeep and Ram’s Extended-Range EVs Delayed by Several Months
+
+- Model/program: Jeep and Ram’s Extended-Range EVs Delayed by Several Months
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73615792/jeep-grand-wagoneer-hybrid-ram-1500-rev-delayed/)
+
+### Leno's Law Is Now One Step Away from Final Approval
+
+- Model/program: Leno's Law Is Now One Step Away from Final Approval
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a70869453/revised-jay-leno-law-more-likely-to-pass/)
+
+### Ford's Heritage Fleet Resurrects a One-Off V-10 Mustang ‘Boss 351’
+
+- Model/program: Ford's Heritage Fleet Resurrects a One-Off V-10 Mustang ‘Boss 351’
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73608968/1999-ford-mustang-boss-351-v10-one-off-heritage-fleet/)
+
+### Driver of the Week: Michael Simari
+
+- Model/program: Driver of the Week: Michael Simari
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73606023/driver-of-the-week-michael-simari-profile/)
+
+### The Jensen Interceptor Is Back as a 960-HP V-8 Track Monster
+
+- Model/program: The Jensen Interceptor Is Back as a 960-HP V-8 Track Monster
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73608163/jensen-interceptor-gtx-revealed/)
 
 ### We Talk Cars and More with the New Hosts of ‘The Grand Tour’ Reboot
 
