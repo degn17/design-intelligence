@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 112 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 120 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Two passions, one colour
+
+- Model/program: Two passions, one colour
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-911-gt3-rs-leon-baldinger-43156.html)
+
+### How IT is driving innovation, resilience, and AI at BRP
+
+- Model/program: How IT is driving innovation, resilience, and AI at BRP
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-brp-innovation-resilience-ai-43196.html)
+
+### Between fairways and driving pleasure: Porsche Switzerland at the 2026 Omega European Masters
+
+- Model/program: Between fairways and driving pleasure: Porsche Switzerland at the 2026 Omega European Masters
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/sports-society/porsche-schweiz-omega-european-masters-2026-43201.html)
+
+### Roxy vs. Grello: a thrilling battle
+
+- Model/program: Roxy vs. Grello: a thrilling battle
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-roxy-grello-customer-teams-imsa-gtd-pro-class-43192.html)
+
+### “Raceborn – 75 Years of Porsche Motorsport” Exhibition Opens at Beijing Genesis Centre
+
+- Model/program: “Raceborn – 75 Years of Porsche Motorsport” Exhibition Opens at Beijing Genesis Centre
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-raceborn-exhibition-beijing-genesis-centre-43187.html)
+
+### Reorganisation of Porsche sales for closer integration between regions and head office
+
+- Model/program: Reorganisation of Porsche sales for closer integration between regions and head office
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-sales-reorganisation-regions-43191.html)
+
+### Christian Friedl joins the Executive Board of Porsche AG
+
+- Model/program: Christian Friedl joins the Executive Board of Porsche AG
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-ag-executive-board-christian-friedl-43168.html)
+
+### The 911 GT3 Bergsport: a tribute to Alpine driving
+
+- Model/program: The 911 GT3 Bergsport: a tribute to Alpine driving
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-gt3-bergsport-market-edition-exclusive-manufaktur-43167.html)
 
 ### Next Generation: The development of the Porsche 975 RSE
 

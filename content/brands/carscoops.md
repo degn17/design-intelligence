@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1471 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1477 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,66 @@ Generated internal notes from 1471 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/land-rover-defender-wolf-series-ii/)
+
+### Porsche Driver Rips Panamera Off Tow Truck And Leaves Pieces Behind
+
+- Model/program: Porsche Driver Rips Panamera Off Tow Truck And Leaves Pieces Behind
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/porsche-driver-rips-panamera-off-tow-truck-and-leaves-pieces-behind/)
+
+### Land Rover’s Baby Defender Borrows A New But Old Design Trick From Big Brother
+
+- Model/program: Land Rover’s Baby Defender Borrows A New But Old Design Trick From Big Brother
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/baby-defender-design-trick/)
+
+### At $112K, The 2026 GMC Yukon Denali Ultimate Is Very Good, And That’s The Problem
+
+- Model/program: At $112K, The 2026 GMC Yukon Denali Ultimate Is Very Good, And That’s The Problem
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/gmc-yukon-denali-ultimate-review/)
+
+### Hyundai’s New Nine-Seat Electric Van Matches The ID. Buzz On Price And Beats It On Size
+
+- Model/program: Hyundai’s New Nine-Seat Electric Van Matches The ID. Buzz On Price And Beats It On Size
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-staria-electric-europe/)
+
+### Two Cities Are Rewarding Slow Drivers With Green Lights, Fast Ones With Red
+
+- Model/program: Two Cities Are Rewarding Slow Drivers With Green Lights, Fast Ones With Red
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/smart-traffic-lights/)
+
+### Kia’s Next Electric Van Is A 17-Foot Box On Wheels And It’s Coming For VW
+
+- Model/program: Kia’s Next Electric Van Is A 17-Foot Box On Wheels And It’s Coming For VW
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/kia-pv7-spied/)
 
 ### What VW Group Models Would You Axe?
 

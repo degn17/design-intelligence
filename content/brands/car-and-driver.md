@@ -2,13 +2,83 @@
 
 ## Current positioning
 
-Generated internal notes from 1028 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1035 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Say ‘I Do’ to This Wild British Wedding Car on BaT
+
+- Model/program: Say ‘I Do’ to This Wild British Wedding Car on BaT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73594889/british-wedding-car-bring-a-trailer-auction/)
+
+### View Photos of the EV vs. Hybrid vs. Gas Vehicle Test
+
+- Model/program: View Photos of the EV vs. Hybrid vs. Gas Vehicle Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73571805/ev-vs-hybrid-vs-gas-best-road-trip-car-gallery/)
+
+### EV, Hybrid, or Gas Car: What’s Best for a Road Trip?
+
+- Model/program: EV, Hybrid, or Gas Car: What’s Best for a Road Trip?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73522821/ev-vs-hybrid-vs-gas-best-road-trip-car/)
+
+### View Photos of the 1994 Budget Sports Coupes Comparison Test
+
+- Model/program: View Photos of the 1994 Budget Sports Coupes Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73596234/1994-acura-eagle-ford-honda-mitsubishi-nissan-toyota-sports-coupe-archive-comparison-test-gallery/)
+
+### $20K Hustlers: 1994 Budget Sports Coupes Compared
+
+- Model/program: $20K Hustlers: 1994 Budget Sports Coupes Compared
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a73542806/1994-acura-eagle-ford-honda-mitsubishi-nissan-toyota-sports-coupe-archive-comparison-test/)
+
+### New Mitsubishi Pajero’s Australian Pricing Hints at What U.S. Model Might Cost
+
+- Model/program: New Mitsubishi Pajero’s Australian Pricing Hints at What U.S. Model Might Cost
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73620937/2027-mitsubishi-pajero-australia-pricing/)
+
+### RivianOS 2 Update Makes the R1 Look and Feel More Like an R2
+
+- Model/program: RivianOS 2 Update Makes the R1 Look and Feel More Like an R2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73619057/rivianos-2-rolls-out-to-all-r1-models/)
 
 ### VW Approves Plan to Reduce Lineup by 50 Percent and Cut 50,000 Jobs
 
