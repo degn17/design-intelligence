@@ -2,13 +2,73 @@
 
 ## Current positioning
 
-Generated internal notes from 1477 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1483 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Teen Fleeing Police In Mustang Crashes Into Multimillion-Dollar Plane
+
+- Model/program: Teen Fleeing Police In Mustang Crashes Into Multimillion-Dollar Plane
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mustang-crashes-into-plane/)
+
+### Mitsubishi’s Facelifted Triton Could Steal The New Pajero’s Best Ideas
+
+- Model/program: Mitsubishi’s Facelifted Triton Could Steal The New Pajero’s Best Ideas
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mitsubishi-triton-future-updates/)
+
+### Chinese Brands Got So Fast At Developing New Cars Even China Thinks They Should Slow Down
+
+- Model/program: Chinese Brands Got So Fast At Developing New Cars Even China Thinks They Should Slow Down
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/chinese-automakers-should-slow-down-development/)
+
+### Kia’s 2026 K4 Turbo Hatch Is All The Small Car Most People Actually Need
+
+- Model/program: Kia’s 2026 K4 Turbo Hatch Is All The Small Car Most People Actually Need
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2026-kia-k4-hatchback-review/)
+
+### Your Phone May Rat You Out After A Crash, Even If The Cops Don’t Realize It
+
+- Model/program: Your Phone May Rat You Out After A Crash, Even If The Cops Don’t Realize It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/iihs-telematics-distracted-driving/)
+
+### Hyundai’s New Kona Ditches The Weird Look For A Normal Crossover Shape
+
+- Model/program: Hyundai’s New Kona Ditches The Weird Look For A Normal Crossover Shape
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2028-hyundai-kona-spied-lightly-disguised/)
 
 ### The UK Needs A New Military Vehicle And Land Rover Is Answering The Call
 

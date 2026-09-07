@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1035 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1036 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This BMW Roadster on Bring a Trailer Is Not What It Appears to Be
+
+- Model/program: This BMW Roadster on Bring a Trailer Is Not What It Appears to Be
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73593901/2003-bmw-z4-bring-a-trailer-auction/)
 
 ### Say ‘I Do’ to This Wild British Wedding Car on BaT
 
