@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1036 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1039 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 BMW M350 Prototype Drive: Neue Klasse Is a Gas
+
+- Model/program: 2027 BMW M350 Prototype Drive: Neue Klasse Is a Gas
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73584051/2027-bmw-m350-prototype-drive/)
+
+### This Six-Wheeled Ford Ranger Is Built for Military Duty
+
+- Model/program: This Six-Wheeled Ford Ranger Is Built for Military Duty
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73620974/ford-ranger-super-duty-6x6-british-army/)
+
+### This Elise Restomod Promises the Ultimate Lotus Experience for a Price
+
+- Model/program: This Elise Restomod Promises the Ultimate Lotus Experience for a Price
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73620957/analogue-automotive-vhpk-lotus-elise-restomod/)
 
 ### This BMW Roadster on Bring a Trailer Is Not What It Appears to Be
 

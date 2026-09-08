@@ -2,13 +2,193 @@
 
 ## Current positioning
 
-Generated internal notes from 1483 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1501 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Electric AMG C-Class Pops Its Wing As BMW M3 EV Battle Looms
+
+- Model/program: Electric AMG C-Class Pops Its Wing As BMW M3 EV Battle Looms
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mercedes-amg-class-ev-scoop/)
+
+### Tiny, Slow, And Super Cheap: The VinFast VF 2 Could Come To America And Europe
+
+- Model/program: Tiny, Slow, And Super Cheap: The VinFast VF 2 Could Come To America And Europe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vinfast-vf2-international-sales/)
+
+### The New BMW M350 xDrive Has 443 HP And A Drift Mode That Makes It RWD
+
+- Model/program: The New BMW M350 xDrive Has 443 HP And A Drift Mode That Makes It RWD
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bmw-m350-drift-mode/)
+
+### The Cheapest New VW You Can Buy Rear-Ended A Multi-Million Bugatti Tourbillon Prototype
+
+- Model/program: The Cheapest New VW You Can Buy Rear-Ended A Multi-Million Bugatti Tourbillon Prototype
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vw-polo-bugatti-tourbillon-crash/)
+
+### Skoda CEO Hints At New Fabia, But It Could Be A Long Wait
+
+- Model/program: Skoda CEO Hints At New Fabia, But It Could Be A Long Wait
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/skoda-fabia-ev-successor/)
+
+### The World’s Only Matte Ferrari Enzo Was Owned By A Royal Family
+
+- Model/program: The World’s Only Matte Ferrari Enzo Was Owned By A Royal Family
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ferrari-enzo-auction-matte-black/)
+
+### The Most Extreme Lexus Crossover Could Borrow Even More Cues From The GR Corolla
+
+- Model/program: The Most Extreme Lexus Crossover Could Borrow Even More Cues From The GR Corolla
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lexus-lbx-morizo-rr-extreme-spied/)
+
+### One German Sedan Beat Every Tesla On Battery Health After 93,000 Miles
+
+- Model/program: One German Sedan Beat Every Tesla On Battery Health After 93,000 Miles
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/battery-ev-degradation-study/)
+
+### VW Plant To Switch From Convertibles To Air Defense Systems
+
+- Model/program: VW Plant To Switch From Convertibles To Air Defense Systems
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vw-osnabruck-sale/)
+
+### With Diesel At An All-Time High, Everything Is Getting More Expensive
+
+- Model/program: With Diesel At An All-Time High, Everything Is Getting More Expensive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/with-diesel-at-an-all-time-high-everything-is-getting-more-expensive/)
+
+### The Aftermarket Already Has Plans For Ferrari’s $639K Luce EV
+
+- Model/program: The Aftermarket Already Has Plans For Ferrari’s $639K Luce EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ferrari-luce-vossen-wheels/)
+
+### VW’s ID. Polo Waiting List Is So Long You’ll Get A McLaren Sooner
+
+- Model/program: VW’s ID. Polo Waiting List Is So Long You’ll Get A McLaren Sooner
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vws-id-polo-waiting-list-is-so-long-youll-get-a-mclaren-sooner/)
+
+### Your Car’s New AI Assistant Is Very Friendly, Mostly Because It Wants Your Money
+
+- Model/program: Your Car’s New AI Assistant Is Very Friendly, Mostly Because It Wants Your Money
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ai-assistant-car-revenues/)
+
+### The 2026 Mazda3 Sedan Proves Small Cars Still Make A Lot Of Sense
+
+- Model/program: The 2026 Mazda3 Sedan Proves Small Cars Still Make A Lot Of Sense
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mazda3-sedan-review/)
+
+### Another American Killed By Faulty Chinese Airbag Inflator
+
+- Model/program: Another American Killed By Faulty Chinese Airbag Inflator
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/china-airbag-inflator-death-usa/)
+
+### Jaguar Land Rover Had A Terrible Year And Now 9% Of Its Staff Might Pay For It
+
+- Model/program: Jaguar Land Rover Had A Terrible Year And Now 9% Of Its Staff Might Pay For It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/jlr-uk-job-cuts/)
+
+### The Fake ‘MAFIA’ Plates Were The Least Of This Viral Corvette C8’s Problems
+
+- Model/program: The Fake ‘MAFIA’ Plates Were The Least Of This Viral Corvette C8’s Problems
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/corvette-streetover-new-jersey/)
+
+### Lexus Just Fixed The One Thing California’s EV Rebate Won’t Do For Many Buyers
+
+- Model/program: Lexus Just Fixed The One Thing California’s EV Rebate Won’t Do For Many Buyers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lexus-ev-incentive-california/)
 
 ### Teen Fleeing Police In Mustang Crashes Into Multimillion-Dollar Plane
 
