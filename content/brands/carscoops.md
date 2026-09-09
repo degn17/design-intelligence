@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1501 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1519 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Which Car Has The Greatest Rear Wing Of All Time?
+
+- Model/program: Which Car Has The Greatest Rear Wing Of All Time?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/which-car-has-the-greatest-rear-wing-ever/)
+
+### Bronco Basecamp Breaks Out Of China And Heads Down Under
+
+- Model/program: Bronco Basecamp Breaks Out Of China And Heads Down Under
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bronco-basecamp-australia/)
 
 ### Electric AMG C-Class Pops Its Wing As BMW M3 EV Battle Looms
 
@@ -39,6 +59,166 @@ Generated internal notes from 1501 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/bmw-m350-drift-mode/)
+
+### Ford’s 6X6 Ranger Super Duty Is Bidding To Arm The British Army
+
+- Model/program: Ford’s 6X6 Ranger Super Duty Is Bidding To Arm The British Army
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ford-ranger-military-6x6/)
+
+### PSA: Don’t Play Chicken With A Tesla Cybercab By Jumping In Front Of It
+
+- Model/program: PSA: Don’t Play Chicken With A Tesla Cybercab By Jumping In Front Of It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tesla-cybercab-chicken/)
+
+### South Carolina Street Takeover Ends With 80 Arrests And 38 Cars Impounded
+
+- Model/program: South Carolina Street Takeover Ends With 80 Arrests And 38 Cars Impounded
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/south-carolina-street-takeover/)
+
+### The Final Toyota GR Supra MkV Is Going Up For Grabs
+
+- Model/program: The Final Toyota GR Supra MkV Is Going Up For Grabs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/final-toyota-gr-supra-auction/)
+
+### Toyota’s Answer To Rising Land Cruiser Thefts Will Cost You $1,249 And Five Hours
+
+- Model/program: Toyota’s Answer To Rising Land Cruiser Thefts Will Cost You $1,249 And Five Hours
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-land-cruiser-secondary-immobilizer/)
+
+### Ducati Could Be Put Up For Sale As Part Of VW Group Overhaul
+
+- Model/program: Ducati Could Be Put Up For Sale As Part Of VW Group Overhaul
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ducati-could-be-sold/)
+
+### This Gemballa Porsche 928 Is What Happens When Subtlety Calls In Sick
+
+- Model/program: This Gemballa Porsche 928 Is What Happens When Subtlety Calls In Sick
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/gemballa-porsche-921-auction/)
+
+### Mercedes’ New E-Class Electric Is Washing Bad Memories Of The Soap-Bar EQE Clean Away
+
+- Model/program: Mercedes’ New E-Class Electric Is Washing Bad Memories Of The Soap-Bar EQE Clean Away
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mercedes-benz-e-class-electric-scoop/)
+
+### Ford Cut 7,000 Jobs, Now It’s Paying To Get That Experience Back
+
+- Model/program: Ford Cut 7,000 Jobs, Now It’s Paying To Get That Experience Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/when-ai-wasnt-good-enough-ford-rehired-the-kind-of-experts-it-fired/)
+
+### Cops Say This Guy Stole A $90K BMW With A Valet Ticket And A Basketball Story
+
+- Model/program: Cops Say This Guy Stole A $90K BMW With A Valet Ticket And A Basketball Story
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/savannah-bmw-valet-theft/)
+
+### Jeep Already Fixed These Springs Once, 406 Claims Later They Can Still Fall Off
+
+- Model/program: Jeep Already Fixed These Springs Once, 406 Claims Later They Can Still Fall Off
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/some-jeeps-have-rear-springs-that-could-go-flying/)
+
+### Someone Kept A 12-Mile 1988 HSV Walkinshaw Commodore Wrapped In A Garage Until They Died
+
+- Model/program: Someone Kept A 12-Mile 1988 HSV Walkinshaw Commodore Wrapped In A Garage Until They Died
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/holden-commodore-ss-walkinshaw/)
+
+### Scout Motors’ Latest Legal Battle Isn’t Over A Car, It’s Over An $875 Watch
+
+- Model/program: Scout Motors’ Latest Legal Battle Isn’t Over A Car, It’s Over An $875 Watch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/scout-motors-watch-trademark/)
+
+### Audi Is Paying Lessees $10,000 To Keep The EVs They Already Have
+
+- Model/program: Audi Is Paying Lessees $10,000 To Keep The EVs They Already Have
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/audi-lease-evs/)
+
+### Suzuki’s Decade-Old $6,500 Hatch Loses A Cylinder To Chase Mileage
+
+- Model/program: Suzuki’s Decade-Old $6,500 Hatch Loses A Cylinder To Chase Mileage
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/suzuki-baleno-2026/)
+
+### Renault And Geely’s New Turbo Engine Keeps Running While Fully Underwater
+
+- Model/program: Renault And Geely’s New Turbo Engine Keeps Running While Fully Underwater
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/horse-waterproof-hybrid-engine/)
 
 ### The Cheapest New VW You Can Buy Rear-Ended A Multi-Million Bugatti Tourbillon Prototype
 

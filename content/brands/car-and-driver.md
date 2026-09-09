@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 1039 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1055 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Interior Photos of the 2026 Jeep Recon
+
+- Model/program: View Interior Photos of the 2026 Jeep Recon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73640240/2026-jeep-recon-ev-drive-interior-gallery/)
+
+### View Exterior Photos of the 2026 Jeep Recon
+
+- Model/program: View Exterior Photos of the 2026 Jeep Recon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73640221/2026-jeep-recon-ev-drive-exterior-gallery/)
+
+### The Obstacles of Low Range and High Price: 2026 Jeep Recon EV Driven
+
+- Model/program: The Obstacles of Low Range and High Price: 2026 Jeep Recon EV Driven
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73642665/2026-jeep-recon-ev-drive/)
+
+### Polestar Teases Low-Slung Concept to Hit Us While We’re Down
+
+- Model/program: Polestar Teases Low-Slung Concept to Hit Us While We’re Down
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73644729/polestar-formula-2030-concept-teaser/)
+
+### Turning Our Ford Ranger Raptor into an Overland Truck Hurt Its Performance
+
+- Model/program: Turning Our Ford Ranger Raptor into an Overland Truck Hurt Its Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73615820/2024-ford-ranger-raptor-overland-gear-test-results/)
+
+### Ford Patents May Have Accidentally Revealed the Next-Gen Bronco
+
+- Model/program: Ford Patents May Have Accidentally Revealed the Next-Gen Bronco
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73642098/next-gen-ford-bronco-patents/)
+
+### 2027 McLaren GTS
+
+- Model/program: 2027 McLaren GTS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mclaren/mclaren-gts-2027)
+
+### Audi Is Relaunching the A2 Hatchback as Part of Its e-tron Range
+
+- Model/program: Audi Is Relaunching the A2 Hatchback as Part of Its e-tron Range
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73643820/audi-a2-e-tron-revealed/)
+
+### The Land Baron’s Choice: 1976 Jaguar XJ-S Tested
+
+- Model/program: The Land Baron’s Choice: 1976 Jaguar XJ-S Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73596195/1976-jaguar-xj-s-archive-test/)
+
+### View Photos of the 1976 Jaguar XJ-S
+
+- Model/program: View Photos of the 1976 Jaguar XJ-S
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73642635/1976-jaguar-xj-s-archive-test-gallery/)
+
+### View Interior Photos of the 2026 Hyundai Elantra Hybrid Limited
+
+- Model/program: View Interior Photos of the 2026 Hyundai Elantra Hybrid Limited
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73606980/2026-hyundai-elantra-hybrid-limited-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Hyundai Elantra Hybrid Limited
+
+- Model/program: View Exterior Photos of the 2026 Hyundai Elantra Hybrid Limited
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73606252/2026-hyundai-elantra-hybrid-limited-test-exterior-gallery/)
+
+### A Pyrrhic Victory in the War on Cost: 2026 Hyundai Elantra Hybrid Tested
+
+- Model/program: A Pyrrhic Victory in the War on Cost: 2026 Hyundai Elantra Hybrid Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73582239/2026-hyundai-elantra-hybrid-limited-test/)
+
+### Jeep Recalls 328,381 Grand Cherokees over Detaching Coil Springs
+
+- Model/program: Jeep Recalls 328,381 Grand Cherokees over Detaching Coil Springs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73641019/jeep-grand-cherokee-detaching-coil-springs-recall/)
+
+### 2027 BMW 3-Series
+
+- Model/program: 2027 BMW 3-Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/3-series-2027)
+
+### Racing Brings Eyes to Genesis’ Magma Subbrand with Points Finish in Texas
+
+- Model/program: Racing Brings Eyes to Genesis’ Magma Subbrand with Points Finish in Texas
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73636125/genesis-magma-racing-brand-awareness-texas/)
 
 ### 2027 BMW M350 Prototype Drive: Neue Klasse Is a Gas
 
