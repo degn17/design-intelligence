@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1055 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1064 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -39,6 +39,96 @@ Generated internal notes from 1055 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/reviews/a73642665/2026-jeep-recon-ev-drive/)
+
+### View Interior Photos of the 2026 Honda HR-V EX-L
+
+- Model/program: View Interior Photos of the 2026 Honda HR-V EX-L
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73655792/2026-honda-hr-v-ex-l-interior-gallery/)
+
+### View Exterior Photos of the 2026 Honda HR-V EX-L
+
+- Model/program: View Exterior Photos of the 2026 Honda HR-V EX-L
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73655791/2026-honda-hr-v-exterior-gallery/)
+
+### 10,000 Toyota C-HR EVs Recalled Due to Overcharged Batteries
+
+- Model/program: 10,000 Toyota C-HR EVs Recalled Due to Overcharged Batteries
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73653352/toyota-c-hr-ev-overcharged-battery-recall/)
+
+### We Tried Hyundai’s New Pleos Connect Infotainment System
+
+- Model/program: We Tried Hyundai’s New Pleos Connect Infotainment System
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73594337/hyundai-pleos-connect-infotainment/)
+
+### Aston Martin AMB 002 Is the Brand’s First Road-Legal Motorcycle
+
+- Model/program: Aston Martin AMB 002 Is the Brand’s First Road-Legal Motorcycle
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73652373/aston-martin-amb-002-motorcycle-revealed/)
+
+### 2026 Jeep Recon EV
+
+- Model/program: 2026 Jeep Recon EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/jeep/recon-ev)
+
+### Hyundai Patents a Control Method That Understands Pointing
+
+- Model/program: Hyundai Patents a Control Method That Understands Pointing
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73647399/hyundai-voice-control-with-pointing-patent/)
+
+### 2027 Honda Passport TrailSport Doubles Down on Off-Road Readiness
+
+- Model/program: 2027 Honda Passport TrailSport Doubles Down on Off-Road Readiness
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73650584/2027-honda-passport-trailsport-details/)
+
+### View Photos of the 2027 Honda Passport TrailSport
+
+- Model/program: View Photos of the 2027 Honda Passport TrailSport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73642424/2027-honda-passport-trailsport-gallery/)
 
 ### Polestar Teases Low-Slung Concept to Hit Us While We’re Down
 
