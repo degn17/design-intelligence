@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1519 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1522 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The Mercedes-AMG CLE 646 Will Demolish An M4, But You Can’t Buy One
+
+- Model/program: The Mercedes-AMG CLE 646 Will Demolish An M4, But You Can’t Buy One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/the-mercedes-amg-cle-646-will-demolish-an-m4-but-you-cant-buy-one/)
+
+### Flock Cameras Are Under Fire, But The Private Networks You Can’t See May Be Worse
+
+- Model/program: Flock Cameras Are Under Fire, But The Private Networks You Can’t See May Be Worse
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/flock-cameras-are-under-fire-but-the-private-networks-you-cant-see-may-be-worse/)
+
+### Spanish Brand Returns From The Dead With Rebadged Nissans Built In China
+
+- Model/program: Spanish Brand Returns From The Dead With Rebadged Nissans Built In China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/galloper-iberica/)
 
 ### Which Car Has The Greatest Rear Wing Of All Time?
 

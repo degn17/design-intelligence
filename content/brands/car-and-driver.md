@@ -2,13 +2,133 @@
 
 ## Current positioning
 
-Generated internal notes from 1064 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1076 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Mercedes-AMG Brings Back the V-8 Sports Coupe with the CLE 646
+
+- Model/program: Mercedes-AMG Brings Back the V-8 Sports Coupe with the CLE 646
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73674190/mercedes-amg-cle-646-spezialanfertigung-revealed/)
+
+### Volvo Cancels EX40 Electric SUV Amid Falling Sales
+
+- Model/program: Volvo Cancels EX40 Electric SUV Amid Falling Sales
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73670980/volvo-ex40-canceled/)
+
+### End of an Era: Porsche Sells Remaining Stake in Bugatti to Rimac
+
+- Model/program: End of an Era: Porsche Sells Remaining Stake in Bugatti to Rimac
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73672659/porsche-sells-remaining-stake-in-bugatti-to-rimac/)
+
+### McLaren Readies 810-HP Hybrid Coupe for 2027 Arrival
+
+- Model/program: McLaren Readies 810-HP Hybrid Coupe for 2027 Arrival
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73667458/mclaren-hybrid-coupe-2027-arrival-report/)
+
+### Champagne Wishes and Caviar Dreams: 1992 Mercedes-Benz 400SE Tested
+
+- Model/program: Champagne Wishes and Caviar Dreams: 1992 Mercedes-Benz 400SE Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73605670/1992-mercedes-benz-400se-archive-test/)
+
+### Gas, Brake, Honk: Tesla Cybercab Has a Hidden Driving Joystick
+
+- Model/program: Gas, Brake, Honk: Tesla Cybercab Has a Hidden Driving Joystick
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73667574/tesla-cybercab-joystick-screen-controls/)
+
+### View Interior Photos of the 2026 Dodge Durango R/T
+
+- Model/program: View Interior Photos of the 2026 Dodge Durango R/T
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73643388/2026-dodge-durango-rt-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Dodge Durango R/T
+
+- Model/program: View Exterior Photos of the 2026 Dodge Durango R/T
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73643339/2026-dodge-durango-rt-test-exterior-gallery/)
+
+### 2026 Dodge Durango R/T Tested: A Powerful Relapse
+
+- Model/program: 2026 Dodge Durango R/T Tested: A Powerful Relapse
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73596550/2026-dodge-durango-rt-test/)
+
+### 2028 Volvo XC40’s Newest Nip and Tuck Is an Exercise in Subtlety
+
+- Model/program: 2028 Volvo XC40’s Newest Nip and Tuck Is an Exercise in Subtlety
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73647209/2028-volvo-xc40-refresh-revealed/)
+
+### View Exterior Photos of the 2028 Volvo XC40
+
+- Model/program: View Exterior Photos of the 2028 Volvo XC40
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73647145/2028-volvo-xc40-exterior-gallery/)
+
+### View Interior Photos of the 2028 Volvo XC40
+
+- Model/program: View Interior Photos of the 2028 Volvo XC40
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73647358/2028-volvo-xc40-interior-gallery/)
 
 ### View Interior Photos of the 2026 Jeep Recon
 
