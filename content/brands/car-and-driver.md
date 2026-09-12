@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 1076 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1087 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Mini 1998 GT Provides JCW Moves without Breaking the Bank
+
+- Model/program: 2027 Mini 1998 GT Provides JCW Moves without Breaking the Bank
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73690701/2027-mini-1998-gt-revealed/)
+
+### Japan's Floating Parking Spot Keeps Cars Safe from Floodwaters
+
+- Model/program: Japan's Floating Parking Spot Keeps Cars Safe from Floodwaters
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73691037/floating-parking-spot-flood-safety-japan/)
+
+### Watch the Genesis Magma GT Concept Speed Its Way Up a Hillclimb
+
+- Model/program: Watch the Genesis Magma GT Concept Speed Its Way Up a Hillclimb
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73690518/watch-genesis-magma-gt-concept-hillclimb-video/)
+
+### 2027 Porsche 718 EV Spied Testing with Nearly No Camouflage
+
+- Model/program: 2027 Porsche 718 EV Spied Testing with Nearly No Camouflage
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73688265/2027-porsche-718-ev-boxster-spy-photos/)
+
+### 2026 Porsche Cayenne Electric / Cayenne Coupe Electric
+
+- Model/program: 2026 Porsche Cayenne Electric / Cayenne Coupe Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/porsche/cayenne-ev)
+
+### 2027 Bentley Continental GT
+
+- Model/program: 2027 Bentley Continental GT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bentley/continental-gt-2027)
+
+### Tested: The 2026 Porsche Cayenne Turbo Electric Makes Supercar Performance a Side Feature
+
+- Model/program: Tested: The 2026 Porsche Cayenne Turbo Electric Makes Supercar Performance a Side Feature
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73641726/2026-porsche-cayenne-turbo-ev-test/)
+
+### View Exterior Photos of the 2026 Porsche Cayenne Turbo Electric
+
+- Model/program: View Exterior Photos of the 2026 Porsche Cayenne Turbo Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73642004/2026-porsche-cayenne-turbo-ev-test-exterior-gallery/)
+
+### View Interior Photos of the 2026 Porsche Cayenne Turbo Electric
+
+- Model/program: View Interior Photos of the 2026 Porsche Cayenne Turbo Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73642131/2026-porsche-cayenne-turbo-ev-test-interior-gallery/)
+
+### The Bovensiepen Spider Is What a BMW Alpina Z4 Would’ve Been
+
+- Model/program: The Bovensiepen Spider Is What a BMW Alpina Z4 Would’ve Been
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73686837/bovensiepen-spider-bmw-z4-revealed/)
+
+### Our Long-Term 2025 Subaru Forester Sport Got the Job Done
+
+- Model/program: Our Long-Term 2025 Subaru Forester Sport Got the Job Done
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a64505159/2025-subaru-forester-sport-reliability-maintenance/)
 
 ### Mercedes-AMG Brings Back the V-8 Sports Coupe with the CLE 646
 

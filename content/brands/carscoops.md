@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1522 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1540 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Man Clings On To Moving Tesla While Allegedly Fleeing Knife-Wielding Driver
+
+- Model/program: Man Clings On To Moving Tesla While Allegedly Fleeing Knife-Wielding Driver
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/man-clings-on-to-moving-tesla-while-allegedly-fleeing-knife-wielding-driver/)
+
+### What’s The Most Cursed Automotive Nameplate?
+
+- Model/program: What’s The Most Cursed Automotive Nameplate?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/most-cursed-automotive-nameplate/)
 
 ### The Mercedes-AMG CLE 646 Will Demolish An M4, But You Can’t Buy One
 
@@ -19,6 +39,166 @@ Generated internal notes from 1522 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/the-mercedes-amg-cle-646-will-demolish-an-m4-but-you-cant-buy-one/)
+
+### 300 Classic Cars Are Going To Auction, Some Starting At Just 50 Cents
+
+- Model/program: 300 Classic Cars Are Going To Auction, Some Starting At Just 50 Cents
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/300-classic-cars-are-going-to-auction-some-starting-at-just-50-cents/)
+
+### Nissan’s New Electric City Car Is Called The Pixo
+
+- Model/program: Nissan’s New Electric City Car Is Called The Pixo
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/nissan-pixo-ev/)
+
+### Diesel Tops $6 A Gallon As Fuel Prices Smash A New Record
+
+- Model/program: Diesel Tops $6 A Gallon As Fuel Prices Smash A New Record
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/diesel-tops-6-a-gallon-as-fuel-prices-smash-a-new-record/)
+
+### Testing Of A Mysterious Future Toyota EV Sparked A Recall Of The New C-HR
+
+- Model/program: Testing Of A Mysterious Future Toyota EV Sparked A Recall Of The New C-HR
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-c-hr-recall/)
+
+### Enter The Corvette Museum Sweepstakes, And You Could Win A ZR1 – Even For Free!
+
+- Model/program: Enter The Corvette Museum Sweepstakes, And You Could Win A ZR1 – Even For Free!
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/donate-to-the-corvette-museum-and-you-could-win-a-zr1/)
+
+### Aston Martin’s First Street Bike Is A Symphony Of Carbon Fiber And Titanium
+
+- Model/program: Aston Martin’s First Street Bike Is A Symphony Of Carbon Fiber And Titanium
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/aston-martin-amb-002-motorcycle/)
+
+### Rimac Finalizes Bugatti Takeover, Ending All VW Ownership
+
+- Model/program: Rimac Finalizes Bugatti Takeover, Ending All VW Ownership
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/rimac-finalizes-bugatti-takeover-ending-all-vw-ownership/)
+
+### The Cheapest Toyota Track Toy Is Here, And It’s Also The Sharpest Of Them All
+
+- Model/program: The Cheapest Toyota Track Toy Is Here, And It’s Also The Sharpest Of Them All
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/the-cheapest-toyota-track-toy-is-here-and-its-also-the-sharpest-of-them-all/)
+
+### Your New VW Can Change Lanes On Its Own Like A Tesla
+
+- Model/program: Your New VW Can Change Lanes On Its Own Like A Tesla
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/your-new-vw-can-change-lanes-on-its-own-like-a-tesla/)
+
+### The More Capable Honda Passport TrailSport Begs The Question: Do You Really Need A Ladder-Frame SUV?
+
+- Model/program: The More Capable Honda Passport TrailSport Begs The Question: Do You Really Need A Ladder-Frame SUV?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/new-more-masculine-honda-passport-trailsport-begs-the-question-do-you-really-need-a-ladder-frame-suv/)
+
+### Renault’s Sensible New Truck Says It Rides Like An SUV
+
+- Model/program: Renault’s Sensible New Truck Says It Rides Like An SUV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/renaults-sensible-new-truck-says-it-rides-like-an-suv/)
+
+### BMW M Launches New Special Edition Models For Nürburgring’s Special Birthday
+
+- Model/program: BMW M Launches New Special Edition Models For Nürburgring’s Special Birthday
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bmw-m-launches-new-special-edition-models-for-nurburgrings-special-birthday/)
+
+### Trump Administration Blasts Ford For Its Business Dealings With China
+
+- Model/program: Trump Administration Blasts Ford For Its Business Dealings With China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/trump-administration-blasts-ford-for-its-business-dealings-with-china/)
+
+### Volvo’s Decade-Old XC40 Refuses To Die, Gains Design And Tech Updates
+
+- Model/program: Volvo’s Decade-Old XC40 Refuses To Die, Gains Design And Tech Updates
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/volvos-decade-old-xc40-refuses-to-die-gains-design-and-tech-updates/)
+
+### Porsche’s Boxster EV Is Almost Showroom-Ready, But Is The Showroom Ready For An Electric 718?
+
+- Model/program: Porsche’s Boxster EV Is Almost Showroom-Ready, But Is The Showroom Ready For An Electric 718?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/porsche-boxster-ev-scoop/)
+
+### BMW Killed The Z4, But Alpina’s Founders Just Brought It Back With 429 HP
+
+- Model/program: BMW Killed The Z4, But Alpina’s Founders Just Brought It Back With 429 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bmw-killed-the-z4-but-alpinas-founders-just-brought-it-back-with-429-hp/)
 
 ### Flock Cameras Are Under Fire, But The Private Networks You Can’t See May Be Worse
 
