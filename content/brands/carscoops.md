@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1540 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1544 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -29,6 +29,46 @@ Generated internal notes from 1540 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/most-cursed-automotive-nameplate/)
+
+### California Cops Catch Jetta Driver With A Push-Button Plate Hider
+
+- Model/program: California Cops Catch Jetta Driver With A Push-Button Plate Hider
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/california-cops-catch-jetta-driver-with-a-push-button-plate-hider/)
+
+### Buick’s 2006 Envista ST Is A Love Letter To Buick Loyalists | Review
+
+- Model/program: Buick’s 2006 Envista ST Is A Love Letter To Buick Loyalists | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/buick-2006-envista-st-review/)
+
+### Mini 1998 GT Edition Costs More Than A Cooper S But Has Less Power
+
+- Model/program: Mini 1998 GT Edition Costs More Than A Cooper S But Has Less Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mini-1998-gt-edition/)
+
+### La Cinquecento Is The Cutest Restomod You Didn’t Know You Wanted
+
+- Model/program: La Cinquecento Is The Cutest Restomod You Didn’t Know You Wanted
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/la-cinquecento-is-the-cutest-restomod-you-didnt-know-you-needed/)
 
 ### The Mercedes-AMG CLE 646 Will Demolish An M4, But You Can’t Buy One
 

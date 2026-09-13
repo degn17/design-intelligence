@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1087 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1089 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -29,6 +29,26 @@ Generated internal notes from 1087 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a73691037/floating-parking-spot-flood-safety-japan/)
+
+### This Porsche 911 Turbo S Is a Near-Twin to Michael Jordan’s Car
+
+- Model/program: This Porsche 911 Turbo S Is a Near-Twin to Michael Jordan’s Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73692950/1997-porsche-911-turbo-s-bring-a-trailer-auction/)
+
+### This Toyota Patent Turns Your Car into a Hands-Free Camera
+
+- Model/program: This Toyota Patent Turns Your Car into a Hands-Free Camera
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73675194/toyota-eye-tracking-roadside-photo-patent/)
 
 ### Watch the Genesis Magma GT Concept Speed Its Way Up a Hillclimb
 
