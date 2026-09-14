@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1089 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1091 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Rare Ford Cortina Wagon Is Infused with Lotus Spirit
+
+- Model/program: This Rare Ford Cortina Wagon Is Infused with Lotus Spirit
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73693106/ford-cortina-wagon-bring-a-trailer-auction/)
+
+### Survey: These Vehicles Will Most Likely Hit the 250,000-Mile Mark
+
+- Model/program: Survey: These Vehicles Will Most Likely Hit the 250,000-Mile Mark
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73692636/most-reliable-high-mileage-vehicles-survey/)
 
 ### 2027 Mini 1998 GT Provides JCW Moves without Breaking the Bank
 

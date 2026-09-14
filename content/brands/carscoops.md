@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 1544 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1548 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Copart’s $1.9 Billion Bet Is About Controlling the Used-Car Pipeline
+
+- Model/program: Copart’s $1.9 Billion Bet Is About Controlling the Used-Car Pipeline
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/coparts-1-9-billion-bet-is-about-controlling-the-used-car-pipeline/)
+
+### Ignore The Hate Because The Dodge Charger R/T Is A Truly Impressive Muscle Car | Review
+
+- Model/program: Ignore The Hate Because The Dodge Charger R/T Is A Truly Impressive Muscle Car | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ignore-the-hate-because-the-dodge-charger-r-t-is-a-truly-impressive-muscle-car-review/)
+
+### How Does AMG’s CLE 646 Stack Up Against The Mustang GTD?
+
+- Model/program: How Does AMG’s CLE 646 Stack Up Against The Mustang GTD?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/how-does-amgs-cle-646-stack-up-against-the-mustang-gtd/)
+
+### The Mitsubishi Eclipse Cross You Can’t Have Just Got Way Cheaper
+
+- Model/program: The Mitsubishi Eclipse Cross You Can’t Have Just Got Way Cheaper
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/the-mitsubishi-eclipse-cross-you-cant-have-just-got-way-cheaper/)
 
 ### Man Clings On To Moving Tesla While Allegedly Fleeing Knife-Wielding Driver
 
