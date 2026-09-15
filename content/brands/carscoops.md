@@ -2,13 +2,183 @@
 
 ## Current positioning
 
-Generated internal notes from 1548 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1565 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ford F-150s Can Lose Their Gas Tanks While Driving And That’s Just The Start
+
+- Model/program: Ford F-150s Can Lose Their Gas Tanks While Driving And That’s Just The Start
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ford-f-150-recalls/)
+
+### Audi RS Q5 Sportback Steps Into The Spotlight And Could Be Hiding A 630 HP Surprise
+
+- Model/program: Audi RS Q5 Sportback Steps Into The Spotlight And Could Be Hiding A 630 HP Surprise
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2028-audi-rs-q5-sportback-spied/)
+
+### New X5 Gets A Carbon Fiber Makeover From BMW M Performance Parts
+
+- Model/program: New X5 Gets A Carbon Fiber Makeover From BMW M Performance Parts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2027-bmw-x5-m-performace-parts/)
+
+### Stellantis Wants To Sell Canadian Plant, Infuriating Union
+
+- Model/program: Stellantis Wants To Sell Canadian Plant, Infuriating Union
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/stellantis-brampton-sale-roshel/)
+
+### Honda Won’t Sacrifice Quality In Chasing China’s Lightning Development Times
+
+- Model/program: Honda Won’t Sacrifice Quality In Chasing China’s Lightning Development Times
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/honda-reliability-developme/)
+
+### McLaren’s Next Supercar Will Pack A Bigger Punch Than The 750S For Less Money
+
+- Model/program: McLaren’s Next Supercar Will Pack A Bigger Punch Than The 750S For Less Money
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mclaren-p34-hybrid-supercar/)
+
+### The Ultimate Mercedes G-Wagen Is Rarer Than A McLaren W1
+
+- Model/program: The Ultimate Mercedes G-Wagen Is Rarer Than A McLaren W1
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mercedes-g650-auction-usa/)
+
+### Cop Shared Flock Data With Woman’s Alleged Abuser, But Won’t Face Charges
+
+- Model/program: Cop Shared Flock Data With Woman’s Alleged Abuser, But Won’t Face Charges
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/cop-shared-flock-data-with-womans-alleged-abuser-but-wont-face-charges/)
+
+### Ferrari 296 GT Modificata Throws Out The Playbook And Leaves GT3 Evo In The Dust
+
+- Model/program: Ferrari 296 GT Modificata Throws Out The Playbook And Leaves GT3 Evo In The Dust
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ferrari-296-gt-modificata/)
+
+### Kia Makes Regular Vans Feel Outdated With New PV7
+
+- Model/program: Kia Makes Regular Vans Feel Outdated With New PV7
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/kia-pv7-debut/)
+
+### Tesla Says ‘Go For Launch’ As Roadster Gets Yet Another Reveal Date
+
+- Model/program: Tesla Says ‘Go For Launch’ As Roadster Gets Yet Another Reveal Date
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tesla-says-go-for-launch-as-roadster-gets-yet-another-reveal-date/)
+
+### Audi’s RSQ3 Is Dead, But A New Kind Of Speedy Q3 Is Coming
+
+- Model/program: Audi’s RSQ3 Is Dead, But A New Kind Of Speedy Q3 Is Coming
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/audis-rsq3-is-dead-but-a-new-kind-of-speedy-q3-is-coming/)
+
+### Jeep Wrangler JL-2A Looks Back At The World War II Era
+
+- Model/program: Jeep Wrangler JL-2A Looks Back At The World War II Era
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/jeep-wrangler-willys-jl2a/)
+
+### VW’s Hypermiling Supercar Is Back
+
+- Model/program: VW’s Hypermiling Supercar Is Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/__trashed-10/)
+
+### Detroit Wants Chinese Cars Banned But Trump Says Bring On The Factories
+
+- Model/program: Detroit Wants Chinese Cars Banned But Trump Says Bring On The Factories
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/trump-chinese-cars-factories/)
+
+### It’s Only A Concept, But The Genesis Magma GT Is Very Real
+
+- Model/program: It’s Only A Concept, But The Genesis Magma GT Is Very Real
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/genesis-magma-gt-hillclimb/)
+
+### VW Has Created A New Version Of The Ultra-Efficient XL1
+
+- Model/program: VW Has Created A New Version Of The Ultra-Efficient XL1
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vw-mission-efficiency-teaser/)
 
 ### Copart’s $1.9 Billion Bet Is About Controlling the Used-Car Pipeline
 

@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 1091 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1100 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### VW's Mission Efficiency Prototype Is Basically an XL1 for the Electric Age
+
+- Model/program: VW's Mission Efficiency Prototype Is Basically an XL1 for the Electric Age
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73728537/vw-mission-efficiency-prototype-details/)
+
+### View Photos of the 2026 Mercedes-Benz E450 4Matic
+
+- Model/program: View Photos of the 2026 Mercedes-Benz E450 4Matic
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73669691/2026-mercedes-benz-e450-4matic-test-gallery/)
+
+### View Photos of the 2026 Genesis G80 3.5T AWD
+
+- Model/program: View Photos of the 2026 Genesis G80 3.5T AWD
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73668866/2026-genesis-g80-awd-test-gallery/)
+
+### Audi A6, BMW 540i, Genesis G80, and Mercedes-Benz E450: Four Aspirational Four-Doors Comparison Test
+
+- Model/program: Audi A6, BMW 540i, Genesis G80, and Mercedes-Benz E450: Four Aspirational Four-Doors Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a73569758/2026-audi-bmw-genesis-mercedes-benz-luxury-sedan-comparison-test/)
+
+### Jeep’s Latest Wrangler Reimagines the Original CJ-2A
+
+- Model/program: Jeep’s Latest Wrangler Reimagines the Original CJ-2A
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73726603/2027-jeep-wrangler-jl-2a-special-edition-details/)
+
+### Elon Musk Says the New Tesla Roadster Will Be Revealed Very Soon
+
+- Model/program: Elon Musk Says the New Tesla Roadster Will Be Revealed Very Soon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/)
+
+### View Photos of the 1998 Mid-Size Luxury Sedan Comparison Test
+
+- Model/program: View Photos of the 1998 Mid-Size Luxury Sedan Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73688013/1998-audi-cadillac-lexus-mazda-mercedes-benz-saab-volvo-luxury-sedan-archive-comparison-test-gallery/)
+
+### Bonus Rollers: 1998 Luxury Sedans Compared
+
+- Model/program: Bonus Rollers: 1998 Luxury Sedans Compared
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73644049/1998-audi-cadillac-lexus-mazda-mercedes-benz-saab-volvo-luxury-sedan-archive-comparison-test/)
+
+### Ford Patents a Pickup You Can Move by Pushing on It
+
+- Model/program: Ford Patents a Pickup You Can Move by Pushing on It
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73675468/ford-push-to-move-pickup-truck-patent/)
 
 ### This Rare Ford Cortina Wagon Is Infused with Lotus Spirit
 
