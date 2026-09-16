@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 1100 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1111 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Kia Aims to Expand Its Commercial Van Conquest with the PV7 EV
+
+- Model/program: Kia Aims to Expand Its Commercial Van Conquest with the PV7 EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73748838/kia-pv7-electric-van-revealed/)
+
+### Land Rover and Stellantis Aim to Build a Defender Truck in the U.S.
+
+- Model/program: Land Rover and Stellantis Aim to Build a Defender Truck in the U.S.
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73745451/land-rover-stellantis-defender-truck-us-production/)
+
+### 2028 Volvo XC90’s New Plug-in Hybrid Powertrain Will Save You Money
+
+- Model/program: 2028 Volvo XC90’s New Plug-in Hybrid Powertrain Will Save You Money
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73742218/2028-volvo-xc90-phev-update/)
+
+### View Photos of the 2028 Volvo XC90 Hybrid
+
+- Model/program: View Photos of the 2028 Volvo XC90 Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73743058/2028-volvo-xc90-hybrid-details-gallery/)
+
+### 2027 Ford F-150 Gains a New Engine and a Carhartt-Branded Model
+
+- Model/program: 2027 Ford F-150 Gains a New Engine and a Carhartt-Branded Model
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73729393/2027-ford-f-150-carhartt-revealed/)
+
+### View Photos of the 2027 Ford F-150 Carhartt Edition
+
+- Model/program: View Photos of the 2027 Ford F-150 Carhartt Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73726316/2027-ford-f-150-carhartt-edition-details-gallery/)
+
+### 2028 Volvo XC60 Has a Prettier Face and a Lot More Electric-Only Range
+
+- Model/program: 2028 Volvo XC60 Has a Prettier Face and a Lot More Electric-Only Range
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73698809/2028-volvo-xc60-hybrid-revealed/)
+
+### View Exterior Photos of the 2028 Volvo XC60
+
+- Model/program: View Exterior Photos of the 2028 Volvo XC60
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73688264/2028-volvo-xc60-revealed-exterior-gallery/)
+
+### 2028 Volvo XC90 Hybrid
+
+- Model/program: 2028 Volvo XC90 Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/volvo/xc90-hybrid-2028)
+
+### View Interior Photos of the 2028 Volvo XC60
+
+- Model/program: View Interior Photos of the 2028 Volvo XC60
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73688306/2028-volvo-xc60-revealed-interior-gallery/)
+
+### 2028 Volvo XC60 Hybrid
+
+- Model/program: 2028 Volvo XC60 Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/volvo/xc60-hybrid-2028)
 
 ### VW's Mission Efficiency Prototype Is Basically an XL1 for the Electric Age
 

@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1565 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1577 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Teen Clocked At 123 MPH In Corvette Gets A Ticket And A Call To His Parent
+
+- Model/program: Teen Clocked At 123 MPH In Corvette Gets A Ticket And A Call To His Parent
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/teen-clocked-at-123-mph-in-corvette-gets-a-ticket-and-a-call-to-his-parent/)
 
 ### Ford F-150s Can Lose Their Gas Tanks While Driving And That’s Just The Start
 
@@ -19,6 +29,116 @@ Generated internal notes from 1565 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/ford-f-150-recalls/)
+
+### Dealer Admits Trafficking Fake Honda Airbags Shipped As Night Lights
+
+- Model/program: Dealer Admits Trafficking Fake Honda Airbags Shipped As Night Lights
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/dealer-admits-trafficking-fake-honda-airbags-shipped-as-night-lights/)
+
+### Stellantis’ BOW Concept Has No Driver, No Cab, And No Specs
+
+- Model/program: Stellantis’ BOW Concept Has No Driver, No Cab, And No Specs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/stellantis-bow-concept-has-no-driver-no-cab-and-no-specs/)
+
+### The 2027 Ford F-150 Gets More Muscle, Hands-Free Towing And A Carhartt Wardrobe
+
+- Model/program: The 2027 Ford F-150 Gets More Muscle, Hands-Free Towing And A Carhartt Wardrobe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/the-2027-ford-f-150-gets-more-muscle-hands-free-towing-and-a-carhartt-wardrobe/)
+
+### Kia’s EV9 Fire Sale Could Save You $16,000 Off MSRP
+
+- Model/program: Kia’s EV9 Fire Sale Could Save You $16,000 Off MSRP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/kia-ev9-fire-sale/)
+
+### One-Off Rolls-Royce Phantom Hummingbird Is The First To Use Abalone Shells
+
+- Model/program: One-Off Rolls-Royce Phantom Hummingbird Is The First To Use Abalone Shells
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/rolls-royce-phantom-hummingbird/)
+
+### $95k Buys One Of These Official Porsche Licensed 550 Spyders, But There’s One Small Problem
+
+- Model/program: $95k Buys One Of These Official Porsche Licensed 550 Spyders, But There’s One Small Problem
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/embargo-sep-15-11-am-est95k-buys-one-of-these-official-porsche-licensed-550-spyders-but-theres-one-small-problem/)
+
+### After Trump Blasted Ford, GM Goes All-In On The US For Its Next-Gen Batteries
+
+- Model/program: After Trump Blasted Ford, GM Goes All-In On The US For Its Next-Gen Batteries
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/gm-battery-production-usa/)
+
+### AMG’s GLC Is Getting A New Look, But Not The CLE 646’s V8
+
+- Model/program: AMG’s GLC Is Getting A New Look, But Not The CLE 646’s V8
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/amgs-glc-is-getting-a-new-look-but-not-the-cle-646s-v8/)
+
+### BYD’s New Electric Semi For Europe Beats Tesla In Almost Every Metric
+
+- Model/program: BYD’s New Electric Semi For Europe Beats Tesla In Almost Every Metric
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/byd-ett44/)
+
+### AMG GT Black Series Looks Like It’s Smashed The Ring Record Before It’s Even Hit The Track
+
+- Model/program: AMG GT Black Series Looks Like It’s Smashed The Ring Record Before It’s Even Hit The Track
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/amg-gt-black-series-looks-like-its-smashed-the-ring-record-before-its-even-hit-the-track/)
+
+### Volvo’s New PHEVs Drives So Far On Electric You Might Not Use The Gas Engine For Months
+
+- Model/program: Volvo’s New PHEVs Drives So Far On Electric You Might Not Use The Gas Engine For Months
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/volvos-new-phevs-drives-so-far-on-electric-you-might-not-use-the-gas-engine-for-months/)
 
 ### Audi RS Q5 Sportback Steps Into The Spotlight And Could Be Hiding A 630 HP Surprise
 
