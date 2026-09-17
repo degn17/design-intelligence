@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1577 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1593 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A Truck You Can’t Buy Is Battling A $103K TRX For Truck Of The Year
+
+- Model/program: A Truck You Can’t Buy Is Battling A $103K TRX For Truck Of The Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/a-truck-you-cant-buy-is-battling-a-103k-trx-for-truck-of-the-year/)
+
+### Hyundai Bayon Returns With Tougher Looks And More Tech
+
+- Model/program: Hyundai Bayon Returns With Tougher Looks And More Tech
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-bayon-teaser/)
 
 ### Teen Clocked At 123 MPH In Corvette Gets A Ticket And A Call To His Parent
 
@@ -19,6 +39,146 @@ Generated internal notes from 1577 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/teen-clocked-at-123-mph-in-corvette-gets-a-ticket-and-a-call-to-his-parent/)
+
+### US Hybrid Sales Are Full Steam Ahead, But EV-Focused GM Missed The Boat
+
+- Model/program: US Hybrid Sales Are Full Steam Ahead, But EV-Focused GM Missed The Boat
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/us-hybrid-sales-are-full-steam-ahead-but-ev-focused-gm-missed-the-boat/)
+
+### New Cayenne Electric Adds Power Doors And Wireless Charging
+
+- Model/program: New Cayenne Electric Adds Power Doors And Wireless Charging
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/new-cayenne-electric-adds-power-doors-and-wireless-charging/)
+
+### Hyundai Ioniq 5 N Imagined As A Group B Monster With ICE Power
+
+- Model/program: Hyundai Ioniq 5 N Imagined As A Group B Monster With ICE Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-ioniq-group-b/)
+
+### Hyundai Launching Its Own Self-Driving Suite In 2029…Sort Of
+
+- Model/program: Hyundai Launching Its Own Self-Driving Suite In 2029…Sort Of
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-autonomous-technology/)
+
+### Toyota Land Cruiser 300 Loses Gas Engine, Gains A Flashy Modellista Bodykit
+
+- Model/program: Toyota Land Cruiser 300 Loses Gas Engine, Gains A Flashy Modellista Bodykit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/land-cruiser-japan/)
+
+### Lexus Gives 2027 IS A Lovely Green Color But It’s Limited To Just 350 Cars
+
+- Model/program: Lexus Gives 2027 IS A Lovely Green Color But It’s Limited To Just 350 Cars
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lexus-gives-2027-is-a-lovely-green-color-but-its-limited-to-just-350-cars/)
+
+### You Don’t Need A Rolls-Royce To Have A Luxury Sedan With Coach Doors
+
+- Model/program: You Don’t Need A Rolls-Royce To Have A Luxury Sedan With Coach Doors
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lincoln-continental-coach-doors-auction/)
+
+### Toyota Confirms New Hilux Variant For 2028
+
+- Model/program: Toyota Confirms New Hilux Variant For 2028
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-hilux-fcev-teaser/)
+
+### Has Mercedes’ New Entry-Level C 300 Electric Just Made The C 400 Redundant?
+
+- Model/program: Has Mercedes’ New Entry-Level C 300 Electric Just Made The C 400 Redundant?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/has-mercedes-new-entry-level-c-300-electric-just-made-the-c-400-redundant/)
+
+### GM Caves In And Brings Back Android Auto, Apple CarPlay In 2027 Silverado And Sierra
+
+- Model/program: GM Caves In And Brings Back Android Auto, Apple CarPlay In 2027 Silverado And Sierra
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2027-silverado-gmc-user-experience/)
+
+### NHTSA Wants Tesla To Explain What Made Cybercab Street Legal
+
+- Model/program: NHTSA Wants Tesla To Explain What Made Cybercab Street Legal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/nhtsa-wants-tesla-to-explain-what-made-cybercab-street-legal/)
+
+### Nissan Kicks Heads To Europe With Hybrid Power Alongside Two New EVs
+
+- Model/program: Nissan Kicks Heads To Europe With Hybrid Power Alongside Two New EVs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/nissan-kicks-europe/)
+
+### 10 Years Too Late, McLaren Confirms SUV Plans
+
+- Model/program: 10 Years Too Late, McLaren Confirms SUV Plans
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/10-years-too-late-mclaren-confirms-suv-plans/)
+
+### VW’s Most Powerful GTI Ever Is A RWD Electric Hot Hatch
+
+- Model/program: VW’s Most Powerful GTI Ever Is A RWD Electric Hot Hatch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vws-most-powerful-gti-ever-is-a-rwd-electric-hot-hatch/)
 
 ### Ford F-150s Can Lose Their Gas Tanks While Driving And That’s Just The Start
 

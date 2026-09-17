@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 1111 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1119 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Fiat's Tiny Topolino Has Been Reworked as a Racing Barchetta
+
+- Model/program: Fiat's Tiny Topolino Has Been Reworked as a Racing Barchetta
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73762759/fiat-topolino-gfg-style-concepts/)
+
+### The ID.3 EV Hatchback Just Became Volkswagen’s Most Powerful GTI
+
+- Model/program: The ID.3 EV Hatchback Just Became Volkswagen’s Most Powerful GTI
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73761589/volkswagen-id3-gti-ev-revealed/)
+
+### 2027 Porsche Cayenne Electric Gives You Even More Luxury-Grade Options
+
+- Model/program: 2027 Porsche Cayenne Electric Gives You Even More Luxury-Grade Options
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73761810/2027-porsche-cayenne-electric-new-options/)
+
+### McLaren Confirms First SUV with Huge Investment in U.K. Production
+
+- Model/program: McLaren Confirms First SUV with Huge Investment in U.K. Production
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73761528/mclaren-first-suv-confirmed-investment-uk-production/)
+
+### View Interior Photos of the 2026 Volkswagen Tiguan SEL R-Line Turbo
+
+- Model/program: View Interior Photos of the 2026 Volkswagen Tiguan SEL R-Line Turbo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73686303/2026-volkswagen-tiguan-sel-r-line-turbo-reliability-maintenance-interior-gallery/)
+
+### View Exterior Photos of the 2026 Volkswagen Tiguan SEL R-Line Turbo
+
+- Model/program: View Exterior Photos of the 2026 Volkswagen Tiguan SEL R-Line Turbo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73685494/2026-volkswagen-tiguan-sel-r-line-turbo-reliability-maintenance-exterior-gallery/)
+
+### Our VW Tiguan SEL R-Line Turbo Combines Volkswagen Value with Luxury-Like Interior
+
+- Model/program: Our VW Tiguan SEL R-Line Turbo Combines Volkswagen Value with Luxury-Like Interior
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73721240/2026-volkswagen-tiguan-r-line-turbo-reliability-maintenance/)
+
+### The Ferrari 296 GT Modificata Is a Race Car with No Finish Line in Sight
+
+- Model/program: The Ferrari 296 GT Modificata Is a Race Car with No Finish Line in Sight
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73747747/ferrari-296-gt-modificata-revealed/)
 
 ### Kia Aims to Expand Its Commercial Van Conquest with the PV7 EV
 
