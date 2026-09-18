@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1593 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1609 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Tesla Settles Potentially Costly Lawsuit Over Autopilot Death
+
+- Model/program: Tesla Settles Potentially Costly Lawsuit Over Autopilot Death
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tesla-settles-potentially-costly-lawsuit-over-autopilot-death/)
+
+### McLaren Set To Say Sayonara To Artura In 2028
+
+- Model/program: McLaren Set To Say Sayonara To Artura In 2028
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mclaren-set-to-say-sayonara-to-artura-in-2028/)
+
+### Buy A Maybach S-Class Now And You Could Get A C43 With The Savings
+
+- Model/program: Buy A Maybach S-Class Now And You Could Get A C43 With The Savings
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/buy-a-maybach-s-class-now-and-you-could-get-a-c43-with-the-savings/)
 
 ### A Truck You Can’t Buy Is Battling A $103K TRX For Truck Of The Year
 
@@ -29,6 +59,136 @@ Generated internal notes from 1593 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-bayon-teaser/)
+
+### The World Has Yet Another Widebody G-Class No One Asked For
+
+- Model/program: The World Has Yet Another Widebody G-Class No One Asked For
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/the-world-has-yet-another-widebody-g-class-no-one-asked-for/)
+
+### Detroit’s Big Three Push Back Against Trump’s Chinese Car Invitation
+
+- Model/program: Detroit’s Big Three Push Back Against Trump’s Chinese Car Invitation
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/detroits-big-three-push-back-against-trumps-chinese-car-invitation/)
+
+### This Osprey Land Rover Defender Is Hiding An American V8 Punch
+
+- Model/program: This Osprey Land Rover Defender Is Hiding An American V8 Punch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/this-osprey-land-rover-defender-is-hiding-an-american-v8-punch/)
+
+### The First Ram Rumble Bee Was Just Sold For $750,000
+
+- Model/program: The First Ram Rumble Bee Was Just Sold For $750,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/the-first-ram-rumble-bee-was-just-sold-for-750000/)
+
+### Wild Toyota GR Hilux Will Tackle Dakar Without A Single Drop Of Gasoline
+
+- Model/program: Wild Toyota GR Hilux Will Tackle Dakar Without A Single Drop Of Gasoline
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/dkr-gr-fc-hilux/)
+
+### China’s Answer To The Jeep Wrangler Just Got A Live Axle Upgrade
+
+- Model/program: China’s Answer To The Jeep Wrangler Just Got A Live Axle Upgrade
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tank-300-hooke-trail/)
+
+### Lucid Wants To Put 25,000 Robotaxis On European Roads
+
+- Model/program: Lucid Wants To Put 25,000 Robotaxis On European Roads
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lucid-wants-to-put-25000-robotaxis-on-european-roads/)
+
+### Mitsuoka’s Tribute To The Original Corvette Involves Putting A Miata Under The Knife
+
+- Model/program: Mitsuoka’s Tribute To The Original Corvette Involves Putting A Miata Under The Knife
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mitsuoka-la1/)
+
+### BMW’s Hydrogen X5 Is Now Closer Than Ever
+
+- Model/program: BMW’s Hydrogen X5 Is Now Closer Than Ever
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bmws-hydrogen-x5-is-now-closer-than-ever/)
+
+### California Finally Eases Smog Rules For Classics After Jay Leno’s Long Campaign
+
+- Model/program: California Finally Eases Smog Rules For Classics After Jay Leno’s Long Campaign
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/california-finally-eases-smog-rules-for-classics-after-jay-lenos-long-campaign/)
+
+### 2027 Lexus GX Gets More Features And A $1,565 Price Hike
+
+- Model/program: 2027 Lexus GX Gets More Features And A $1,565 Price Hike
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2027-lexus-gx-gets-more-features-and-a-1565-price-hike/)
+
+### Volvo Will Launch 13 New Models By 2030, And Not All Of Them Will Be SUVs
+
+- Model/program: Volvo Will Launch 13 New Models By 2030, And Not All Of Them Will Be SUVs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/volvo-future-strategy/)
+
+### The BMW M3 Is Going Electric, But Not Every M3
+
+- Model/program: The BMW M3 Is Going Electric, But Not Every M3
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/the-bmw-m3-is-going-electric-but-not-every-m3/)
 
 ### Teen Clocked At 123 MPH In Corvette Gets A Ticket And A Call To His Parent
 

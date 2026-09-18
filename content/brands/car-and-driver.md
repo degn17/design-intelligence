@@ -2,13 +2,83 @@
 
 ## Current positioning
 
-Generated internal notes from 1119 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1126 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 1992 Audi 100CS Archive Road Test
+
+- Model/program: 1992 Audi 100CS Archive Road Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73657083/1992-audi-100cs-archive-test/)
+
+### Volvo’s Huge Product Offensive Could Include New Station Wagons
+
+- Model/program: Volvo’s Huge Product Offensive Could Include New Station Wagons
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73779022/volvo-product-offensive-new-station-wagon/)
+
+### Hyundai and Kia Facing More Than $1 Billion in Court Claims Over Cars That Were Easy to Steal
+
+- Model/program: Hyundai and Kia Facing More Than $1 Billion in Court Claims Over Cars That Were Easy to Steal
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73776238/hyundai-kia-facing-1-billion-dollars-in-court-claims-over-thefts/)
+
+### Acura Will Drop the MDX’s Type S Performance Trim After 2026
+
+- Model/program: Acura Will Drop the MDX’s Type S Performance Trim After 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73776225/acura-mdx-type-s-discontinued/)
+
+### Hyundai’s Solution to Awkward Hard-Top Assembly? Magnets
+
+- Model/program: Hyundai’s Solution to Awkward Hard-Top Assembly? Magnets
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73760999/hyundai-kia-magnetic-off-road-hard-top-patent/)
+
+### This Rolls-Royce Is Decorated with a Hummingbird Made from Shells
+
+- Model/program: This Rolls-Royce Is Decorated with a Hummingbird Made from Shells
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73764785/rolls-royce-phantom-hummingbird-details/)
+
+### GM Finally Shares Power Figures for Its New Small-Block V-8s
+
+- Model/program: GM Finally Shares Power Figures for Its New Small-Block V-8s
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73764603/gm-sixth-generation-small-block-v-8-engine-specs/)
 
 ### Fiat's Tiny Topolino Has Been Reworked as a Racing Barchetta
 
