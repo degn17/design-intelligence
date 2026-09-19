@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1609 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1622 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Six-Wheeled Ford EcoSport Is A Monument To Questionable Decisions
+
+- Model/program: This Six-Wheeled Ford EcoSport Is A Monument To Questionable Decisions
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/this-six-wheeled-ford-ecosport-is-a-monument-to-questionable-decisions/)
 
 ### Tesla Settles Potentially Costly Lawsuit Over Autopilot Death
 
@@ -39,6 +49,126 @@ Generated internal notes from 1609 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/buy-a-maybach-s-class-now-and-you-could-get-a-c43-with-the-savings/)
+
+### Over 200,000 Jeeps Have A Faulty Convenience Feature Owners Love
+
+- Model/program: Over 200,000 Jeeps Have A Faulty Convenience Feature Owners Love
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/over-200000-jeeps-have-a-faulty-convenience-feature-owners-love/)
+
+### BYD Could Soon Be Building EVs And Batteries In Europe
+
+- Model/program: BYD Could Soon Be Building EVs And Batteries In Europe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/byd-european-production-plans/)
+
+### Maserati’s 217 MPH Ice Cream Ad Coming To Goodwood
+
+- Model/program: Maserati’s 217 MPH Ice Cream Ad Coming To Goodwood
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/maseratis-217-mph-ice-cream-ad-is-coming-to-goodwood/)
+
+### Mercedes-AMG’s Electric SUV Is Just A Month Away
+
+- Model/program: Mercedes-AMG’s Electric SUV Is Just A Month Away
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mercedes-amg-ev-suv-reveal/)
+
+### BMW M3 EV Lays Down 11s Trying To Shake Xiaomi At The Ring
+
+- Model/program: BMW M3 EV Lays Down 11s Trying To Shake Xiaomi At The Ring
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bmw-m3-ev-lays-down-11s-trying-to-shake-xiaomi-at-the-ring/)
+
+### Opel Astra GSE Line Brings OPC-Like Power, But Don’t Call It A Hot Hatch
+
+- Model/program: Opel Astra GSE Line Brings OPC-Like Power, But Don’t Call It A Hot Hatch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/opel-astra-gse-line/)
+
+### Max Verstappen Needed Just 35 Minutes To Overtake 100 Go-Kart Drivers
+
+- Model/program: Max Verstappen Needed Just 35 Minutes To Overtake 100 Go-Kart Drivers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/max-verstappen-go-kart-race/)
+
+### Land Rover Defender Reports For Duty As JLR Bids For UK and NATO Defense Contracts
+
+- Model/program: Land Rover Defender Reports For Duty As JLR Bids For UK and NATO Defense Contracts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/land-rover-defender-military-pickup/)
+
+### Alfa Romeo Teases New Concept Car Ahead Of October Debut
+
+- Model/program: Alfa Romeo Teases New Concept Car Ahead Of October Debut
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/alfa-romeo-concept-paris-teaser/)
+
+### Next-Gen Nissan Skyline Finally Has A Launch Date
+
+- Model/program: Next-Gen Nissan Skyline Finally Has A Launch Date
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/skyline-launch-date/)
+
+### American Roads Have A Deadliest Hour, And It’s Not When You Think
+
+- Model/program: American Roads Have A Deadliest Hour, And It’s Not When You Think
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/american-roads-have-a-deadliest-hour-and-its-not-when-you-think/)
+
+### This Porsche Tuner’s Singer Rival Was 17 Years In The Making
+
+- Model/program: This Porsche Tuner’s Singer Rival Was 17 Years In The Making
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/the-world-doesnt-need-another-964-restomod-but-techart-built-one-anyway/)
 
 ### A Truck You Can’t Buy Is Battling A $103K TRX For Truck Of The Year
 

@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 1126 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1131 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Chevy Silverado 1500 High Country Is Fancier Than Ever: Photo Gallery
+
+- Model/program: 2027 Chevy Silverado 1500 High Country Is Fancier Than Ever: Photo Gallery
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73792634/2027-chevy-silverado-1500-high-country-exterior-gallery/)
+
+### Is the Hyundai Ioniq 5’s Bigger Battery Better? We Tested It
+
+- Model/program: Is the Hyundai Ioniq 5’s Bigger Battery Better? We Tested It
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73721843/2026-hyundai-ioniq-5-upgraded-battery-tested/)
+
+### 2027 Chevy Trax Spied Completely Undisguised with Fresh Styling
+
+- Model/program: 2027 Chevy Trax Spied Completely Undisguised with Fresh Styling
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73790536/2027-chevy-trax-refresh-spy-photos/)
+
+### 2027 Chevy Silverado 1500 Costs More but Has More to Offer Too
+
+- Model/program: 2027 Chevy Silverado 1500 Costs More but Has More to Offer Too
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73788759/2027-chevy-silverado-pricing/)
+
+### Mitsuoka LA1 Is a Miata-Based Miniature C1 Corvette You Can Drive
+
+- Model/program: Mitsuoka LA1 Is a Miata-Based Miniature C1 Corvette You Can Drive
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73778610/mitsuoka-la1-mazda-miata-details/)
 
 ### 1992 Audi 100CS Archive Road Test
 

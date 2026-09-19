@@ -2,13 +2,113 @@
 
 ## Current positioning
 
-Generated internal notes from 120 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 130 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### From Porsche to Porsche: Next Milestone in Battery Recycling
+
+- Model/program: From Porsche to Porsche: Next Milestone in Battery Recycling
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-cylib-battery-recycling-43269.html)
+
+### Global community celebrates Sportscar Together Day 2026
+
+- Model/program: Global community celebrates Sportscar Together Day 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-sportscar-together-day-2026-43264.html)
+
+### Even more colours and even greater convenience for the Cayenne Electric
+
+- Model/program: Even more colours and even greater convenience for the Cayenne Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/more-individualisation-cayenne-electric-model-year-change-43252.html)
+
+### The Porsche 550 Spyder: reimagined by Hedley Studios
+
+- Model/program: The Porsche 550 Spyder: reimagined by Hedley Studios
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-550-spyder-j-hedley-studios-43244.html)
+
+### Lechner Racing: The Cup Whisperers
+
+- Model/program: Lechner Racing: The Cup Whisperers
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-one-make-series-success-story-lechner-racing-43241.html)
+
+### Porsche completes sale of its stakes in Bugatti Rimac and Rimac Group
+
+- Model/program: Porsche completes sale of its stakes in Bugatti Rimac and Rimac Group
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-completes-sale-of-bugatti-rimac-43231.html)
+
+### Ayrburn Classic: Where the mountains meet the marque
+
+- Model/program: Ayrburn Classic: Where the mountains meet the marque
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-ayrburn-classic-new-zealand-43223.html)
+
+### Porsche Brand Ambassador Paul Casey claims strong runner-up finish at the Omega European Masters
+
+- Model/program: Porsche Brand Ambassador Paul Casey claims strong runner-up finish at the Omega European Masters
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/sports-society/porsche-omega-european-masters-2026-paul-casey-43217.html)
+
+### Michelin-starred chef Daniel Clifford on a culinary journey in the 911 GTS
+
+- Model/program: Michelin-starred chef Daniel Clifford on a culinary journey in the 911 GTS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-culinary-journey-911-gts-43184.html)
+
+### Chester Kieffer is the Porsche Mobil 1 Supercup Rookie Champion
+
+- Model/program: Chester Kieffer is the Porsche Mobil 1 Supercup Rookie Champion
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/09/chester-kieffer-is-the-porsche-mobil-1-supercup-rookie-champion.html)
 
 ### Two passions, one colour
 
