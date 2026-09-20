@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1622 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1626 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Hyundai Sounds Alarm Over Chinese Cars In The US
+
+- Model/program: Hyundai Sounds Alarm Over Chinese Cars In The US
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-sounds-alarm-over-chinese-cars-in-the-us/)
 
 ### This Six-Wheeled Ford EcoSport Is A Monument To Questionable Decisions
 
@@ -19,6 +29,36 @@ Generated internal notes from 1622 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/this-six-wheeled-ford-ecosport-is-a-monument-to-questionable-decisions/)
+
+### Cops Used ‘LMAO,’ ‘Idk’ And Keyboard Gibberish To Justify License Plate Searches
+
+- Model/program: Cops Used ‘LMAO,’ ‘Idk’ And Keyboard Gibberish To Justify License Plate Searches
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/cops-used-lmao-idk-and-keyboard-gibberish-to-justify-license-plate-searches/)
+
+### Ford Recalls Mustang Mach-E Because A Battery Repair Can Make Things Worse
+
+- Model/program: Ford Recalls Mustang Mach-E Because A Battery Repair Can Make Things Worse
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ford-recalls-mustang-mach-e-because-a-battery-repair-can-make-things-worse/)
+
+### Toyota RAV4 Gains An Unapologetically Massive Bull Bar
+
+- Model/program: Toyota RAV4 Gains An Unapologetically Massive Bull Bar
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-rav4-bull-bar/)
 
 ### Tesla Settles Potentially Costly Lawsuit Over Autopilot Death
 

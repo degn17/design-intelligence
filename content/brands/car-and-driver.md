@@ -2,13 +2,73 @@
 
 ## Current positioning
 
-Generated internal notes from 1131 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1137 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### AM Radio Will Be Required in All New Cars If This Bill Becomes Law
+
+- Model/program: AM Radio Will Be Required in All New Cars If This Bill Becomes Law
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73792988/am-radio-every-vehicle-act-passes-us-house/)
+
+### What to Know Before Buying a Discount Low-Mile Used EV
+
+- Model/program: What to Know Before Buying a Discount Low-Mile Used EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a72731297/used-electric-car-shopping-what-to-know/)
+
+### Time-Warp 1995 Oldsmobile Aurora Appears on Bring a Trailer
+
+- Model/program: Time-Warp 1995 Oldsmobile Aurora Appears on Bring a Trailer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73781066/1995-oldsmobile-aurora-bring-a-trailer-auction/)
+
+### The 2026 Ram Longhorn Shows That Building a Cowboy Pickup Is Tougher Than It Looks
+
+- Model/program: The 2026 Ram Longhorn Shows That Building a Cowboy Pickup Is Tougher Than It Looks
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73788808/ram-longhorn-building-a-cowboy-pickup/)
+
+### View Photos of the 1993 Mazda RX-7
+
+- Model/program: View Photos of the 1993 Mazda RX-7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73790055/1993-mazda-rx-7-archive-drive-gallery/)
+
+### From the Archive: 1993 Mazda RX-7 Goes Pure Sports Car
+
+- Model/program: From the Archive: 1993 Mazda RX-7 Goes Pure Sports Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73670245/1993-mazda-rx-7-archive-drive/)
 
 ### 2027 Chevy Silverado 1500 High Country Is Fancier Than Ever: Photo Gallery
 
