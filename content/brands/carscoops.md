@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1626 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1630 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### GM’s New Small-Block V8s Turn Everyday Pickups Into Sleepers
+
+- Model/program: GM’s New Small-Block V8s Turn Everyday Pickups Into Sleepers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/gms-new-small-block-v8s-turn-everyday-pickups-into-sleepers/)
 
 ### Hyundai Sounds Alarm Over Chinese Cars In The US
 
@@ -19,6 +29,36 @@ Generated internal notes from 1626 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-sounds-alarm-over-chinese-cars-in-the-us/)
+
+### The Future Of Maserati Could Lie In The Hands Of Two Chinese Companies
+
+- Model/program: The Future Of Maserati Could Lie In The Hands Of Two Chinese Companies
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/maserati-huawei-jac-electric/)
+
+### Fake Cop Pulls Over Tesla, Then Calls Real Cops On Himself
+
+- Model/program: Fake Cop Pulls Over Tesla, Then Calls Real Cops On Himself
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/fake-cop-pulls-over-tesla-then-calls-real-cops-on-himself/)
+
+### BYD Shark 6 Recalled In Australia Over Runaway Spare Wheels
+
+- Model/program: BYD Shark 6 Recalled In Australia Over Runaway Spare Wheels
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/byd-shark-6-recalled-in-australia-over-runaway-spare-wheels/)
 
 ### This Six-Wheeled Ford EcoSport Is A Monument To Questionable Decisions
 
