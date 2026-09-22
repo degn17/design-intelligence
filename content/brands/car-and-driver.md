@@ -2,13 +2,113 @@
 
 ## Current positioning
 
-Generated internal notes from 1139 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1149 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Will a 300-HP V-6 Swap Change Your Mind About the NC Mazda Miata?
+
+- Model/program: Will a 300-HP V-6 Swap Change Your Mind About the NC Mazda Miata?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73826767/rocketeer-nc-mazda-miata-jaguar-v6-swap/)
+
+### A Minivan That Also Isn’t One: 1995 Honda Odyssey EX Tested
+
+- Model/program: A Minivan That Also Isn’t One: 1995 Honda Odyssey EX Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73823930/1995-honda-odyssey-ex-archive-test/)
+
+### View Photos of the 1995 Honda Odyssey EX
+
+- Model/program: View Photos of the 1995 Honda Odyssey EX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73822356/1995-honda-odyssey-ex-archive-test-gallery/)
+
+### Volvo Taps Klaus Zellmer to Take Over as CEO by Late Next Year
+
+- Model/program: Volvo Taps Klaus Zellmer to Take Over as CEO by Late Next Year
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73821984/volvo-klaus-zellmer-ceo-replacing-hakan-samuelsson-2027/)
+
+### Jeep Grand Cherokee Could Add the Hurricane Inline-Six for 2028
+
+- Model/program: Jeep Grand Cherokee Could Add the Hurricane Inline-Six for 2028
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73823645/2028-jeep-grand-cherokee-hurricane-inline-six-report/)
+
+### GM Teases New Duramax Diesel 8.3-Liter V-8 Engine Called ‘Mongoose’
+
+- Model/program: GM Teases New Duramax Diesel 8.3-Liter V-8 Engine Called ‘Mongoose’
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73820533/gm-new-duramax-diesel-engine-announced/)
+
+### Wish You’d Been Here: The 2026 Goodwood Revival
+
+- Model/program: Wish You’d Been Here: The 2026 Goodwood Revival
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73814099/2026-goodwood-revival-gallery/)
+
+### View Interior Photos of the 2027 Nissan Rogue Hybrid
+
+- Model/program: View Interior Photos of the 2027 Nissan Rogue Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73762699/2027-nissan-rogue-hybrid-details-interior-gallery/)
+
+### 2027 Nissan Rogue Hybrid Is a New Kind of SUV That Starts Around $37K
+
+- Model/program: 2027 Nissan Rogue Hybrid Is a New Kind of SUV That Starts Around $37K
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73810883/2027-nissan-rogue-hybrid-specs-pricing/)
+
+### View Exterior Photos of the 2027 Nissan Rogue Hybrid
+
+- Model/program: View Exterior Photos of the 2027 Nissan Rogue Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73762654/2027-nissan-rogue-hybrid-details-exterior-gallery/)
 
 ### Mad Max ‘Humungus Machine’ Is up for Auction on Bring a Trailer
 

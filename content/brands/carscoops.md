@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1630 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1646 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### More Than 300 Dodge Demon 170s Have A Serious Crankshaft Issue
+
+- Model/program: More Than 300 Dodge Demon 170s Have A Serious Crankshaft Issue
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/more-than-300-dodge-demon-170s-have-a-serious-crankshaft-issue/)
+
+### Now You Can Race Grassroots Caterhams In The World’s Largest Racing Sim
+
+- Model/program: Now You Can Race Grassroots Caterhams In The World’s Largest Racing Sim
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/now-you-can-race-grassroots-caterhams-in-the-worlds-largest-racing-sim/)
 
 ### GM’s New Small-Block V8s Turn Everyday Pickups Into Sleepers
 
@@ -19,6 +39,146 @@ Generated internal notes from 1630 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/gms-new-small-block-v8s-turn-everyday-pickups-into-sleepers/)
+
+### Xpeng Wants Other Companies To Use Its Tech, Including Driver-Assistance System
+
+- Model/program: Xpeng Wants Other Companies To Use Its Tech, Including Driver-Assistance System
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/xpeng-chinese-tech-report/)
+
+### Tata Is Updating Its $6k Sedan And Giving It A New Name
+
+- Model/program: Tata Is Updating Its $6k Sedan And Giving It A New Name
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tata-aeris-teaser/)
+
+### Mitsubishi L200 Pickup Returns To Europe After A Five-Year Hiatus
+
+- Model/program: Mitsubishi L200 Pickup Returns To Europe After A Five-Year Hiatus
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mitsubishi-l200-pickup-returns-to-europe-after-a-five-year-hiatus/)
+
+### One Tiny Bolt Is Giving VW SUVs A Big Handling Headache
+
+- Model/program: One Tiny Bolt Is Giving VW SUVs A Big Handling Headache
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/one-tiny-bolt-is-giving-vw-suvs-a-big-handling-headache/)
+
+### GM’s New 8.3-Liter Duramax Is Called Mongoose Because It Wants To Eat Ford’s Scorpion
+
+- Model/program: GM’s New 8.3-Liter Duramax Is Called Mongoose Because It Wants To Eat Ford’s Scorpion
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/gms-new-8-3-liter-duramax-is-called-mongoose-because-it-wants-to-eat-fords-scorpion/)
+
+### The Man Who Designed The McLaren P1 Penned Three New REO Models
+
+- Model/program: The Man Who Designed The McLaren P1 Penned Three New REO Models
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/reo-trucks-frank-stephenson/)
+
+### Porsche Might Be Working On A New Eight-Cylinder Flagship Supercar
+
+- Model/program: Porsche Might Be Working On A New Eight-Cylinder Flagship Supercar
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/porsche-might-be-working-on-a-new-eight-cylinder-flagship-supercar/)
+
+### Rolls Royce Will Open And Close The $9.5 Million Nightingale’s Trunk 15,000 Before Owners Take The Keys
+
+- Model/program: Rolls Royce Will Open And Close The $9.5 Million Nightingale’s Trunk 15,000 Before Owners Take The Keys
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/rolls-royce-will-open-and-close-the-9-5-million-nightingales-trunk-15000-before-owners-take-the-keys/)
+
+### 2027 Nissan Rogue Hybrid Wants To Beat The Toyota RAV4 With A $35,490 Starting Price
+
+- Model/program: 2027 Nissan Rogue Hybrid Wants To Beat The Toyota RAV4 With A $35,490 Starting Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/nissan-rogue-hybrid-pricing/)
+
+### Subaru Crosstrek Goes Hybrid-Only In Japan, Impreza Returns To Pure Petrol
+
+- Model/program: Subaru Crosstrek Goes Hybrid-Only In Japan, Impreza Returns To Pure Petrol
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/subaru-crosstrek-and-impreza/)
+
+### Your Jeep Wagoneer’s Roof Rack Might Decide To Leave Without You
+
+- Model/program: Your Jeep Wagoneer’s Roof Rack Might Decide To Leave Without You
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/your-jeep-wagoneers-roof-rack-might-decide-to-leave-without-you/)
+
+### Volvo Teases Its Next-Generation Cars With Special 2027 Concept
+
+- Model/program: Volvo Teases Its Next-Generation Cars With Special 2027 Concept
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/volvo-teases-its-next-generation-cars-with-special-2027-concept/)
+
+### Hyundai’s New Tucson Remembers How You Got Into That Tight Parking Bay, And Reverses Itself Out
+
+- Model/program: Hyundai’s New Tucson Remembers How You Got Into That Tight Parking Bay, And Reverses Itself Out
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hyundais-new-tucson-can-remember-how-you-got-into-that-tight-parking-bay-and-reverse-itself-out/)
+
+### Volvo Hires Ex-Skoda CEO To Lead Massive 13-Model Strategy
+
+- Model/program: Volvo Hires Ex-Skoda CEO To Lead Massive 13-Model Strategy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/volvo-new-ceo/)
 
 ### Hyundai Sounds Alarm Over Chinese Cars In The US
 
