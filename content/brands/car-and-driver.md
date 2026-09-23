@@ -2,13 +2,73 @@
 
 ## Current positioning
 
-Generated internal notes from 1149 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1155 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The 2028 Toyota Corolla Is an Affordable Sedan Worth Waiting For
+
+- Model/program: The 2028 Toyota Corolla Is an Affordable Sedan Worth Waiting For
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73835915/2028-toyota-corolla-future-cars/)
+
+### Tesla Roadster’s $50,000 Deposit List Reopens Ahead of October 1 Reveal
+
+- Model/program: Tesla Roadster’s $50,000 Deposit List Reopens Ahead of October 1 Reveal
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73839844/tesla-reopening-roadster-deposit-list/)
+
+### McLaren’s New Logo Came Before the Company Was Even Founded
+
+- Model/program: McLaren’s New Logo Came Before the Company Was Even Founded
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73836159/mclaren-reveals-new-wordmark-logo/)
+
+### Subaru Teases Special Limited-Edition Versions of the 2027 BRZ and WRX
+
+- Model/program: Subaru Teases Special Limited-Edition Versions of the 2027 BRZ and WRX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73835226/2027-subaru-brz-wrx-ts-limited-edition-teaser/)
+
+### These Leftover 2025 New Cars Sitting at Dealers Could Offer Big Savings
+
+- Model/program: These Leftover 2025 New Cars Sitting at Dealers Could Offer Big Savings
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73773949/new-car-deals-leftover-inventory/)
+
+### 2027 GMC Sierra 1500 Starting Prices Spike with New Generation
+
+- Model/program: 2027 GMC Sierra 1500 Starting Prices Spike with New Generation
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73829257/2027-gmc-sierra-1500-pricing/)
 
 ### Will a 300-HP V-6 Swap Change Your Mind About the NC Mazda Miata?
 

@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1646 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1664 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Honda’s Next-Gen Hybrids Will Arrive Next Year, Starting With The CR-V
+
+- Model/program: Honda’s Next-Gen Hybrids Will Arrive Next Year, Starting With The CR-V
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/honda-crv-hybrid-report/)
+
+### Lapo Elkann And Giugiaro Turned The Smallest Fiat Into A Speedster
+
+- Model/program: Lapo Elkann And Giugiaro Turned The Smallest Fiat Into A Speedster
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/fiat-topolino-speedster/)
 
 ### More Than 300 Dodge Demon 170s Have A Serious Crankshaft Issue
 
@@ -29,6 +49,166 @@ Generated internal notes from 1646 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/now-you-can-race-grassroots-caterhams-in-the-worlds-largest-racing-sim/)
+
+### China’s GAC Wants To Increase European Manufacturing As It Expands Into France
+
+- Model/program: China’s GAC Wants To Increase European Manufacturing As It Expands Into France
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/chinas-gac-wants-to-increase-european-manufacturing-as-it-expands-into-france/)
+
+### Ferrari Driver Busted At 117 MPH Was Already Out On Bond For Going 132
+
+- Model/program: Ferrari Driver Busted At 117 MPH Was Already Out On Bond For Going 132
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ferrari-driver-busted-at-117-mph-was-already-out-on-bond-for-going-132/)
+
+### Toyota To Finally Adopt Range Extender Tech But There’s A Catch
+
+- Model/program: Toyota To Finally Adopt Range Extender Tech But There’s A Catch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/toyota-erev-report/)
+
+### Driverless Waymo Crashes Denver Farmers Market, Thankfully Not Literally
+
+- Model/program: Driverless Waymo Crashes Denver Farmers Market, Thankfully Not Literally
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/driverless-waymo-crashes-denver-farmers-market-thankfully-not-literally/)
+
+### Hyundai Ioniq 9 Recalled Because The Seats Can Squish Kids
+
+- Model/program: Hyundai Ioniq 9 Recalled Because The Seats Can Squish Kids
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-ioniq-9-recalled-because-the-seats-can-squish-kids/)
+
+### Tesla Is Once Again Accepting $50,000 Reservations For The Roadster
+
+- Model/program: Tesla Is Once Again Accepting $50,000 Reservations For The Roadster
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tesla-roadster-reservations/)
+
+### Secret Subaru WRX And BRZ Specials Are Coming This Weekend
+
+- Model/program: Secret Subaru WRX And BRZ Specials Are Coming This Weekend
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/secret-subaru-wrx-and-brz-specials-are-coming-this-weekend/)
+
+### Citroen Makes Budget Models More Expensive With Stylish New Outdoor Edition
+
+- Model/program: Citroen Makes Budget Models More Expensive With Stylish New Outdoor Edition
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/citroen-outdoor-editions/)
+
+### The First Yellow Mazda ND Miata Is Here, But Only 6 Are Being Built
+
+- Model/program: The First Yellow Mazda ND Miata Is Here, But Only 6 Are Being Built
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mazda-mx-5-nd-yellow/)
+
+### 2027 GMC Sierra Adds More Kit, Updated Engines, And Starts At $51,295
+
+- Model/program: 2027 GMC Sierra Adds More Kit, Updated Engines, And Starts At $51,295
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2027-gmc-sierra-adds-more-kit-updated-engines-and-starts-at-51295/)
+
+### Porsche Could Follow Ferrari With A Dual-Clutch Manual
+
+- Model/program: Porsche Could Follow Ferrari With A Dual-Clutch Manual
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/porsche-dual-clutch-manual-patent/)
+
+### Lexus Raises The RX’s Entry Price By $2,675, But Hey, Red Calipers!
+
+- Model/program: Lexus Raises The RX’s Entry Price By $2,675, But Hey, Red Calipers!
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lexus-raises-the-rxs-entry-price-by-2675-but-hey-red-calipers/)
+
+### Trial Starts Over Claims Tesla Allowed Racial Discrimination At Californian Plant
+
+- Model/program: Trial Starts Over Claims Tesla Allowed Racial Discrimination At Californian Plant
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tesla-trial-racial-california/)
+
+### Canadian Union Threatens Stellantis With Strikes Over Potential Plant Sale
+
+- Model/program: Canadian Union Threatens Stellantis With Strikes Over Potential Plant Sale
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/stellantis-canada-strikes-unifor/)
+
+### McLaren’s New Logo Is Inspired By An Old Garage Sign
+
+- Model/program: McLaren’s New Logo Is Inspired By An Old Garage Sign
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mclaren-new-logo/)
+
+### Saudi Arabia’s Ceer EVs Look Fake, But They’re Very Real
+
+- Model/program: Saudi Arabia’s Ceer EVs Look Fake, But They’re Very Real
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ceer-exobot/)
 
 ### GM’s New Small-Block V8s Turn Everyday Pickups Into Sleepers
 
