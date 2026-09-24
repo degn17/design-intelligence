@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1664 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1682 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### You Could Get HWA’s Restomod, Or An Original Mercedes 190E Evo II For Less
+
+- Model/program: You Could Get HWA’s Restomod, Or An Original Mercedes 190E Evo II For Less
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/you-could-get-hwas-restomod-or-an-original-mercedes-190e-evo-ii-for-less/)
+
+### Genesis Just Patented Its Gorgeous G90 Coupe And Convertible
+
+- Model/program: Genesis Just Patented Its Gorgeous G90 Coupe And Convertible
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/genesis-just-patented-its-gorgeous-g90-coupe-and-convertible/)
 
 ### Honda’s Next-Gen Hybrids Will Arrive Next Year, Starting With The CR-V
 
@@ -29,6 +49,166 @@ Generated internal notes from 1664 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/fiat-topolino-speedster/)
+
+### Hotter Lexus LBX Shows Off Its Upgrades Alongside Regular Morizo RR
+
+- Model/program: Hotter Lexus LBX Shows Off Its Upgrades Alongside Regular Morizo RR
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hotter-lexus-lbx-morizo-rr-spied/)
+
+### Volkswagen Turns Your Parked Car Into A Game Console For $149 A Year
+
+- Model/program: Volkswagen Turns Your Parked Car Into A Game Console For $149 A Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/volkswagen-turns-your-parked-car-into-a-game-console-for-149-a-year/)
+
+### Nissan Z Kaze Concept Brings Back The T-Top And A Flair For ’90s Tuning
+
+- Model/program: Nissan Z Kaze Concept Brings Back The T-Top And A Flair For ’90s Tuning
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/nissan-z-kaze-concept/)
+
+### Bentley Torcal Arrives With 876 HP And 375 Miles Of Range
+
+- Model/program: Bentley Torcal Arrives With 876 HP And 375 Miles Of Range
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bentley-torcal-arrives-with-876-hp-and-375-miles-of-range/)
+
+### Brabus Chops The Roof Off The G63 And Gives It 900 HP
+
+- Model/program: Brabus Chops The Roof Off The G63 And Gives It 900 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/brabus-chops-the-roof-off-the-g63-and-gives-it-900-hp/)
+
+### Kia Shrinks K5 Lineup Despite Growing Sales
+
+- Model/program: Kia Shrinks K5 Lineup Despite Growing Sales
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2027-kia-k5-pricing/)
+
+### Electrical Gremlin Could Cause Thousands Of Land Rover Models To Suddenly Stop
+
+- Model/program: Electrical Gremlin Could Cause Thousands Of Land Rover Models To Suddenly Stop
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/electrical-gremlin-could-cause-thousands-of-land-rover-models-to-suddenly-stop/)
+
+### The Cheapest Chevrolet In The US Is Getting A Facelift
+
+- Model/program: The Cheapest Chevrolet In The US Is Getting A Facelift
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/chevrolet-trax-scoop/)
+
+### Monaco’s Forgotten Supercar Rocked A V12 And Carbon Chassis Years Before The McLaren F1
+
+- Model/program: Monaco’s Forgotten Supercar Rocked A V12 And Carbon Chassis Years Before The McLaren F1
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/monacos-forgotten-supercar-rocked-a-v12-and-carbon-chassis-years-before-the-mclaren-f1/)
+
+### Bentley Looks To The Sky For Special Space-Inspired Continental Collection
+
+- Model/program: Bentley Looks To The Sky For Special Space-Inspired Continental Collection
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bentley-looks-to-the-sky-for-special-space-inspired-continental-collection/)
+
+### Jeep Grand Cherokee May Get 420-HP Hurricane Power
+
+- Model/program: Jeep Grand Cherokee May Get 420-HP Hurricane Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/jeep-grand-cherokee-may-get-420-hp-hurricane-power/)
+
+### GM’s Latest Partnership Streamlines EV Ownership And Saves You Money To Boot
+
+- Model/program: GM’s Latest Partnership Streamlines EV Ownership And Saves You Money To Boot
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/gm-pge-smart-charge/)
+
+### Your Next EV From Porsche Might Have A Recycled Battery
+
+- Model/program: Your Next EV From Porsche Might Have A Recycled Battery
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/porsche-recycled-ev-battery/)
+
+### Stellantis Is Working On A New Wagon, But It’s Not Coming To America
+
+- Model/program: Stellantis Is Working On A New Wagon, But It’s Not Coming To America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/stellantis-wagon-teaser/)
+
+### 14 Classics Will Head East On Route 66 For Parkinson’s
+
+- Model/program: 14 Classics Will Head East On Route 66 For Parkinson’s
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/14-classics-will-head-east-on-route-66-for-parkinsons/)
+
+### Nissan’s New Entry-Level EV Pixelates The Renault Twingo
+
+- Model/program: Nissan’s New Entry-Level EV Pixelates The Renault Twingo
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/nissan-pixo-ev-2/)
 
 ### More Than 300 Dodge Demon 170s Have A Serious Crankshaft Issue
 

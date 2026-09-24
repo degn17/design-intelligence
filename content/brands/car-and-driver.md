@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 1155 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1164 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### An Italian Company Is Transforming the BMW M2 into a ‘70s Racing Icon
+
+- Model/program: An Italian Company Is Transforming the BMW M2 into a ‘70s Racing Icon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73857609/riverti-automobili-bmw-m2-csl-homage-details/)
+
+### The Man Who Designed the McLaren P1 Is Styling REO's Affordable Trucks
+
+- Model/program: The Man Who Designed the McLaren P1 Is Styling REO's Affordable Trucks
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73856993/reo-trucks-hire-frank-stephenson-designer/)
+
+### Report: Honda to Add Legroom with a Future ‘Pilot XXL’ Flagship
+
+- Model/program: Report: Honda to Add Legroom with a Future ‘Pilot XXL’ Flagship
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73852939/honda-pilot-xxl-more-legroom-flagship-three-row-suv/)
+
+### View Interior Photos of the 2028 Bentley Torcal
+
+- Model/program: View Interior Photos of the 2028 Bentley Torcal
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73825299/2028-bentley-torcal-revealed-interior-gallery/)
+
+### 2028 Bentley Torcal Is a Boldly Styled EV SUV for Wealthy Folks
+
+- Model/program: 2028 Bentley Torcal Is a Boldly Styled EV SUV for Wealthy Folks
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73840453/2028-bentley-torcal-revealed/)
+
+### View Exterior Photos of the 2028 Bentley Torcal
+
+- Model/program: View Exterior Photos of the 2028 Bentley Torcal
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73825222/2028-bentley-torcal-revealed-exterior-gallery/)
+
+### View Photos of the 2026 BMW X3 vs. 2027 Mercedes-AMG GLC53
+
+- Model/program: View Photos of the 2026 BMW X3 vs. 2027 Mercedes-AMG GLC53
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73822766/2026-bmw-x3-m50-vs-2027-mercedes-amg-glc53-comparison-test-gallery/)
+
+### 2026 BMW X3 M50 vs. 2027 Mercedes-AMG GLC53 Comparison Test
+
+- Model/program: 2026 BMW X3 M50 vs. 2027 Mercedes-AMG GLC53 Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a73818912/2026-bmw-x3-m50-vs-2027-mercedes-amg-glc53-comparison-test/)
+
+### Saudi Arabia Aims to Disrupt the Auto Industry with These Radical EVs
+
+- Model/program: Saudi Arabia Aims to Disrupt the Auto Industry with These Radical EVs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73843288/ceer-exobot-saudi-arabia-ev-revealed/)
 
 ### The 2028 Toyota Corolla Is an Affordable Sedan Worth Waiting For
 
