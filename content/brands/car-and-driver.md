@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 1164 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1172 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Subaru Impreza Base Model Has More HP but a Much Lower Price
+
+- Model/program: 2027 Subaru Impreza Base Model Has More HP but a Much Lower Price
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73874951/2027-subaru-impreza-more-hp-lower-price/)
+
+### Volkswagen ID.Buzz’s Return Has Been Pushed to the 2028 Model Year
+
+- Model/program: Volkswagen ID.Buzz’s Return Has Been Pushed to the 2028 Model Year
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73875105/volkswagen-id-buzz-return-delayed-2028-model-year/)
+
+### Honda’s Future Hybrid-Focused Factory Appears to Be Ohio-Bound
+
+- Model/program: Honda’s Future Hybrid-Focused Factory Appears to Be Ohio-Bound
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73872215/honda-acura-new-assembly-plant-ohio-2030/)
+
+### Japanese Mazda Fans Are Getting a Bright-Yellow Miata Roadster
+
+- Model/program: Japanese Mazda Fans Are Getting a Bright-Yellow Miata Roadster
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73869876/mazda-miata-japan-yellow-paint-color/)
+
+### Chevy and GMC’s New Heavy-Duty Trucks Debut a Huge 8.3L Diesel V-8
+
+- Model/program: Chevy and GMC’s New Heavy-Duty Trucks Debut a Huge 8.3L Diesel V-8
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73853879/2027-chevy-silverado-hd-gmc-sierra-hd-revealed/)
+
+### View Photos of the 1977 Ford Thunderbird
+
+- Model/program: View Photos of the 1977 Ford Thunderbird
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73855290/1977-ford-thunderbird-archive-test-gallery/)
+
+### Archive Road Test: 1977 Ford Thunderbird Slims Down
+
+- Model/program: Archive Road Test: 1977 Ford Thunderbird Slims Down
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73835760/1977-ford-thunderbird-archive-test/)
+
+### The Nissan Z Kaze Is a Retro Concept That Brings Back the T-Top
+
+- Model/program: The Nissan Z Kaze Is a Retro Concept That Brings Back the T-Top
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73866564/nissan-z-kaze-concept-revealed/)
 
 ### An Italian Company Is Transforming the BMW M2 into a ‘70s Racing Icon
 

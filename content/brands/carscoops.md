@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1682 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1700 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### McLaren Is Trying To Sell Arturas With 0% Financing
+
+- Model/program: McLaren Is Trying To Sell Arturas With 0% Financing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mclaren-is-trying-to-sell-arturas-with-0-financing/)
+
+### After Bailing On EV-Only Plan, Bentley Embraces Flexibility In An Uncertain World
+
+- Model/program: After Bailing On EV-Only Plan, Bentley Embraces Flexibility In An Uncertain World
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bentley-electrification-flexibility/)
 
 ### You Could Get HWA’s Restomod, Or An Original Mercedes 190E Evo II For Less
 
@@ -29,6 +49,166 @@ Generated internal notes from 1682 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/genesis-just-patented-its-gorgeous-g90-coupe-and-convertible/)
+
+### Volkswagen’s ID. Buzz Comeback Slips To 2028
+
+- Model/program: Volkswagen’s ID. Buzz Comeback Slips To 2028
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/volkswagens-id-buzz-comeback-slips-to-2028/)
+
+### Upgraded Mahindra Thar OG Is A Jeep Wrangler Clone With A Sub-$11k Price
+
+- Model/program: Upgraded Mahindra Thar OG Is A Jeep Wrangler Clone With A Sub-$11k Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mahindra-thar-og/)
+
+### There’s A New EV Range Champion And It’s Not Tesla Or Lucid
+
+- Model/program: There’s A New EV Range Champion And It’s Not Tesla Or Lucid
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/audi-a6-e-tron-range-record/)
+
+### New York Dealer To Refund Over $1 Million To Buyers Over Shady Selling Tactics
+
+- Model/program: New York Dealer To Refund Over $1 Million To Buyers Over Shady Selling Tactics
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/new-york-dealer-to-refund-over-1-million-to-buyers-over-shady-selling-tactics/)
+
+### You Won’t Believe Who Now Owns The Most Expensive Bugatti Veyron Ever Built
+
+- Model/program: You Won’t Believe Who Now Owns The Most Expensive Bugatti Veyron Ever Built
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bugatti-veyron-fernando-alonso/)
+
+### GM’s New 8.3L Duramax V8 Has Enough Torque To Pull A Planet And Ford Out Of The Top Spot
+
+- Model/program: GM’s New 8.3L Duramax V8 Has Enough Torque To Pull A Planet And Ford Out Of The Top Spot
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/gms-new-8-3l-duramax-v8-has-enough-torque-to-pull-a-planet-and-ford-out-of-the-top-spot/)
+
+### US Lawmakers Push For A Permanent Ban On Chinese Cars
+
+- Model/program: US Lawmakers Push For A Permanent Ban On Chinese Cars
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/us-lawmakers-push-for-a-permanent-ban-on-chinese-cars/)
+
+### Geely’s Smart Charger Can Charge An EV Quicker Than A Bathroom Break
+
+- Model/program: Geely’s Smart Charger Can Charge An EV Quicker Than A Bathroom Break
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/geelys-smart-charger-can-charge-an-ev-quicker-than-a-bathroom-break/)
+
+### Chevy Is Still Building 6.2-Liter Corvettes Alongside 2027 Model
+
+- Model/program: Chevy Is Still Building 6.2-Liter Corvettes Alongside 2027 Model
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/chevy-is-still-building-6-2-liter-corvettes-alongside-2027-model/)
+
+### Honda Said To Be Considering Super-Sized Pilot XXL
+
+- Model/program: Honda Said To Be Considering Super-Sized Pilot XXL
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2032-honda-pilot-xxl/)
+
+### Waymo Says Its Cars Are Involved In 95% Fewer Serious Crashes Than Humans
+
+- Model/program: Waymo Says Its Cars Are Involved In 95% Fewer Serious Crashes Than Humans
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/waymo-says-its-cars-are-involved-in-95-fewer-serious-crashes-than-humans/)
+
+### Alfa Romeo’s Mystery Concept Looks Like A Low-Slung Supercar
+
+- Model/program: Alfa Romeo’s Mystery Concept Looks Like A Low-Slung Supercar
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/alfa-romeos-mystery-concept-looks-like-a-low-slung-supercar/)
+
+### BMW’s New 3D Maps Show You What The Car Sees While It Drives
+
+- Model/program: BMW’s New 3D Maps Show You What The Car Sees While It Drives
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bmws-new-3d-maps-show-you-what-the-car-sees-while-it-drives/)
+
+### This VW ID. Buzz Drove Through 92 Countries In 445 Days Without Breaking Down
+
+- Model/program: This VW ID. Buzz Drove Through 92 Countries In 445 Days Without Breaking Down
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vw-id-buzz-world-tour-record/)
+
+### Stellantis Has A New Manual Turbodiesel Truck But It’s Not What You Think
+
+- Model/program: Stellantis Has A New Manual Turbodiesel Truck But It’s Not What You Think
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/opel-vivaro-flatbed/)
+
+### Renault 8 Gordini Is Back As A Bold Electric Coupe With Rally Heritage
+
+- Model/program: Renault 8 Gordini Is Back As A Bold Electric Coupe With Rally Heritage
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/r8-gordini-concept/)
 
 ### Honda’s Next-Gen Hybrids Will Arrive Next Year, Starting With The CR-V
 
