@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1700 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1718 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Mercedes Signs Huge Deal To Help Make Solid State Batteries A Reality
+
+- Model/program: Mercedes Signs Huge Deal To Help Make Solid State Batteries A Reality
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mercedes-signs-huge-deal-to-help-make-solid-state-batteries-a-reality/)
+
+### A Hacker Took Control Of A BYD For TV, But Should Should You Be Worried?
+
+- Model/program: A Hacker Took Control Of A BYD For TV, But Should Should You Be Worried?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/a-hacker-took-control-of-a-byd-for-tv-but-should-should-you-be-worried/)
 
 ### McLaren Is Trying To Sell Arturas With 0% Financing
 
@@ -29,6 +49,166 @@ Generated internal notes from 1700 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/bentley-electrification-flexibility/)
+
+### Your Insurer’s App May Soon Judge Your Driving From Your Phone
+
+- Model/program: Your Insurer’s App May Soon Judge Your Driving From Your Phone
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/your-insurers-app-may-soon-judge-your-driving-from-your-phone/)
+
+### Georgia Police Arrest Ex-Cop For Stealing A Chevy, Trailer, And A Lawn Mower
+
+- Model/program: Georgia Police Arrest Ex-Cop For Stealing A Chevy, Trailer, And A Lawn Mower
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/georgia-police-arrest-ex-cop-for-stealing-a-chevy-trailer-and-a-lawn-mower/)
+
+### Helderburg’s Classic Defender Restomod Costs 2.5 Times More Than A New Octa
+
+- Model/program: Helderburg’s Classic Defender Restomod Costs 2.5 Times More Than A New Octa
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/helderburg-land-rover-defender-110/)
+
+### Genesis GV90 Shows How Massive Display Grows Even Bigger For The Ultimate In-Car Movie Theater
+
+- Model/program: Genesis GV90 Shows How Massive Display Grows Even Bigger For The Ultimate In-Car Movie Theater
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/genesis-gv90-shows-how-massive-display-grows-even-bigger-for-the-ultimate-in-car-movie-theater/)
+
+### Tesla Starts New Semi Deliveries, But Won’t Say How Many
+
+- Model/program: Tesla Starts New Semi Deliveries, But Won’t Say How Many
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tesla-starts-new-semi-deliveries-but-wont-say-how-many/)
+
+### BYD’s Flagship Sedan Is Coming For The Rolls-Royce Phantom
+
+- Model/program: BYD’s Flagship Sedan Is Coming For The Rolls-Royce Phantom
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/byds-flagship-sedan-is-coming-for-the-rolls-royce-phantom/)
+
+### Lamborghini Temerario To Spawn Multiple Variants, Including A Few Surprises
+
+- Model/program: Lamborghini Temerario To Spawn Multiple Variants, Including A Few Surprises
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lamborghini-temerario-variants/)
+
+### Subaru Impreza Gets $2,000 Price Cut And An Extra 28 HP
+
+- Model/program: Subaru Impreza Gets $2,000 Price Cut And An Extra 28 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2027-subaru-impreza-pricing/)
+
+### Rivian Has Already Issued The First Recall For The R2
+
+- Model/program: Rivian Has Already Issued The First Recall For The R2
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/rivian-has-already-issued-the-first-recall-for-the-r2/)
+
+### Acura Is Pausing MDX Type S Production After 2026
+
+- Model/program: Acura Is Pausing MDX Type S Production After 2026
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/acura-is-pausing-mdx-type-s-production-after-2026/)
+
+### Toyota’s Boring Corolla Is About To Get A Radical Rethink
+
+- Model/program: Toyota’s Boring Corolla Is About To Get A Radical Rethink
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2028-toyota-corolla-rumors/)
+
+### Mercedes-AMG’s Super SUV Shows More Skin Ahead Of October Reveal
+
+- Model/program: Mercedes-AMG’s Super SUV Shows More Skin Ahead Of October Reveal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/amg-suv-scoop-new/)
+
+### This Dodge Nitro Pickup With A Camaro Bumper Wants To Be Your Iron Giant
+
+- Model/program: This Dodge Nitro Pickup With A Camaro Bumper Wants To Be Your Iron Giant
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/this-dodge-nitro-pickup-with-a-camaro-bumper-wants-to-be-your-iron-giant/)
+
+### Italian Firm Wants To “Fix” The BMW M2 And Give It A Classic Edge
+
+- Model/program: Italian Firm Wants To “Fix” The BMW M2 And Give It A Classic Edge
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/riverti-bmw-m2-restomod/)
+
+### VW’s Electric Cargo Van Adds Extra Space With New Extended Wheelbase Variant
+
+- Model/program: VW’s Electric Cargo Van Adds Extra Space With New Extended Wheelbase Variant
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vw-id-buzz-cargo-long-wheelbase/)
+
+### BYD Recalls 183,000 Cars In China Over Brake Defect
+
+- Model/program: BYD Recalls 183,000 Cars In China Over Brake Defect
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/byd-recalls-183000-cars-in-china-over-brake-defect/)
 
 ### You Could Get HWA’s Restomod, Or An Original Mercedes 190E Evo II For Less
 

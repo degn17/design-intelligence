@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 1172 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1183 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### ‘The Stunt Driver’ Is a Tragicomic Gem About a Canadian Daredevil With a Dream
+
+- Model/program: ‘The Stunt Driver’ Is a Tragicomic Gem About a Canadian Daredevil With a Dream
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73859601/the-stunt-driver-movie-jay-burachel-interview/)
+
+### 2027 Subaru Forester Prices Hold Steady, but Nonhybrid Lineup Shrinks
+
+- Model/program: 2027 Subaru Forester Prices Hold Steady, but Nonhybrid Lineup Shrinks
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73890887/2027-subaru-forester-nonhybrid-changes-details-prices/)
+
+### This Lowered Chevy Silverado 1500 Is a 675-HP V-8 Street Truck
+
+- Model/program: This Lowered Chevy Silverado 1500 Is a 675-HP V-8 Street Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73892576/chevy-silverado-1500-lowered-hp-street-truck-price/)
+
+### The Renault 8 Gordini Revived as a 270-HP Electric Concept
+
+- Model/program: The Renault 8 Gordini Revived as a 270-HP Electric Concept
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73889733/renault-gordini-8-ev-concept/)
+
+### 2027 Ram RHO / TRX SRT
+
+- Model/program: 2027 Ram RHO / TRX SRT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ram/rho-trx-srt)
+
+### View Interior Photos of the Revology Mustang Boss 302
+
+- Model/program: View Interior Photos of the Revology Mustang Boss 302
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73854909/1970-revology-mustang-boss-302-test-interior-gallery/)
+
+### View Exterior Photos of the Revology Mustang Boss 302
+
+- Model/program: View Exterior Photos of the Revology Mustang Boss 302
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73854869/1970-revology-mustang-boss-302-test-exterior-gallery/)
+
+### Revology Mustang Boss 302: Pluperfect Mustang
+
+- Model/program: Revology Mustang Boss 302: Pluperfect Mustang
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73654711/1970-revology-mustang-boss-302-test/)
+
+### Patent Suggests the Tesla Roadster Might Get a Clever Rear Wing
+
+- Model/program: Patent Suggests the Tesla Roadster Might Get a Clever Rear Wing
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73879703/tesla-roadster-clever-rear-wing-patent/)
+
+### Brabus Turned the G-Wagen into an Outrageous 800-HP Convertible
+
+- Model/program: Brabus Turned the G-Wagen into an Outrageous 800-HP Convertible
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73878923/brabus-800-cabrio-g-class-convertible-details/)
+
+### Driver of the Week: Drew Dorian
+
+- Model/program: Driver of the Week: Drew Dorian
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73881105/driver-of-the-week-drew-dorian/)
 
 ### 2027 Subaru Impreza Base Model Has More HP but a Much Lower Price
 
