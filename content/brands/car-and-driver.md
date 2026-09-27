@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 1183 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1187 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Photos of the 1992 Sporty Family Sedan Comparison Test
+
+- Model/program: View Photos of the 1992 Sporty Family Sedan Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73871810/1992-ford-taurus-sho-vs-nissan-maxima-vs-toyota-camry-archive-comparison-test-gallery/)
+
+### 1992 Triple Throwdown: Sporty Four-Doors Compared
+
+- Model/program: 1992 Triple Throwdown: Sporty Four-Doors Compared
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73836326/1992-ford-taurus-sho-vs-nissan-maxima-vs-toyota-camry-archive-comparison-test/)
+
+### This Tiny Car Launched Honda in America
+
+- Model/program: This Tiny Car Launched Honda in America
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73859500/1971-honda-n600-bring-a-trailer-auction/)
+
+### How Does the New Chevy Bolt’s Charging Time Compare with the Old One’s?
+
+- Model/program: How Does the New Chevy Bolt’s Charging Time Compare with the Old One’s?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73834368/2027-chevy-bolt-new-vs-old-charging-test/)
 
 ### ‘The Stunt Driver’ Is a Tragicomic Gem About a Canadian Daredevil With a Dream
 

@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1718 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1724 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -29,6 +29,66 @@ Generated internal notes from 1718 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/a-hacker-took-control-of-a-byd-for-tv-but-should-should-you-be-worried/)
+
+### Ford Ranger Successor Is Under Development
+
+- Model/program: Ford Ranger Successor Is Under Development
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/next-ford-ranger-report/)
+
+### This Lancia-Inspired Supercar May Have Already Doubled In Value
+
+- Model/program: This Lancia-Inspired Supercar May Have Already Doubled In Value
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/kimera-evo37-auction/)
+
+### No, Mazda Hasn’t Confirmed A New 300-HP AWD Mazdaspeed3
+
+- Model/program: No, Mazda Hasn’t Confirmed A New 300-HP AWD Mazdaspeed3
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/no-mazdaspeed3-report/)
+
+### Rivian Says R3 Will Be Priced “Materially Lower” Than R2
+
+- Model/program: Rivian Says R3 Will Be Priced “Materially Lower” Than R2
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/rivian-r3-price-report/)
+
+### Tata Buried Its New $5.5K Sedan Under 20 Tons Of Gravel To Prove A Point
+
+- Model/program: Tata Buried Its New $5.5K Sedan Under 20 Tons Of Gravel To Prove A Point
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/tata-aeris-new/)
+
+### Ford’s Best-Selling Truck Hit By Production Halt
+
+- Model/program: Ford’s Best-Selling Truck Hit By Production Halt
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ford-f-150-production-issue/)
 
 ### McLaren Is Trying To Sell Arturas With 0% Financing
 
