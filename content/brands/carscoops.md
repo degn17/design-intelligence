@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 1724 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1732 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### BMW Gears Up To Unveil All-New 3-Series On September 29
+
+- Model/program: BMW Gears Up To Unveil All-New 3-Series On September 29
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bmw-gears-up-to-unveil-all-new-3-series-on-september-29/)
+
+### There’s More To This Lynk & Co Fire In China Than Meets The Eye
+
+- Model/program: There’s More To This Lynk & Co Fire In China Than Meets The Eye
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lynk-and-co-fire-china/)
+
+### Gas Prices Are So Nuts, Today’s Mazda3 Driver Could Have Fueled A V8 Mustang On The Same Budget 7 Months Ago
+
+- Model/program: Gas Prices Are So Nuts, Today’s Mazda3 Driver Could Have Fueled A V8 Mustang On The Same Budget 7 Months Ago
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/gas-prices-nuts/)
+
+### Cheap Thrills: Stellantis Adds Extra Plastic And Mobile Office To Base Vans
+
+- Model/program: Cheap Thrills: Stellantis Adds Extra Plastic And Mobile Office To Base Vans
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/stellantis-van-mobile-office/)
+
+### This VW Golf GTI Doesn’t Drive On Roads – It Cuts Grass
+
+- Model/program: This VW Golf GTI Doesn’t Drive On Roads – It Cuts Grass
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/golf-robot-mower/)
+
+### Family Sues Tesla After Model X Allegedly Surged Through Red Light
+
+- Model/program: Family Sues Tesla After Model X Allegedly Surged Through Red Light
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/family-sues-tesla/)
+
+### It’s Not Just VW, Mercedes May Be Forced To Close Two Factories
+
+- Model/program: It’s Not Just VW, Mercedes May Be Forced To Close Two Factories
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mercedes-factory-closures-report/)
+
+### The Kia PV5 Chassis Can Transform Into A Tipper, Box Van, Food Truck, Or Camper
+
+- Model/program: The Kia PV5 Chassis Can Transform Into A Tipper, Box Van, Food Truck, Or Camper
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/kia-pv5-chassis/)
 
 ### Mercedes Signs Huge Deal To Help Make Solid State Batteries A Reality
 

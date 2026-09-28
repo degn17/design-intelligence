@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1187 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1188 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This 1967 Mustang on Bring a Trailer Has Gone the Distance
+
+- Model/program: This 1967 Mustang on Bring a Trailer Has Gone the Distance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73861375/1967-ford-mustang-bring-a-trailer-auction/)
 
 ### View Photos of the 1992 Sporty Family Sedan Comparison Test
 
