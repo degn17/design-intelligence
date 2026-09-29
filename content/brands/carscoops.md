@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1732 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1750 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Subprime Auto Lender Settles For $694 Million Over Loans “Destined To Fail”
+
+- Model/program: Subprime Auto Lender Settles For $694 Million Over Loans “Destined To Fail”
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/subprime-auto-lender-settles-for-694-million-over-loans-destined-to-fail/)
+
+### Ford Racing Is Two Years Older Than Ford, And This Mustang GT3 Proves It
+
+- Model/program: Ford Racing Is Two Years Older Than Ford, And This Mustang GT3 Proves It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/ford-racing-is-two-years-older-than-ford-and-this-mustang-gt3-proves-it/)
+
+### RADwood Is Going Y2K And Making Its NorCal Show Free
+
+- Model/program: RADwood Is Going Y2K And Making Its NorCal Show Free
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/radwood-is-going-y2k-and-making-its-norcal-show-free/)
 
 ### BMW Gears Up To Unveil All-New 3-Series On September 29
 
@@ -29,6 +59,156 @@ Generated internal notes from 1732 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/lynk-and-co-fire-china/)
+
+### QOTD: After Buttons, What Feature Needs A Comeback?
+
+- Model/program: QOTD: After Buttons, What Feature Needs A Comeback?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/qotd-after-buttons-what-feature-needs-a-comeback/)
+
+### Half Of The World Car Of The Year Contenders Are Chinese
+
+- Model/program: Half Of The World Car Of The Year Contenders Are Chinese
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/half-of-the-world-car-of-the-year-contenders-are-chinese/)
+
+### VW Is About To Issue Its Largest Recall Since Dieselgate
+
+- Model/program: VW Is About To Issue Its Largest Recall Since Dieselgate
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/vw-is-about-to-issue-its-largest-recall-since-dieselgate/)
+
+### Trump Administration Slashes MPG Standards, But Is It A False Economy?
+
+- Model/program: Trump Administration Slashes MPG Standards, But Is It A False Economy?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/trump-administration-slashes-mpg-standards-but-is-it-a-false-economy/)
+
+### Lexus Wants To Sell You A Yacht With Volvo Engines And Room For 15
+
+- Model/program: Lexus Wants To Sell You A Yacht With Volvo Engines And Room For 15
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lexus-wants-to-sell-you-a-yacht-with-volvo-engines-and-room-for-15/)
+
+### 2027 Lexus TZ Starts At $64k And Offers Up To 315 Miles Of Range
+
+- Model/program: 2027 Lexus TZ Starts At $64k And Offers Up To 315 Miles Of Range
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2027-lexus-tz-starts-at-64k-and-offers-up-to-315-miles-of-range/)
+
+### NHTSA Is Probing An Aftermarket Self-Driving Device After Three Deaths
+
+- Model/program: NHTSA Is Probing An Aftermarket Self-Driving Device After Three Deaths
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/nhtsa-is-probing-an-aftermarket-self-driving-device-after-three-deaths/)
+
+### This 66-Mile Mustang Cobra Is Still Waiting To Meet Its First Ditch
+
+- Model/program: This 66-Mile Mustang Cobra Is Still Waiting To Meet Its First Ditch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/this-66-mile-mustang-cobra-is-still-waiting-to-meet-its-first-ditch/)
+
+### Chinese Will Build Cars In North America In 2-3 Years, Nissan Boss Warns
+
+- Model/program: Chinese Will Build Cars In North America In 2-3 Years, Nissan Boss Warns
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/chinese-will-build-cars-in-north-america-in-2-3-years-nissan-boss-warns/)
+
+### Alfa Romeo’s One-Off 33 Stradale Perla Nera Is Giving Major Batmobile Vibes
+
+- Model/program: Alfa Romeo’s One-Off 33 Stradale Perla Nera Is Giving Major Batmobile Vibes
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/alfa-33-perla-nera/)
+
+### This New York Shop Is Giving The Ford Maverick The Engine It’s Always Needed
+
+- Model/program: This New York Shop Is Giving The Ford Maverick The Engine It’s Always Needed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/this-new-york-shop-is-giving-the-ford-maverick-the-engine-its-always-needed/)
+
+### Subaru Marks Two Big Milestones With Special BRZ And WRX
+
+- Model/program: Subaru Marks Two Big Milestones With Special BRZ And WRX
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/subaru-brz-zc15-wrx-gd25/)
+
+### Portland Gives Police $207K And An Hour To Clear Street Takeovers
+
+- Model/program: Portland Gives Police $207K And An Hour To Clear Street Takeovers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/portland-gives-police-207k-and-an-hour-to-clear-street-takeovers/)
+
+### Mazda’s Electric SUV Gains LiDAR Self-Driving Tech For Under $22k
+
+- Model/program: Mazda’s Electric SUV Gains LiDAR Self-Driving Tech For Under $22k
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/mazda-ez-60-lidar/)
+
+### An All-New Mitsubishi Outlander May Launch In 2028
+
+- Model/program: An All-New Mitsubishi Outlander May Launch In 2028
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/an-all-new-mitsubishi-outlander-may-launch-in-2028/)
 
 ### Gas Prices Are So Nuts, Today’s Mazda3 Driver Could Have Fueled A V8 Mustang On The Same Budget 7 Months Ago
 

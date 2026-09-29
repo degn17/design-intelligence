@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 1188 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1204 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Land Rover Defender Among 24K JLR SUVs Recalled for Power Loss
+
+- Model/program: Land Rover Defender Among 24K JLR SUVs Recalled for Power Loss
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73926535/jaguar-land-rover-range-rover-suvs-power-loss-recall/)
+
+### An Automotive Weekend in the Hamptons
+
+- Model/program: An Automotive Weekend in the Hamptons
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73854821/bridgehampton-hamptons-car-show-2026/)
+
+### View Photos of the Car Show at The Bridge 2026
+
+- Model/program: View Photos of the Car Show at The Bridge 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73853617/bridgehampton-bridge-car-show-2026-gallery/)
+
+### The Price of Success: 1976 Volvo 264GL Test
+
+- Model/program: The Price of Success: 1976 Volvo 264GL Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73851956/1976-volvo-264gl-archive-test/)
+
+### View Photos of the 1976 Volvo 264GL
+
+- Model/program: View Photos of the 1976 Volvo 264GL
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73927088/1976-volvo-264gl-archive-test-gallery/)
+
+### Ford Reintroduces Two-Tone Paint Option for the 2027 F-150
+
+- Model/program: Ford Reintroduces Two-Tone Paint Option for the 2027 F-150
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73924905/2027-ford-f-150-two-tone-paint-option/)
+
+### 2027 Lexus TZ
+
+- Model/program: 2027 Lexus TZ
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/tz)
+
+### Trump Administration Slashes Fuel-Economy Standards
+
+- Model/program: Trump Administration Slashes Fuel-Economy Standards
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73924927/trump-administration-new-corporate-fuel-economy-rules-announced/)
+
+### 2027 Lexus TZ Starts Under $65K but Has Less Power than First Announced
+
+- Model/program: 2027 Lexus TZ Starts Under $65K but Has Less Power than First Announced
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73925305/2027-lexus-tz-pricing-specs/)
+
+### Trading In? Here’s How to Get the Most for Your Used Car
+
+- Model/program: Trading In? Here’s How to Get the Most for Your Used Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73925726/car-trade-in-value-tips/)
+
+### Secrets of Modern Car Tuners
+
+- Model/program: Secrets of Modern Car Tuners
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73835545/car-tuners-secrets-revealed/)
+
+### This OVC 1965 Mustang GT350 Roadster Answers a ‘What If?’
+
+- Model/program: This OVC 1965 Mustang GT350 Roadster Answers a ‘What If?’
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73903511/1965-ovc-ford-mustang-bring-a-trailer-auction/)
+
+### 2027 Subaru BRZ and WRX Both Get Special Birthday Editions
+
+- Model/program: 2027 Subaru BRZ and WRX Both Get Special Birthday Editions
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73894848/2027-subaru-brz-wrx-birthday-editions/)
+
+### 2028 Volkswagen ID. Tiguan
+
+- Model/program: 2028 Volkswagen ID. Tiguan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/volkswagen/id-tiguan)
+
+### VW Confirms the Electric ID.4’s Successor Will Be Called ID. Tiguan
+
+- Model/program: VW Confirms the Electric ID.4’s Successor Will Be Called ID. Tiguan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73918814/volkswagen-id-tiguan-ev-confirmed/)
+
+### View Exterior Photos of the 2028 Volkswagen ID. Tiguan
+
+- Model/program: View Exterior Photos of the 2028 Volkswagen ID. Tiguan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73894397/2028-volkswagen-id-tiguan-revealed-exterior-gallery/)
 
 ### This 1967 Mustang on Bring a Trailer Has Gone the Distance
 
