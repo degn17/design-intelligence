@@ -2,13 +2,133 @@
 
 ## Current positioning
 
-Generated internal notes from 1204 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1216 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 BMW 3-Series vs. 2026 BMW 3-Series Spec Comparison
+
+- Model/program: 2027 BMW 3-Series vs. 2026 BMW 3-Series Spec Comparison
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73930982/2027-bmw-3-series-2026-bmw-3-series-specs-compared/)
+
+### View Exterior Photos of the 2027 BMW 3-Series
+
+- Model/program: View Exterior Photos of the 2027 BMW 3-Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73928519/2027-bmw-3-series-revealed-exterior-gallery/)
+
+### 2027 BMW 3-Series Revealed! A Neue Way Forward
+
+- Model/program: 2027 BMW 3-Series Revealed! A Neue Way Forward
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73939982/2027-bmw-3-series-revealed/)
+
+### View Interior Photos of the 2027 BMW 3-Series
+
+- Model/program: View Interior Photos of the 2027 BMW 3-Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73928568/2027-bmw-3-series-revealed-interior-gallery/)
+
+### 2027 Chevy Bolt’s Production Run May Be Even Shorter Than Expected
+
+- Model/program: 2027 Chevy Bolt’s Production Run May Be Even Shorter Than Expected
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73947815/2027-chevy-bolt-ev-production-run-shorten/)
+
+### Early-2000s Porsches Can Add CarPlay Thanks to a Factory Retrofit
+
+- Model/program: Early-2000s Porsches Can Add CarPlay Thanks to a Factory Retrofit
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73945266/2009-2016-porsche-911-cayman-boxster-retrofit-carplay-infotainment/)
+
+### Nissan Is Targeting a Stacked Hybrid Lineup in the U.S. by 2030
+
+- Model/program: Nissan Is Targeting a Stacked Hybrid Lineup in the U.S. by 2030
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73942704/nissan-hybrid-plans-us-2030-rogue-xterra-epower-v6/)
+
+### View Photos of the Alfa Romeo 33 Stradale Perla Nera
+
+- Model/program: View Photos of the Alfa Romeo 33 Stradale Perla Nera
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73931120/view-photos-alfa-romeo-33-stradale-perla-nera/)
+
+### This Special Alfa Romeo 33 Stradale Is a Stealthy Salute to Carbon Fiber
+
+- Model/program: This Special Alfa Romeo 33 Stradale Is a Stealthy Salute to Carbon Fiber
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73931026/alfa-romeo-33-stradale-custom-carbon-fiber/)
+
+### 2028 Ram Ramcharger Is a Burly V-8-Powered SUV Worth Waiting For
+
+- Model/program: 2028 Ram Ramcharger Is a Burly V-8-Powered SUV Worth Waiting For
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73931177/2028-ram-ramcharger-future-cars/)
+
+### 2026 Ford Mustang Dark Horse SC Gallops at a Faster Pace
+
+- Model/program: 2026 Ford Mustang Dark Horse SC Gallops at a Faster Pace
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73923238/2026-ford-mustang-dark-horse-sc-drive/)
+
+### View Photos of the 2026 Ford Mustang Dark Horse SC
+
+- Model/program: View Photos of the 2026 Ford Mustang Dark Horse SC
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73886684/2026-ford-mustang-dark-horse-sc-drive-gallery/)
 
 ### Land Rover Defender Among 24K JLR SUVs Recalled for Power Loss
 

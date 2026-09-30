@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1750 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1768 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Lawsuit Claims Faulty Honda Seatbelt Killed Teenager In NJ Crash
+
+- Model/program: Lawsuit Claims Faulty Honda Seatbelt Killed Teenager In NJ Crash
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lawsuit-claims-faulty-honda-seatbelt-killed-teenager-in-nj-crash/)
+
+### This Porsche 944 Shooting Brake Costs $117K, Donor Car Not Included
+
+- Model/program: This Porsche 944 Shooting Brake Costs $117K, Donor Car Not Included
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/porsche-944-shooting-brake-carpoint/)
+
+### Dodge Charger Sixpack Crosses The Atlantic With A Massive Price Tag
+
+- Model/program: Dodge Charger Sixpack Crosses The Atlantic With A Massive Price Tag
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/dodge-charger-sixpack-uk/)
 
 ### Subprime Auto Lender Settles For $694 Million Over Loans “Destined To Fail”
 
@@ -39,6 +69,156 @@ Generated internal notes from 1750 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/radwood-is-going-y2k-and-making-its-norcal-show-free/)
+
+### The Range Rover Sport Electric Is As Quick As The V8 And Looks The Same
+
+- Model/program: The Range Rover Sport Electric Is As Quick As The V8 And Looks The Same
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/the-range-rover-sport-electric-is-as-quick-as-the-v8-and-looks-the-same/)
+
+### This Michigan Dealer Group Will Scan Your Car For Free With AI, But Hertz Customers May Have Questions
+
+- Model/program: This Michigan Dealer Group Will Scan Your Car For Free With AI, But Hertz Customers May Have Questions
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/michigan-dealer-group-uveye-scan-free/)
+
+### New BMW 3-Series Gets Up To 437 HP, Arrives In The US Next Year
+
+- Model/program: New BMW 3-Series Gets Up To 437 HP, Arrives In The US Next Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2027-bmw-3-series-launch/)
+
+### Suzuki Confirms Light Range Extender Setup Alongside More Efficient Hybrids
+
+- Model/program: Suzuki Confirms Light Range Extender Setup Alongside More Efficient Hybrids
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/suzuki-strategy/)
+
+### $400 GTA VI Vice City Collection Doesn’t Even Come With The Game
+
+- Model/program: $400 GTA VI Vice City Collection Doesn’t Even Come With The Game
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/gta-vi-vice-city-collection-doesnt-come-with-game/)
+
+### Porsche Just Vanished Another Reason Not To Daily A Used Cayman Or 911
+
+- Model/program: Porsche Just Vanished Another Reason Not To Daily A Used Cayman Or 911
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/porsche-just-vanished-another-reason-not-to-daily-a-used-cayman-or-911/)
+
+### 13-Year-Old Honda Odyssey Gains New Screen, Massage Seats, And A Much Lower Price
+
+- Model/program: 13-Year-Old Honda Odyssey Gains New Screen, Massage Seats, And A Much Lower Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/honda-odyssey-china/)
+
+### Honda’s Prelude Limited Edition Gets A European Debut, But What About The US?
+
+- Model/program: Honda’s Prelude Limited Edition Gets A European Debut, But What About The US?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hondas-prelude-limited-edition-gets-a-european-debut-but-what-about-the-us/)
+
+### Missouri Man Prisoned After Fraudulently Buying Cars With Fake Documents
+
+- Model/program: Missouri Man Prisoned After Fraudulently Buying Cars With Fake Documents
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/missouri-arrest-stolen-documents/)
+
+### Dacia Is Going To Start Building Its Cute Hipster In China
+
+- Model/program: Dacia Is Going To Start Building Its Cute Hipster In China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/dacia-hipster-production-china/)
+
+### Alfa Romeo’s Mysterious New Concept Finally Has A Name: Cuorerosso
+
+- Model/program: Alfa Romeo’s Mysterious New Concept Finally Has A Name: Cuorerosso
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/alfa-romeo-concept-finally-has-a-name-cuorerosso/)
+
+### Canadian Police Are Hunting A Z06 Driver Who Hit Over 186 MPH
+
+- Model/program: Canadian Police Are Hunting A Z06 Driver Who Hit Over 186 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/canada-police-speeding-corvette/)
+
+### Fake Cop Allegedly Had A Real Trooper Feeding Him Flock Data And More
+
+- Model/program: Fake Cop Allegedly Had A Real Trooper Feeding Him Flock Data And More
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/fake-cop-allegedly-had-a-real-trooper-feeding-him-flock-data-and-more/)
+
+### Hyundai Isn’t Done Making Its Performance EVs Fun To Drive
+
+- Model/program: Hyundai Isn’t Done Making Its Performance EVs Fun To Drive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-isnt-done-making-its-performance-evs-fun-to-drive/)
+
+### Trump Wants To Keep Diesel In America, But His White House Says No Ban Is Coming
+
+- Model/program: Trump Wants To Keep Diesel In America, But His White House Says No Ban Is Coming
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/trump-wants-to-keep-diesel-in-america-but-his-white-house-says-no-ban-is-coming/)
 
 ### BMW Gears Up To Unveil All-New 3-Series On September 29
 
