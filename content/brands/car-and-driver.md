@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 1216 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1230 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Exterior Photos of the 2027 Aston Martin DBX GT
+
+- Model/program: View Exterior Photos of the 2027 Aston Martin DBX GT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73960376/2027-aston-martin-dbx-gt-revealed-exterior-gallery/)
+
+### 2027 Aston Martin DBX GT Is a More Elegant Spin on the Super SUV
+
+- Model/program: 2027 Aston Martin DBX GT Is a More Elegant Spin on the Super SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73965576/2027-aston-martin-dbx-gt-revealed/)
+
+### View Interior Photos of the 2027 Aston Martin DBX GT
+
+- Model/program: View Interior Photos of the 2027 Aston Martin DBX GT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73960953/2027-aston-martin-dbx-gt-revealed-interior-gallery/)
+
+### View Interior Photos of the 2026 Audi Q3
+
+- Model/program: View Interior Photos of the 2026 Audi Q3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73965726/2026-audi-q3-details-interior-gallery/)
+
+### View Exterior Photos of the 2026 Audi Q3
+
+- Model/program: View Exterior Photos of the 2026 Audi Q3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73965679/2026-audi-q3-details-exterior-gallery/)
+
+### View Photos of the 1994 Honda Accord Coupe EX
+
+- Model/program: View Photos of the 1994 Honda Accord Coupe EX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73941909/1994-honda-accord-ex-gallery/)
+
+### View Photos of the 1988 Honda Accord Coupe LX-i
+
+- Model/program: View Photos of the 1988 Honda Accord Coupe LX-i
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73941680/1988-honda-accord-lx-gallery/)
+
+### These Two Mint-Condition Classic Honda Accords Still Have the Sauce
+
+- Model/program: These Two Mint-Condition Classic Honda Accords Still Have the Sauce
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73957857/1988-1994-honda-accord-coupe-drive/)
+
+### The Electric BMW i3 Will Add an Aggressive M60 Variant Next Year
+
+- Model/program: The Electric BMW i3 Will Add an Aggressive M60 Variant Next Year
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73958651/2027-bmw-i3-m60-xdrive-first-images-revealed/)
+
+### These Are the Three-Row SUVs with the Most Space in the Third Row
+
+- Model/program: These Are the Three-Row SUVs with the Most Space in the Third Row
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a73927850/three-row-suv-most-spacious/)
+
+### 2028 Range Rover Sport Electric Is a Sleeker Take on the Luxury EV
+
+- Model/program: 2028 Range Rover Sport Electric Is a Sleeker Take on the Luxury EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73961107/2028-range-rover-sport-electric-revealed/)
+
+### Editor’s Letter: The Ups and Downs of Owning a Convertible
+
+- Model/program: Editor’s Letter: The Ups and Downs of Owning a Convertible
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/columns/a73837006/editors-letter-1991-bmw-325i-shopping/)
+
+### 2027 Hyundai Ioniq 5 N
+
+- Model/program: 2027 Hyundai Ioniq 5 N
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/hyundai/ioniq-5-n-2027)
+
+### 2027 Jeep Cherokee Adds More Capable Off-Roading Trailhawk Trim
+
+- Model/program: 2027 Jeep Cherokee Adds More Capable Off-Roading Trailhawk Trim
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73947750/2027-jeep-cherokee-trailhawk-revealed/)
 
 ### 2027 BMW 3-Series vs. 2026 BMW 3-Series Spec Comparison
 

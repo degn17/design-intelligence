@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 1768 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1786 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Toyota Crushed The Hilux BEV With A Caravan Because Internet Nostalgia Demanded It
+
+- Model/program: Toyota Crushed The Hilux BEV With A Caravan Because Internet Nostalgia Demanded It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/toyota-hilux-caravan-crash/)
+
+### The Mercedes CLE Cabriolet Follows 646 AMG With Small Styling Tweaks
+
+- Model/program: The Mercedes CLE Cabriolet Follows 646 AMG With Small Styling Tweaks
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/the-mercedes-cle-cabriolet-follows-646-amg-with-small-styling-tweaks/)
+
+### The Next Lotus Won’t Look Like This, But It Should
+
+- Model/program: The Next Lotus Won’t Look Like This, But It Should
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/the-next-lotus-wont-look-like-this-but-it-should/)
+
+### Feds Say 11-Person Theft Ring Stole A Chevelle SS, Race Cars And An Indy Car
+
+- Model/program: Feds Say 11-Person Theft Ring Stole A Chevelle SS, Race Cars And An Indy Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/feds-say-11-person-theft-ring-stole-a-chevelle-ss-race-cars-and-an-indy-car/)
+
+### Hyundai Says It Will Become More American Than Some “American OEMs”
+
+- Model/program: Hyundai Says It Will Become More American Than Some “American OEMs”
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-expanding-north-american-production/)
 
 ### Lawsuit Claims Faulty Honda Seatbelt Killed Teenager In NJ Crash
 
@@ -39,6 +89,136 @@ Generated internal notes from 1768 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/dodge-charger-sixpack-uk/)
+
+### Aston Martin’s DBX GT Bets Big On Luxury And Power
+
+- Model/program: Aston Martin’s DBX GT Bets Big On Luxury And Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/aston-martin-dbx-gt-launch/)
+
+### Chevrolet Bolt Dies Next Year After A Disappointing Return
+
+- Model/program: Chevrolet Bolt Dies Next Year After A Disappointing Return
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/chevrolet-bolt-ends-soon/)
+
+### In Bid To Lower Prices, Trump Admin Could Embrace Red-Dyed Diesel
+
+- Model/program: In Bid To Lower Prices, Trump Admin Could Embrace Red-Dyed Diesel
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/red-dyed-diesel-push/)
+
+### Porsche Is In Trouble, But The Updates To The 2028 Panamera Are Barely Noticeable
+
+- Model/program: Porsche Is In Trouble, But The Updates To The 2028 Panamera Are Barely Noticeable
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2028-porsche-panamera-spied/)
+
+### Fox Factory Has Chevy’s Answer To The Ram Rumble Bee
+
+- Model/program: Fox Factory Has Chevy’s Answer To The Ram Rumble Bee
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/fox-factory-chevy-silverado-answer-to-ram-rumble-bee/)
+
+### Nissan Bets The Farm On Hybrids In North America
+
+- Model/program: Nissan Bets The Farm On Hybrids In North America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/nissan-hybrid-e-power-usa/)
+
+### 2027 Jeep Cherokee Trailhawk Debuts With A Lift And Real Off-Road Capability
+
+- Model/program: 2027 Jeep Cherokee Trailhawk Debuts With A Lift And Real Off-Road Capability
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2027-jeep-cherokee-trailhawk/)
+
+### BMW Has Quietly Axed The Diesel 3-Series
+
+- Model/program: BMW Has Quietly Axed The Diesel 3-Series
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bmw-3-series-diesel-dead/)
+
+### Porsche’s New Car Condos Come With Spas, Lounges And 24-Hour Security
+
+- Model/program: Porsche’s New Car Condos Come With Spas, Lounges And 24-Hour Security
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/porsche-design-concours-car-condos/)
+
+### EVgo Set To Introduce Fastest Charger In America
+
+- Model/program: EVgo Set To Introduce Fastest Charger In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/evgo-750-kw-charger/)
+
+### Honda Lifted The Passport TrailSport, Now They’re Hiking Prices
+
+- Model/program: Honda Lifted The Passport TrailSport, Now They’re Hiking Prices
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/2027-honda-passport-pricing/)
+
+### Lancia Brings Back The HF Integrale Badge For Its Flagship EV
+
+- Model/program: Lancia Brings Back The HF Integrale Badge For Its Flagship EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/lancia-brings-back-the-hf-integrale-badge-for-its-flagship-ev/)
+
+### BMW Gives The X3 M50 A 44 HP Boost, And The M5 Some Very Complicated Wheels
+
+- Model/program: BMW Gives The X3 M50 A 44 HP Boost, And The M5 Some Very Complicated Wheels
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/09/bmw-gives-the-x3-m50-a-44-hp-boost-and-the-m5-some-very-complicated-wheels/)
 
 ### Subprime Auto Lender Settles For $694 Million Over Loans “Destined To Fail”
 
