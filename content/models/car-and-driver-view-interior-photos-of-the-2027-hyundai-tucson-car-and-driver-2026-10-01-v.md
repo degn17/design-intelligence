@@ -1,0 +1,40 @@
+# Model Card — Car and Driver View Interior Photos of the 2027 Hyundai Tucson
+
+## View Interior Photos of the 2027 Hyundai Tucson
+
+- Brand: Car and Driver
+- Model: View Interior Photos of the 2027 Hyundai Tucson
+- Category: new_car
+- Published: 2026-10-01
+- Data status: Real · RSS
+- Collection method: rss
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73946413/2027-hyundai-tucson-tucson-hybrid-revealed-interior-gallery/)
+- Image URL: https://hips.hearstapps.com/hmg-prod/images/43335161-f396-461d-879a-eb479fe26219.jpg
+
+### Summary
+
+See inside the new 2027 Tucson and Tucson Hybrid with this array of interior photos.
+
+### Design keywords
+
+- Manual review required.
+
+### Design observations
+
+- Manual review required.
+
+### Design breakdown
+
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Volume: Not assessed from RSS metadata. Manual source review required.
+- Surface: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Brand language: RSS-collected source item awaiting editorial design analysis.
+
+### Designer note
+
+Review the linked public source before adding design interpretation or publishing this item.
+
+## Source attribution
+
+This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/photos/a73946413/2027-hyundai-tucson-tucson-hybrid-revealed-interior-gallery/). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

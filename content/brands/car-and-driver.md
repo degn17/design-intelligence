@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 1230 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1246 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Hyundai Tucson Hybrid
+
+- Model/program: 2027 Hyundai Tucson Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/hyundai/tucson-hybrid-2027)
+
+### View Exterior Photos of the 2027 Hyundai Tucson Hybrid
+
+- Model/program: View Exterior Photos of the 2027 Hyundai Tucson Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73946380/2027-hyundai-tucson-hybrid-revealed-exterior-gallery/)
+
+### View Interior Photos of the 2027 Hyundai Tucson
+
+- Model/program: View Interior Photos of the 2027 Hyundai Tucson
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73946413/2027-hyundai-tucson-tucson-hybrid-revealed-interior-gallery/)
+
+### 2027 Hyundai Tucson Goes Big and Bold, and We Now Have All the Specs
+
+- Model/program: 2027 Hyundai Tucson Goes Big and Bold, and We Now Have All the Specs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73944194/2027-hyundai-tucson-specs-details/)
+
+### View Exterior Photos of the 2027 Hyundai Tucson
+
+- Model/program: View Exterior Photos of the 2027 Hyundai Tucson
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73946412/2027-hyundai-tucson-revealed-exterior-gallery/)
+
+### Toyota Grand Highlander Woodland Infuses the Big SUV with Extra Off-Road Capability
+
+- Model/program: Toyota Grand Highlander Woodland Infuses the Big SUV with Extra Off-Road Capability
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73980381/2027-toyota-grand-highlander-woodland-edition-revealed/)
+
+### How to Sell Your Car Privately and Get the Most Money
+
+- Model/program: How to Sell Your Car Privately and Get the Most Money
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a27703340/how-to-sell-a-car/)
+
+### Mercedes Puts the 2027 Lineup on a Diet, Drops Several Models
+
+- Model/program: Mercedes Puts the 2027 Lineup on a Diet, Drops Several Models
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73979812/mercedes-benz-2027-lineup-changes/)
+
+### Lucid Air’s Infotainment Update Costs Either $0 or $950, Depending on the Model Year
+
+- Model/program: Lucid Air’s Infotainment Update Costs Either $0 or $950, Depending on the Model Year
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73980479/llucid-air-software-update-air-ux-30/)
+
+### 2027 Audi Q6 e-tron / Q6 e-tron Sportback
+
+- Model/program: 2027 Audi Q6 e-tron / Q6 e-tron Sportback
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/audi/q6-e-tron)
+
+### Ford’s Re-Entry to the World Rally Championship Is a Return to Fun
+
+- Model/program: Ford’s Re-Entry to the World Rally Championship Is a Return to Fun
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73977517/ford-world-rally-championship-return-road-car-inspiration/)
+
+### 2027 Buick Envision
+
+- Model/program: 2027 Buick Envision
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/buick/envision-2027)
+
+### View Photos of the 2027 Honda Civic Type R
+
+- Model/program: View Photos of the 2027 Honda Civic Type R
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73965610/2027-honda-civic-type-r-reveal-gallery/)
+
+### 2027 Honda Civic Type R Adds Performance, Enhances Interior
+
+- Model/program: 2027 Honda Civic Type R Adds Performance, Enhances Interior
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73962764/2027-honda-civic-type-r-updates-revealed/)
+
+### 2026 Ford Mustang RTR Driven: The Base Stang Kicks Up Its Heels
+
+- Model/program: 2026 Ford Mustang RTR Driven: The Base Stang Kicks Up Its Heels
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73946680/2026-ford-mustang-rtr-drive/)
+
+### View Photos of the 2026 Ford Mustang RTR
+
+- Model/program: View Photos of the 2026 Ford Mustang RTR
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73927799/2026-ford-mustang-rtr-drive-gallery/)
 
 ### View Exterior Photos of the 2027 Aston Martin DBX GT
 

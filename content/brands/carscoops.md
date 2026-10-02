@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1786 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1804 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Dashcam Shows Street Racer Hitting 107 MPH In A 35-MPH Zone
+
+- Model/program: Dashcam Shows Street Racer Hitting 107 MPH In A 35-MPH Zone
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/dashcam-shows-street-racer-hitting-107-mph-in-a-35-mph-zone/)
+
+### This Stellantis Patent Lets An EV Ditch Its Battery And Drive Away
+
+- Model/program: This Stellantis Patent Lets An EV Ditch Its Battery And Drive Away
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/stellantis-patent-lets-ev-ditch-battery-drive-away/)
+
+### The Next-Gen Polestar 2 Is Aiming Straight For The BMW i3
+
+- Model/program: The Next-Gen Polestar 2 Is Aiming Straight For The BMW i3
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/polestar-2-next-generation-report/)
 
 ### Toyota Crushed The Hilux BEV With A Caravan Because Internet Nostalgia Demanded It
 
@@ -59,6 +89,156 @@ Generated internal notes from 1786 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/09/hyundai-expanding-north-american-production/)
+
+### Tesla Spoiler Patent Hides What Could Be Our Best Look Yet At The Roadster
+
+- Model/program: Tesla Spoiler Patent Hides What Could Be Our Best Look Yet At The Roadster
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/tesla-spoiler-patent-may-hide-roadster-design/)
+
+### Fraudster Convicted Of Financing A Corvette With Stolen Identity And Fake $14,000 Check
+
+- Model/program: Fraudster Convicted Of Financing A Corvette With Stolen Identity And Fake $14,000 Check
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/fraudster-convicted-of-financing-a-corvette-with-stolen-identity-and-fake-check/)
+
+### 2027 Hyundai Tucson Lands With Wild Design And New Hybrids
+
+- Model/program: 2027 Hyundai Tucson Lands With Wild Design And New Hybrids
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/hyundai-tucson-2027-reveal/)
+
+### The 2026 Dodge Durango R/T Is Still Fun After 15 Years, But That Might Not Be Enough | Review
+
+- Model/program: The 2026 Dodge Durango R/T Is Still Fun After 15 Years, But That Might Not Be Enough | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/2026-dodge-durango-rt-392-review-still-fun-after-15-years-but-that-might-not-be-enough/)
+
+### It Looks Like A Normal Mazda MX-5, But It Actually Has A Ford V6
+
+- Model/program: It Looks Like A Normal Mazda MX-5, But It Actually Has A Ford V6
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/mazda-mx5-v6-rocketeer/)
+
+### GM’s Next-Gen Battery Is Inching Closer To Production
+
+- Model/program: GM’s Next-Gen Battery Is Inching Closer To Production
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/gm-lmr-battery-production/)
+
+### Saleen Is Working On A Wild New Mustang, But Still Needs More Funding
+
+- Model/program: Saleen Is Working On A Wild New Mustang, But Still Needs More Funding
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/saleen-readying-new-widebody-mustang-but-needs-more-funding/)
+
+### A Bizzarrini Prototype Is Going Up For Auction And Could Fetch $500k
+
+- Model/program: A Bizzarrini Prototype Is Going Up For Auction And Could Fetch $500k
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/bizzarrini-gt-america-22-auction/)
+
+### New BMW 3-Series Touring Is Coming Soon, And It Won’t Be Alone
+
+- Model/program: New BMW 3-Series Touring Is Coming Soon, And It Won’t Be Alone
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/bmw-3-touring-report/)
+
+### Ford Jumps Back Into WRC, Says Your Next Car Will Be Better For It
+
+- Model/program: Ford Jumps Back Into WRC, Says Your Next Car Will Be Better For It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/ford-jumps-back-into-wrc-says-your-next-car-will-be-better-for-it/)
+
+### Researcher Maps 300,000 Flock Devices, Then Flock Tries To Take It Down
+
+- Model/program: Researcher Maps 300,000 Flock Devices, Then Flock Tries To Take It Down
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/researcher-maps-300000-flock-devices-then-flock-tries-to-take-it-down/)
+
+### Fiat Is Reviving Its Most Polarizing Model With An SUV That Doubles As A Pickup
+
+- Model/program: Fiat Is Reviving Its Most Polarizing Model With An SUV That Doubles As A Pickup
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/fiat-multiplay-teaser/)
+
+### Class Action Lawsuit Targets GM’s Complaint-Ridden CVT
+
+- Model/program: Class Action Lawsuit Targets GM’s Complaint-Ridden CVT
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/gm-cvt-class-action-lawsuit/)
+
+### America’s Civic Type R Gets Even Sharper For 2027, Europe’s Gets The Bullet
+
+- Model/program: America’s Civic Type R Gets Even Sharper For 2027, Europe’s Gets The Bullet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/2027-honda-civic-type-r-gets-even-sharper-for-2027/)
+
+### Ram’s Entry-Level Rumble Bee Sold Out In 90 Minutes
+
+- Model/program: Ram’s Entry-Level Rumble Bee Sold Out In 90 Minutes
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/ram-1500-rumble-bee-sells-out/)
 
 ### Lawsuit Claims Faulty Honda Seatbelt Killed Teenager In NJ Crash
 

@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 130 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 141 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Uncovering the story of the 1952 Porsche 356 SL
+
+- Model/program: Uncovering the story of the 1952 Porsche 356 SL
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-raceborn-moments-356-sl-43338.html)
+
+### Tickets for the 2027 Porsche Tennis Grand Prix available from 1 October
+
+- Model/program: Tickets for the 2027 Porsche Tennis Grand Prix available from 1 October
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/sports-society/porsche-tennis-grand-prix-2027-start-ticket-sale-43362.html)
+
+### Advanced Semiconductor Packaging in Automotive Electronics
+
+- Model/program: Advanced Semiconductor Packaging in Automotive Electronics
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-advanced-semiconductor-packaging-in-automotive-electronics-43383.html)
+
+### Modern retrofit infotainment system for 911, Boxster & Cayman
+
+- Model/program: Modern retrofit infotainment system for 911, Boxster & Cayman
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-classic-communication-management-plus-infotainmentsystem-43342.html)
+
+### Porsche Design Concours: New club concept in the U.S.
+
+- Model/program: Porsche Design Concours: New club concept in the U.S.
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-design-newgard-development-group-ownership-club-concept-43329.html)
+
+### #thepanamericana100project: The end of the world is just the beginning
+
+- Model/program: #thepanamericana100project: The end of the world is just the beginning
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-cayenne-panamericana-100-project-43315.html)
+
+### World Championship-winning 99X Electric joins the museum collection
+
+- Model/program: World Championship-winning 99X Electric joins the museum collection
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-99x-electric-formula-e-porsche-museum-43298.html)
+
+### Hunter and Hunted: Looking back at Sebring
+
+- Model/program: Hunter and Hunted: Looking back at Sebring
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-twelve-hour-race-sebring-report-43308.html)
+
+### Driving through the Pacific Ring of Fire
+
+- Model/program: Driving through the Pacific Ring of Fire
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-curves-taiwan-stefan-bogner-43297.html)
+
+### Porsche Penske Motorsport claims a podium finish at the “Battle on the Bricks”
+
+- Model/program: Porsche Penske Motorsport claims a podium finish at the “Battle on the Bricks”
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/09/porsche-penske-motorsport-claims-a-podium-finish-at-the-battle-on-the-bricks.html)
+
+### From Top Gear to Botswana with Andy Wilman
+
+- Model/program: From Top Gear to Botswana with Andy Wilman
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-sunday-drives-botswana-andy-wilman-43283.html)
 
 ### From Porsche to Porsche: Next Milestone in Battery Recycling
 
