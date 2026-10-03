@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 1246 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1251 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Tesla Makes the Model 3 Quicker and Gives It a Bigger Screen
+
+- Model/program: Tesla Makes the Model 3 Quicker and Gives It a Bigger Screen
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73998953/tesla-model-3-updates-quicker-bigger-screen/)
+
+### Aston Martin’s First EV Pushed Back to 2033 at the Earliest
+
+- Model/program: Aston Martin’s First EV Pushed Back to 2033 at the Earliest
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73994101/aston-martin-first-ev-pushed-to-2033/)
+
+### These Are the Biggest Winners and Losers in Auto Sales in Q3 2026
+
+- Model/program: These Are the Biggest Winners and Losers in Auto Sales in Q3 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73994800/auto-sales-q3-2026-winners-losers/)
+
+### How to Trade In a Car in 5 Steps
+
+- Model/program: How to Trade In a Car in 5 Steps
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/auto-loans/a42414553/how-to-trade-in-car/)
+
+### 2026 Jeep Recon EV Falls Short in Our Highway Range Test
+
+- Model/program: 2026 Jeep Recon EV Falls Short in Our Highway Range Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73957794/2026-jeep-recon-ev-range-test/)
 
 ### 2027 Hyundai Tucson Hybrid
 

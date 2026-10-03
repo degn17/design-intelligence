@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1804 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1822 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### We Bet You’ve Never Seen A Lincoln Town Car Like This Before
+
+- Model/program: We Bet You’ve Never Seen A Lincoln Town Car Like This Before
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/lincoln-town-car-hearse-auction/)
+
+### BMW Sales Are Up, But Some Models Are Having A Very Strange Year
+
+- Model/program: BMW Sales Are Up, But Some Models Are Having A Very Strange Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/bmw-sales-up-some-models-having-strange-year/)
+
+### As VW Kills Off The ID.4, It Launches A $12,500 Discount In The US
+
+- Model/program: As VW Kills Off The ID.4, It Launches A $12,500 Discount In The US
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/vw-id-4-incentives/)
 
 ### Dashcam Shows Street Racer Hitting 107 MPH In A 35-MPH Zone
 
@@ -39,6 +69,156 @@ Generated internal notes from 1804 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/10/polestar-2-next-generation-report/)
+
+### With Two Extra Wheels, This Defender Is Ready To Tackle Anything
+
+- Model/program: With Two Extra Wheels, This Defender Is Ready To Tackle Anything
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/custom-land-rover-defender-6x6/)
+
+### Driving The Corvette Stingray And Z06 On Track Is Like Dying And Going To Heaven | Review
+
+- Model/program: Driving The Corvette Stingray And Z06 On Track Is Like Dying And Going To Heaven | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/chevrolet-corvette-stingray-z06-track-review/)
+
+### Lexus LX Finally Gets F Sport Treatment In Japan, Plus Handling Tweaks
+
+- Model/program: Lexus LX Finally Gets F Sport Treatment In Japan, Plus Handling Tweaks
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/lexus-lx-f-sport-japan/)
+
+### Stellantis Sales Are Flat, But The Numbers Tell A Wild Story
+
+- Model/program: Stellantis Sales Are Flat, But The Numbers Tell A Wild Story
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/stellantis-sales-flat-but-numbers-tell-wild-story/)
+
+### Porsche’s Hotter Electric Cayenne Coupe Steps Out Of The Shadows
+
+- Model/program: Porsche’s Hotter Electric Cayenne Coupe Steps Out Of The Shadows
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/porsche-cayenne-turbo-gt-electric-spied-2/)
+
+### Hyundai’s New Tucson Is Already Out, But Sales of The 6-Year-Old One Rocketed 32%
+
+- Model/program: Hyundai’s New Tucson Is Already Out, But Sales of The 6-Year-Old One Rocketed 32%
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/hyundais-new-tucson-is-already-out-but-sales-of-the-6-year-old-one-rocketed-32/)
+
+### Larte’s All-Purple BMW XM Wasn’t On Our Bingo Card
+
+- Model/program: Larte’s All-Purple BMW XM Wasn’t On Our Bingo Card
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/larte-bmw-xm-purple/)
+
+### Lexus And Toyota Are The Durability Kings, But They Have A Steering Knuckle Issue
+
+- Model/program: Lexus And Toyota Are The Durability Kings, But They Have A Steering Knuckle Issue
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/lexus-toyota-steering-knuckle-recall/)
+
+### TX Dealer Builds Custom Toyota Tacoma Inspired By Back To The Future
+
+- Model/program: TX Dealer Builds Custom Toyota Tacoma Inspired By Back To The Future
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/tx-dealer-builds-custom-toyota-tacoma-inspired-by-back-to-the-future/)
+
+### You Can Now Match Your Electric Guitar To Your Land Rover Defender
+
+- Model/program: You Can Now Match Your Electric Guitar To Your Land Rover Defender
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/land-rover-defender-electric-guitar/)
+
+### Posers Rejoice! There’s A Slightly More Rugged Toyota Grand Highlander
+
+- Model/program: Posers Rejoice! There’s A Slightly More Rugged Toyota Grand Highlander
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/2027-toyota-grand-highlander-debut/)
+
+### Michael Jordan’s 1997 Ferrari 550 Maranello Just Smashed Sales Records
+
+- Model/program: Michael Jordan’s 1997 Ferrari 550 Maranello Just Smashed Sales Records
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/michael-jordan-ferrari-550-maranello-sales-record/)
+
+### Mercedes Will Avoid US Ban, Despite 20% Chinese Ownership
+
+- Model/program: Mercedes Will Avoid US Ban, Despite 20% Chinese Ownership
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/mercedes-benz-avoids-chinese-car-ban-us/)
+
+### Kia’s Value-Focused K4 Just Got More Expensive
+
+- Model/program: Kia’s Value-Focused K4 Just Got More Expensive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/2027-kia-k4-pricing/)
+
+### You’d Hate To Be The Owner Of This Range Rover Sport Built On February 16
+
+- Model/program: You’d Hate To Be The Owner Of This Range Rover Sport Built On February 16
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/range-rover-sport-usa-pcm-recall/)
 
 ### Toyota Crushed The Hilux BEV With A Caravan Because Internet Nostalgia Demanded It
 
