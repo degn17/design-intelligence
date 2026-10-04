@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 1251 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1256 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ezra Dyer: Let Me Tell You About My (Friend’s) Ferrari F40
+
+- Model/program: Ezra Dyer: Let Me Tell You About My (Friend’s) Ferrari F40
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/columns/a73929551/ezra-dyer-friend-ferrari-f40/)
+
+### This 1963 Falcon Ranchero on BaT Was Ford’s Original Small Pickup
+
+- Model/program: This 1963 Falcon Ranchero on BaT Was Ford’s Original Small Pickup
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73992894/1963-ford-falcon-ranchero-bring-a-trailer-auction/)
+
+### This Vintage Porsche 944 Conversion Is Way Cooler Than a New 911
+
+- Model/program: This Vintage Porsche 944 Conversion Is Way Cooler Than a New 911
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74001537/carpoint-porsche-944-conversion-details/)
+
+### View Photos of the 1978 Subaru Wagon Through Baja
+
+- Model/program: View Photos of the 1978 Subaru Wagon Through Baja
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73963655/1978-subaru-wagon-through-baja-archive-feature-gallery/)
+
+### 1978 Subaru Wagon Through Baja: Only the Strong Survive
+
+- Model/program: 1978 Subaru Wagon Through Baja: Only the Strong Survive
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73924282/1978-subaru-wagon-through-baja-archive-feature/)
 
 ### Tesla Makes the Model 3 Quicker and Gives It a Bigger Screen
 

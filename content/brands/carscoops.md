@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1822 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1829 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -39,6 +39,76 @@ Generated internal notes from 1822 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/10/vw-id-4-incentives/)
+
+### Citroen Is Reviving The Iconic 2CV As An Affordable EV
+
+- Model/program: Citroen Is Reviving The Iconic 2CV As An Affordable EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/citroen-2cv-teasers/)
+
+### It Looks Like A Toyota Minivan But It’s Actually An EV With 5 HP
+
+- Model/program: It Looks Like A Toyota Minivan But It’s Actually An EV With 5 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/nora-ev-metro/)
+
+### 21-Year-Old With No License Takes Massive 3-Axle Truck On Hour-Long Police Chase
+
+- Model/program: 21-Year-Old With No License Takes Massive 3-Axle Truck On Hour-Long Police Chase
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/21-year-old-with-no-license-takes-massive-truck-on-hour-long-police-chase/)
+
+### GM’s Electric Vehicle Sales Fell Off A Cliff Last Quarter
+
+- Model/program: GM’s Electric Vehicle Sales Fell Off A Cliff Last Quarter
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/gms-electric-vehicle-sales-fell-off-a-cliff-last-quarter/)
+
+### Police Arrest Four And Seize Race Car Following Illegal Drag Race In NY
+
+- Model/program: Police Arrest Four And Seize Race Car Following Illegal Drag Race In NY
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/police-arrest-four-and-seize-race-car-following-illegal-drag-race-in-ny/)
+
+### Honda’s New Prelude Is Great, But We All Know What It’s Missing | Review
+
+- Model/program: Honda’s New Prelude Is Great, But We All Know What It’s Missing | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/honda-prelude-australia-review/)
+
+### The Beauty And The Stainless Beast: Alfa Romeo 8C Hangs Out With Tesla Cybertruck
+
+- Model/program: The Beauty And The Stainless Beast: Alfa Romeo 8C Hangs Out With Tesla Cybertruck
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/the-beauty-and-the-stainless-beast-alfa-romeo-8c-hangs-out-with-tesla-cybertruck/)
 
 ### Dashcam Shows Street Racer Hitting 107 MPH In A 35-MPH Zone
 
