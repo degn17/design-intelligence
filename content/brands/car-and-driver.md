@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1256 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1259 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Elana Scherr: I Drove $10 Million Worth of Cars Last Month
+
+- Model/program: Elana Scherr: I Drove $10 Million Worth of Cars Last Month
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/columns/a73945456/elana-scherr-multimillion-dollar-dream-cars/)
+
+### With This Ferrari GTO Re-Creation on BaT, You Don’t Need a Million to Look Like a Million
+
+- Model/program: With This Ferrari GTO Re-Creation on BaT, You Don’t Need a Million to Look Like a Million
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73992940/ferrari-250-gto-re-creation-bring-a-trailer-auction/)
+
+### Mazda CX-6e Is an EV That Lets You Yell Profanities at People in Traffic
+
+- Model/program: Mazda CX-6e Is an EV That Lets You Yell Profanities at People in Traffic
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74009089/mazda-cx-6e-external-speaker-profanity-japan/)
 
 ### Ezra Dyer: Let Me Tell You About My (Friend’s) Ferrari F40
 

@@ -1,0 +1,40 @@
+# Model Card — Carscoops Electrify America Allows Companies To Own And Brand EV Charging Stations
+
+## Electrify America Allows Companies To Own And Brand EV Charging Stations
+
+- Brand: Carscoops
+- Model: Electrify America Allows Companies To Own And Brand EV Charging Stations
+- Category: other
+- Published: 2026-10-04
+- Data status: Real · RSS
+- Collection method: rss
+- Source: [Carscoops](https://www.carscoops.com/2026/10/powered-by-electrify-america-branded-ev-charging-stations/)
+- Image URL: Not supplied by feed
+
+### Summary
+
+Powered by Electrify America already supports nearly 600 chargers, letting retailers build charging networks under their own brands
+
+### Design keywords
+
+- Manual review required.
+
+### Design observations
+
+- Manual review required.
+
+### Design breakdown
+
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Volume: Not assessed from RSS metadata. Manual source review required.
+- Surface: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Brand language: RSS-collected source item awaiting editorial design analysis.
+
+### Designer note
+
+Review the linked public source before adding design interpretation or publishing this item.
+
+## Source attribution
+
+This card is generated from a **Real · RSS** record and must retain attribution to [Carscoops](https://www.carscoops.com/2026/10/powered-by-electrify-america-branded-ev-charging-stations/). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

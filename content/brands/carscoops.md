@@ -2,13 +2,73 @@
 
 ## Current positioning
 
-Generated internal notes from 1829 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1835 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Electrify America Allows Companies To Own And Brand EV Charging Stations
+
+- Model/program: Electrify America Allows Companies To Own And Brand EV Charging Stations
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/powered-by-electrify-america-branded-ev-charging-stations/)
+
+### Mazda Sales Surged Last Month, Including The MX-5
+
+- Model/program: Mazda Sales Surged Last Month, Including The MX-5
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/mazda-sales-surged-last-month-including-the-mx-5/)
+
+### Costco Members Can Save Up To $2,000 On An Ineos Grenadier
+
+- Model/program: Costco Members Can Save Up To $2,000 On An Ineos Grenadier
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/costco-members-save-2000-ineos-grenadier/)
+
+### This $9k BMW Is The Baby M3 You’ve Never Heard Of
+
+- Model/program: This $9k BMW Is The Baby M3 You’ve Never Heard Of
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/9k-bmw-is-the-baby-m3-youve-never-heard-of/)
+
+### It Has An Odd Name, But The Deepal S07 Surprises | Review
+
+- Model/program: It Has An Odd Name, But The Deepal S07 Surprises | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/deepal-s07-electric-review/)
+
+### The World’s Lowest Land Rover Hides An Air-Cooled Secret Underneath
+
+- Model/program: The World’s Lowest Land Rover Hides An Air-Cooled Secret Underneath
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/land-rover-vw-beetle/)
 
 ### We Bet You’ve Never Seen A Lincoln Town Car Like This Before
 
