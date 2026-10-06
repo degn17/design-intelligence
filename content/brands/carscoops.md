@@ -2,13 +2,193 @@
 
 ## Current positioning
 
-Generated internal notes from 1835 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1853 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Nismo Opens Shop In Australia To Cater To Classic Skyline And GT-R Demands
+
+- Model/program: Nismo Opens Shop In Australia To Cater To Classic Skyline And GT-R Demands
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/nismo-opens-shop-in-australia-to-cater-to-classic-skyline-and-gt-r-demands/)
+
+### This Might Be The Ultimate Lexus GX 550
+
+- Model/program: This Might Be The Ultimate Lexus GX 550
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/lexus-gx-550-novel-body-kit/)
+
+### Mazda Is Working On A New Midsize Pickup
+
+- Model/program: Mazda Is Working On A New Midsize Pickup
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/mazda-truck-report/)
+
+### Fiat And Maserati Introduce Level 2++ Hands-Free Driving Prototypes
+
+- Model/program: Fiat And Maserati Introduce Level 2++ Hands-Free Driving Prototypes
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/fiat-maserati-autonomous-prototypes/)
+
+### Kia’s New Sportage Takes Shape With Dramatic New Design
+
+- Model/program: Kia’s New Sportage Takes Shape With Dramatic New Design
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/kias-new-sportage-takes-shape-with-dramatic-new-design/)
+
+### Project Earnie Might Just Be The Perfect Series II Discovery
+
+- Model/program: Project Earnie Might Just Be The Perfect Series II Discovery
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/project-earnie-perfect-land-rover-series-ii-discovery/)
+
+### Roush Gives The 2027 Ford Super Duty A $21K Off-Road Makeover
+
+- Model/program: Roush Gives The 2027 Ford Super Duty A $21K Off-Road Makeover
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/2027-ford-super-duty-roush-makeover/)
+
+### This Corvette ZR1X Is About To Sell For Silly Money
+
+- Model/program: This Corvette ZR1X Is About To Sell For Silly Money
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/this-corvette-zr1x-is-about-to-sell-for-silly-money/)
+
+### Chinese Cars Have Taken Over The UK, But They Could Be Hit With Tariffs
+
+- Model/program: Chinese Cars Have Taken Over The UK, But They Could Be Hit With Tariffs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/chinese-cars-have-taken-over-the-uk-but-they-could-be-hit-with-tariffs/)
+
+### Mercedes Kills EQE In America Because Nobody Wanted It
+
+- Model/program: Mercedes Kills EQE In America Because Nobody Wanted It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/mercedes-eqe-is-dead/)
+
+### Believe It Or Not, But This Shooting Brake Is Actually A Ferrari 599
+
+- Model/program: Believe It Or Not, But This Shooting Brake Is Actually A Ferrari 599
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/ferrari-599-shooting-brake-auction/)
+
+### VinFast Isn’t Ready To Give Up On The US, Despite Its Woeful Sales
+
+- Model/program: VinFast Isn’t Ready To Give Up On The US, Despite Its Woeful Sales
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/vinfast-isnt-ready-to-give-up-on-the-us-despite-its-woeful-sales/)
+
+### 2027 Toyota Corolla Cross Gets A Smaller Lineup And Slightly Higher Prices
+
+- Model/program: 2027 Toyota Corolla Cross Gets A Smaller Lineup And Slightly Higher Prices
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/2027-toyota-corolla-cross-gets-a-smaller-lineup-and-slightly-higher-prices/)
+
+### Lexus Fine-Tuned The New RX At The Nürburgring
+
+- Model/program: Lexus Fine-Tuned The New RX At The Nürburgring
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/lexus-fine-tuned-the-new-rx-at-the-nurburgring/)
+
+### Kia’s Affordable EV3 Hit By Massive Markups At Greedy Dealerships
+
+- Model/program: Kia’s Affordable EV3 Hit By Massive Markups At Greedy Dealerships
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/kia-ev3-dealer-markups/)
+
+### Report Shows Vehicle Repair Costs Have Risen Twice As Much As Inflation
+
+- Model/program: Report Shows Vehicle Repair Costs Have Risen Twice As Much As Inflation
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/vehicle-repair-costs-have-risen-twice-as-much-as-inflation/)
+
+### GM’s Boss Made Almost $50 Million Last Year, Three Times Ford’s CEO
+
+- Model/program: GM’s Boss Made Almost $50 Million Last Year, Three Times Ford’s CEO
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/gm-boss-made-almost-50-million-last-year-three-times-ford-ceo/)
+
+### This City Credits Flock Cameras With Solving Murders, But Pulling The Plug Anyway
+
+- Model/program: This City Credits Flock Cameras With Solving Murders, But Pulling The Plug Anyway
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/flock-cameras-solved-murders-but-removed-anyway/)
 
 ### Electrify America Allows Companies To Own And Brand EV Charging Stations
 

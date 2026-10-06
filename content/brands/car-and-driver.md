@@ -2,13 +2,113 @@
 
 ## Current positioning
 
-Generated internal notes from 1259 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1269 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Split-Personality Supercar Wants to Be the New Lancia Stratos
+
+- Model/program: This Split-Personality Supercar Wants to Be the New Lancia Stratos
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74038380/angelilli-automobili-tipo-826-supercar-details/)
+
+### View Interior Photos of the 2026 Subaru WRX
+
+- Model/program: View Interior Photos of the 2026 Subaru WRX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73998061/2026-subaru-wrx-test-interior-gallery/)
+
+### Tesla Drivers Can Now Break Away from Superchargers in Emergencies
+
+- Model/program: Tesla Drivers Can Now Break Away from Superchargers in Emergencies
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74037575/tesla-drivers-can-now-break-away-from-superchargers-in-emergencies/)
+
+### 2027 Chevy Corvette’s New 6.7-Liter V-8 May Leak Oil, but GM Has a Fix
+
+- Model/program: 2027 Chevy Corvette’s New 6.7-Liter V-8 May Leak Oil, but GM Has a Fix
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74034656/2027-chevrolet-corvette-6-7-liter-v8-leaking-oil/)
+
+### View Photos of the 1992 Lotus Elan
+
+- Model/program: View Photos of the 1992 Lotus Elan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73997786/1992-lotus-elan-archive-test-gallery/)
+
+### Front-Wheel-Drive Heresy? We Test the 1992 Lotus Elan
+
+- Model/program: Front-Wheel-Drive Heresy? We Test the 1992 Lotus Elan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73958972/1992-lotus-elan-archive-test/)
+
+### Ford Recalls Expedition and Heavy-Duty Trucks for Faulty Front Lights
+
+- Model/program: Ford Recalls Expedition and Heavy-Duty Trucks for Faulty Front Lights
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74030736/ford-expedition-hd-pickup-front-lights-recall/)
+
+### U.S. Sedan Sales Are Surging, with Honda and Toyota Leading the Charge
+
+- Model/program: U.S. Sedan Sales Are Surging, with Honda and Toyota Leading the Charge
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74031137/honda-toyota-sedan-sales-increase-usa-2026/)
+
+### View Interior Photos of the 2027 Chevrolet Corvette Grand Sport X
+
+- Model/program: View Interior Photos of the 2027 Chevrolet Corvette Grand Sport X
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73980245/2027-chevrolet-corvette-grand-sport-x-test-interior-gallery/)
+
+### View Exterior Photos of the 2027 Chevrolet Corvette Grand Sport X
+
+- Model/program: View Exterior Photos of the 2027 Chevrolet Corvette Grand Sport X
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73979955/2027-chevrolet-corvette-grand-sport-x-test-exterior-gallery/)
 
 ### Elana Scherr: I Drove $10 Million Worth of Cars Last Month
 
