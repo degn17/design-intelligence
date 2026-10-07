@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 1853 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1871 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Suzuki’s Smallest EV Is A Kei Car With A Sub-$10k Price Tag
+
+- Model/program: Suzuki’s Smallest EV Is A Kei Car With A Sub-$10k Price Tag
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/suzukis-esky-japan/)
+
+### Ford Shows Its First Wolftrak-branded SUV
+
+- Model/program: Ford Shows Its First Wolftrak-branded SUV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/ford-everest-wolftrak/)
+
+### Jaguar’s Type 01 Is A Radical EV That Laughs At Convention
+
+- Model/program: Jaguar’s Type 01 Is A Radical EV That Laughs At Convention
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/jaguars-type-01-is-a-radical-ev-that-laughs-at-convention/)
+
+### EVs Could Be Staging A Comeback Thanks To High Gas Prices
+
+- Model/program: EVs Could Be Staging A Comeback Thanks To High Gas Prices
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/evs-could-be-staging-a-comeback-thanks-to-high-gas-prices/)
 
 ### Nismo Opens Shop In Australia To Cater To Classic Skyline And GT-R Demands
 
@@ -39,6 +79,146 @@ Generated internal notes from 1853 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/10/mazda-truck-report/)
+
+### Corvettes With The New 6.7-Liter V8 May Already Have An Oil Leak
+
+- Model/program: Corvettes With The New 6.7-Liter V8 May Already Have An Oil Leak
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/corvettes-with-the-new-6-7-liter-v8-may-already-have-an-oil-leak/)
+
+### Mini Countryman Gains Rugged New Variant With A Lift And Meaty Tires
+
+- Model/program: Mini Countryman Gains Rugged New Variant With A Lift And Meaty Tires
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/mini-countryman-untamed-edition/)
+
+### Despite All The Pros, The Hyundai Ioniq 5 Falters On Price | Review
+
+- Model/program: Despite All The Pros, The Hyundai Ioniq 5 Falters On Price | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/hyundai-ioniq-5-review-falters-on-price/)
+
+### Can Pixels Beat Nostalgia? We Compared Nissan’s New Sub-€20k EV To Its Renault Twin Up Close
+
+- Model/program: Can Pixels Beat Nostalgia? We Compared Nissan’s New Sub-€20k EV To Its Renault Twin Up Close
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/nissan-pixo-renault-twingo/)
+
+### Ford’s Bronco RTR Is Almost Like A Raptor, But Without The Absurd Price
+
+- Model/program: Ford’s Bronco RTR Is Almost Like A Raptor, But Without The Absurd Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/ford-bronco-rtr-like-raptor-without-absurd-price/)
+
+### VW ID. Buzz And Transporter Gain Signature Editions With GTI Flair
+
+- Model/program: VW ID. Buzz And Transporter Gain Signature Editions With GTI Flair
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/vw-vans-signature-editions/)
+
+### This Skoda Sedan Looks Like A Baby Octavia But Starts From $10k
+
+- Model/program: This Skoda Sedan Looks Like A Baby Octavia But Starts From $10k
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/skoda-slavia-prices/)
+
+### Belgian Test Finds Tesla FSD Speeding And Trying To Pass Cyclists Illegally
+
+- Model/program: Belgian Test Finds Tesla FSD Speeding And Trying To Pass Cyclists Illegally
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/belgian-test-tesla-fsd-faults/)
+
+### After 16 Years Without A Redesign, The Durango Is Feeling Blue
+
+- Model/program: After 16 Years Without A Redesign, The Durango Is Feeling Blue
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/2027-dodge-durango-updates/)
+
+### Honda Escapes US Investigation Into Backup Camera Failures
+
+- Model/program: Honda Escapes US Investigation Into Backup Camera Failures
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/honda-ridgeline-backup-camera-nhtsa/)
+
+### Mercedes’ VLE Electric Minivan Sprouts A Gas Motor
+
+- Model/program: Mercedes’ VLE Electric Minivan Sprouts A Gas Motor
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/mercedes-luxury-vle-minivan-spied-with-hybrid-power/)
+
+### GM’s Plug-In Hybrids Are Coming And Could Offer 70 Miles Of Electric-Only Range
+
+- Model/program: GM’s Plug-In Hybrids Are Coming And Could Offer 70 Miles Of Electric-Only Range
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/gm-plug-in-hybrid-plans/)
+
+### The Ineos Grenadier Is Going To War With The Italian Army
+
+- Model/program: The Ineos Grenadier Is Going To War With The Italian Army
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/ineos-grenadier-military-vehicle/)
+
+### Another Auto Show Bites The Dust Amid Declining Attendance
+
+- Model/program: Another Auto Show Bites The Dust Amid Declining Attendance
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/rochester-auto-show-ends/)
 
 ### Fiat And Maserati Introduce Level 2++ Hands-Free Driving Prototypes
 

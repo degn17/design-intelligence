@@ -2,13 +2,203 @@
 
 ## Current positioning
 
-Generated internal notes from 1269 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1288 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Porsche’s Future Includes More One-Offs and Possibly a New Supercar
+
+- Model/program: Porsche’s Future Includes More One-Offs and Possibly a New Supercar
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74056227/porsche-future-plans-possible-new-mid-engined-supercar/)
+
+### Riding in Porsche’s Upcoming 718 Boxster EV Feels Shockingly Familiar
+
+- Model/program: Riding in Porsche’s Upcoming 718 Boxster EV Feels Shockingly Familiar
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74057219/porsches-718-boxster-ev-ridealong/)
+
+### Design Leads the Charge with the 2028 Jaguar Type 01 Electric Sedan
+
+- Model/program: Design Leads the Charge with the 2028 Jaguar Type 01 Electric Sedan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74036834/2028-jaguar-type-01-revealed/)
+
+### View Exterior Photos of the 2028 Jaguar Type 01
+
+- Model/program: View Exterior Photos of the 2028 Jaguar Type 01
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74056532/2028-jaguar-type-01-revealed-exterior-gallery/)
+
+### View Interior Photos of the 2028 Jaguar Type 01
+
+- Model/program: View Interior Photos of the 2028 Jaguar Type 01
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74056533/2028-jaguar-type-01-revealed-interior-gallery/)
+
+### Audi Patent Imagines EVs That Throw Sparks and Emit Smells
+
+- Model/program: Audi Patent Imagines EVs That Throw Sparks and Emit Smells
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74056900/audi-patent-evs-emit-sparks-smells/)
+
+### New BMW M3 EV Photos Tease the Production-Spec Sports Sedan
+
+- Model/program: New BMW M3 EV Photos Tease the Production-Spec Sports Sedan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74056328/bmw-m3-ev-i3-neue-klasse-prototype-photos/)
+
+### You Can Now Get in Line to Order Saleen’s Newest Sports Car
+
+- Model/program: You Can Now Get in Line to Order Saleen’s Newest Sports Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74049773/saleen-s1-street-order-books-open/)
+
+### 2027 Kia EV3
+
+- Model/program: 2027 Kia EV3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/kia/ev3)
+
+### View Exterior Photos of the 2027 Mini Countryman Electric Untamed Edition
+
+- Model/program: View Exterior Photos of the 2027 Mini Countryman Electric Untamed Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74037629/2027-mini-countryman-electric-untamed-edition-revealed-exterior-gallery/)
+
+### View Exterior Photos of the 2027 Mini Countryman Untamed Edition
+
+- Model/program: View Exterior Photos of the 2027 Mini Countryman Untamed Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74037615/2027-mini-countryman-untamed-edition-revealed-exterior-gallery/)
+
+### 2027 Mini Countryman Electric
+
+- Model/program: 2027 Mini Countryman Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mini/countryman-electric-2027)
+
+### View Interior Photos of the 2027 Mini Countryman Untamed Edition
+
+- Model/program: View Interior Photos of the 2027 Mini Countryman Untamed Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74037621/2027-mini-countryman-untamed-edition-revealed-interior-gallery/)
+
+### Mini Puts the Backcountry in Countryman with a New Off-Road-Themed ‘Untamed’ Trim
+
+- Model/program: Mini Puts the Backcountry in Countryman with a New Off-Road-Themed ‘Untamed’ Trim
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74037175/2027-mini-countryman-untamed-edition-revealed/)
+
+### Tested: 2027 Kia EV3 Brings Charm to Small, Inexpensive EVs
+
+- Model/program: Tested: 2027 Kia EV3 Brings Charm to Small, Inexpensive EVs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73944692/2027-kia-ev3-gt-line-test/)
+
+### Tested: 2027 Volkswagen Atlas Gets a Glow-Up
+
+- Model/program: Tested: 2027 Volkswagen Atlas Gets a Glow-Up
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73984038/2027-volkswagen-atlas-sel-premium-r-line-test/)
+
+### View Interior Photos of the 2027 Kia EV3 GT-Line
+
+- Model/program: View Interior Photos of the 2027 Kia EV3 GT-Line
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73993839/2027-kia-ev3-gt-line-awd-test-interior-gallery/)
+
+### View Exterior Photos of the 2027 Kia EV3 GT-Line
+
+- Model/program: View Exterior Photos of the 2027 Kia EV3 GT-Line
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73993656/2027-kia-ev3-gt-line-awd-test-exterior-gallery/)
+
+### View Exterior Photos of the 2027 Volkswagen Atlas
+
+- Model/program: View Exterior Photos of the 2027 Volkswagen Atlas
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a73980686/2027-volkswagen-atlas-test-exterior-gallery/)
 
 ### This Split-Personality Supercar Wants to Be the New Lancia Stratos
 
