@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1871 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1889 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Believe It Or Not, This Stolen C7 Corvette Spent Years Underwater
+
+- Model/program: Believe It Or Not, This Stolen C7 Corvette Spent Years Underwater
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/stolen-c7-chevy-corvette-recovered-underwater/)
+
+### California Tried To Change What Happens To Cash Left Over From Towed Cars But Gov. Newsom Said No
+
+- Model/program: California Tried To Change What Happens To Cash Left Over From Towed Cars But Gov. Newsom Said No
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/california-tried-to-change-what-happens-to-cash-left-over-from-towed-cars-but-gov-newsom-said-no/)
+
+### Rivian R2 Recalled Over Possible Loss Of Drive Power
+
+- Model/program: Rivian R2 Recalled Over Possible Loss Of Drive Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/rivian-r2-drive-power-recall/)
 
 ### Suzuki’s Smallest EV Is A Kei Car With A Sub-$10k Price Tag
 
@@ -49,6 +79,156 @@ Generated internal notes from 1871 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/10/evs-could-be-staging-a-comeback-thanks-to-high-gas-prices/)
+
+### New Audi RS5 Is A Runaway Hit Even Before Its Global Rollout
+
+- Model/program: New Audi RS5 Is A Runaway Hit Even Before Its Global Rollout
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/audi-rs5-sales-hit/)
+
+### The BMW iX3 M60 Has 603 HP And It’s Not Even A True M Model
+
+- Model/program: The BMW iX3 M60 Has 603 HP And It’s Not Even A True M Model
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/the-bmw-ix3-m60-has-603-hp-and-its-not-even-a-true-m-model/)
+
+### BMW’s New iX4 Packs Up To 603 HP And 428-Miles Of Range
+
+- Model/program: BMW’s New iX4 Packs Up To 603 HP And 428-Miles Of Range
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/bmws-new-ix4-packs-up-to-603-hp-and-428-miles-of-range/)
+
+### Mitsubishi’s New EV Eclipses The Leaf On Price
+
+- Model/program: Mitsubishi’s New EV Eclipses The Leaf On Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/mitsubishi-eclipse-sportback-pricing/)
+
+### This Corvette’s Engine Makes The Dodge Viper’s 8.4-Liter V10 Look Small
+
+- Model/program: This Corvette’s Engine Makes The Dodge Viper’s 8.4-Liter V10 Look Small
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/kindig-it-corvette-twelveair-auction/)
+
+### Hate Ferrari’s Electric Luce? Blame Jeff Bezos
+
+- Model/program: Hate Ferrari’s Electric Luce? Blame Jeff Bezos
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/hate-ferraris-electric-luce-blame-jeff-bezos/)
+
+### America’s Prettiest Speedster Is Heading To Auction
+
+- Model/program: America’s Prettiest Speedster Is Heading To Auction
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/1935-auburn-851-speedster-hershey-auction-2026/)
+
+### Florida Kicked Flock Cameras Off State Roads, Then Police Found A Pretty Obvious Loophole
+
+- Model/program: Florida Kicked Flock Cameras Off State Roads, Then Police Found A Pretty Obvious Loophole
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/florida-flock-camera-loophole/)
+
+### Aston Martin Admits It’s An EV Delayer, Sticking With V8 And V12 Power
+
+- Model/program: Aston Martin Admits It’s An EV Delayer, Sticking With V8 And V12 Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/aston-martin-ev-plan-sticking-with-v8-v12/)
+
+### Self-Driving Tech Was Supposed To Be Safer, Experts Say It May Bring More Risks
+
+- Model/program: Self-Driving Tech Was Supposed To Be Safer, Experts Say It May Bring More Risks
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/self-driving-tech-may-bring-more-risks/)
+
+### California Lets You Return A Used Car In Three Days, But It Could Cost $750
+
+- Model/program: California Lets You Return A Used Car In Three Days, But It Could Cost $750
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/california-combating-auto-retail-scams-act/)
+
+### BYD Says ‘Hacker’ Tapped Into Shark 6 Wiring As Aussie Documentary Slammed As Hit Piece
+
+- Model/program: BYD Says ‘Hacker’ Tapped Into Shark 6 Wiring As Aussie Documentary Slammed As Hit Piece
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/byd-shark-6-hacker-australian-documentary/)
+
+### Russia’s EV Market Share Is Now Higher Than The U.S. Thanks To Fuel Shortages
+
+- Model/program: Russia’s EV Market Share Is Now Higher Than The U.S. Thanks To Fuel Shortages
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/russias-ev-market-share-is-now-higher-than-the-u-s-thanks-to-fuel-shortages/)
+
+### Skoda Introduces Its First Full Hybrid
+
+- Model/program: Skoda Introduces Its First Full Hybrid
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/skoda-octavia-hybrid/)
+
+### This Singer DLS Turbo Shows What You Can Buy With A Blank Check
+
+- Model/program: This Singer DLS Turbo Shows What You Can Buy With A Blank Check
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/singer-dls-turbo-what-you-can-buy-with-blank-check/)
 
 ### Nismo Opens Shop In Australia To Cater To Classic Skyline And GT-R Demands
 

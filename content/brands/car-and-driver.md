@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1288 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1301 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### In the Shadow of the S-Class: We Drive the Updated 2027 Mercedes-Benz GLE and GLS
+
+- Model/program: In the Shadow of the S-Class: We Drive the Updated 2027 Mercedes-Benz GLE and GLS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74036967/2027-mercedes-benz-gle-gls-drive/)
+
+### View Interior Photos of the 2027 Mercedes-Benz GLE/GLE Coupe/GLS
+
+- Model/program: View Interior Photos of the 2027 Mercedes-Benz GLE/GLE Coupe/GLS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74035650/2027-mercedes-benz-gle-gle-coupe-gls-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Mercedes-Benz GLE/GLE Coupe/GLS
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-Benz GLE/GLE Coupe/GLS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74035508/2027-mercedes-benz-gle-gle-coupe-gls-drive-exterior-gallery/)
 
 ### Porsche’s Future Includes More One-Offs and Possibly a New Supercar
 
@@ -59,6 +89,106 @@ Generated internal notes from 1288 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/photos/a74056533/2028-jaguar-type-01-revealed-interior-gallery/)
+
+### 2027 BMW iX4 Brings the Sloped-Roof SUV into the EV Era
+
+- Model/program: 2027 BMW iX4 Brings the Sloped-Roof SUV into the EV Era
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74056969/2027-bmw-ix4-revealed/)
+
+### View Interior Photos of the 2027 BMW iX4
+
+- Model/program: View Interior Photos of the 2027 BMW iX4
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74065309/2027-bmw-ix4-revealed-interior-gallery/)
+
+### 2027 BMW iX4
+
+- Model/program: 2027 BMW iX4
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/ix4-2027)
+
+### 2027 BMW iX3 M60 Joins the EV SUV Party Packing 603 HP
+
+- Model/program: 2027 BMW iX3 M60 Joins the EV SUV Party Packing 603 HP
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74069507/2027-bmw-ix3-m60-revealed/)
+
+### View Exterior Photos of the 2027 BMW iX4
+
+- Model/program: View Exterior Photos of the 2027 BMW iX4
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74065308/2027-bmw-ix4-revealed-exterior-gallery/)
+
+### Honda Reportedly Delays Production of the Next-Gen CR-V Hybrid
+
+- Model/program: Honda Reportedly Delays Production of the Next-Gen CR-V Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74069141/2028-honda-crv-production-delayed-report/)
+
+### Porsche Teases Mid-Engine Supercar Called ‘Mission S’
+
+- Model/program: Porsche Teases Mid-Engine Supercar Called ‘Mission S’
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74065319/porsche-mid-engine-supercar-teaser/)
+
+### The Best Odds: 1987–91 Sterling 825/827
+
+- Model/program: The Best Odds: 1987–91 Sterling 825/827
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a73961571/the-best-odds-1987-91-sterling-825-827/)
+
+### An Unparalleled Experience Made Better: We Drive the Ferrari Purosangue Handling Speciale
+
+- Model/program: An Unparalleled Experience Made Better: We Drive the Ferrari Purosangue Handling Speciale
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74048936/2027-ferrari-purosangue-handling-speciale-drive/)
+
+### View Photos of the 2027 Ferrari Purosangue HS
+
+- Model/program: View Photos of the 2027 Ferrari Purosangue HS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74040197/2027-ferrari-purosangue-handling-speciale-drive-gallery/)
 
 ### Audi Patent Imagines EVs That Throw Sparks and Emit Smells
 
