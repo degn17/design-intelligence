@@ -1,19 +1,19 @@
-# Model Card — Car and Driver 2027 BMW iX4
+# Model Card — Car and Driver 2027 Chevrolet Trax
 
-## 2027 BMW iX4
+## 2027 Chevrolet Trax
 
 - Brand: Car and Driver
-- Model: 2027 BMW iX4
+- Model: 2027 Chevrolet Trax
 - Category: new_car
-- Published: 2026-10-07
+- Published: 2026-10-08
 - Data status: Real · RSS
 - Collection method: rss
-- Source: [Car and Driver](https://www.caranddriver.com/bmw/ix4)
-- Image URL: https://hips.hearstapps.com/hmg-prod/images/c4a26c76-055c-4b97-985a-bd005506df42.jpg
+- Source: [Car and Driver](https://www.caranddriver.com/chevrolet/trax-2027)
+- Image URL: https://hips.hearstapps.com/hmg-prod/images/1f458b50-00c6-4aa3-b018-696968335969.jpg
 
 ### Summary
 
-What We Know So Far
+Review, Pricing, and Specs
 
 ### Design keywords
 
@@ -37,4 +37,4 @@ Review the linked public source before adding design interpretation or publishin
 
 ## Source attribution
 
-This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/bmw/ix4). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
+This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/chevrolet/trax-2027). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

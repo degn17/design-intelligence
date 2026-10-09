@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1889 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1907 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A Front-Engined, Twin-Turbo V8 Porsche 911 Sounds Like Sacrilege But Actually Works
+
+- Model/program: A Front-Engined, Twin-Turbo V8 Porsche 911 Sounds Like Sacrilege But Actually Works
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/a-front-engined-twin-turbo-v8-porsche-911-sounds-like-sacrilege-but-actually-works/)
+
+### Nine Sentenced Over Car Theft Ring Who Went To Street Takeovers
+
+- Model/program: Nine Sentenced Over Car Theft Ring Who Went To Street Takeovers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/car-theft-ring-street-takeovers/)
+
+### This $1M Honda NSX Restomod Will Knock You Out Of Your White Socks And Loafers
+
+- Model/program: This $1M Honda NSX Restomod Will Knock You Out Of Your White Socks And Loafers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/classic-honda-nsx-restomod-jas-tensei/)
 
 ### Believe It Or Not, This Stolen C7 Corvette Spent Years Underwater
 
@@ -39,6 +69,156 @@ Generated internal notes from 1889 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/10/rivian-r2-drive-power-recall/)
+
+### Saleen Taking S1 Deposits Again, Still No Delivery Date
+
+- Model/program: Saleen Taking S1 Deposits Again, Still No Delivery Date
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/saleen-s1-deposits-still-no-delivery-date/)
+
+### Tesla Will Now Let You Rip A Supercharger Apart To Escape An Emergency
+
+- Model/program: Tesla Will Now Let You Rip A Supercharger Apart To Escape An Emergency
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/tesla-supercharger-emergency-drive-away-feature/)
+
+### The BYD Seal 6 Is A Perfectly Adequate EV Sedan, But That’s About It | Review
+
+- Model/program: The BYD Seal 6 Is A Perfectly Adequate EV Sedan, But That’s About It | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/byd-seal-6-review-perfectly-adequate-ev-sedan/)
+
+### Honda Elevate Gains Rugged Face And Premium Features, Still Starts From $12,000
+
+- Model/program: Honda Elevate Gains Rugged Face And Premium Features, Still Starts From $12,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/honda-elevate-facelift/)
+
+### VW’s Largest Camper Drops Prices, Gains Solar Panels And Rugged Dune Special Edition
+
+- Model/program: VW’s Largest Camper Drops Prices, Gains Solar Panels And Rugged Dune Special Edition
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/vw-grand-california-dune/)
+
+### The Batmobile Hero Car From ‘Batman Returns’ Is About To Make Hypercars Look Affordable
+
+- Model/program: The Batmobile Hero Car From ‘Batman Returns’ Is About To Make Hypercars Look Affordable
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/batman-returns-batmobile-hero-car-auction/)
+
+### Honda Axes Plan For Civic Production In Indiana And Pushes Back Next-Gen CR-V
+
+- Model/program: Honda Axes Plan For Civic Production In Indiana And Pushes Back Next-Gen CR-V
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/honda-civic-cr-v-production-indiana/)
+
+### NHTSA Moves To Finally Modernize Headlight Standards
+
+- Model/program: NHTSA Moves To Finally Modernize Headlight Standards
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/nhtsa-headlight-standards/)
+
+### Porsche Celebrates 30 Years Of Manthey By Taking A 67% Stake, And Bringing Two New Models
+
+- Model/program: Porsche Celebrates 30 Years Of Manthey By Taking A 67% Stake, And Bringing Two New Models
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/porsche-increases-manthey-ownership-stake/)
+
+### Hardcore Ferrari 296 Challenge Stradale To Ditch Hybrid For Pure V6 Thrills
+
+- Model/program: Hardcore Ferrari 296 Challenge Stradale To Ditch Hybrid For Pure V6 Thrills
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/hardcore-ferrari-296-challenge-stradale-to-ditch-hybrid-for-pure-v6-thrills/)
+
+### BMW’s M5 Touring Police Car Will Have Criminals Shaking In Their Boots
+
+- Model/program: BMW’s M5 Touring Police Car Will Have Criminals Shaking In Their Boots
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/bmws-m5-touring-police-car/)
+
+### Thanks To Gunther Werks, This 993 Can Outsprint Supercars
+
+- Model/program: Thanks To Gunther Werks, This 993 Can Outsprint Supercars
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/gunther-werks-993-outsprints-supercars/)
+
+### Jeep Shows Mystery Box Ahead Of Paris, But Don’t Get Your Hopes Up
+
+- Model/program: Jeep Shows Mystery Box Ahead Of Paris, But Don’t Get Your Hopes Up
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/jeep-shows-mystery-box-ahead-of-paris-but-dont-get-your-hopes-up/)
+
+### Hyundai Is Working On Both An Ioniq 4 And An Ioniq 7
+
+- Model/program: Hyundai Is Working On Both An Ioniq 4 And An Ioniq 7
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/hyundai-ioniq-4-ioniq-7/)
+
+### New California Law Closes Montana Tax Loophole
+
+- Model/program: New California Law Closes Montana Tax Loophole
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/california-law-closes-montana-tax-loophole/)
 
 ### Suzuki’s Smallest EV Is A Kei Car With A Sub-$10k Price Tag
 

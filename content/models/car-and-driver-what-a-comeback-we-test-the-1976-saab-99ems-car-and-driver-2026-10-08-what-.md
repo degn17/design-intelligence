@@ -1,19 +1,19 @@
-# Model Card — Car and Driver 2027 BMW iX4
+# Model Card — Car and Driver What a Comeback: We Test the 1976 Saab 99EMS
 
-## 2027 BMW iX4
+## What a Comeback: We Test the 1976 Saab 99EMS
 
 - Brand: Car and Driver
-- Model: 2027 BMW iX4
+- Model: What a Comeback: We Test the 1976 Saab 99EMS
 - Category: new_car
-- Published: 2026-10-07
+- Published: 2026-10-08
 - Data status: Real · RSS
 - Collection method: rss
-- Source: [Car and Driver](https://www.caranddriver.com/bmw/ix4)
-- Image URL: https://hips.hearstapps.com/hmg-prod/images/c4a26c76-055c-4b97-985a-bd005506df42.jpg
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73957708/1976-saab-99ems-archive-test/)
+- Image URL: https://hips.hearstapps.com/hmg-prod/images/b83c5783-2490-4c00-8198-59b650c913c2.jpg
 
 ### Summary
 
-What We Know So Far
+Swedish rationality pays off.
 
 ### Design keywords
 
@@ -37,4 +37,4 @@ Review the linked public source before adding design interpretation or publishin
 
 ## Source attribution
 
-This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/bmw/ix4). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
+This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/reviews/a73957708/1976-saab-99ems-archive-test/). RSS-collected records contain feed metadata only and require editorial review before design claims are added.

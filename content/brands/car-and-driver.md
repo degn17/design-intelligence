@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1301 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1315 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -39,6 +39,136 @@ Generated internal notes from 1301 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/photos/a74035508/2027-mercedes-benz-gle-gle-coupe-gls-drive-exterior-gallery/)
+
+### Global Rally Returns to the U.S. in 2027 with a Late-August WRC Debut
+
+- Model/program: Global Rally Returns to the U.S. in 2027 with a Late-August WRC Debut
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74084206/global-rally-returns-to-the-us-in-2027-with-a-late-august-wrc-debut/)
+
+### Hybrid or Gas? We'd Choose Hybrid On Most of These Popular Models, but Not All
+
+- Model/program: Hybrid or Gas? We'd Choose Hybrid On Most of These Popular Models, but Not All
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74079397/hybrid-vs-gas-which-to-choose/)
+
+### Who Ya Gonna Call? Perhaps a ‘Ghostbusters’-Themed Rivian
+
+- Model/program: Who Ya Gonna Call? Perhaps a ‘Ghostbusters’-Themed Rivian
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74080871/rivian-ghostbusters-halloween-ecto-1-software-update-2026/)
+
+### 2027 Chevrolet Trax
+
+- Model/program: 2027 Chevrolet Trax
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/chevrolet/trax-2027)
+
+### View Interior Photos of the 2026 Cadillac Optiq V-Series
+
+- Model/program: View Interior Photos of the 2026 Cadillac Optiq V-Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74054641/2026-cadillac-optiq-v-series-test-interior-gallery/)
+
+### Tested: 2026 Cadillac Optiq-V Is an Understated Achiever
+
+- Model/program: Tested: 2026 Cadillac Optiq-V Is an Understated Achiever
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a69236637/2026-cadillac-optiq-v-drive/)
+
+### View Exterior Photos of the 2026 Cadillac Optiq-V
+
+- Model/program: View Exterior Photos of the 2026 Cadillac Optiq-V
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g64994346/2026-cadillac-optiq-v-revealed-gallery/)
+
+### McLaren 750S Is Heading to the Supercar Graveyard in 2027
+
+- Model/program: McLaren 750S Is Heading to the Supercar Graveyard in 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74079695/2027-mclaren-750s-ending-production/)
+
+### 2027 Honda Civic Adds New Sport-L Trim with Premium Features
+
+- Model/program: 2027 Honda Civic Adds New Sport-L Trim with Premium Features
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74080269/2027-honda-civic-new-sport-l-trim-details/)
+
+### 2027 Chevy Trax and Trailblazer Refreshes Bring Desirable Upgrades
+
+- Model/program: 2027 Chevy Trax and Trailblazer Refreshes Bring Desirable Upgrades
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74079222/2027-chevrolet-trax-trailblazer-updates-revealed/)
+
+### What a Comeback: We Test the 1976 Saab 99EMS
+
+- Model/program: What a Comeback: We Test the 1976 Saab 99EMS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73957708/1976-saab-99ems-archive-test/)
+
+### View Photos of the 1976 Saab 99EMS
+
+- Model/program: View Photos of the 1976 Saab 99EMS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74052949/1976-saab-99ems-archive-test-gallery/)
+
+### Tesla Model 3 and Y Finally Get V2H Bidirectional Charging
+
+- Model/program: Tesla Model 3 and Y Finally Get V2H Bidirectional Charging
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74078638/tesla-model-3-model-y-powershare-home-backup-v2h/)
 
 ### Porsche’s Future Includes More One-Offs and Possibly a New Supercar
 
@@ -189,6 +319,16 @@ Generated internal notes from 1301 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/photos/a74040197/2027-ferrari-purosangue-handling-speciale-drive-gallery/)
+
+### 2027 BMW iX4
+
+- Model/program: 2027 BMW iX4
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/ix4)
 
 ### Audi Patent Imagines EVs That Throw Sparks and Emit Smells
 
