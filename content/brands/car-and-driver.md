@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 1315 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1331 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Kia Telluride X-Pro SX Prestige AWD vs. Volkswagen Atlas SEL Premium R-Line 4Motion Comparison Test
+
+- Model/program: 2027 Kia Telluride X-Pro SX Prestige AWD vs. Volkswagen Atlas SEL Premium R-Line 4Motion Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a74056001/2027-kia-telluride-vs-volkswagen-atlas-comparison-test/)
+
+### Rivian Removes Some R2 Cooled-Seat Functionality over Excessive Noise
+
+- Model/program: Rivian Removes Some R2 Cooled-Seat Functionality over Excessive Noise
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74093089/rivian-r2-cooled-seat-functionality/)
+
+### 2027 Ford Bronco Sport
+
+- Model/program: 2027 Ford Bronco Sport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ford/bronco-sport-2027)
+
+### About Car and Driver
+
+- Model/program: About Car and Driver
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/about/a41711746/about-us-contact-information-masthead/)
+
+### Honda Announces New Details and the Name of Its Next Hybrid System
+
+- Model/program: Honda Announces New Details and the Name of Its Next Hybrid System
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74092472/honda-new-hybrid-system-name-details/)
+
+### 2027 Kia Sorento Hybrid
+
+- Model/program: 2027 Kia Sorento Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/kia/sorento-hybrid-2027)
+
+### 2027 Kia K5
+
+- Model/program: 2027 Kia K5
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/kia/k5-2027)
+
+### View Exterior Photos of the 2025 Kia Sorento Hybrid
+
+- Model/program: View Exterior Photos of the 2025 Kia Sorento Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74092333/2025-kia-sorento-hybrid-buyers-guide-exterior-gallery/)
+
+### View Interior Photos of the 2025 Kia Sorento Hybrid
+
+- Model/program: View Interior Photos of the 2025 Kia Sorento Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74092334/2025-kia-sorento-hybrid-buyers-guide-interior-gallery/)
+
+### China’s Geely to Start Selling Cars in Canada Next Year, Company Says
+
+- Model/program: China’s Geely to Start Selling Cars in Canada Next Year, Company Says
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74091301/geely-canada-car-sales-start-in-2027/)
+
+### Documentary 'Isky' Now Streaming: It Spotlights Ed Iskenderian and the Long, Romantic History of Hot Rodding
+
+- Model/program: Documentary 'Isky' Now Streaming: It Spotlights Ed Iskenderian and the Long, Romantic History of Hot Rodding
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a60884257/ed-iskenderian-documentary-isky/)
+
+### NHTSA Will Update Headlight Regs, Opening the Door for More Advanced Systems in the U.S.
+
+- Model/program: NHTSA Will Update Headlight Regs, Opening the Door for More Advanced Systems in the U.S.
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74083541/nhtsa-fmvss-108-headlight-regulation-overhaul/)
+
+### Manthey Racing Debuts Two Legendary Porsche Models, Limited to 15 Each
+
+- Model/program: Manthey Racing Debuts Two Legendary Porsche Models, Limited to 15 Each
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74071001/porsche-911-gt3-cup-718-cayman-gt4-rs-race-cars-manthey/)
+
+### View Exterior Photos of the 2028 Volkswagen ID. Tiguan
+
+- Model/program: View Exterior Photos of the 2028 Volkswagen ID. Tiguan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74083745/2028-volkswagen-id-tiguan-details-exterior-gallery/)
+
+### View Interior Photos of the 2028 Volkswagen ID. Tiguan
+
+- Model/program: View Interior Photos of the 2028 Volkswagen ID. Tiguan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74083747/2028-volkswagen-id-tiguan-details-interior-gallery/)
+
+### 2028 Volkswagen ID. Tiguan Replaces the ID.4 EV with Stronger Styling
+
+- Model/program: 2028 Volkswagen ID. Tiguan Replaces the ID.4 EV with Stronger Styling
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74084272/2028-volkswagen-id-tiguan-revealed/)
 
 ### In the Shadow of the S-Class: We Drive the Updated 2027 Mercedes-Benz GLE and GLS
 

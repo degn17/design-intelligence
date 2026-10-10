@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1907 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1925 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Callaway’s One-Off Turbo Mercedes 190E Is Going to Auction
+
+- Model/program: Callaway’s One-Off Turbo Mercedes 190E Is Going to Auction
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/callaway-one-off-mercedes-190e-turbo-auction/)
+
+### WRC Is Finally Coming Back To America In 2027
+
+- Model/program: WRC Is Finally Coming Back To America In 2027
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/wrc-coming-back-to-america-2027/)
+
+### Chery’s Plug-In Diesel Stockman Pickup Has 469 HP
+
+- Model/program: Chery’s Plug-In Diesel Stockman Pickup Has 469 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/chery-stockman-plug-in-diesel-pickup-has-469-hp/)
 
 ### A Front-Engined, Twin-Turbo V8 Porsche 911 Sounds Like Sacrilege But Actually Works
 
@@ -39,6 +69,156 @@ Generated internal notes from 1907 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/10/classic-honda-nsx-restomod-jas-tensei/)
+
+### Tesla’s Future Cars Could Literally Suck After New Patent Emerges
+
+- Model/program: Tesla’s Future Cars Could Literally Suck After New Patent Emerges
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/teslas-future-cars-could-literally-suck-after-new-patent-emerges/)
+
+### This Jet-Powered Harley Hit 60 MPH On Pure Thrust
+
+- Model/program: This Jet-Powered Harley Hit 60 MPH On Pure Thrust
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/this-jet-powered-harley-hit-60-mph-on-pure-thrust/)
+
+### Alfa Romeo’s Junior Has Some Appeal, But It’s Not The Smart Choice | Review
+
+- Model/program: Alfa Romeo’s Junior Has Some Appeal, But It’s Not The Smart Choice | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/alfa-romeo-junior-ibrida-review-some-appeal-but-not-the-smart-choice/)
+
+### Bring A Very Big Trailer For This Stretched Porsche 356 Auction
+
+- Model/program: Bring A Very Big Trailer For This Stretched Porsche 356 Auction
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/stretched-limo-porsche-356-auction-bring-a-trailer/)
+
+### This Bright Orange Ruf Might Sell For $8 Million
+
+- Model/program: This Bright Orange Ruf Might Sell For $8 Million
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/ruf-project-dragon-auction-usa/)
+
+### Honda Is Finally Getting A Ladder-Frame Pickup Thanks To Mitsubishi
+
+- Model/program: Honda Is Finally Getting A Ladder-Frame Pickup Thanks To Mitsubishi
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/honda-mitsubishi-triton/)
+
+### McLaren Confirms It’ll Kill Off The Fabulous 750S In 2027
+
+- Model/program: McLaren Confirms It’ll Kill Off The Fabulous 750S In 2027
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/mclaren-750s-production-ends-2027-confirmed/)
+
+### Alpine’s Hot Hatch Just Became More Stylish With A Simple Trick
+
+- Model/program: Alpine’s Hot Hatch Just Became More Stylish With A Simple Trick
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/alpine-a290-collection/)
+
+### Porsche Sold Five Times As Many 911s As Taycans This Year
+
+- Model/program: Porsche Sold Five Times As Many 911s As Taycans This Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/porsche-sold-five-times-as-many-911s-as-taycans-this-year/)
+
+### One Third Of The Car Brands At The 2026 Paris Auto Show Are Chinese
+
+- Model/program: One Third Of The Car Brands At The 2026 Paris Auto Show Are Chinese
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/one-third-of-the-car-brands-at-the-2026-paris-auto-show-are-chinese/)
+
+### Chevrolet Infuses 2027 Trax and Trailblazer With A.I. And New Standard Features
+
+- Model/program: Chevrolet Infuses 2027 Trax and Trailblazer With A.I. And New Standard Features
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/chevrolet-infuses-2027-trax-and-trailblazer-with-a-i-and-new-standard-features/)
+
+### Angelelli Automobili Tipo 829 Wants To Be Italy’s Next Great Supercar
+
+- Model/program: Angelelli Automobili Tipo 829 Wants To Be Italy’s Next Great Supercar
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/angelelli-automobili-tipo-829/)
+
+### Cops Checked 568 Trucks In One Night And Benched 78 Drivers
+
+- Model/program: Cops Checked 568 Trucks In One Night And Benched 78 Drivers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/cops-checked-568-trucks-in-one-night-and-benched-78-drivers/)
+
+### Mitsubishi’s Taiwanese EV Has More Grunt Than The Most Powerful Evo Ever
+
+- Model/program: Mitsubishi’s Taiwanese EV Has More Grunt Than The Most Powerful Evo Ever
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/mitsubishis-taiwanese-ev-has-more-grunt-than-the-most-powerful-evo-ever/)
+
+### Manthey Celebrates 30 Years Of Faster Porsches With Special 911 GT3 Cup And 718 Cayman GT4 RS
+
+- Model/program: Manthey Celebrates 30 Years Of Faster Porsches With Special 911 GT3 Cup And 718 Cayman GT4 RS
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/manthey-celebrates-30-years-special-edition-porsches/)
 
 ### Believe It Or Not, This Stolen C7 Corvette Spent Years Underwater
 
