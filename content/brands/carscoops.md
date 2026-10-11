@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1925 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1930 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -39,6 +39,56 @@ Generated internal notes from 1925 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2026/10/chery-stockman-plug-in-diesel-pickup-has-469-hp/)
+
+### The GAC Aion V Looks Odd But Is Incredible Value | Review
+
+- Model/program: The GAC Aion V Looks Odd But Is Incredible Value | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/gac-aion-v-review-odd-looks-incredible-value/)
+
+### Big Trucks And Vans Struggle To Avoid Crashes, Says IIHS
+
+- Model/program: Big Trucks And Vans Struggle To Avoid Crashes, Says IIHS
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/big-trucks-and-vans-struggle-to-avoid-crashes-iihs/)
+
+### French Police Bust A Man Driving His Porsche 911 At 194 MPH
+
+- Model/program: French Police Bust A Man Driving His Porsche 911 At 194 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/french-police-bust-a-man-driving-his-porsche-911-at-194-mph/)
+
+### Alfa Romeo Wants To Take On Tinder With The Junior Elettrica, But Can You Think Of A Better Way?
+
+- Model/program: Alfa Romeo Wants To Take On Tinder With The Junior Elettrica, But Can You Think Of A Better Way?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/alfa-romeo-junior-elettrica-dating-scene/)
+
+### This Mini Coupe Clone Is Actually A Suzuki Swift
+
+- Model/program: This Mini Coupe Clone Is Actually A Suzuki Swift
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/mini-suzuki-swift/)
 
 ### A Front-Engined, Twin-Turbo V8 Porsche 911 Sounds Like Sacrilege But Actually Works
 

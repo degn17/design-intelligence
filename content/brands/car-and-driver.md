@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 1331 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1335 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### No, This Porsche 356 on BaT Is Not 100 Percent Original
+
+- Model/program: No, This Porsche 356 on BaT Is Not 100 Percent Original
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74068592/1953-porsche-356-limousine-bring-a-trailer-auction/)
+
+### View Photos of the 1992 Mazda MX-3 GS
+
+- Model/program: View Photos of the 1992 Mazda MX-3 GS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74080800/1992-mazda-mx-3-gs-archive-drive-gallery/)
+
+### The Lexus LS from the ‘Street Fighter II’ Video Game Is Now a Real Car
+
+- Model/program: The Lexus LS from the ‘Street Fighter II’ Video Game Is Now a Real Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74093764/street-fighter-video-game-lexus-ls400-real-life-car/)
+
+### A Little Hell-Raiser: We Drive the 1992 Mazda MX-3 GS
+
+- Model/program: A Little Hell-Raiser: We Drive the 1992 Mazda MX-3 GS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73963609/1992-mazda-mx-3-gs-drive/)
 
 ### 2027 Kia Telluride X-Pro SX Prestige AWD vs. Volkswagen Atlas SEL Premium R-Line 4Motion Comparison Test
 
