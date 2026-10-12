@@ -2,13 +2,113 @@
 
 ## Current positioning
 
-Generated internal notes from 1930 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1940 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Opel Is Keeping The Estate Alive With Its STX Concept
+
+- Model/program: Opel Is Keeping The Estate Alive With Its STX Concept
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/opel-is-keeping-the-estate-alive-with-its-stx-concept/)
+
+### The Future Of DS Looks Very Bright Thanks To The F3VER Concept
+
+- Model/program: The Future Of DS Looks Very Bright Thanks To The F3VER Concept
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/the-future-of-ds-looks-very-bright-thanks-to-the-f3ver-concept/)
+
+### The Cuorerosso Proves Alfa Romeo Is Still A Master Of Design
+
+- Model/program: The Cuorerosso Proves Alfa Romeo Is Still A Master Of Design
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/the-cuorerosso-proves-alfa-romeo-is-still-a-master-of-design/)
+
+### The Range Rover Sport Offers Less Power But Plenty Of Fun | Review
+
+- Model/program: The Range Rover Sport Offers Less Power But Plenty Of Fun | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/2026-range-rover-sport-review-less-power-plenty-of-fun/)
+
+### Police Say Two Stolen Hyundais May Connect to Nearly Two Dozen Nashville Thefts
+
+- Model/program: Police Say Two Stolen Hyundais May Connect to Nearly Two Dozen Nashville Thefts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/stolen-hyundais-connect-nashville-car-thefts/)
+
+### The Peugeot E-T16 Concept Is An Electrified Group B Rally Homage
+
+- Model/program: The Peugeot E-T16 Concept Is An Electrified Group B Rally Homage
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/the-peugeot-e-t16-concept-is-an-electrified-group-b-rally-homage/)
+
+### Peugeot’s RCZ Vision Is A Slinky Electric Coupe That Only Takes 10 Minutes To Charge
+
+- Model/program: Peugeot’s RCZ Vision Is A Slinky Electric Coupe That Only Takes 10 Minutes To Charge
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/peugeots-rcz-vision-is-a-slinky-electric-coupe-that-only-takes-10-minutes-to-charge/)
+
+### Fiat Multiplay Is A Pickup, An SUV, And A Minivan
+
+- Model/program: Fiat Multiplay Is A Pickup, An SUV, And A Minivan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/fiat-multiplay-concept-pickup-suv-minivan/)
+
+### Citroen’s 2CV is Back, And It’s Still A Safe Space For Eggs
+
+- Model/program: Citroen’s 2CV is Back, And It’s Still A Safe Space For Eggs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/citroens-2cv-is-back-concept-vehicle/)
+
+### A New Ford Bronco Has Nothing On A 1969 Model Like This
+
+- Model/program: A New Ford Bronco Has Nothing On A 1969 Model Like This
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/ford-bronco-restomod-auction-mecum/)
 
 ### Callaway’s One-Off Turbo Mercedes 190E Is Going to Auction
 

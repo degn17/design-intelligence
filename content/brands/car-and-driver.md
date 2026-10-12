@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1335 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1337 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This 1985 Volkswagen GTI on BaT Has a Little Something Extra
+
+- Model/program: This 1985 Volkswagen GTI on BaT Has a Little Something Extra
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74068640/1985-callaway-turbocharged-vw-gti-bring-a-trailer-auction/)
+
+### Japanese Tuner Infuses the Suzuki Jimny with ‘90s Nostalgia
+
+- Model/program: Japanese Tuner Infuses the Suzuki Jimny with ‘90s Nostalgia
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74093650/suzuki-jimny-gmc-typhoon-japan-details/)
 
 ### No, This Porsche 356 on BaT Is Not 100 Percent Original
 
