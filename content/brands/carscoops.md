@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 1940 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1953 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Hyundai’s Bayon Has A Tough New Look And Hybrid Ambitions
+
+- Model/program: Hyundai’s Bayon Has A Tough New Look And Hybrid Ambitions
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/hyundai-bayon-tough-new-look-hybrid/)
+
+### Avatr Is Finally Launching In Europe, Starting With A Sexy Estate
+
+- Model/program: Avatr Is Finally Launching In Europe, Starting With A Sexy Estate
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/avatr-launch-europe/)
+
+### The Avatr 07 May Be The Best Case For Chinese Cars Yet | Review
+
+- Model/program: The Avatr 07 May Be The Best Case For Chinese Cars Yet | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/avatr-07-review-best-case-for-chinese-cars-yet/)
+
+### Jeep Could Go Back To Basics With A Modern Willys
+
+- Model/program: Jeep Could Go Back To Basics With A Modern Willys
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/jeep-willys-report/)
+
+### Tesla Drops ‘Full Self-Driving’ Name For ‘Assisted Driving’ In Europe
+
+- Model/program: Tesla Drops ‘Full Self-Driving’ Name For ‘Assisted Driving’ In Europe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/tesla-drops-full-self-driving-name-in-europe/)
+
+### Alfa Romeo Teased A Sexy Sedan, But It’s Actually Working On Something Else
+
+- Model/program: Alfa Romeo Teased A Sexy Sedan, But It’s Actually Working On Something Else
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/alfa-romeo-concept-teased-a-sexy-sedan-but-actually-hints-something-else/)
+
+### The Renault 4 Might Be The Best Retro EV Out There | Review
+
+- Model/program: The Renault 4 Might Be The Best Retro EV Out There | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/2026-renault-4-e-tech-review/)
+
+### BYD’s Atto 8 Charges In Less Time Than You’ll Spend Scrolling Netflix Tonight
+
+- Model/program: BYD’s Atto 8 Charges In Less Time Than You’ll Spend Scrolling Netflix Tonight
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/byd-atto-8-charges-in-less-time-spent-scrolling-netflix/)
+
+### The EU Is About To Limit How Many Chinese Hybrids Can Reach Its Shores
+
+- Model/program: The EU Is About To Limit How Many Chinese Hybrids Can Reach Its Shores
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/eu-limit-chinese-car-hybrids/)
+
+### Leapmotor’s Fast, Affordable B03 Lands In Europe, And VW And Renault Should Be Worried
+
+- Model/program: Leapmotor’s Fast, Affordable B03 Lands In Europe, And VW And Renault Should Be Worried
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/leapmotors-fast-affordable-b03-lands-in-europe-and-vw-and-renault-should-be-worried/)
+
+### New Smart #2 Is Here To Reclaim City Streets
+
+- Model/program: New Smart #2 Is Here To Reclaim City Streets
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/smart-2-debut/)
+
+### Citroën Already Brought Back The 2CV, Now Its Fourgonette Van Could Get the Same Treatment
+
+- Model/program: Citroën Already Brought Back The 2CV, Now Its Fourgonette Van Could Get the Same Treatment
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/citroen-already-brought-back-the-2cv-now-its-fourgonette-van-could-get-the-same-treatment/)
+
+### Alpine Looks To Its Past For Stunning A310 Vision Concept
+
+- Model/program: Alpine Looks To Its Past For Stunning A310 Vision Concept
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2026/10/alpine-looks-to-its-past-for-stunning-a310-vision-concept/)
 
 ### Opel Is Keeping The Estate Alive With Its STX Concept
 

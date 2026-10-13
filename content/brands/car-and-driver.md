@@ -2,13 +2,163 @@
 
 ## Current positioning
 
-Generated internal notes from 1337 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1352 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Alfa Romeo’s Hybrid V-6 Cuorerosso Concept Could Preview the New Giulia
+
+- Model/program: Alfa Romeo’s Hybrid V-6 Cuorerosso Concept Could Preview the New Giulia
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74108368/alfa-romeo-cuorerosso-concept-reveal-details/)
+
+### View Interior Photos of the 2027 Chevrolet Corvette Stingray
+
+- Model/program: View Interior Photos of the 2027 Chevrolet Corvette Stingray
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74067707/2027-chevrolet-corvette-stingray-test-interior-gallery/)
+
+### View Exterior Photos of the 2027 Chevrolet Corvette Stingray
+
+- Model/program: View Exterior Photos of the 2027 Chevrolet Corvette Stingray
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74067689/2027-chevrolet-corvette-stingray-test-exterior-gallery/)
+
+### Europe’s DTM Racing Is as Beautiful as It Is Violent
+
+- Model/program: Europe’s DTM Racing Is as Beautiful as It Is Violent
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74108536/europe-dtm-racing-season-finale-details/)
+
+### Smart #2 Is an Ultracompact City Car with Mercedes-Benz Style
+
+- Model/program: Smart #2 Is an Ultracompact City Car with Mercedes-Benz Style
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74110326/smart-2-ev-production-couture-edition-revealed/)
+
+### The 2027 Mini Countryman Untamed Edition Can Climb Like a Goat, But Its Software Stumbles
+
+- Model/program: The 2027 Mini Countryman Untamed Edition Can Climb Like a Goat, But Its Software Stumbles
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74091339/2027-mini-countryman-untamed-edition-drive/)
+
+### Alpine A310 Vision Concept Revealed with Pop-Down Headlights
+
+- Model/program: Alpine A310 Vision Concept Revealed with Pop-Down Headlights
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74109830/alpine-a310-vision-concept-revealed/)
+
+### 2027 Buick Encore GX
+
+- Model/program: 2027 Buick Encore GX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/buick/encore-gx-2027)
+
+### 2027 Chevrolet Trailblazer
+
+- Model/program: 2027 Chevrolet Trailblazer
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/chevrolet/trailblazer-2027)
+
+### 2027 Jeep Wrangler Switchback Leans In to the Custom Look
+
+- Model/program: 2027 Jeep Wrangler Switchback Leans In to the Custom Look
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74108889/2027-jeep-wrangler-switchback-revealed/)
+
+### Mattel Brick Shop Gets into the Vintage Nissan Game with the Original Skyline GT-R
+
+- Model/program: Mattel Brick Shop Gets into the Vintage Nissan Game with the Original Skyline GT-R
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74107600/mattel-brick-shop-original-nissan-skyline-gtr/)
+
+### The Citroën 2CV Is Back, and It’s Full of Adorable, Whimsical Details
+
+- Model/program: The Citroën 2CV Is Back, and It’s Full of Adorable, Whimsical Details
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74108677/citroen-2cv-concept-revealed/)
+
+### Once More, with Hybrid: 2026 Jeep Cherokee Overland Tested
+
+- Model/program: Once More, with Hybrid: 2026 Jeep Cherokee Overland Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73999900/2026-jeep-cherokee-overland-test/)
+
+### View Interior Photos of the 2026 Jeep Cherokee Overland
+
+- Model/program: View Interior Photos of the 2026 Jeep Cherokee Overland
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74067001/2026-jeep-cherokee-overland-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Jeep Cherokee Overland
+
+- Model/program: View Exterior Photos of the 2026 Jeep Cherokee Overland
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74055112/2026-jeep-cherokee-overland-test-exterior-gallery/)
 
 ### This 1985 Volkswagen GTI on BaT Has a Little Something Extra
 
