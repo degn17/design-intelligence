@@ -2,13 +2,163 @@
 
 ## Current positioning
 
-Generated internal notes from 1352 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1367 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 BMW M760 Brings the V-8 Back to the Brand’s Big Luxury Sedan
+
+- Model/program: 2027 BMW M760 Brings the V-8 Back to the Brand’s Big Luxury Sedan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74126337/2027-bmw-m760-xdrive-v8-revealed/)
+
+### GM Defense Is Making a Driverless Silverado-Based Military Vehicle
+
+- Model/program: GM Defense Is Making a Driverless Silverado-Based Military Vehicle
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74124718/gm-defense-autonomous-silverado-us-military/)
+
+### F1 Will Return to Africa in the Early 2030s with a Brand-New Racetrack
+
+- Model/program: F1 Will Return to Africa in the Early 2030s with a Brand-New Racetrack
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74124765/formula-1-african-grand-prix-returns/)
+
+### Acura’s New ‘Adventure-Ready’ SUV Could Resemble Honda’s TrailSports
+
+- Model/program: Acura’s New ‘Adventure-Ready’ SUV Could Resemble Honda’s TrailSports
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74123942/acura-confirms-new-off-road-suv-2028/)
+
+### The 2028 Ford Fathom Has a Pre-Order List for Its Pre-Order List
+
+- Model/program: The 2028 Ford Fathom Has a Pre-Order List for Its Pre-Order List
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74123201/2028-ford-fathom-ev-early-preorder-list/)
+
+### 2027 Volvo EX60 Tested: Luxury EV Data Center
+
+- Model/program: 2027 Volvo EX60 Tested: Luxury EV Data Center
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71317567/2027-volvo-ex60-drive/)
+
+### View Exterior Photos of the 2027 Volvo EX60
+
+- Model/program: View Exterior Photos of the 2027 Volvo EX60
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71296565/2027-volvo-ex60-drive-exterior-gallery/)
+
+### 2028 Dodge Charger to Gain Supercharged V-8, Documents Show
+
+- Model/program: 2028 Dodge Charger to Gain Supercharged V-8, Documents Show
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74120104/2028-dodge-charger-hemi-v8-report/)
+
+### Archive Road Test: 1977 Chrysler Cordoba Succeeds at the ‘Personal Luxury’ Game
+
+- Model/program: Archive Road Test: 1977 Chrysler Cordoba Succeeds at the ‘Personal Luxury’ Game
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74034824/1977-chrysler-cordoba-archive-test/)
+
+### View Photos of the 1977 Chrysler Cordoba
+
+- Model/program: View Photos of the 1977 Chrysler Cordoba
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74102449/1977-chrysler-cordoba-archive-test-gallery/)
+
+### 2027 Ford Bronco Democratizes the Raptor’s Twin-Turbo 3.0-Liter V-6
+
+- Model/program: 2027 Ford Bronco Democratizes the Raptor’s Twin-Turbo 3.0-Liter V-6
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74120983/2027-ford-bronco-updates-revealed/)
+
+### View Interior Photos of the 2027 Infiniti QX65 Autograph
+
+- Model/program: View Interior Photos of the 2027 Infiniti QX65 Autograph
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74081882/2027-infiniti-qx65-autograph-test-interior-gallery/)
+
+### View Exterior Photos of the 2027 Infiniti QX65 Autograph
+
+- Model/program: View Exterior Photos of the 2027 Infiniti QX65 Autograph
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74081805/2027-infiniti-qx65-autograph-test-exterior-gallery/)
+
+### Tested: 2027 Infiniti QX65 Has Daddy Issues
+
+- Model/program: Tested: 2027 Infiniti QX65 Has Daddy Issues
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74082944/2027-infiniti-qx65-autograph-test/)
+
+### Peugeot Revealed Two of the Coolest-Looking Concepts at the Paris Auto Show
+
+- Model/program: Peugeot Revealed Two of the Coolest-Looking Concepts at the Paris Auto Show
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74113853/peugeot-rcz-vision-et16-revealed/)
 
 ### Alfa Romeo’s Hybrid V-6 Cuorerosso Concept Could Preview the New Giulia
 

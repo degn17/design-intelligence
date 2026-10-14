@@ -2,13 +2,213 @@
 
 ## Current positioning
 
-Generated internal notes from 1953 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1973 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Gas Pump Skimmers Are Still A Problem, Here's How You Can Spot Them
+
+- Model/program: Gas Pump Skimmers Are Still A Problem, Here's How You Can Spot Them
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286080/gas-pump-skimmer-fraud-how-to-spot/)
+
+### The Ridges In Your Pickup Truck Bed Have Multiple Purposes
+
+- Model/program: The Ridges In Your Pickup Truck Bed Have Multiple Purposes
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286069/why-pickup-truck-bed-as-ridges-multi-purpose/)
+
+### It Looks Like A Retro GMC, But It's Actually A Suzuki Jimny
+
+- Model/program: It Looks Like A Retro GMC, But It's Actually A Suzuki Jimny
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285899/suzuki-jimny-retro-gmc/)
+
+### Want To Drive America's Fastest Speed Limit? Here's Where To Go
+
+- Model/program: Want To Drive America's Fastest Speed Limit? Here's Where To Go
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285893/fastest-speed-limit-in-america/)
+
+### The 4-Gallon Minimum Fuel Rule Explained: Which Fuel Does It Apply To?
+
+- Model/program: The 4-Gallon Minimum Fuel Rule Explained: Which Fuel Does It Apply To?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285882/4-gallon-minimum-fuel-rule-explained/)
+
+### Why Automakers Put Two Batteries In Diesel Trucks
+
+- Model/program: Why Automakers Put Two Batteries In Diesel Trucks
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285878/why-automakers-two-batteries-diesel-trucks/)
+
+### Ford's Coolest Street Truck Gains Gold Rims And Racing Stripes, But You Still Can't Have It
+
+- Model/program: Ford's Coolest Street Truck Gains Gold Rims And Racing Stripes, But You Still Can't Have It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285871/ford-street-truck-uk-ms-rt/)
+
+### China's Biggest Automaker Is In More Than Just The Car Business
+
+- Model/program: China's Biggest Automaker Is In More Than Just The Car Business
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285830/china-biggest-carmaker-byd-business-operations/)
+
+### If You've Seen A Speed Limit Sign With A Red Border, Here's What It Means
+
+- Model/program: If You've Seen A Speed Limit Sign With A Red Border, Here's What It Means
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285795/speed-limit-sign-red-border-meaning-texas/)
+
+### Burt Reynolds Was Promised Free Trans Ams For Life Until Pontiac Changed Its Mind
+
+- Model/program: Burt Reynolds Was Promised Free Trans Ams For Life Until Pontiac Changed Its Mind
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285790/burt-reynolds-pontiac-trans-am-deal/)
+
+### How Higher Compression Can Give An Engine More Power While Saving Fuel
+
+- Model/program: How Higher Compression Can Give An Engine More Power While Saving Fuel
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285788/increasing-engine-compression-ratio-improve-horsepower-fuel-efficiency/)
+
+### The Mustang John Wick Drove Wasn't Actually A Boss 429
+
+- Model/program: The Mustang John Wick Drove Wasn't Actually A Boss 429
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285786/john-wick-mustang-boss-429-details/)
+
+### No Other Engine Has Powered More Cars Than This V8
+
+- Model/program: No Other Engine Has Powered More Cars Than This V8
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285776/engine-that-powered-the-most-cars/)
+
+### Can You Really Run A Turbo And Supercharger On One Engine?
+
+- Model/program: Can You Really Run A Turbo And Supercharger On One Engine?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285676/can-you-turbo-and-supercharge-an-engine/)
+
+### 4-Link Suspension Vs. Leaf Springs: What You Gain By Upgrading
+
+- Model/program: 4-Link Suspension Vs. Leaf Springs: What You Gain By Upgrading
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285667/4-link-vs-leaf-spring-upgrade-benefits/)
+
+### Why 1950s Cars Had Wraparound Windshields (And Why They Vanished)
+
+- Model/program: Why 1950s Cars Had Wraparound Windshields (And Why They Vanished)
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285663/why-1950s-cars-had-wraparound-windsheilds/)
+
+### Is A Dual Exhaust Worth It? Here's How It Affects Performance
+
+- Model/program: Is A Dual Exhaust Worth It? Here's How It Affects Performance
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285645/dual-exhaust-hp-benefits/)
+
+### Mercedes EQE Flopped Hard, Its E-Class Electric Replacement Is Determined Not To
+
+- Model/program: Mercedes EQE Flopped Hard, Its E-Class Electric Replacement Is Determined Not To
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285580/2027-mercedes-benz-e-class-spy-shots-nurburgring/)
+
+### Mazda's Future EV Is Hiding Under A Chopped CX-90 Body
+
+- Model/program: Mazda's Future EV Is Hiding Under A Chopped CX-90 Body
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285571/mazda-future-ev-spied-cx-90-body/)
+
+### Haltech Vs Link ECUs: Here's How They Compare
+
+- Model/program: Haltech Vs Link ECUs: Here's How They Compare
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285270/haltech-vs-link-standalone-ecu-comparison/)
 
 ### Hyundai’s Bayon Has A Tough New Look And Hybrid Ambitions
 
