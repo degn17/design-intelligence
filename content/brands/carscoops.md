@@ -2,13 +2,213 @@
 
 ## Current positioning
 
-Generated internal notes from 1973 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1993 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Xiaomi's Improved SU7 Ultra Could Make The Taycan Seem Slow
+
+- Model/program: Xiaomi's Improved SU7 Ultra Could Make The Taycan Seem Slow
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287193/xiaomi-su7-nurburging-scoop/)
+
+### The Wrangler Switchback Is Jeep's Answer To The Ford Bronco RTR
+
+- Model/program: The Wrangler Switchback Is Jeep's Answer To The Ford Bronco RTR
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287067/2027-jeep-wrangler-switchback-twelve-4-twelve/)
+
+### GM Once Tried To Scrap This Cadillac 'Dream Car' That Just Sold For $494,500
+
+- Model/program: GM Once Tried To Scrap This Cadillac 'Dream Car' That Just Sold For $494,500
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287013/1956-cadillac-eldorado-brougham-town-car-auction/)
+
+### The Bugatti Tourbillon Isn't A Track Car, But It Sure Performs Like One
+
+- Model/program: The Bugatti Tourbillon Isn't A Track Car, But It Sure Performs Like One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286999/bugatti-toubillion-track-testing/)
+
+### As VW Stuggles In Europe, It Just Landed A Knockout Blow In China
+
+- Model/program: As VW Stuggles In Europe, It Just Landed A Knockout Blow In China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286945/vw-id-era-8x-debuts-china/)
+
+### The Legendary Moke Has Just Been Turned Into An EV With 44 HP
+
+- Model/program: The Legendary Moke Has Just Been Turned Into An EV With 44 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286927/moke-mk2-ev/)
+
+### Formula 1 Is Returning To Africa In The Last Place You'd Expect
+
+- Model/program: Formula 1 Is Returning To Africa In The Last Place You'd Expect
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286851/formula-1-return-africa/)
+
+### You Can Now Own A Mini Version Of Nissan's Iconic Skyline 2000 GT-R
+
+- Model/program: You Can Now Own A Mini Version Of Nissan's Iconic Skyline 2000 GT-R
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286773/matte-brick-shop-nissan-skyline-2000-gt-r/)
+
+### Chevy Is Bringing Back The Colorado Desert Boss
+
+- Model/program: Chevy Is Bringing Back The Colorado Desert Boss
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286709/chevrolet-colorado-desert-boss-returns/)
+
+### Dodge Is Bringing Back The Charger Hellcat With A V8 Next Year
+
+- Model/program: Dodge Is Bringing Back The Charger Hellcat With A V8 Next Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286635/return-of-dodge-charger-hellcat/)
+
+### Dubai Police Adds Hybrid Lamborghini To Supercar Fleet
+
+- Model/program: Dubai Police Adds Hybrid Lamborghini To Supercar Fleet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286613/dubai-police-lamborghini-temerario/)
+
+### US Gas Prices Just Set A Record For Most Days Above $4/Gal
+
+- Model/program: US Gas Prices Just Set A Record For Most Days Above $4/Gal
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286593/2026-sets-gas-price-record/)
+
+### GM Plans To Test Unmanned Silverado 3500s For The Army Next Year
+
+- Model/program: GM Plans To Test Unmanned Silverado 3500s For The Army Next Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286516/gm-defense-silverado-3500-unmanned-testing/)
+
+### Malaysia Banned The Sale Of One Of Its Most Popular Chinese Cars After The Wheels Fell Off
+
+- Model/program: Malaysia Banned The Sale Of One Of Its Most Popular Chinese Cars After The Wheels Fell Off
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286491/malaysia-banned-popular-chinese-car-wheels-fall-off/)
+
+### This Lamborghini Miura Tribute Has A Working Headlight, But It's Not A Car
+
+- Model/program: This Lamborghini Miura Tribute Has A Working Headlight, But It's Not A Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286454/montegrappa-lamborghini-miura-tribute-pen/)
+
+### Porsche's New Macan Prototype Looks Ready For A Jurassic Park Cameo
+
+- Model/program: Porsche's New Macan Prototype Looks Ready For A Jurassic Park Cameo
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286372/porsche-macan-prototype-spied/)
+
+### Here's What The 'SRT' Badge On Dodges And Rams Actually Stands For
+
+- Model/program: Here's What The 'SRT' Badge On Dodges And Rams Actually Stands For
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286347/what-srt-stands-for-dodge-ram-badge/)
+
+### Acura Is Working On An 'Adventure-Ready' SUV And A New Eight-Seater
+
+- Model/program: Acura Is Working On An 'Adventure-Ready' SUV And A New Eight-Seater
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286342/acura-adventure-ready-suv/)
+
+### Mercedes' G-Wagon Name Explained: Here's What The 'G' Means
+
+- Model/program: Mercedes' G-Wagon Name Explained: Here's What The 'G' Means
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2285863/what-g-means-mercedes-g-wagon/)
+
+### Audi's Hottest Electric Wagon Spied Testing
+
+- Model/program: Audi's Hottest Electric Wagon Spied Testing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286282/audi-sport-ev-scoop/)
 
 ### Gas Pump Skimmers Are Still A Problem, Here's How You Can Spot Them
 

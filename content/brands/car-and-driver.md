@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1367 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1382 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,156 @@ Generated internal notes from 1367 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a74126337/2027-bmw-m760-xdrive-v8-revealed/)
+
+### VW Boss Says U.S. Will Get a New ID.Buzz That’ll Cost Less Too
+
+- Model/program: VW Boss Says U.S. Will Get a New ID.Buzz That’ll Cost Less Too
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74137138/id-buzz-second-generation-cheaper-price/)
+
+### Maserati CEO Teases a New EV SUV and a Wagon-Like Crossover
+
+- Model/program: Maserati CEO Teases a New EV SUV and a Wagon-Like Crossover
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74137603/maserati-future-plans-revealed-december-2026/)
+
+### Tested: 2027 Mercedes-Benz GLC400 Electric Shouts Through a Closed Mouth
+
+- Model/program: Tested: 2027 Mercedes-Benz GLC400 Electric Shouts Through a Closed Mouth
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a70790815/2027-mercedes-benz-glc400-ev-drive/)
+
+### View Interior Photos of the 2027 Mercedes-Benz GLC EV
+
+- Model/program: View Interior Photos of the 2027 Mercedes-Benz GLC EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g70780985/2027-mercedes-benz-glc-ev-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Mercedes-Benz GLC EV
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-Benz GLC EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g70780970/2027-mercedes-benz-glc-ev-drive-exterior-gallery/)
+
+### 2028 Alfa Romeo Stelvio
+
+- Model/program: 2028 Alfa Romeo Stelvio
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/alfa-romeo/stelvio-2028)
+
+### New Volvo EX60s Could Be a Rarity in the U.S. Until Late 2027
+
+- Model/program: New Volvo EX60s Could Be a Rarity in the U.S. Until Late 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74134828/2027-volvo-ex60-production-issues-report/)
+
+### View Photos of the 2026 Alfa Romeo Giulia
+
+- Model/program: View Photos of the 2026 Alfa Romeo Giulia
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74135322/2026-alfa-romeo-giulia-buyers-guide-gallery/)
+
+### View Photos of the 2026 Alfa Romeo Stelvio Veloce
+
+- Model/program: View Photos of the 2026 Alfa Romeo Stelvio Veloce
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74135324/2026-alfa-romeo-stelvio-veloce-buyers-guide-gallery/)
+
+### A Finnish Farm Tractor Set a Speed Record at the Red Bull Ring
+
+- Model/program: A Finnish Farm Tractor Set a Speed Record at the Red Bull Ring
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74132890/farm-tractor-red-bull-ring-speed-record/)
+
+### The Famous DeLorean Brand Is Getting into Electric Flying-Car Racing
+
+- Model/program: The Famous DeLorean Brand Is Getting into Electric Flying-Car Racing
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74133768/delorean-airspeeder-electric-flying-car-racing-series/)
+
+### View Interior Photos of the 2026 Hyundai Elantra N TCR
+
+- Model/program: View Interior Photos of the 2026 Hyundai Elantra N TCR
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74123250/2026-hyundai-elantra-n-tcr-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Hyundai Elantra N TCR
+
+- Model/program: View Exterior Photos of the 2026 Hyundai Elantra N TCR
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74123225/2026-hyundai-elantra-n-tcr-test-exterior-gallery/)
+
+### Tested: 2026 Hyundai Elantra N TCR Channels the Porsche 911 GT3
+
+- Model/program: Tested: 2026 Hyundai Elantra N TCR Channels the Porsche 911 GT3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74091528/2026-hyundai-elantra-n-tcr-test/)
+
+### Rivian R2’s All-Terrain Tires Have a Strange On-Road Performance Benefit
+
+- Model/program: Rivian R2’s All-Terrain Tires Have a Strange On-Road Performance Benefit
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74107053/2027-rivian-r2-all-terrain-tire-test/)
 
 ### GM Defense Is Making a Driverless Silverado-Based Military Vehicle
 
