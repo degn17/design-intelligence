@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1993 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2013 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Tesla Roadster Going 0-60 In 0.81 Seconds Is The Most Boring Thing It Can Do
+
+- Model/program: Tesla Roadster Going 0-60 In 0.81 Seconds Is The Most Boring Thing It Can Do
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288442/2028-tesla-roadster-reveal/)
 
 ### Xiaomi's Improved SU7 Ultra Could Make The Taycan Seem Slow
 
@@ -19,6 +29,196 @@ Generated internal notes from 1993 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2287193/xiaomi-su7-nurburging-scoop/)
+
+### Genesis Owners Are Being Told To Park Outside, And Not For The Reason You Think
+
+- Model/program: Genesis Owners Are Being Told To Park Outside, And Not For The Reason You Think
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288364/genesis-recall-seat-fire-risk/)
+
+### You Can Now Buy A New Ford Bronco With A 380 HP Turbo V6
+
+- Model/program: You Can Now Buy A New Ford Bronco With A 380 HP Turbo V6
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288334/2027-ford-bronco-expands-raptor-engine-options/)
+
+### Renault Is Tired Of Partner Brands Cloning Its Designs
+
+- Model/program: Renault Is Tired Of Partner Brands Cloning Its Designs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288312/renault-tired-partner-brands-cloning-designs/)
+
+### Porsche's New Dedicated Supercar Is The Mission S
+
+- Model/program: Porsche's New Dedicated Supercar Is The Mission S
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288293/porsche-mission-s-official-supercar/)
+
+### Thought You Had A Bad Day? At Least You Didn't Crash A Bugatti Like This Guy
+
+- Model/program: Thought You Had A Bad Day? At Least You Didn't Crash A Bugatti Like This Guy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288280/crashed-bugatii-chiron-miami/)
+
+### Flock's CEO Says It Has Never Dropped A Police Customer For Misusing Its Cameras - But It Totally Would
+
+- Model/program: Flock's CEO Says It Has Never Dropped A Police Customer For Misusing Its Cameras - But It Totally Would
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288269/flock-ceo-says-would-end-contracts-for-misuse/)
+
+### DeLorean Is Entering Flying-Car Racing, With A Giant Asterisk
+
+- Model/program: DeLorean Is Entering Flying-Car Racing, With A Giant Asterisk
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288233/delorean-flying-car-racing-airspeeder/)
+
+### Toyota's Dirt Cheap Truck Transformed Into A Retro Land Cruiser
+
+- Model/program: Toyota's Dirt Cheap Truck Transformed Into A Retro Land Cruiser
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288210/toyota-dirt-cheap-retro-land-cruiser/)
+
+### VW Group Designer Admits AI Might Steal Their Jobs
+
+- Model/program: VW Group Designer Admits AI Might Steal Their Jobs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288196/vw-group-designer-admits-ai-might-steal-jobs/)
+
+### A Maybach Designed By An NBA Legend Is The Ultimate Alternative To A Rolls-Royce
+
+- Model/program: A Maybach Designed By An NBA Legend Is The Ultimate Alternative To A Rolls-Royce
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288112/lebron-james-maybach-nba-legend/)
+
+### Breitling Now Offers A Bespoke Watch To Go With Your Aston Martin Valhalla
+
+- Model/program: Breitling Now Offers A Bespoke Watch To Go With Your Aston Martin Valhalla
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288106/breitling-bespoke-watch-aston-martin-valhalla/)
+
+### At 73, Bernie Plourd Is Bringing His Own Top Fuel Dragster To Vegas
+
+- Model/program: At 73, Bernie Plourd Is Bringing His Own Top Fuel Dragster To Vegas
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287921/bernie-plourd-top-fuel-dragster-73/)
+
+### Stellantis Hatchback Gains Base Version With Hubcaps, Still Costs Over $35k
+
+- Model/program: Stellantis Hatchback Gains Base Version With Hubcaps, Still Costs Over $35k
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287803/new-opel-astra-start-base-model/)
+
+### GM Says Cadillac's F1 Car May Carry More Than 10 Miles Of Wiring
+
+- Model/program: GM Says Cadillac's F1 Car May Carry More Than 10 Miles Of Wiring
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287761/gm-cadillac-f1-10-miles-wiring/)
+
+### Police Seize Over 70 Vehicles After Ditching Warning Requirement
+
+- Model/program: Police Seize Over 70 Vehicles After Ditching Warning Requirement
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287739/police-seize-70-vehicles-ditching-warning-requirement/)
+
+### A 19-Mile Corvette ZR1X Just Sold For $102,000 Over Sticker
+
+- Model/program: A 19-Mile Corvette ZR1X Just Sold For $102,000 Over Sticker
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287728/2027-chevrolet-corvette-zr1x-bat-auction/)
+
+### Renault E-Space Concept Has A Wild Dashboard Headed For Production
+
+- Model/program: Renault E-Space Concept Has A Wild Dashboard Headed For Production
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287713/renault-e-space-concept-wild-dashboard/)
+
+### This 1 Of 100 Mercedes CLK DTM AMG Was An F1 Champ's Personal Hoonmobile
+
+- Model/program: This 1 Of 100 Mercedes CLK DTM AMG Was An F1 Champ's Personal Hoonmobile
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287697/jenson-button-mercedes-clk-dtm-amg/)
+
+### Illinois Police Say They Recovered 424 Stolen Or Hijacked Vehicles In Three Months
+
+- Model/program: Illinois Police Say They Recovered 424 Stolen Or Hijacked Vehicles In Three Months
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287526/illinois-state-police-recover-424-stolen-vehicles-three-months/)
 
 ### The Wrangler Switchback Is Jeep's Answer To The Ford Bronco RTR
 

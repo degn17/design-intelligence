@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 1382 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1396 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Interior Photos of the New Tesla Roadster
+
+- Model/program: View Interior Photos of the New Tesla Roadster
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74152694/tesla-roadster-revealed-interior-gallery/)
+
+### View Exterior Photos of the New Tesla Roadster
+
+- Model/program: View Exterior Photos of the New Tesla Roadster
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74152579/tesla-roadster-revealed-exterior-gallery/)
+
+### Revealed! New Tesla Roadster Takes Flight with SpaceX Thrusters
+
+- Model/program: Revealed! New Tesla Roadster Takes Flight with SpaceX Thrusters
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74145531/tesla-roadster-revealed/)
+
+### Larte Design Gives the Cadillac Escalade-V the Loud Treatment
+
+- Model/program: Larte Design Gives the Cadillac Escalade-V the Loud Treatment
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74149934/larte-design-cadillac-escalade-v-body-kit/)
+
+### Porsche Is Officially Developing a Mid-Engine Supercar Above the 911
+
+- Model/program: Porsche Is Officially Developing a Mid-Engine Supercar Above the 911
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74145375/porsche-mission-s-concept-revealed/)
+
+### 2029 Porsche Mission S
+
+- Model/program: 2029 Porsche Mission S
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/porsche/mission-s-2029)
+
+### View Photos of the Porsche Mission S Concept
+
+- Model/program: View Photos of the Porsche Mission S Concept
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74147892/porsche-mission-s-concept-revealed-gallery/)
+
+### Honda Issues Redo Recall for Accords and CR-Vs Prone to Flying Bottle Caps
+
+- Model/program: Honda Issues Redo Recall for Accords and CR-Vs Prone to Flying Bottle Caps
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74148608/honda-accord-crv-hybrids-flying-bottle-cap-recall/)
+
+### Tested: Honda Prelude’s Summer Tires Help It Corner Harder and Stop Shorter
+
+- Model/program: Tested: Honda Prelude’s Summer Tires Help It Corner Harder and Stop Shorter
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a73983073/2026-honda-prelude-summer-vs-all-season-tire-testing/)
+
+### View Photos of the 1992 Lamborghini Diablo
+
+- Model/program: View Photos of the 1992 Lamborghini Diablo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74102622/1992-lamborghini-diablo-archive-test-gallery/)
+
+### Top-Speed Testing the 1992 Lamborghini Diablo
+
+- Model/program: Top-Speed Testing the 1992 Lamborghini Diablo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74050350/1992-lamborghini-diablo-archive-test/)
+
+### View Interior Photos of the 2026 Volkswagen Golf GTI
+
+- Model/program: View Interior Photos of the 2026 Volkswagen Golf GTI
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74121149/2026-volkswagen-golf-gti-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Volkswagen Golf GTI
+
+- Model/program: View Exterior Photos of the 2026 Volkswagen Golf GTI
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74121124/2026-volkswagen-golf-gti-test-exterior-gallery/)
+
+### 2026 Subaru WRX vs. Volkswagen Golf GTI Comparison Test
+
+- Model/program: 2026 Subaru WRX vs. Volkswagen Golf GTI Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a74120088/2026-subaru-wrx-vs-volkswagen-golf-gti-comparison-test/)
 
 ### 2027 BMW M760 Brings the V-8 Back to the Brand’s Big Luxury Sedan
 

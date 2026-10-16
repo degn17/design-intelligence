@@ -2,13 +2,183 @@
 
 ## Current positioning
 
-Generated internal notes from 141 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 158 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Software-Defined Vehicles in the Supplier Ecosystem
+
+- Model/program: Software-Defined Vehicles in the Supplier Ecosystem
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-software-defined-vehicles-supplier-ecosystem-43516.html)
+
+### Sim vs real racing: what transfers from screen to track
+
+- Model/program: Sim vs real racing: what transfers from screen to track
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-sim-vs-real-racing-joshua-rogers-nick-tandy-43511.html)
+
+### ‘Porsche Vibe Seoul’ opens new chapter in brand experience
+
+- Model/program: ‘Porsche Vibe Seoul’ opens new chapter in brand experience
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-vibe-seoul-korea-43505.html)
+
+### Luftgekühlt celebrates air-cooled Porsche heritage in Atlanta
+
+- Model/program: Luftgekühlt celebrates air-cooled Porsche heritage in Atlanta
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-luftgekuehlt-12-atlanta-43493.html)
+
+### Porsche factory driver Preining wins the DTM drivers' championship
+
+- Model/program: Porsche factory driver Preining wins the DTM drivers' championship
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/10/porsche-factory-driver-thomas-preining-wins-the-dtm-drivers-championship.html)
+
+### Masters crowned Porsche Sixt Carrera Cup Deutschland champion
+
+- Model/program: Masters crowned Porsche Sixt Carrera Cup Deutschland champion
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/10/keagan-masters-crowned-porsche-sixt-carrera-cup-deutschland-champion.html)
+
+### Chester Kieffer takes victory, championship to be decided in Sunday's final race
+
+- Model/program: Chester Kieffer takes victory, championship to be decided in Sunday's final race
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/10/chester-kieffer-takes-victory-championship-to-be-decided-in-sundays-final-race.html)
+
+### Humanoid Robots in MedTech
+
+- Model/program: Humanoid Robots in MedTech
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-humanoid-robots-in-medtech-43465.html)
+
+### Porsche delivers 178,532 cars worldwide in nine months of 2026
+
+- Model/program: Porsche delivers 178,532 cars worldwide in nine months of 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-third-quarter-2026-43480.html)
+
+### Porsche AG increases its stake in Manthey Racing GmbH
+
+- Model/program: Porsche AG increases its stake in Manthey Racing GmbH
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-home-of-sports-cars-manthey-racing-43448.html)
+
+### Porsche presents new strategy through to 2035
+
+- Model/program: Porsche presents new strategy through to 2035
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-capital-markets-day-strategy-sportwagenschmiede-35-43419.html)
+
+### Porsche congratulates Valentin Schäffer on his 95th birthday
+
+- Model/program: Porsche congratulates Valentin Schäffer on his 95th birthday
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-congratulates-valentin-schaeffer-43423.html)
+
+### Title decision at the Hockenheimring – 2027 race calendar confirmed
+
+- Model/program: Title decision at the Hockenheimring – 2027 race calendar confirmed
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-sixt-carrera-cup-deutschland-preview-hockenheimring-43415.html)
+
+### Between fairy chimneys and rocky trails: Cayenne Electric in Cappadocia
+
+- Model/program: Between fairy chimneys and rocky trails: Cayenne Electric in Cappadocia
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-cayenne-electric-cappadocia-43376.html)
+
+### Porsche triumphs in the “Petit Le Mans” at Road Atlanta
+
+- Model/program: Porsche triumphs in the “Petit Le Mans” at Road Atlanta
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/petit-le-mans--road-atlanta-43403.html)
+
+### Tickets on-sale now for Icons of Porsche festival in Dubai this November
+
+- Model/program: Tickets on-sale now for Icons of Porsche festival in Dubai this November
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-icons-dubai-2026-43390.html)
+
+### Hand-finished: how the GT3 Bergsport is brought to life in Zuffenhausen
+
+- Model/program: Hand-finished: how the GT3 Bergsport is brought to life in Zuffenhausen
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-gt3-bergsport-production-zuffenhausen-43337.html)
 
 ### Uncovering the story of the 1952 Porsche 356 SL
 
