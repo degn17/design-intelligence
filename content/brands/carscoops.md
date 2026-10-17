@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 2013 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2025 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,126 @@ Generated internal notes from 2013 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2288442/2028-tesla-roadster-reveal/)
+
+### Renault's Wild 8 Gordini Concept May Hit The Production Line
+
+- Model/program: Renault's Wild 8 Gordini Concept May Hit The Production Line
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2289339/renault-8-gordini-concept-production-version-may-happen/)
+
+### Tesla Made A Lot Of Bold Claims About The New Roadster, But Do You Believe Any Of Them?
+
+- Model/program: Tesla Made A Lot Of Bold Claims About The New Roadster, But Do You Believe Any Of Them?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2289194/tesla-claims-roadster-questions/)
+
+### The Jeep Renegade Is Returning To Europe, But You May Have To Wait Until 2030
+
+- Model/program: The Jeep Renegade Is Returning To Europe, But You May Have To Wait Until 2030
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2289116/jeep-renegrade-returning-2030/)
+
+### Doug DeMuro Is Selling His Well-Used Ford GT With No Reserve
+
+- Model/program: Doug DeMuro Is Selling His Well-Used Ford GT With No Reserve
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2289026/doug-demuro-selling-ford-gt/)
+
+### 106-Mile Ferrari F50 Expected To Top $20M At Auction
+
+- Model/program: 106-Mile Ferrari F50 Expected To Top $20M At Auction
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288954/106-mile-1997-ferrari-f50-auction/)
+
+### Six Cadillac EVs Destroyed In A Massive 18-Hour Dealership Blaze
+
+- Model/program: Six Cadillac EVs Destroyed In A Massive 18-Hour Dealership Blaze
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288892/cadillac-evs-destroyed-dealership-blaze/)
+
+### MapQuest App Adds Support For Flock Cameras
+
+- Model/program: MapQuest App Adds Support For Flock Cameras
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288756/mapquest-flock-support/)
+
+### This BMW i3 Just Did 754 Miles On One Charge, But You Can't Have It
+
+- Model/program: This BMW i3 Just Did 754 Miles On One Charge, But You Can't Have It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288704/bmw-i3-754-mile-ev-range-china/)
+
+### VW Knows What's Wrong With The ID Buzz And Plans To Fix It
+
+- Model/program: VW Knows What's Wrong With The ID Buzz And Plans To Fix It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288633/next-gen-vw-id-buzz-changes/)
+
+### Corvette's Chief Engineer Isn't Rushing Back To The 'Ring To Answer Ford
+
+- Model/program: Corvette's Chief Engineer Isn't Rushing Back To The 'Ring To Answer Ford
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288609/zr1x-mustang-gtd-nurburgring-records/)
+
+### This Special Ineos Grenadier Is All About Celebrating The Ocean
+
+- Model/program: This Special Ineos Grenadier Is All About Celebrating The Ocean
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288584/ineos-grenadier-helmsman-special-edition/)
+
+### This BMW M Sedan Was So Secret Even Your Dealer Didn't Know About It
+
+- Model/program: This BMW M Sedan Was So Secret Even Your Dealer Didn't Know About It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288564/rare-bmw-533i-auction/)
 
 ### Xiaomi's Improved SU7 Ultra Could Make The Taycan Seem Slow
 

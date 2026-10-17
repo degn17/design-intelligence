@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1396 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1409 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Explained: Here’s How the Tesla Roadster Flies, Flips, and Sucks
+
+- Model/program: Explained: Here’s How the Tesla Roadster Flies, Flips, and Sucks
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74165059/tesla-roadster-thrusters-fan-system-explained/)
 
 ### View Interior Photos of the New Tesla Roadster
 
@@ -39,6 +49,126 @@ Generated internal notes from 1396 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a74145531/tesla-roadster-revealed/)
+
+### Porsche CEO Says the Mission S Platform Is Compatible with a Manual
+
+- Model/program: Porsche CEO Says the Mission S Platform Is Compatible with a Manual
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74163104/porsche-mission-s-manual-transmission-compatible/)
+
+### Gift Guide: The Absolute Best Gifts for Car Lovers
+
+- Model/program: Gift Guide: The Absolute Best Gifts for Car Lovers
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g41300371/best-gifts-for-car-lovers-enthusiasts/)
+
+### View Interior Photos of the 2026 Ford F-150 STX Lobo
+
+- Model/program: View Interior Photos of the 2026 Ford F-150 STX Lobo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74102731/2026-ford-f-150-stx-lobo-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Ford F-150 STX Lobo
+
+- Model/program: View Exterior Photos of the 2026 Ford F-150 STX Lobo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74102719/2026-ford-f-150-stx-lobo-test-exterior-gallery/)
+
+### Tested: The 2026 Ford F-150 STX Lobo Phones It In
+
+- Model/program: Tested: The 2026 Ford F-150 STX Lobo Phones It In
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74132962/2026-ford-f-150-stx-lobo-test/)
+
+### This Time, Tesla’s Electrifying Roadster Feels Like the Real Deal
+
+- Model/program: This Time, Tesla’s Electrifying Roadster Feels Like the Real Deal
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74159909/new-tesla-roadster-production-expectations/)
+
+### Hyundai Recalls 95,000 Cars, Tells Owners to Park Outside amid Fire Risk
+
+- Model/program: Hyundai Recalls 95,000 Cars, Tells Owners to Park Outside amid Fire Risk
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74158165/hyundai-genesis-sedan-fire-risk-recall/)
+
+### Tesla Roadster Design: Bold Departure from Before or Catfish of the Decade?
+
+- Model/program: Tesla Roadster Design: Bold Departure from Before or Catfish of the Decade?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74158531/2029-tesla-roadster-design-changes/)
+
+### Factory Performance is Just the Starting Line for the 550-HP Charger Scat Pack
+
+- Model/program: Factory Performance is Just the Starting Line for the 550-HP Charger Scat Pack
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/sponsored/a74083478/factory-performance-is-just-the-starting-line-for-the-550-hp-charger-scat-pack/)
+
+### Subaru’s New Hollow-Camshaft Patent Describes a Better Way to Lock Down Vibration
+
+- Model/program: Subaru’s New Hollow-Camshaft Patent Describes a Better Way to Lock Down Vibration
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74158213/subaru-patent-details/)
+
+### 2028 Chrysler Airflow Is a Brand-Saving SUV Worth Waiting For
+
+- Model/program: 2028 Chrysler Airflow Is a Brand-Saving SUV Worth Waiting For
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74158452/2028-chrysler-airflow-future-cars/)
+
+### Tested: Best Car Scratch Removers
+
+- Model/program: Tested: Best Car Scratch Removers
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a41032488/best-car-scratch-removers-tested/)
 
 ### Larte Design Gives the Cadillac Escalade-V the Loud Treatment
 
