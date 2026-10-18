@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1409 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1416 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,76 @@ Generated internal notes from 1409 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a74165059/tesla-roadster-thrusters-fan-system-explained/)
+
+### 2028 Mercedes-AMG GT63 SUV Is an 1153-HP Electric Powerhouse
+
+- Model/program: 2028 Mercedes-AMG GT63 SUV Is an 1153-HP Electric Powerhouse
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74163550/2028-mercedes-amg-gt-suv-revealed/)
+
+### 2028 Mercedes-AMG GT SUV
+
+- Model/program: 2028 Mercedes-AMG GT SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-amg/gt-suv)
+
+### View Interior Photos of the 2028 Mercedes-AMG GT SUV
+
+- Model/program: View Interior Photos of the 2028 Mercedes-AMG GT SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74160864/2028-mercedes-amg-gt-suv-revealed-interior-gallery/)
+
+### View Exterior Photos of the 2028 Mercedes-AMG GT SUV
+
+- Model/program: View Exterior Photos of the 2028 Mercedes-AMG GT SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74160859/2028-mercedes-amg-gt-suv-revealed-exterior-gallery/)
+
+### Amazingly Preserved 37,000-Mile ’76 Chevy Pickup Has Had Only One Owner
+
+- Model/program: Amazingly Preserved 37,000-Mile ’76 Chevy Pickup Has Had Only One Owner
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74149071/1976-chevy-k10-pickup-bring-a-trailer-auction/)
+
+### Tested: 1995 Mitsubishi Montero SR Is One for Gadget Freaks
+
+- Model/program: Tested: 1995 Mitsubishi Montero SR Is One for Gadget Freaks
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74109917/1995-mitsubishi-montero-sr-archive-test/)
+
+### Tobias Sühlmann, Porsche’s New Design Chief, Likes to Work Quickly
+
+- Model/program: Tobias Sühlmann, Porsche’s New Design Chief, Likes to Work Quickly
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74163152/tobias-suhlmann-porsche-design-chief-mission-s-interview/)
 
 ### View Interior Photos of the New Tesla Roadster
 

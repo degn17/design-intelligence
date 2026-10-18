@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 2025 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2029 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The Toyota RAV4 Vs. Its Competitors: What Do You Get For Your Money?
+
+- Model/program: The Toyota RAV4 Vs. Its Competitors: What Do You Get For Your Money?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288084/toyota-rav4-vs-competitors-what-get-for-money/)
+
+### When You Might Need An Engine Overhaul Vs. An Engine Rebuild (And What's Involved)
+
+- Model/program: When You Might Need An Engine Overhaul Vs. An Engine Rebuild (And What's Involved)
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287992/engine-overhaul-vs-rebuild-whats-involved/)
+
+### The Reason New Tires Have Colored Stripes On The Tread
+
+- Model/program: The Reason New Tires Have Colored Stripes On The Tread
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2287878/new-tire-colored-stripes-meaning/)
+
+### Bentley May Be Owned By Volkswagen, But Its Cars Aren't Built In Germany
+
+- Model/program: Bentley May Be Owned By Volkswagen, But Its Cars Aren't Built In Germany
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2286830/bentley-owned-by-volkswagen-cars-not-built-germany-but-crewe-england/)
 
 ### Tesla Roadster Going 0-60 In 0.81 Seconds Is The Most Boring Thing It Can Do
 
