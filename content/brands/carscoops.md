@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 2029 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2033 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Modern Cars Are Ditching The Dipstick: Here's Why
+
+- Model/program: Modern Cars Are Ditching The Dipstick: Here's Why
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288933/why-car-makers-are-removing-dipsticks/)
+
+### Why Is Pontiac's Muscle Car Called The GTO? Here's What It Means
+
+- Model/program: Why Is Pontiac's Muscle Car Called The GTO? Here's What It Means
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288389/pontiac-gto-name-meaning-explained/)
+
+### You Can Run Ford's EcoBoost Engines On Regular, But There's A Benefit To Premium
+
+- Model/program: You Can Run Ford's EcoBoost Engines On Regular, But There's A Benefit To Premium
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288298/ford-ecoboost-turbo-engines-regular-vs-premium/)
+
+### The Toyota Sequoia Vs. The Competition: Which SUV Has The Best Towing Capacity?
+
+- Model/program: The Toyota Sequoia Vs. The Competition: Which SUV Has The Best Towing Capacity?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2288239/toyota-sequoia-vs-competition-towing-capacity-suv/)
 
 ### The Toyota RAV4 Vs. Its Competitors: What Do You Get For Your Money?
 

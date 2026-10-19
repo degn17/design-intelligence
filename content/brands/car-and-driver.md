@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 1416 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1420 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Wild Dune Buggy Was the Follow-Up to the Meyers Manx
+
+- Model/program: This Wild Dune Buggy Was the Follow-Up to the Meyers Manx
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74149042/karma-coachworks-manx-sr2-dune-buggy-bring-a-trailer-auction/)
+
+### View Photos of the 2027 Polaris RZR Pro R Boost
+
+- Model/program: View Photos of the 2027 Polaris RZR Pro R Boost
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74049993/2026-polaris-rzr-pro-r-boost-drive-gallery/)
+
+### Driven: The 2027 Polaris RZR Pro R Boost Puts the Hurt on Dirt
+
+- Model/program: Driven: The 2027 Polaris RZR Pro R Boost Puts the Hurt on Dirt
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74109201/2027-polaris-rzr-pro-r-boost-drive/)
+
+### L.A.’s Newest Ride-Hailing Service Consists of 500 VinFast EVs
+
+- Model/program: L.A.’s Newest Ride-Hailing Service Consists of 500 VinFast EVs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74162971/green-sm-los-angeles-ride-hailing-vinfast-vf8-ev/)
 
 ### Explained: Here’s How the Tesla Roadster Flies, Flips, and Sucks
 
