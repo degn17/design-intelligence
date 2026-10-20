@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 2033 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2044 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Nissan Pathfinder Celebrates Its 1980s Roots, But The Next One Will Be Far More Retro
+
+- Model/program: Nissan Pathfinder Celebrates Its 1980s Roots, But The Next One Will Be Far More Retro
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291243/2027-nissan-pathfinder-speical-edition/)
+
+### After Five Years, The Range Rover Is Getting An Update, But You Won't Notice The Differences
+
+- Model/program: After Five Years, The Range Rover Is Getting An Update, But You Won't Notice The Differences
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291237/2027-range-rover-spied-nurburgring/)
+
+### Celebrate 30 Years Of Gran Turismo With New Cars, Limited-Edition Controller
+
+- Model/program: Celebrate 30 Years Of Gran Turismo With New Cars, Limited-Edition Controller
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291176/gran-turismo-30th-anniversary-controller-update/)
+
+### Police Found A Semitruck Held Together With Ratchet Straps—And A Toddler Without A Seat Belt
+
+- Model/program: Police Found A Semitruck Held Together With Ratchet Straps—And A Toddler Without A Seat Belt
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290613/police-stop-unsafe-semitruck-toddler-unbuckled/)
+
+### The Zenos E10 Has Just Been Revived After A Decade In The Grave
+
+- Model/program: The Zenos E10 Has Just Been Revived After A Decade In The Grave
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290486/zenos-e10-returns/)
+
+### There Will Be An Electric Corvette, But It Doesn't Make Sense Yet
+
+- Model/program: There Will Be An Electric Corvette, But It Doesn't Make Sense Yet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290359/fully-electric-corvette-status/)
+
+### Child Crashes Mercedes-Benz VLE Show Vehicle At Paris Motor Show
+
+- Model/program: Child Crashes Mercedes-Benz VLE Show Vehicle At Paris Motor Show
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290275/kids-crash-mercedes-vle-show-car-paris/)
+
+### 2027 Jeep Cherokee Finally Gets Serious Off-Road Gear
+
+- Model/program: 2027 Jeep Cherokee Finally Gets Serious Off-Road Gear
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290204/2027-jeep-cherokee-trailhawk-debut/)
+
+### Hyundai Elantra N Monochrome Is For Drivers Who Hate Attention
+
+- Model/program: Hyundai Elantra N Monochrome Is For Drivers Who Hate Attention
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290146/hyundai-elantra-n-monochrome/)
+
+### Ford Sliced A Mustang Into A Ute And Kept It In The Shadows
+
+- Model/program: Ford Sliced A Mustang Into A Ute And Kept It In The Shadows
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290084/hidden-ford-mustang-ute/)
+
+### Mercedes-AMG's GT SUV Is More Than Just A 1,153 HP Beast
+
+- Model/program: Mercedes-AMG's GT SUV Is More Than Just A 1,153 HP Beast
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2289877/mercedes-amg-gt-suv/)
 
 ### Modern Cars Are Ditching The Dipstick: Here's Why
 

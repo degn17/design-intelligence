@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 1420 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1431 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Watch the Newest ‘GTA VI’ Trailer a Month Before the Game’s Release
+
+- Model/program: Watch the Newest ‘GTA VI’ Trailer a Month Before the Game’s Release
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74181412/watch-gta-6-launch-trailer-one-month-before-release/)
+
+### 2027 Ford Ranger Appears to Be Adding a Twin-Turbo 3.0-Liter V-6
+
+- Model/program: 2027 Ford Ranger Appears to Be Adding a Twin-Turbo 3.0-Liter V-6
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74184201/2027-ford-ranger-new-twin-turbo-3-liter-v-6/)
+
+### 2027 Kia Sorento PHEV Now Costs $5600 More to Start
+
+- Model/program: 2027 Kia Sorento PHEV Now Costs $5600 More to Start
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74183660/2027-kia-sorento-phev-price/)
+
+### The 25 Bestselling Cars, Trucks, and SUVs of 2026
+
+- Model/program: The 25 Bestselling Cars, Trucks, and SUVs of 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71006285/bestselling-cars-2026/)
+
+### Hyundai Elantra N Monochrome Looks Sleek but Isn’t for America
+
+- Model/program: Hyundai Elantra N Monochrome Looks Sleek but Isn’t for America
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74182986/hyundai-elantra-n-monochrome-details/)
+
+### What Makes a Used Car a Good Value?
+
+- Model/program: What Makes a Used Car a Good Value?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a74179065/used-car-what-makes-a-good-value/)
+
+### Subaru Reveals First Details of New EV Platform Coming in 2029
+
+- Model/program: Subaru Reveals First Details of New EV Platform Coming in 2029
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74181224/subaru-first-details-new-ev-platform-2029/)
+
+### Tested: 2026 Cadillac Optiq RWD Goes Solo
+
+- Model/program: Tested: 2026 Cadillac Optiq RWD Goes Solo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74107966/2026-cadillac-optiq-single-motor-test/)
+
+### View Interior Photos of the 2026 Cadillac Optiq RWD
+
+- Model/program: View Interior Photos of the 2026 Cadillac Optiq RWD
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74147329/2026-cadillac-optiq-rwd-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Cadillac Optiq RWD
+
+- Model/program: View Exterior Photos of the 2026 Cadillac Optiq RWD
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74147319/2026-cadillac-optiq-rwd-test-exterior-gallery/)
+
+### 2027 Nissan Pathfinder Toasts to 40 Years with Special Edition Trim
+
+- Model/program: 2027 Nissan Pathfinder Toasts to 40 Years with Special Edition Trim
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74163676/2027-nissan-pathfinder-special-edition-40-year-anniversary-details/)
 
 ### This Wild Dune Buggy Was the Follow-Up to the Meyers Manx
 
