@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 2044 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2058 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### We Drive China's First-Ever Super Car, And Boy Do We Have Thoughts | Review: YangWang U9
+
+- Model/program: We Drive China's First-Ever Super Car, And Boy Do We Have Thoughts | Review: YangWang U9
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291010/yangwang-u9-supercar-review/)
 
 ### Nissan Pathfinder Celebrates Its 1980s Roots, But The Next One Will Be Far More Retro
 
@@ -19,6 +29,136 @@ Generated internal notes from 2044 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2291243/2027-nissan-pathfinder-speical-edition/)
+
+### Get Ready For 'GTA VI' With Latest Trailer, Game-Inspired Controller
+
+- Model/program: Get Ready For 'GTA VI' With Latest Trailer, Game-Inspired Controller
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2292366/grand-theft-auto-6-trailer-special-edition-controller/)
+
+### Fiat Might Actually Build Its Wild Crossover Minivan Pickup
+
+- Model/program: Fiat Might Actually Build Its Wild Crossover Minivan Pickup
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2292290/fiat-might-build-multiplay-concept-crossover-minivan-pickup/)
+
+### BMW's New Armored 7 Series Is Built For Handguns, Not Grenades
+
+- Model/program: BMW's New Armored 7 Series Is Built For Handguns, Not Grenades
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2292219/bmw-concept-7-protection-armored-car/)
+
+### The Ultra-Rare Lamborghini Reventon Roadster Is A Jet Fighter On Wheels
+
+- Model/program: The Ultra-Rare Lamborghini Reventon Roadster Is A Jet Fighter On Wheels
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2292007/2010-lamborghini-reventon-roadster-auction/)
+
+### BMW iX7 Spied Testing Three Rows Of Electric Luxury As Hotter X7 M60 Tracks Close Behind
+
+- Model/program: BMW iX7 Spied Testing Three Rows Of Electric Luxury As Hotter X7 M60 Tracks Close Behind
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291932/bmw-ix7-x7-m60-spy-shots/)
+
+### The New Lexus LFA Could Have Fake Shifts, But It Won't Match The Old V10
+
+- Model/program: The New Lexus LFA Could Have Fake Shifts, But It Won't Match The Old V10
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291834/new-lexus-lfa-fake-shifter/)
+
+### The Only Surviving Honda 0 Series EV Is Coming, But There's A Catch
+
+- Model/program: The Only Surviving Honda 0 Series EV Is Coming, But There's A Catch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291782/honda-0-series-ev-testing-asia/)
+
+### Staging 31 Big Rig Crashes Sends Man To Prison
+
+- Model/program: Staging 31 Big Rig Crashes Sends Man To Prison
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291700/staged-big-rig-collision-fraud/)
+
+### Clarkson-Grown Flax Was Used To Build This Custom Jaguar
+
+- Model/program: Clarkson-Grown Flax Was Used To Build This Custom Jaguar
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291647/clarkson-jaguar-flax-type/)
+
+### This New C8 Corvette Is Rarer Than A ZR1X, But You Can't Buy It In America
+
+- Model/program: This New C8 Corvette Is Rarer Than A ZR1X, But You Can't Buy It In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291639/chevrolet-corvette-v8-tourer-japan/)
+
+### Kia's R&D Boss Wants To Pick Up Where Nissan's GT-R Left Off
+
+- Model/program: Kia's R&D Boss Wants To Pick Up Where Nissan's GT-R Left Off
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291558/kia-boss-wants-nissan-gt-r-halo-car/)
+
+### Nerds Rejoice: 'BeamNG.drive' Launches On PS5
+
+- Model/program: Nerds Rejoice: 'BeamNG.drive' Launches On PS5
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291537/beam-ng-drive-playstation5/)
+
+### Bentley's 657 HP Supersports Just Lost Its Head
+
+- Model/program: Bentley's 657 HP Supersports Just Lost Its Head
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2291473/bentley-continental-supersports-convertibled-spied/)
 
 ### After Five Years, The Range Rover Is Getting An Update, But You Won't Notice The Differences
 

@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 1431 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1447 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Refurbished One-Off Bugatti Veyron Is a Mirror on Wheels
+
+- Model/program: This Refurbished One-Off Bugatti Veyron Is a Mirror on Wheels
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74196968/bugatti-veyron-grand-sport-vitesse-polished-aluminum-refurbished/)
+
+### Acura’s Future Includes More Models in Popular Segments
+
+- Model/program: Acura’s Future Includes More Models in Popular Segments
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74192566/acura-targeting-sales-larger-lineup/)
+
+### The Plug-In Hybrid Lexus TX550h+ Has Been Discontinued for 2027
+
+- Model/program: The Plug-In Hybrid Lexus TX550h+ Has Been Discontinued for 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74196402/lexus-tx550h-plug-in-hybrid-discontinued-2027/)
+
+### 2027 Lexus RX Hybrid
+
+- Model/program: 2027 Lexus RX Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/rx-hybrid-2027)
+
+### View Exterior Photos of the 2027 Lexus RX350
+
+- Model/program: View Exterior Photos of the 2027 Lexus RX350
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74195633/2027-lexus-rx350-buyers-guide-exterior-gallery/)
+
+### View Interior Photos of the 2027 Lexus RX350
+
+- Model/program: View Interior Photos of the 2027 Lexus RX350
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74195634/2027-lexus-rx350-buyers-guide-interior-gallery/)
+
+### GM Is Moving On from Two EV and Hydrogen Fuel Cell-Focused Plants
+
+- Model/program: GM Is Moving On from Two EV and Hydrogen Fuel Cell-Focused Plants
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74195327/gm-closing-repurposing-ev-hydrogen-fuel-cell-plants/)
+
+### How Many Miles Are the Right Amount on a Used Car?
+
+- Model/program: How Many Miles Are the Right Amount on a Used Car?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a74183347/used-car-how-many-miles/)
+
+### Volkswagen Will Remotely Limit Some ID.4s to 80 Percent Charge
+
+- Model/program: Volkswagen Will Remotely Limit Some ID.4s to 80 Percent Charge
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74194610/volkswagen-remotely-limiting-charging-id4-recall/)
+
+### View Photos of the 1979 Toyota Corona LE Liftback
+
+- Model/program: View Photos of the 1979 Toyota Corona LE Liftback
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74192865/1979-toyota-corona-le-liftback-archive-test-gallery/)
+
+### Archive Road Test: 1979 Toyota Corona LE Liftback
+
+- Model/program: Archive Road Test: 1979 Toyota Corona LE Liftback
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74148544/1979-toyota-corona-le-liftback-archive-test/)
+
+### These Are the 10 Bestselling EVs of 2026
+
+- Model/program: These Are the 10 Bestselling EVs of 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a71029465/bestselling-evs-2026/)
+
+### 2027 Mercedes-Benz GLC-Class EV
+
+- Model/program: 2027 Mercedes-Benz GLC-Class EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-benz/glc-class-ev)
+
+### View Interior Photos of the 2027 Lexus NX
+
+- Model/program: View Interior Photos of the 2027 Lexus NX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74167213/2027-lexus-nx-drive-interior-gallery/)
+
+### Follow Your Nose: We Drive the 2027 Lexus NX
+
+- Model/program: Follow Your Nose: We Drive the 2027 Lexus NX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74163845/2027-lexus-nx-drive/)
+
+### View Exterior Photos of the 2027 Lexus NX
+
+- Model/program: View Exterior Photos of the 2027 Lexus NX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74167209/2027-lexus-nx-drive-exterior-gallery/)
 
 ### Watch the Newest ‘GTA VI’ Trailer a Month Before the Game’s Release
 
