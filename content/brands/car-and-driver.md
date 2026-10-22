@@ -2,13 +2,193 @@
 
 ## Current positioning
 
-Generated internal notes from 1447 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1465 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Photos of the 2027 Mercedes-AMG GLS63
+
+- Model/program: View Photos of the 2027 Mercedes-AMG GLS63
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74182251/2027-mercedes-amg-gls63-drive-gallery/)
+
+### View Photos of the 2027 Mercedes-AMG GLE63 S
+
+- Model/program: View Photos of the 2027 Mercedes-AMG GLE63 S
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74181727/2027-mercedes-amg-gle63-s-drive-gallery/)
+
+### View Photos of the 2027 Mercedes-AMG GLE53
+
+- Model/program: View Photos of the 2027 Mercedes-AMG GLE53
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74179379/2027-mercedes-amg-gle53-drive-gallery/)
+
+### 2027 Mercedes-AMG GLE and GLS Pack a Bigger, More Refined Punch
+
+- Model/program: 2027 Mercedes-AMG GLE and GLS Pack a Bigger, More Refined Punch
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74177839/2027-mercedes-amg-gle-gls-drive/)
+
+### Ferrari Announces Luce Pricing, and It’s Less Than Initially Expected
+
+- Model/program: Ferrari Announces Luce Pricing, and It’s Less Than Initially Expected
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74208561/2027-ferrari-luce-pricing/)
+
+### 2027 Infiniti QX65
+
+- Model/program: 2027 Infiniti QX65
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/infiniti/qx65-2027)
+
+### Honda Is Building an Induction Charging Highway in Japan
+
+- Model/program: Honda Is Building an Induction Charging Highway in Japan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74207899/honda-building-induction-charging-highway-japan/)
+
+### Ford Bronco Gains Stylish ORV Package for Improved Off-Roading
+
+- Model/program: Ford Bronco Gains Stylish ORV Package for Improved Off-Roading
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74207750/ford-bronco-orv-package-details/)
+
+### 2027 Ineos Grenadier Station Wagon
+
+- Model/program: 2027 Ineos Grenadier Station Wagon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ineos/grenadier)
+
+### GM Tech Day: Autonomous Driving, More Helpful OnStar, Faster Product Development
+
+- Model/program: GM Tech Day: Autonomous Driving, More Helpful OnStar, Faster Product Development
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74195933/gm-tech-day-2026/)
+
+### Ineos Grenadier Helmsman Edition Adds a Lifestyle Twist
+
+- Model/program: Ineos Grenadier Helmsman Edition Adds a Lifestyle Twist
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74206170/ineos-grenadier-helmsman-edition-revealed/)
+
+### An Italian Coachbuilder Wants to Build This Alfa Romeo Roadster
+
+- Model/program: An Italian Coachbuilder Wants to Build This Alfa Romeo Roadster
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74205374/castagna-milano-alfa-romeo-giulia-convertible-design/)
+
+### View Interior Photos of the 2027 Honda Passport TrailSport
+
+- Model/program: View Interior Photos of the 2027 Honda Passport TrailSport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74183809/2027-honda-passport-trailsport-test-interior-gallery/)
+
+### Tested: 2027 Honda Passport TrailSport Is Legit Off-Road
+
+- Model/program: Tested: 2027 Honda Passport TrailSport Is Legit Off-Road
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74180938/2027-honda-passport-trailsport-test/)
+
+### View Exterior Photos of the 2027 Honda Passport TrailSport
+
+- Model/program: View Exterior Photos of the 2027 Honda Passport TrailSport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74183770/2027-honda-passport-trailsport-test-exterior-gallery/)
+
+### We Drive Ferrari’s New V-12 Supercar with a Manual Transmission, but There’s a Twist
+
+- Model/program: We Drive Ferrari’s New V-12 Supercar with a Manual Transmission, but There’s a Twist
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74177745/2027-ferrari-12cilindri-manuale-drive/)
+
+### View Interior Photos of the 2027 Ferrari 12Cilindri Manuale
+
+- Model/program: View Interior Photos of the 2027 Ferrari 12Cilindri Manuale
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74166664/2027-ferrari-12cilindri-manuale-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Ferrari 12Cilindri Manuale
+
+- Model/program: View Exterior Photos of the 2027 Ferrari 12Cilindri Manuale
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74166612/2027-ferrari-12cilindri-manuale-drive-exterior-gallery/)
 
 ### This Refurbished One-Off Bugatti Veyron Is a Mirror on Wheels
 

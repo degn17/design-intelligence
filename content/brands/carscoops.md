@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 2058 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2070 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Hyundai's Cute Porter Truck Is Morphing Into An EV
+
+- Model/program: Hyundai's Cute Porter Truck Is Morphing Into An EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293766/hyundai-porter-spy-shots-europe/)
 
 ### We Drive China's First-Ever Super Car, And Boy Do We Have Thoughts | Review: YangWang U9
 
@@ -19,6 +29,116 @@ Generated internal notes from 2058 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2291010/yangwang-u9-supercar-review/)
+
+### Mercedes Crashes Two CLAs To Demonstrate EV Safety
+
+- Model/program: Mercedes Crashes Two CLAs To Demonstrate EV Safety
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293616/mercedes-benz-cla-crash-test/)
+
+### Ford Is Recalling 102,159 Trucks Because Their Analog Gauges Can Lie
+
+- Model/program: Ford Is Recalling 102,159 Trucks Because Their Analog Gauges Can Lie
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293512/ford-super-duty-recall-faulty-gauges/)
+
+### Porsche Will Teach You To Slide A 911 GT3 For $1,500
+
+- Model/program: Porsche Will Teach You To Slide A 911 GT3 For $1,500
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293451/porsche-track-experience-911-gt3/)
+
+### Forget DoorDash, GM Wants Your Next Car To Run Errands For You
+
+- Model/program: Forget DoorDash, GM Wants Your Next Car To Run Errands For You
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293287/gm-autonomous-driving-in-more-models/)
+
+### This Town Removed Every Flock Camera And Replaced Them With 54 Other Plate Readers
+
+- Model/program: This Town Removed Every Flock Camera And Replaced Them With 54 Other Plate Readers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293173/fairfield-ct-removes-flock-cameras-adds-new-alpr/)
+
+### BMW 'Turbo Bonus' Offers Employees Up To $730,000 To Quit
+
+- Model/program: BMW 'Turbo Bonus' Offers Employees Up To $730,000 To Quit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293088/bmw-turbo-bonus-voluntary-severance-package/)
+
+### 2027 Ford Ranger Models Will Get The Raptor's Turbo V6
+
+- Model/program: 2027 Ford Ranger Models Will Get The Raptor's Turbo V6
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293013/2027-ford-ranger-adds-turbo-v6/)
+
+### Mercedes Boss Says Baby G-Class Is Coming 'Sooner Than You Think'
+
+- Model/program: Mercedes Boss Says Baby G-Class Is Coming 'Sooner Than You Think'
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2292981/mercedes-baby-g-class-coming-sooner-than-you-think/)
+
+### This Classic Range Rover Proves You Don't Need A Modern One
+
+- Model/program: This Classic Range Rover Proves You Don't Need A Modern One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2292794/legacy-overland-range-rover-nova/)
+
+### This Plain White VW SUV Is A Wolf In Sheep's Clothing
+
+- Model/program: This Plain White VW SUV Is A Wolf In Sheep's Clothing
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2292691/vw-t-roc-r-white-scoop/)
+
+### New BMW i3 Touring Looks Ready For Family Duties
+
+- Model/program: New BMW i3 Touring Looks Ready For Family Duties
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2292572/i3-touring-new-scoop/)
 
 ### Nissan Pathfinder Celebrates Its 1980s Roots, But The Next One Will Be Far More Retro
 
