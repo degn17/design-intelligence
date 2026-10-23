@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1465 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1484 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -49,6 +49,196 @@ Generated internal notes from 1465 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/reviews/a74177839/2027-mercedes-amg-gle-gls-drive/)
+
+### HRC Performance Parts for Hondas and Acuras Go on Sale Next March
+
+- Model/program: HRC Performance Parts for Hondas and Acuras Go on Sale Next March
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74221786/hrc-performance-parts-honda-acura-on-sale-date-announced/)
+
+### Porsche Expands ‘Do Not Drive’ Recall for Top 911, 718 Models over Wheels That Could Fall Off
+
+- Model/program: Porsche Expands ‘Do Not Drive’ Recall for Top 911, 718 Models over Wheels That Could Fall Off
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74219012/porsche-911-gt3-turbo-s-718-cayman-gt4-spyder-rs-do-not-drive-recall-wheels/)
+
+### 2027 BMW iX5
+
+- Model/program: 2027 BMW iX5
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/ix5)
+
+### Honda Partners with Mitsubishi to Build Its First Body-on-Frame Pickup Truck
+
+- Model/program: Honda Partners with Mitsubishi to Build Its First Body-on-Frame Pickup Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74220992/honda-mitsubishi-pickup-truck-details/)
+
+### View Interior Photos of the 2027 BMW X5
+
+- Model/program: View Interior Photos of the 2027 BMW X5
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74181781/2027-bmw-x5-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 BMW iX5
+
+- Model/program: View Exterior Photos of the 2027 BMW iX5
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74166777/2027-bmw-ix5-drive-exterior-gallery/)
+
+### 2027 BMW iX5 Driven: Part of the Family
+
+- Model/program: 2027 BMW iX5 Driven: Part of the Family
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74178960/2027-bmw-ix5-drive/)
+
+### The 2027 BMW X5 Drives Great, but Some Elements May Not Be for Everyone
+
+- Model/program: The 2027 BMW X5 Drives Great, but Some Elements May Not Be for Everyone
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74180858/2027-bmw-x5-drive/)
+
+### View Exterior Photos of the 2027 BMW X5
+
+- Model/program: View Exterior Photos of the 2027 BMW X5
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74182276/2027-bmw-x5-drive-exterior-gallery/)
+
+### View Interior Photos of the 2027 BMW iX5
+
+- Model/program: View Interior Photos of the 2027 BMW iX5
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74166791/2027-bmw-ix5-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Cadillac Escalade V-Series 125th Anniversary Collector Series
+
+- Model/program: View Exterior Photos of the 2027 Cadillac Escalade V-Series 125th Anniversary Collector Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74220811/2027-cadillac-escalade-v-series-125th-anniversary-collector-series-revealed-exterior-gallery/)
+
+### View Interior Photos of the 2027 Cadillac Escalade V-Series 125th Anniversary Collector Series
+
+- Model/program: View Interior Photos of the 2027 Cadillac Escalade V-Series 125th Anniversary Collector Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74220812/2027-cadillac-escalade-v-series-125th-anniversary-collector-series-revealed-interior-gallery/)
+
+### Subaru Teases a New WRX with the Old STI’s Manual Transmission
+
+- Model/program: Subaru Teases a New WRX with the Old STI’s Manual Transmission
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74220274/2027-subaru-wrx-six-speed-manual-ty85-japan-teased/)
+
+### 2027 Subaru Outback Gets New Base Model, Dropping Price by $1905
+
+- Model/program: 2027 Subaru Outback Gets New Base Model, Dropping Price by $1905
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74218284/2027-subaru-outback-pricing-new-base-model/)
+
+### Goodwood Events Are Coming to America, Starting with Willow Springs
+
+- Model/program: Goodwood Events Are Coming to America, Starting with Willow Springs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74210886/goodwood-car-events-america-willow-springs/)
+
+### Future EVs from GM and Ford Travel Parallel Paths
+
+- Model/program: Future EVs from GM and Ford Travel Parallel Paths
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74217312/gm-ford-ev-technology-compared/)
+
+### 1992 Mazda Miata Special Edition Archive Road Test: So Fancy
+
+- Model/program: 1992 Mazda Miata Special Edition Archive Road Test: So Fancy
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74148917/1992-mazda-miata-special-edition-archive-test/)
+
+### View Exterior Photos of the 2027 Ford Mustang Mach-E Trail
+
+- Model/program: View Exterior Photos of the 2027 Ford Mustang Mach-E Trail
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74195367/2027-ford-mustang-mach-e-trail-revealed-exterior-gallery/)
+
+### 2027 Ford Mustang Mach-E Adds More Standard Range and a New Trail Trim
+
+- Model/program: 2027 Ford Mustang Mach-E Adds More Standard Range and a New Trail Trim
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74205300/2027-ford-mustang-mach-e-pricing-new-details/)
 
 ### Ferrari Announces Luce Pricing, and It’s Less Than Initially Expected
 

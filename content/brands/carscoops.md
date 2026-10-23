@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 2070 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2083 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,136 @@ Generated internal notes from 2070 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2293766/hyundai-porter-spy-shots-europe/)
+
+### China's Chery Considers Partnering With A US Automaker, Does Detroit Have Another Option?
+
+- Model/program: China's Chery Considers Partnering With A US Automaker, Does Detroit Have Another Option?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294813/china-chery-us-partner/)
+
+### This Custom Pink Rolls-Royce Cullinan Is Absolutely Perfect For Miami
+
+- Model/program: This Custom Pink Rolls-Royce Cullinan Is Absolutely Perfect For Miami
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294547/braman-pink-rolls-royce-cullinan/)
+
+### Cadillac's Escalade-V Collector Series Retails For $239,000, But Expect To Pay WAY More
+
+- Model/program: Cadillac's Escalade-V Collector Series Retails For $239,000, But Expect To Pay WAY More
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294486/2027-cadillac-escalade-v-collector-series/)
+
+### Move Over, Panda! Fiat's Next City Car Will Be Named The Koala
+
+- Model/program: Move Over, Panda! Fiat's Next City Car Will Be Named The Koala
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294450/fiat-koala-city-car-ev/)
+
+### China's Zeekr Says It's Combating A Lack Of Brand Heritage In Europe With Value
+
+- Model/program: China's Zeekr Says It's Combating A Lack Of Brand Heritage In Europe With Value
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294226/china-zeekr-combating-lack-of-heritage-with-value/)
+
+### 2027 Ford Mustang Mach-E Gains Standard Extended Range, New Trail Package, And Better Price
+
+- Model/program: 2027 Ford Mustang Mach-E Gains Standard Extended Range, New Trail Package, And Better Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294188/2027-ford-mustang-mach-e-trail-updates/)
+
+### Future Volvos Will Have Door To Door Autonomy Thanks To Nvidia
+
+- Model/program: Future Volvos Will Have Door To Door Autonomy Thanks To Nvidia
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294182/volvo-autonomous-driving-nvidia/)
+
+### We Jump Sand Dunes And Push The Chevy Silverado ZR2 To Its Limits | Review
+
+- Model/program: We Jump Sand Dunes And Push The Chevy Silverado ZR2 To Its Limits | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293677/2026-chevy-silverado-1500-zr2-off-road-review/)
+
+### Rivian Follows Tesla And Will Use Owners To Beta Test Autonomous Driving
+
+- Model/program: Rivian Follows Tesla And Will Use Owners To Beta Test Autonomous Driving
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294007/rivian-autonomous-driving-beta-test/)
+
+### China's Ford Ranger Rival Looks Tough With Ironman 4x4 Accessories
+
+- Model/program: China's Ford Ranger Rival Looks Tough With Ironman 4x4 Accessories
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293935/chery-stockman-ironman-accessories/)
+
+### Subaru Brings Back The Manual Of The WRX STI, But Not For Us (Yet)
+
+- Model/program: Subaru Brings Back The Manual Of The WRX STI, But Not For Us (Yet)
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293824/subaru-wrx-ty85-manual-teaser/)
+
+### Fiat Dresses Up A 15-Year-Old City Car As An Autobianchi For A Good Reason
+
+- Model/program: Fiat Dresses Up A 15-Year-Old City Car As An Autobianchi For A Good Reason
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293798/fiat-pandina-tributo-autobianchi/)
+
+### GM Going All-In On AI To Power OnStar And Fast-Track Next-Gen Vehicles
+
+- Model/program: GM Going All-In On AI To Power OnStar And Fast-Track Next-Gen Vehicles
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2293773/gm-ai-onstar-next-gen-evs/)
 
 ### We Drive China's First-Ever Super Car, And Boy Do We Have Thoughts | Review: YangWang U9
 

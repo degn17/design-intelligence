@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 158 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 163 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Porsche Engineering and Porsche Digital combine their expertise
+
+- Model/program: Porsche Engineering and Porsche Digital combine their expertise
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html)
+
+### Halfway Round the World in 78 Days
+
+- Model/program: Halfway Round the World in 78 Days
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-tahiti-stuttgart-911-carrera-gts-43546.html)
+
+### “The Right Steps at the Right Moment”
+
+- Model/program: “The Right Steps at the Right Moment”
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-from-merck-healthcare-to-dlrg-water-rescue-43479.html)
+
+### Porsche Mission S: the essence of the sports car reinterpreted
+
+- Model/program: Porsche Mission S: the essence of the sports car reinterpreted
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-mission-s-vision-model-43528.html)
+
+### The ‘Flying Pole’ returns to Argentina
+
+- Model/program: The ‘Flying Pole’ returns to Argentina
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-argentina-legendary-rally-driver-zasada-43499.html)
 
 ### Software-Defined Vehicles in the Supplier Ecosystem
 
