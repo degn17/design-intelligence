@@ -2,13 +2,213 @@
 
 ## Current positioning
 
-Generated internal notes from 2083 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2103 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This New Italian Sports Car Is The Closest Thing To A Modern Ferrari 308
+
+- Model/program: This New Italian Sports Car Is The Closest Thing To A Modern Ferrari 308
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2296045/michelotto-acmotorsport-pays-tribute-to-group-b-rally-ferrari-308/)
+
+### Not Even A Partnership With Xpeng Can Save VW In China
+
+- Model/program: Not Even A Partnership With Xpeng Can Save VW In China
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2296010/volkswagen-partnership-with-xpeng-not-producing-expected-sales/)
+
+### China Could Crack Down On Huge Interior Screens, After Pop-Out Handle Ban
+
+- Model/program: China Could Crack Down On Huge Interior Screens, After Pop-Out Handle Ban
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2296004/china-could-crack-down-on-large-infotainment-screens/)
+
+### Honda Racing Will Finally Start Selling You Performance Parts In March
+
+- Model/program: Honda Racing Will Finally Start Selling You Performance Parts In March
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295993/honda-racing-finally-selling-performance-parts/)
+
+### If You Have Some Spare Millions, You Could Buy A Legendary McLaren Formula 1 Car
+
+- Model/program: If You Have Some Spare Millions, You Could Buy A Legendary McLaren Formula 1 Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295922/mclaren-selling-several-legendary-formula-1-cars/)
+
+### Peugeot's Tri-Motor, 805 HP E-T16 Rally Beast Could Hit The Market
+
+- Model/program: Peugeot's Tri-Motor, 805 HP E-T16 Rally Beast Could Hit The Market
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295842/peugeot-tri-motor-805-hp-e-t16-could-become-production-car/)
+
+### Watch This BYD Hit The Three-Wheeled Motion To Avoid A Parking Boot
+
+- Model/program: Watch This BYD Hit The Three-Wheeled Motion To Avoid A Parking Boot
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295779/byd-fangchengbao-bao-8-three-wheeled-driving/)
+
+### These 6 New And Updated Acuras Could Be The Key To Its Future
+
+- Model/program: These 6 New And Updated Acuras Could Be The Key To Its Future
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295755/six-new-acura-vehicles-key-to-brands-future/)
+
+### Mahindra's $10k G Wagon Alternative Gains More Bling
+
+- Model/program: Mahindra's $10k G Wagon Alternative Gains More Bling
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295569/mahindra-g-wagon-alternative/)
+
+### Jeep Keeps Decade-Old Compass Alive In South America
+
+- Model/program: Jeep Keeps Decade-Old Compass Alive In South America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295539/2027-jeep-compass-south-america/)
+
+### The 2026 Car Market Depends On Buyers Who Can Afford To Ignore The Car Market
+
+- Model/program: The 2026 Car Market Depends On Buyers Who Can Afford To Ignore The Car Market
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295513/car-market-depends-on-buyers-who-can-afford-to-ignore-car-market/)
+
+### Hundreds Of Porsches Have Wheels That Could Randomly Fall Off
+
+- Model/program: Hundreds Of Porsches Have Wheels That Could Randomly Fall Off
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295510/porsche-wheel-lock-recall/)
+
+### The Ferrari Luce Costs $120,000 More Than A Purosangue And Has 12 Fewer Cylinders
+
+- Model/program: The Ferrari Luce Costs $120,000 More Than A Purosangue And Has 12 Fewer Cylinders
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295488/ferrari-luce-ev-sedan-560800-starting-price/)
+
+### A Standard Bronco Isn't Enough? Then You Might Want The New ORV Package
+
+- Model/program: A Standard Bronco Isn't Enough? Then You Might Want The New ORV Package
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295411/ford-bronco-orv-package/)
+
+### This V8-Powered E39 BMW 5-Series Touring Is Not As Decayed As It Seems
+
+- Model/program: This V8-Powered E39 BMW 5-Series Touring Is Not As Decayed As It Seems
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295371/fake-rust-bmw-e39-touring/)
+
+### BYD Vehicles Banned At U.S. Military Base In Japan
+
+- Model/program: BYD Vehicles Banned At U.S. Military Base In Japan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295364/byd-vehicles-banned-us-base-japan/)
+
+### This Gunther Werks 911 Will Make You Forget About The Next GT2 RS
+
+- Model/program: This Gunther Werks 911 Will Make You Forget About The Next GT2 RS
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295315/gunther-werks-brundle-edition-turbo/)
+
+### Could Your Car Actually Outlive Its Software Support?
+
+- Model/program: Could Your Car Actually Outlive Its Software Support?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295286/could-your-car-outlive-its-software/)
+
+### A 60-Year Prison Sentence Is Becoming A Test Of Warrantless License-Plate Tracking
+
+- Model/program: A 60-Year Prison Sentence Is Becoming A Test Of Warrantless License-Plate Tracking
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295170/warrantless-license-plate-tracking-texas-conviction/)
+
+### GM Is Shutting One Of Its Battery And Motor Plants In The U.S.
+
+- Model/program: GM Is Shutting One Of Its Battery And Motor Plants In The U.S.
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295169/gm-shutting-down-ev-battery-motor-plant-us/)
 
 ### Hyundai's Cute Porter Truck Is Morphing Into An EV
 

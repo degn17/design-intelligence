@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 1484 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1497 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Interior Photos of the 2027 BMW 7-Series
+
+- Model/program: View Interior Photos of the 2027 BMW 7-Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74203883/2027-bmw-7-series-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 BMW 7-Series
+
+- Model/program: View Exterior Photos of the 2027 BMW 7-Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74196211/2027-bmw-7-series-drive-exterior-gallery/)
+
+### The 2027 BMW 7-Series Embraces Luxurious Maximalism
+
+- Model/program: The 2027 BMW 7-Series Embraces Luxurious Maximalism
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74181769/2027-bmw-7-series-drive/)
+
+### Toyota Recalls 106K Hybrid Land Cruisers for Possible Fuel Leak
+
+- Model/program: Toyota Recalls 106K Hybrid Land Cruisers for Possible Fuel Leak
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74233226/toyota-land-cruiser-hybrid-fuel-leak-recall/)
+
+### Toyota’s Newest GR Racing Prototype Sure Looks Like the Next-Gen MR2
+
+- Model/program: Toyota’s Newest GR Racing Prototype Sure Looks Like the Next-Gen MR2
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74233723/toyota-gr-yaris-race-car-next-gen-mr2-preview/)
+
+### Willow Springs Raceway Shares Progress at the Two-Year Mark
+
+- Model/program: Willow Springs Raceway Shares Progress at the Two-Year Mark
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74195588/willow-springs-raceway-upgrades-latest-news/)
+
+### NHTSA’s Changing the Definition of a ‘Truck,’ Possibly Encouraging More Overseas Production
+
+- Model/program: NHTSA’s Changing the Definition of a ‘Truck,’ Possibly Encouraging More Overseas Production
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74230826/nhtsa-redefines-trucks-ruling-2030-details/)
+
+### 2027 Cadillac Escalade-V Collector Series Celebrates 125 Years of Luxury
+
+- Model/program: 2027 Cadillac Escalade-V Collector Series Celebrates 125 Years of Luxury
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74231668/2027-cadillac-escalade-v-125th-anniversary-collector-series/)
+
+### HWA’s New Teaser Previews Another Reimagined Mercedes-AMG Icon
+
+- Model/program: HWA’s New Teaser Previews Another Reimagined Mercedes-AMG Icon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74230362/hwa-new-mercedes-amg-hammer-teaser/)
+
+### 2027 Chevrolet Silverado EV
+
+- Model/program: 2027 Chevrolet Silverado EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/chevrolet/silverado-ev)
+
+### View Exterior Photos of the 2027 BMW iX3
+
+- Model/program: View Exterior Photos of the 2027 BMW iX3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74081553/2027-bmw-ix3-test-exterior-gallery/)
+
+### View Interior Photos of the 2027 BMW iX3
+
+- Model/program: View Interior Photos of the 2027 BMW iX3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74081654/2027-bmw-ix3-test-interior-gallery/)
+
+### Tested: 2027 BMW iX3 Gets a Passing Grade
+
+- Model/program: Tested: 2027 BMW iX3 Gets a Passing Grade
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74184219/2027-bmw-ix3-test/)
 
 ### View Photos of the 2027 Mercedes-AMG GLS63
 
