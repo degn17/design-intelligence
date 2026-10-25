@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 1497 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1502 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### What Makes This 2001 VW New Beetle on BaT So Special?
+
+- Model/program: What Makes This 2001 VW New Beetle on BaT So Special?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74217853/2001-volkswagen-new-beetle-rsi-bring-a-trailer-auction/)
+
+### We’re Camping with the Ultimate Setup, and All I Want Is to Go Home
+
+- Model/program: We’re Camping with the Ultimate Setup, and All I Want Is to Go Home
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74178523/nissan-frontier-ultimate-build-camping/)
+
+### How Much Does Chevy’s New V-8 Improve the Corvette’s Performance?
+
+- Model/program: How Much Does Chevy’s New V-8 Improve the Corvette’s Performance?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74196488/2027-chevrolet-corvette-stingray-vs-2020-chevrolet-corvette-stingray/)
+
+### View Photos of the 1979 Honda Accord 4-Door
+
+- Model/program: View Photos of the 1979 Honda Accord 4-Door
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74219887/1979-honda-accord-4-door-archive-test-gallery/)
+
+### Echoes of the Present: 1979 Honda Accord 4-Door Archive Road Test
+
+- Model/program: Echoes of the Present: 1979 Honda Accord 4-Door Archive Road Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74159286/1979-honda-accord-4-door-archive-test/)
 
 ### View Interior Photos of the 2027 BMW 7-Series
 

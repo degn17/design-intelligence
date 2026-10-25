@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 2103 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2107 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### These Subaru Models Are Built In America, Not Japan
+
+- Model/program: These Subaru Models Are Built In America, Not Japan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290888/subaru-models-build-in-america/)
+
+### How Long Should You Let Your Car Idle After A Jump Start?
+
+- Model/program: How Long Should You Let Your Car Idle After A Jump Start?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290805/how-long-to-run-car-after-jump-start/)
+
+### Why Microfiber Towels Should Be Thrown Out After Hitting The Ground
+
+- Model/program: Why Microfiber Towels Should Be Thrown Out After Hitting The Ground
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290765/why-microfiber-towel-cloth-throw-away-touch-ground/)
+
+### This Popular Car Accessory Has A Bigger Impact On MPG Than You Think
+
+- Model/program: This Popular Car Accessory Has A Bigger Impact On MPG Than You Think
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290662/roof-rack-impact-on-fuel-economy/)
 
 ### This New Italian Sports Car Is The Closest Thing To A Modern Ferrari 308
 
