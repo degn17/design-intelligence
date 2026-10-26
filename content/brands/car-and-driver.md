@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1502 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1504 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 1981 Toyota Celica Supra on BaT: The Supra Story Starts Here
+
+- Model/program: 1981 Toyota Celica Supra on BaT: The Supra Story Starts Here
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74218163/1981-toyota-celica-supra-bring-a-trailer-auction/)
+
+### Ford Patents Idea That Lets Parked Cars Autonomously Flee Danger
+
+- Model/program: Ford Patents Idea That Lets Parked Cars Autonomously Flee Danger
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74232385/ford-autonomous-anti-theft-patent-application/)
 
 ### What Makes This 2001 VW New Beetle on BaT So Special?
 

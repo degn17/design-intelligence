@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 2107 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2112 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Audi Will Invest $4 Billion To Build A Factory In Georgia
+
+- Model/program: Audi Will Invest $4 Billion To Build A Factory In Georgia
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2296419/audi-confirms-usa-factory-georgia/)
+
+### Why Did Dodge, Ford, And Other Muscle Cars Use Window Louvers?
+
+- Model/program: Why Did Dodge, Ford, And Other Muscle Cars Use Window Louvers?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294903/why-old-muscle-cars-had-window-louvers/)
+
+### What Does 'RX' Actually Stand For On A Lexus RX 350?
+
+- Model/program: What Does 'RX' Actually Stand For On A Lexus RX 350?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294762/lexus-rx-350-what-does-it-stand-for-radiant-crossover/)
+
+### The Toyota Camry Isn't The Only AWD Sedan For Sale, Here Are 5 Alternatives To Consider
+
+- Model/program: The Toyota Camry Isn't The Only AWD Sedan For Sale, Here Are 5 Alternatives To Consider
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294671/toyota-camry-awd-sedan-alternatives-competitors/)
+
+### What The Numbers And "W" On Engine Oil Mean
+
+- Model/program: What The Numbers And "W" On Engine Oil Mean
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2294650/what-numbers-and-w-mean-engine-oil/)
 
 ### These Subaru Models Are Built In America, Not Japan
 
