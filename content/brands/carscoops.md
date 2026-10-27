@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 2112 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2124 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,126 @@ Generated internal notes from 2112 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2296419/audi-confirms-usa-factory-georgia/)
+
+### Tony Stark's Acura NSX Roadster Could Be Yours, But It's Older Than It Looks
+
+- Model/program: Tony Stark's Acura NSX Roadster Could Be Yours, But It's Older Than It Looks
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2297762/tony-stark-acura-nsx-roadster-the-avengers-auction/)
+
+### Manned Drone That Sounds Like Angry Wasps Is Latest Police Toy Patrolling Florida College Campus
+
+- Model/program: Manned Drone That Sounds Like Angry Wasps Is Latest Police Toy Patrolling Florida College Campus
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2297656/jetson-one-manned-quadcopter-police-florida/)
+
+### Buy This Rare Lada Niva Marsh And Never Worry About Potholes Again
+
+- Model/program: Buy This Rare Lada Niva Marsh And Never Worry About Potholes Again
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2297483/rare-lada-niva-marsch-for-sale/)
+
+### SSR Performance Project Leo Is A 911 GT3 That Thinks It's A GT2
+
+- Model/program: SSR Performance Project Leo Is A 911 GT3 That Thinks It's A GT2
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2297482/ssr-performance-project-leo-spy-shots/)
+
+### The Liberty Biberty Creature Is Actually A Jim Henson Muppet... Kind Of
+
+- Model/program: The Liberty Biberty Creature Is Actually A Jim Henson Muppet... Kind Of
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2297409/liberty-biberty-muppet-jim-henson-creature-shop/)
+
+### Italian Coachbuilder Could Turn The Giulia Quadrifoglio Into A Sexy Coupe
+
+- Model/program: Italian Coachbuilder Could Turn The Giulia Quadrifoglio Into A Sexy Coupe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2297399/alfa-romeo-giulia-qv-coachbuilder-coupe/)
+
+### Should The Tesla Roadster Spawn A Lamborghini-Style Sedan?
+
+- Model/program: Should The Tesla Roadster Spawn A Lamborghini-Style Sedan?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2297187/tesla-roadster-sedan-rendering/)
+
+### Canadian Man Damaged Corvette, Argued The Test Drive Made Him A Dealer Employee And Insurance Should Cover It
+
+- Model/program: Canadian Man Damaged Corvette, Argued The Test Drive Made Him A Dealer Employee And Insurance Should Cover It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2297055/canadian-man-damaged-chevy-corvette-during-test-drive/)
+
+### Audi Boss Slammed Over Appearance With Trump At Midterm Rally
+
+- Model/program: Audi Boss Slammed Over Appearance With Trump At Midterm Rally
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2296871/audi-boss-slammed-appearance-trump-rally/)
+
+### Brabus Has Turned The G Wagon Into An 888 HP Pickup
+
+- Model/program: Brabus Has Turned The G Wagon Into An 888 HP Pickup
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2296737/brabus-g-wagon-pickup-888-hp/)
+
+### 2027 Mazda CX-5 Gets Google Gemini Across The Board, $31,485 Starting Price
+
+- Model/program: 2027 Mazda CX-5 Gets Google Gemini Across The Board, $31,485 Starting Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2295896/2027-mazda-cx-5-updates-pricing/)
+
+### This RAV4 Rival From China Comes With Thermal Night Vision
+
+- Model/program: This RAV4 Rival From China Comes With Thermal Night Vision
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2296499/chery-omoda-x/)
 
 ### Why Did Dodge, Ford, And Other Muscle Cars Use Window Louvers?
 

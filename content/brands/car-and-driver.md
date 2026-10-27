@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 1504 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1518 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Mercedes-Benz C350 Leaves the ’27 C300 Behind
+
+- Model/program: 2027 Mercedes-Benz C350 Leaves the ’27 C300 Behind
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74233440/2027-mercedes-benz-c350-drive/)
+
+### View Interior Photos of the 2027 Mercedes-Benz C350
+
+- Model/program: View Interior Photos of the 2027 Mercedes-Benz C350
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74247632/2027-mercedes-benz-c350-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Mercedes-Benz C350
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-Benz C350
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74247610/2027-mercedes-benz-c350-drive-exterior-gallery/)
+
+### Brabus Is Turning the Mercedes-AMG G63 Into a 900-HP Pickup Truck
+
+- Model/program: Brabus Is Turning the Mercedes-AMG G63 Into a 900-HP Pickup Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74251542/brabus-mercedes-amg-g63-pickup-truck/)
+
+### 2027 BMW i7
+
+- Model/program: 2027 BMW i7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/i7)
+
+### 93,997 Range Rovers Recalled Because Water Can Fry the Backup Camera
+
+- Model/program: 93,997 Range Rovers Recalled Because Water Can Fry the Backup Camera
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74251320/land-rover-range-rover-rearview-camera-recall/)
+
+### Mitsubishi Outlander Gets Grittier with 2028 Diamond Trail Edition
+
+- Model/program: Mitsubishi Outlander Gets Grittier with 2028 Diamond Trail Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74250638/2028-mitsubishi-outlander-diamond-trail-edition-announced/)
+
+### Acura Files Trademarks That Hint at New SUVs and Trim Levels on the Way
+
+- Model/program: Acura Files Trademarks That Hint at New SUVs and Trim Levels on the Way
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74248397/acura-trademarks-new-suvs-off-road/)
+
+### Attack Mode: 2027 Lamborghini Revuelto SV Driven
+
+- Model/program: Attack Mode: 2027 Lamborghini Revuelto SV Driven
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74229398/2027-lamborghini-revuelto-sv-drive/)
+
+### View Interior Photos of the 2027 Lamborghini Revuelto SV
+
+- Model/program: View Interior Photos of the 2027 Lamborghini Revuelto SV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74218841/2027-lamborghini-revuelto-sv-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Lamborghini Revuelto SV
+
+- Model/program: View Exterior Photos of the 2027 Lamborghini Revuelto SV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74218711/2027-lamborghini-revuelto-sv-drive-exterior-gallery/)
+
+### Audi Will Invest $4 Billion into Its First U.S. Factory in Georgia
+
+- Model/program: Audi Will Invest $4 Billion into Its First U.S. Factory in Georgia
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74248877/audi-us-factory-georgia-announced/)
+
+### 2027 GMC Hummer EV SUV
+
+- Model/program: 2027 GMC Hummer EV SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/gmc/hummer-ev-suv)
+
+### 2027 BMW iX3
+
+- Model/program: 2027 BMW iX3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/ix3)
 
 ### 1981 Toyota Celica Supra on BaT: The Supra Story Starts Here
 
