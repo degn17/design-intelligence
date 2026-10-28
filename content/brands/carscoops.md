@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 2124 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2133 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Aston Martin's Valhalla Spider Loses Its Top, Keeps Its 1,064 HP
+
+- Model/program: Aston Martin's Valhalla Spider Loses Its Top, Keeps Its 1,064 HP
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2298885/aston-martin-valhalla-spider-debut/)
+
+### Giugiaro Dressed A Maserati In Copper And Glass
+
+- Model/program: Giugiaro Dressed A Maserati In Copper And Glass
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2299005/gfg-style-peralta-d-giugiaro-maserati/)
+
+### The Aston Martin Valkyrie Should Be A Collector's Dream, But This One Might Have Lost Value
+
+- Model/program: The Aston Martin Valkyrie Should Be A Collector's Dream, But This One Might Have Lost Value
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2298964/2024-aston-martin-valkyrie-auction/)
+
+### 2027 Mopar Dodge Charger Celebrates 90 Years Of Performance
+
+- Model/program: 2027 Mopar Dodge Charger Celebrates 90 Years Of Performance
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2298693/mopar-27-dodge-charger-celebrates-90-years-of-performance/)
+
+### 2028 Ford Fathom Is The Cheapest Home Generator You Can Drive
+
+- Model/program: 2028 Ford Fathom Is The Cheapest Home Generator You Can Drive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2298519/2028-ford-fathom-ev-truck-bidirectional-charging/)
+
+### NHTSA Probing Ford's Godzilla Engine For Known Cam Failures
+
+- Model/program: NHTSA Probing Ford's Godzilla Engine For Known Cam Failures
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2298378/nhtsa-investigates-ford-godzilla-v8-cam-failure/)
+
+### Mazda Kills Off The CX-70 And Will Sell Two- And Three-Row CX-90s Instead
+
+- Model/program: Mazda Kills Off The CX-70 And Will Sell Two- And Three-Row CX-90s Instead
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2290095/2027-mazda-cx-90-specs-pricing/)
+
+### 2028 Mitsubishi Outlander Gains Rock Mode With Diamond Trail Edition Package
+
+- Model/program: 2028 Mitsubishi Outlander Gains Rock Mode With Diamond Trail Edition Package
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2298165/2028-mitsubishi-outlander-diamond-trail-edition-sema/)
+
+### Next BMW X5 M Spied Looking Aggressive, Even In Electric Form
+
+- Model/program: Next BMW X5 M Spied Looking Aggressive, Even In Electric Form
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2297964/bmw-x5-m-scoop-ev/)
 
 ### Audi Will Invest $4 Billion To Build A Factory In Georgia
 

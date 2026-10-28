@@ -2,13 +2,183 @@
 
 ## Current positioning
 
-Generated internal notes from 1518 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1535 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2028 Aston Martin Valhalla
+
+- Model/program: 2028 Aston Martin Valhalla
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/aston-martin/valhalla-2028)
+
+### View Exterior Photos of the 2028 Aston Martin Valhalla Spider
+
+- Model/program: View Exterior Photos of the 2028 Aston Martin Valhalla Spider
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74248635/2028-aston-martin-valhalla-spider-revealed-exterior-gallery/)
+
+### View Interior Photos of the 2028 Aston Martin Valhalla Spider
+
+- Model/program: View Interior Photos of the 2028 Aston Martin Valhalla Spider
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74248637/2028-aston-martin-valhalla-spider-revealed-interior-gallery/)
+
+### Aston Martin’s 1064-HP Valhalla Hypercar Goes Roofless
+
+- Model/program: Aston Martin’s 1064-HP Valhalla Hypercar Goes Roofless
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74264241/2028-aston-martin-valhalla-spider-revealed/)
+
+### Chevy Traverse Will Reportedly Get GM’s New Hybrid Powertrain
+
+- Model/program: Chevy Traverse Will Reportedly Get GM’s New Hybrid Powertrain
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74264034/chevy-traverse-mid-size-suvs-gm-new-hybrid-powertrain-report/)
+
+### Ford’s $30K Fathom EV Can Double as a Home Power Generator
+
+- Model/program: Ford’s $30K Fathom EV Can Double as a Home Power Generator
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74263722/2028-ford-fathom-bidirectional-home-power-setup/)
+
+### 2027 Mercedes-Benz EQS SUV
+
+- Model/program: 2027 Mercedes-Benz EQS SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-benz/eqs-suv-2027)
+
+### Gift Guide: The Best Car Advent Calendars for 2026
+
+- Model/program: Gift Guide: The Best Car Advent Calendars for 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g69135830/car-advent-calendar/)
+
+### Honda Teases New Trophy Truck That Uses the Passport Name
+
+- Model/program: Honda Teases New Trophy Truck That Uses the Passport Name
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74262258/honda-passport-baja-spec-race-truck-teaser/)
+
+### View Photos of the 1976 Renault 17 Gordini
+
+- Model/program: View Photos of the 1976 Renault 17 Gordini
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74232540/1976-renault-17-gordini-archive-test-gallery/)
+
+### Joie de Vivre Instead of Ennui: We Test the 1976 Renault 17 Gordini
+
+- Model/program: Joie de Vivre Instead of Ennui: We Test the 1976 Renault 17 Gordini
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74179857/1976-renault-17-gordini-archive-test/)
+
+### 2027 Jeep Gladiator Loses Base Model, Adds 35-Inch Tire Option
+
+- Model/program: 2027 Jeep Gladiator Loses Base Model, Adds 35-Inch Tire Option
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74260083/2027-jeep-gladiator-updates-pricing/)
+
+### 2027 Kia EV6
+
+- Model/program: 2027 Kia EV6
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/kia/ev6-2027)
+
+### 2027 Lamborghini Revuelto
+
+- Model/program: 2027 Lamborghini Revuelto
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lamborghini/revuelto)
+
+### Dodge Charger Gets a Package Celebrating 90 Years of Mopar
+
+- Model/program: Dodge Charger Gets a Package Celebrating 90 Years of Mopar
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74252548/dodge-charger-special-edition-mopar-90-years-details/)
+
+### View Interior Photos of the 2027 Audi Q9
+
+- Model/program: View Interior Photos of the 2027 Audi Q9
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74231347/2027-audi-q9-drive-interior-gallery/)
+
+### 2027 Audi Q9 and SQ9: We Drive Audi’s Big-League SUVs
+
+- Model/program: 2027 Audi Q9 and SQ9: We Drive Audi’s Big-League SUVs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74233484/2027-audi-q9-sq9-drive/)
 
 ### 2027 Mercedes-Benz C350 Leaves the ’27 C300 Behind
 
