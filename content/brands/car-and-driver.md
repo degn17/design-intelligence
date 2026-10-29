@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1535 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1543 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -49,6 +49,86 @@ Generated internal notes from 1535 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a74264241/2028-aston-martin-valhalla-spider-revealed/)
+
+### An Italian Company Is Building the Ultimate Ferrari 308 Tribute
+
+- Model/program: An Italian Company Is Building the Ultimate Ferrari 308 Tribute
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74276071/michelotto-gruppo-four-tributo-ferrari-308-tribute/)
+
+### Ford Recalls 102,159 F-150 and Super Duty Trucks over Faulty Gauges
+
+- Model/program: Ford Recalls 102,159 F-150 and Super Duty Trucks over Faulty Gauges
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74275121/2025-2026-ford-f150-super-duty-analog-gauge-recall/)
+
+### Comparison Test: 2027 BMW iX3 vs. Mercedes-Benz GLC400
+
+- Model/program: Comparison Test: 2027 BMW iX3 vs. Mercedes-Benz GLC400
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a74205372/2027-bmw-ix3-vs-mercedes-benz-glc400-comparison-test/)
+
+### 2027 BMW X3 M50 Adds Horsepower and a Sinister Appearance Package
+
+- Model/program: 2027 BMW X3 M50 Adds Horsepower and a Sinister Appearance Package
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74272007/2027-bmw-x3-m50-power-appearance-package/)
+
+### 2027 Lexus TX Hybrid
+
+- Model/program: 2027 Lexus TX Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/tx-hybrid-2027)
+
+### 2027 Kia EV9 Gets More Standard Features with Minimal Price Increases
+
+- Model/program: 2027 Kia EV9 Gets More Standard Features with Minimal Price Increases
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74272785/2027-kia-ev9-pricing-details/)
+
+### Toyota Crown Signia GT-S Concept Reimagines the SUV as a Sleek Wagon
+
+- Model/program: Toyota Crown Signia GT-S Concept Reimagines the SUV as a Sleek Wagon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74265465/toyota-crown-signia-gt-s-concept-revealed/)
+
+### Nissan Sentra Spec-V Concept Is a SEMA Star Chock Full of NISMO Parts
+
+- Model/program: Nissan Sentra Spec-V Concept Is a SEMA Star Chock Full of NISMO Parts
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74266399/nissan-sentra-spec-v-concept-revealed/)
 
 ### Chevy Traverse Will Reportedly Get GM’s New Hybrid Powertrain
 

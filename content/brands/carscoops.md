@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 2133 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2143 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,106 @@ Generated internal notes from 2133 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2298885/aston-martin-valhalla-spider-debut/)
+
+### With Alpina's New 7-Series, You'll Never Think About An M7 Again
+
+- Model/program: With Alpina's New 7-Series, You'll Never Think About An M7 Again
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2300523/alpina-bmw-7-series-spy-shots/)
+
+### Toyota's New Mid-Engined GR Yaris Is Looking More And More Like The New MR2
+
+- Model/program: Toyota's New Mid-Engined GR Yaris Is Looking More And More Like The New MR2
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2300482/mid-engine-toyota-gr-yaris-racecar-new-mr2/)
+
+### The Jeep Gladiator Has Just Become An Even More Capable Off-Roader
+
+- Model/program: The Jeep Gladiator Has Just Become An Even More Capable Off-Roader
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2300426/2027-jeep-gladiator-35-inch-tire-edition/)
+
+### James May Is Selling His Triumph From The Final Episode Of 'The Grand Tour'
+
+- Model/program: James May Is Selling His Triumph From The Final Episode Of 'The Grand Tour'
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2300193/james-may-the-grand-tour-triumph-for-sale/)
+
+### 'You're Not Taking My Bike', Says Rider Whose Bike Was Taken
+
+- Model/program: 'You're Not Taking My Bike', Says Rider Whose Bike Was Taken
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2300151/e-bike-impounded-british-columbia/)
+
+### Ford's Radical Fathom Electric Uses A Tesla Trick To Turn 146 Parts Into 2
+
+- Model/program: Ford's Radical Fathom Electric Uses A Tesla Trick To Turn 146 Parts Into 2
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2299787/2028-ford-fathom-uses-tesla-trick-unicasting/)
+
+### Toyota Snowhunter Concepts Ready To Conquer The Inevitable A.I.-Induced Nuclear Winter
+
+- Model/program: Toyota Snowhunter Concepts Ready To Conquer The Inevitable A.I.-Induced Nuclear Winter
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2299615/toyota-snowhunter-concepts-sema/)
+
+### Is The Range Rover GT Really A Car, Not An SUV? Land Rover Reveals More Of Its Low-Slung Grand Tourer
+
+- Model/program: Is The Range Rover GT Really A Car, Not An SUV? Land Rover Reveals More Of Its Low-Slung Grand Tourer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2299440/range-rover-gt-car-not-suv/)
+
+### Nissan Brings Datsun Restomod And SCCA Track Z To SEMA
+
+- Model/program: Nissan Brings Datsun Restomod And SCCA Track Z To SEMA
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2299303/nissan-z-datsun-restomod-sema-show-vehicles/)
+
+### Nissan's SEMA Sentra Spec-V Implies The Brand Still Cares About Small Car Performance
+
+- Model/program: Nissan's SEMA Sentra Spec-V Implies The Brand Still Cares About Small Car Performance
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2299297/nissan-sentra-spec-v-sema-concept/)
 
 ### Giugiaro Dressed A Maserati In Copper And Glass
 
