@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 2143 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2152 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Honda Racing Unleashes A 1,300+ HP Hybrid Passport Trophy Truck
+
+- Model/program: Honda Racing Unleashes A 1,300+ HP Hybrid Passport Trophy Truck
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2301691/honda-passport-hybrid-trophy-truck-baja-1000/)
+
+### This Odd Subaru WRX Prototype Looks Like A Wacky Longtail
+
+- Model/program: This Odd Subaru WRX Prototype Looks Like A Wacky Longtail
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2301876/subaru-wrx-prototype-scoop-nurburgring/)
+
+### Toyota's Next Hybrids Will Sip 15% Less Gas, And They Can't Come Soon Enough
+
+- Model/program: Toyota's Next Hybrids Will Sip 15% Less Gas, And They Can't Come Soon Enough
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2301532/new-toyota-engine-more-fuel-efficient-hybrid-phev/)
+
+### Not Even The Bentley Torcal Can Avoid The First Edition Treatment
+
+- Model/program: Not Even The Bentley Torcal Can Avoid The First Edition Treatment
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2301385/bentley-torcal-first-edition/)
+
+### Ford Launches A Special Mustang Mach-E, But It's Only For Police
+
+- Model/program: Ford Launches A Special Mustang Mach-E, But It's Only For Police
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2301369/2027-ford-mustang-mach-e-police-vehicle/)
+
+### Father And Son Allegedly Sold Nearly $500,000 In Title-Washed Cars On Facebook Marketplace
+
+- Model/program: Father And Son Allegedly Sold Nearly $500,000 In Title-Washed Cars On Facebook Marketplace
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2301196/father-son-title-washing-stolen-cars-facebook-marketplace/)
+
+### This $30,000 Land Cruiser Fire Command Is Looking For A Hero
+
+- Model/program: This $30,000 Land Cruiser Fire Command Is Looking For A Hero
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2301025/jdm-land-cruiser-fire-command-ebay/)
+
+### Toyota's Signia GT-S Looks The Part, But Doesn't Have The Power To Match
+
+- Model/program: Toyota's Signia GT-S Looks The Part, But Doesn't Have The Power To Match
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2300911/toyota-crown-signia-sema-2026-concept/)
+
+### Toyota's Next Electric SUV Is Hiding Under This Sliced And Diced Corolla Cross
+
+- Model/program: Toyota's Next Electric SUV Is Hiding Under This Sliced And Diced Corolla Cross
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2300697/toyota-ev-spy-shots-electric-corolla-cross-mule/)
 
 ### Aston Martin's Valhalla Spider Loses Its Top, Keeps Its 1,064 HP
 

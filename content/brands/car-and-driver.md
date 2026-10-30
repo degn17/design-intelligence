@@ -2,13 +2,113 @@
 
 ## Current positioning
 
-Generated internal notes from 1543 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1553 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Photos of the Honda Passport Baja Spec Trophy Truck
+
+- Model/program: View Photos of the Honda Passport Baja Spec Trophy Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74289296/honda-passport-baja-spec-revealed-gallery/)
+
+### HRC’s 1300-HP Trophy Truck Is the Most Badass Honda Passport Ever
+
+- Model/program: HRC’s 1300-HP Trophy Truck Is the Most Badass Honda Passport Ever
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74289346/honda-passport-baja-spec-revealed/)
+
+### 2027 BMW 3-Series Drive: Not Just Different but Better
+
+- Model/program: 2027 BMW 3-Series Drive: Not Just Different but Better
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74274538/2027-bmw-3-series-drive/)
+
+### How We’d Spec It: 2027 Chevrolet Silverado 1500
+
+- Model/program: How We’d Spec It: 2027 Chevrolet Silverado 1500
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74285835/2027-chevy-silverado-1500-build-spec-price/)
+
+### 2027 Fiat Topolino Finally Earns Street-Legal Status in the States
+
+- Model/program: 2027 Fiat Topolino Finally Earns Street-Legal Status in the States
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74286839/2027-fiat-topolino-street-legal-status/)
+
+### Tested: 1991 BMW 318i Has a Case of the Wiggles
+
+- Model/program: Tested: 1991 BMW 318i Has a Case of the Wiggles
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74206330/1991-bmw-318i-archive-test/)
+
+### Toyota Details the New Hybrid System Bound for the Next-Gen Corolla
+
+- Model/program: Toyota Details the New Hybrid System Bound for the Next-Gen Corolla
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74286373/toyota-new-hybrid-system-details-next-corolla/)
+
+### Pay to Play: 2026 Audi A6 Tested
+
+- Model/program: Pay to Play: 2026 Audi A6 Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a70271384/2026-audi-a6-drive/)
+
+### Want a Real Video Game Car? eBay Motors Is Auctioning Four of Them
+
+- Model/program: Want a Real Video Game Car? eBay Motors Is Auctioning Four of Them
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74283443/ebay-most-wanted-vehicle-chevy-corvette-doge-viper-auction/)
+
+### How to Determine If Buying Out Your Car’s Lease Is Worth It
+
+- Model/program: How to Determine If Buying Out Your Car’s Lease Is Worth It
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/auto-loans/a71042750/how-to-calculate-a-car-lease-buyout/)
 
 ### 2028 Aston Martin Valhalla
 
