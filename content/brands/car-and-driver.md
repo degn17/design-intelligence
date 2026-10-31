@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1553 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1573 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -29,6 +29,206 @@ Generated internal notes from 1553 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a74289346/honda-passport-baja-spec-revealed/)
+
+### View Interior Photos of the 2027 BMW i3
+
+- Model/program: View Interior Photos of the 2027 BMW i3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74273370/2027-bmw-i3-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 BMW i3
+
+- Model/program: View Exterior Photos of the 2027 BMW i3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74273300/2027-bmw-i3-drive-exterior-gallery/)
+
+### An Uncompromising Fraternal Twin: We Drive the All-Electric 2027 BMW i3
+
+- Model/program: An Uncompromising Fraternal Twin: We Drive the All-Electric 2027 BMW i3
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74275637/2027-bmw-i3-drive/)
+
+### How We’d Spec It: 2027 BMW 3-Series
+
+- Model/program: How We’d Spec It: 2027 BMW 3-Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74297968/2027-bmw-3-series-build-price-spec/)
+
+### Rivian R2 Sales Are So Strong It’s Outselling Both R1 Models Combined
+
+- Model/program: Rivian R2 Sales Are So Strong It’s Outselling Both R1 Models Combined
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74298144/rivian-r2-strong-sales-start/)
+
+### The Best Driving Gloves to Keep You Warm, Stylish, and Safe
+
+- Model/program: The Best Driving Gloves to Keep You Warm, Stylish, and Safe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a38759816/driving-gloves-our-picks/)
+
+### 2027 Kia EV9
+
+- Model/program: 2027 Kia EV9
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/kia/ev9-2027)
+
+### View Exterior Photos of the 2027 Kia EV9
+
+- Model/program: View Exterior Photos of the 2027 Kia EV9
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74296386/2027-kia-ev9-pricing-details-exterior-gallery/)
+
+### View Interior Photos of the 2027 Kia EV9
+
+- Model/program: View Interior Photos of the 2027 Kia EV9
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74297448/2027-kia-ev9-pricing-details-interior-gallery/)
+
+### How Well Would the New Dodge Charger Work on ‘The Dukes of Hazzard’?
+
+- Model/program: How Well Would the New Dodge Charger Work on ‘The Dukes of Hazzard’?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74263549/if-2026-dodge-charger-were-on-dukes-of-hazzard/)
+
+### A British Marque Is Building a New Audi Quattro with a 10,000-RPM V-8
+
+- Model/program: A British Marque Is Building a New Audi Quattro with a 10,000-RPM V-8
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74295295/audi-quattro-audacious-automotive-iv-tribute-car/)
+
+### These Are Our Top-Rated Car Brands, Ranked
+
+- Model/program: These Are Our Top-Rated Car Brands, Ranked
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74263753/top-car-brands/)
+
+### McLaren Confirms Next Supercar Will Be Called McL 820 and Have 809 HP
+
+- Model/program: McLaren Confirms Next Supercar Will Be Called McL 820 and Have 809 HP
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74296120/mclaren-mcl-820-supercar-name-confirmed/)
+
+### 2027 Ineos Grenadier Quartermaster
+
+- Model/program: 2027 Ineos Grenadier Quartermaster
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ineos/grenadier-quartermaster-2027)
+
+### 2027 BMW 3-Series
+
+- Model/program: 2027 BMW 3-Series
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/3-series)
+
+### Used EVs Are Selling Faster Than Gas Cars or Hybrids
+
+- Model/program: Used EVs Are Selling Faster Than Gas Cars or Hybrids
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74287278/used-evs-selling-faster-gas-hybrid/)
+
+### 2027 Nissan Rogue Hybrid
+
+- Model/program: 2027 Nissan Rogue Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/nissan/rogue-hybrid)
+
+### View Interior Photos of the 2027 Nissan Rogue Hybrid
+
+- Model/program: View Interior Photos of the 2027 Nissan Rogue Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74283521/2027-nissan-rogue-hybrid-drive-interior-gallery/)
+
+### Driven: 2027 Nissan Rogue Hybrid Is the Best Nissan on Sale Today
+
+- Model/program: Driven: 2027 Nissan Rogue Hybrid Is the Best Nissan on Sale Today
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74276638/2027-nissan-rogue-hybrid-drive/)
+
+### View Exterior Photos of the 2027 Nissan Rogue Hybrid
+
+- Model/program: View Exterior Photos of the 2027 Nissan Rogue Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74283503/2027-nissan-rogue-hybrid-drive-exterior-gallery/)
 
 ### 2027 BMW 3-Series Drive: Not Just Different but Better
 

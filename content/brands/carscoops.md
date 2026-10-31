@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 2152 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2167 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -29,6 +29,156 @@ Generated internal notes from 2152 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2301876/subaru-wrx-prototype-scoop-nurburgring/)
+
+### Mate Rimac Chased Down A Guy Who Stole His Bugatti Chiron In Croatia
+
+- Model/program: Mate Rimac Chased Down A Guy Who Stole His Bugatti Chiron In Croatia
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2303129/mate-rimac-bugatti-chiron-stolen-croatia/)
+
+### Wild HRC Civic Type R Is In Development For US, Honda Says
+
+- Model/program: Wild HRC Civic Type R Is In Development For US, Honda Says
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2303022/honda-civic-type-r-hrc-coming-to-us/)
+
+### Xpeng's G9L Lands As A Threat To The European Establishment
+
+- Model/program: Xpeng's G9L Lands As A Threat To The European Establishment
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302977/xpeng-g9l-ev-suv-announced-for-europe/)
+
+### Polaris Has Just Created A Dune Buggy With More Power Than An Audi RS3
+
+- Model/program: Polaris Has Just Created A Dune Buggy With More Power Than An Audi RS3
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302580/polaris-rzr-pro-r-factory-boost/)
+
+### Koenigsegg's Latest $3.6 Million Hypercar Has Just Been Recalled
+
+- Model/program: Koenigsegg's Latest $3.6 Million Hypercar Has Just Been Recalled
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302532/koenigsegg-cc850-recall/)
+
+### It Didn't Take Long For Someone To Make The New Audi RS 5 Even Crazier
+
+- Model/program: It Didn't Take Long For Someone To Make The New Audi RS 5 Even Crazier
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302519/abt-sportsline-audi-rs5-r/)
+
+### Even The Electric Golf Couldn't Survive VW's Financial Meltdown
+
+- Model/program: Even The Electric Golf Couldn't Survive VW's Financial Meltdown
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302306/vw-electric-golf-on-hold/)
+
+### The Crazed KTM X-Bow Is Finally Coming To US Roads
+
+- Model/program: The Crazed KTM X-Bow Is Finally Coming To US Roads
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302272/ktm-x-bow-xa-usa/)
+
+### Europe's COTY Shortlist Is An EV Clean Sweep, But China Can Only Watch
+
+- Model/program: Europe's COTY Shortlist Is An EV Clean Sweep, But China Can Only Watch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302223/europe-coty-shortlist-ev-sweep-no-china/)
+
+### LAPD Shuts Down Two Takeovers Before They Start
+
+- Model/program: LAPD Shuts Down Two Takeovers Before They Start
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302206/lapd-preemptively-shuts-down-street-takeovers/)
+
+### David Hasselhoff's Stolen KITT Replica Recovered By Interpol, Now It Could Be Yours
+
+- Model/program: David Hasselhoff's Stolen KITT Replica Recovered By Interpol, Now It Could Be Yours
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302125/hasselhoff-kitt-replica-stolen-interpol-auction/)
+
+### Updated Ford Edge L Is The Sharper Explorer Alternative We Can't Have
+
+- Model/program: Updated Ford Edge L Is The Sharper Explorer Alternative We Can't Have
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302103/updated-2027-ford-edge-l-china/)
+
+### McLaren's Next Supercar Is The 809 HP McL 820, A Not So Little Bird Told Us
+
+- Model/program: McLaren's Next Supercar Is The 809 HP McL 820, A Not So Little Bird Told Us
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302061/mclaren-next-supercar-mcl-820/)
+
+### Subaru Will Only Sell EVs In Europe After 2027
+
+- Model/program: Subaru Will Only Sell EVs In Europe After 2027
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2302009/subaru-ev-only-europe-2028/)
+
+### Facelifted BMW M5 Shows Off Its Production Lights, But In The Wrong Color
+
+- Model/program: Facelifted BMW M5 Shows Off Its Production Lights, But In The Wrong Color
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2301969/bmw-m5-prototype-spy-photos-wrong-color-lights/)
 
 ### Toyota's Next Hybrids Will Sip 15% Less Gas, And They Can't Come Soon Enough
 
