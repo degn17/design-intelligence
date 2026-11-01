@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 1573 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1577 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The Karma Eximius 1 Is a One-Off Hybrid Packing a 6.2-Liter V-8
+
+- Model/program: The Karma Eximius 1 Is a One-Off Hybrid Packing a 6.2-Liter V-8
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74302542/karma-eximius-1-revealed/)
+
+### View Photos of the 1997 30K Luxury Cars Comparison Test
+
+- Model/program: View Photos of the 1997 30K Luxury Cars Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74297559/1997-30k-luxury-cars-archive-comparison-test-gallery/)
+
+### Upward Mobility: 1997 $30K Luxury Sedans Compared
+
+- Model/program: Upward Mobility: 1997 $30K Luxury Sedans Compared
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74207759/1997-30k-luxury-sedans-archive-comparison-test/)
+
+### Shaquille O’Neal Bought This 2004 Rolls-Royce Phantom Just to Prove a Point
+
+- Model/program: Shaquille O’Neal Bought This 2004 Rolls-Royce Phantom Just to Prove a Point
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74275643/2004-rolls-royce-phantom-bring-a-trailer-auction/)
 
 ### View Photos of the Honda Passport Baja Spec Trophy Truck
 

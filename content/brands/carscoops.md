@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 2167 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2171 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Why You Might Need To Use Neutral On An Automatic Transmission
+
+- Model/program: Why You Might Need To Use Neutral On An Automatic Transmission
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2298319/why-neutral-automatic-transmission/)
+
+### How To Charge Your Car Battery Without Unhooking The Terminals
+
+- Model/program: How To Charge Your Car Battery Without Unhooking The Terminals
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2298279/how-to-charge-car-battery-without-unhooking-terminals/)
+
+### Renault And Peugeot Revived Group B Rally Legends As EVs, But Which Did It Better?
+
+- Model/program: Renault And Peugeot Revived Group B Rally Legends As EVs, But Which Did It Better?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2298170/renault-peugeot-group-b-rally-car-revival-evs-compared/)
+
+### What The Bird On The Pontiac Trans Am's Hood Is Actually Called
+
+- Model/program: What The Bird On The Pontiac Trans Am's Hood Is Actually Called
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2296882/pontiac-firebird-trans-am-hood-bird-name/)
 
 ### Honda Racing Unleashes A 1,300+ HP Hybrid Passport Trophy Truck
 
