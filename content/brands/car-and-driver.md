@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 1577 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1578 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The Shelby You Never Knew Existed Is for Sale on BaT
+
+- Model/program: The Shelby You Never Knew Existed Is for Sale on BaT
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74275692/1987-shelby-lancer-bring-a-trailer-auction/)
 
 ### The Karma Eximius 1 Is a One-Off Hybrid Packing a 6.2-Liter V-8
 

@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 2171 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2176 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Karma's Track Weapon Has Four Seats And The Most Powerful Plug-In Hybrid V8
+
+- Model/program: Karma's Track Weapon Has Four Seats And The Most Powerful Plug-In Hybrid V8
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2303479/karma-eximius-1/)
+
+### What The 'E' On A Manual Gear Shift Means (And When To Use It)
+
+- Model/program: What The 'E' On A Manual Gear Shift Means (And When To Use It)
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2298486/e-on-manual-gearshift-meaning/)
+
+### Are Kia And Hyundai's Engines The Same?
+
+- Model/program: Are Kia And Hyundai's Engines The Same?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2300339/kia-hyundai-engines-are-they-same/)
+
+### This Microfiber Towel Mistake Could Ruin Your Ceramic Coating
+
+- Model/program: This Microfiber Towel Mistake Could Ruin Your Ceramic Coating
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2299302/microfiber-towel-mistake-ruin-ceramic-coating/)
+
+### How Much Would It Cost To Buy A New Corvette In 2007 Vs. 2027?
+
+- Model/program: How Much Would It Cost To Buy A New Corvette In 2007 Vs. 2027?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2299289/new-corvette-price-2006-vs-2026/)
 
 ### Why You Might Need To Use Neutral On An Automatic Transmission
 
