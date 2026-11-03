@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 2176 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2192 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Dodge Is Returning To NASCAR After A 14-Year Hiatus
+
+- Model/program: Dodge Is Returning To NASCAR After A 14-Year Hiatus
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304924/dodge-returns-nascar-cup-series/)
+
+### Pagani's Bespoke Huayra 70 Anima Debuts With A Manual
+
+- Model/program: Pagani's Bespoke Huayra 70 Anima Debuts With A Manual
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304832/pagani-huayra-70-anima/)
+
+### GM Agrees To $220 Million Settlement After Illegally Selling Your Driving Data
+
+- Model/program: GM Agrees To $220 Million Settlement After Illegally Selling Your Driving Data
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304710/gm-220-million-settlement-driving-data/)
+
+### This Restomod Audi Quattro Has A Screaming 10,000 RPM V8
+
+- Model/program: This Restomod Audi Quattro Has A Screaming 10,000 RPM V8
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304704/restomod-audi-quattro-sema/)
+
+### Hyundai Is Developing AI Specifically For Heavy-Duty Towing And Rugged Off-Roading
+
+- Model/program: Hyundai Is Developing AI Specifically For Heavy-Duty Towing And Rugged Off-Roading
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304697/hyundai-developing-ai-for-heavy-duty-towing-off-roading/)
+
+### BMW Gets Roasted For Calling '90s Toyota 'Boring'
+
+- Model/program: BMW Gets Roasted For Calling '90s Toyota 'Boring'
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304636/bmw-roasted-social-media-90s-toyota-boring/)
+
+### This Lexus GX 550 On Portal Axles Might Be The Ultimate Off-Roader
+
+- Model/program: This Lexus GX 550 On Portal Axles Might Be The Ultimate Off-Roader
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304604/sema-gx-550-portal-axles/)
+
+### Fridge Hacking In Europe Making Case For Slate In United States
+
+- Model/program: Fridge Hacking In Europe Making Case For Slate In United States
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304360/fridge-hacking-europe-slate-united-states/)
+
+### Acura Needs To Build And Sell A Wild ADX Just Like This
+
+- Model/program: Acura Needs To Build And Sell A Wild ADX Just Like This
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304302/acura-adx-cz77-bmx-concept/)
+
+### This SEMA-Bound Toyota Tacoma Has Never Heard Of The Word Restraint
+
+- Model/program: This SEMA-Bound Toyota Tacoma Has Never Heard Of The Word Restraint
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304280/custom-toyota-tacoma-mountain-yotas-sema-show/)
+
+### BMWs Will Tackle City Streets Without Your Help Next Year
+
+- Model/program: BMWs Will Tackle City Streets Without Your Help Next Year
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304198/bmw-level-2-self-driving-2027-update/)
+
+### Watch A Tesla Driver Ruin His Night Testing Emergency Drive Away
+
+- Model/program: Watch A Tesla Driver Ruin His Night Testing Emergency Drive Away
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2303980/tesla-emergency-drive-away-caught-on-video/)
+
+### Cybertruck Could Get Trick Suspension-Based Loading Ramp
+
+- Model/program: Cybertruck Could Get Trick Suspension-Based Loading Ramp
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2303801/tesla-cybertruck-ramp-mode-patent-application/)
+
+### Giugiaro Revisits The Baby Lambo He Invented
+
+- Model/program: Giugiaro Revisits The Baby Lambo He Invented
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2303705/giugiaro-lamborghini-gallardo-restomod/)
+
+### These Are The Ultimate Nissan Pathfinders For The Track And The Trail
+
+- Model/program: These Are The Ultimate Nissan Pathfinders For The Track And The Trail
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2303637/nissan-trailfinder-trackfinder/)
+
+### Porsche Is Working On 15 New One-Offs, Including One That Costs $15 Million
+
+- Model/program: Porsche Is Working On 15 New One-Offs, Including One That Costs $15 Million
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2303609/porsche-one-off-plans/)
 
 ### Karma's Track Weapon Has Four Seats And The Most Powerful Plug-In Hybrid V8
 

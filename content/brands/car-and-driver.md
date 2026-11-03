@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 1578 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1593 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Jeep’s Wrangler Scrambler SRT Concept Previews the Future of the Brand
+
+- Model/program: Jeep’s Wrangler Scrambler SRT Concept Previews the Future of the Brand
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74314455/jeep-wrangler-scrambler-srt-concept-revealed/)
+
+### See the Jeep Wrangler Scrambler SRT Concept from All Angles
+
+- Model/program: See the Jeep Wrangler Scrambler SRT Concept from All Angles
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74316800/jeep-wrangler-scrambler-srt-concept-revealed-gallery/)
+
+### 2027 Harley-Davidson Sprint 440 Harkens Back to a Simpler Time
+
+- Model/program: 2027 Harley-Davidson Sprint 440 Harkens Back to a Simpler Time
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74315777/2027-harley-davidson-sprint-440-revealed/)
+
+### 1985 Ford F-250 Restomod Sends Raptor Brand to the ’80s at SEMA
+
+- Model/program: 1985 Ford F-250 Restomod Sends Raptor Brand to the ’80s at SEMA
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74314548/1985-ford-f-250-raptor-sema/)
+
+### Chevy Reportedly Axes Plans for the Corvette SUV and EV
+
+- Model/program: Chevy Reportedly Axes Plans for the Corvette SUV and EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74314095/chevy-corvette-axes-suv-ev-plans-report/)
+
+### The Car That Fell to Earth: We Test the 1979 Datsun 310-GX
+
+- Model/program: The Car That Fell to Earth: We Test the 1979 Datsun 310-GX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74263527/1979-datsun-310-gx-archive-test/)
+
+### View Photos of the 1979 Datsun 310-GX
+
+- Model/program: View Photos of the 1979 Datsun 310-GX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74313008/1979-datsun-310-gx-archive-test-gallery/)
+
+### Track-Optimized Fluidity: We Drive the 2027 Ariel Atom 4RR
+
+- Model/program: Track-Optimized Fluidity: We Drive the 2027 Ariel Atom 4RR
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74220412/2027-ariel-atom-4rr-drive/)
+
+### ‘Billie’ Is a 650-HP Modified Pontiac GTO from Ringbrothers
+
+- Model/program: ‘Billie’ Is a 650-HP Modified Pontiac GTO from Ringbrothers
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74312712/ringbrothers-pontiac-gto-billie-sema-revealed/)
+
+### Tested: Best Home EV Chargers for 2026
+
+- Model/program: Tested: Best Home EV Chargers for 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a39917614/best-home-ev-chargers-tested/)
+
+### Our Long-Term 2026 Honda Passport Is Still a Hot Commodity
+
+- Model/program: Our Long-Term 2026 Honda Passport Is Still a Hot Commodity
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a69729672/2026-honda-passport-trailsport-reliability-maintenance/)
+
+### Nissan Turns the Armada into the Safari-Ready Jungle Patrol Concept
+
+- Model/program: Nissan Turns the Armada into the Safari-Ready Jungle Patrol Concept
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74311593/nissan-armada-jungle-patrol-concept-revealed/)
+
+### Nissan Turns the Pathfinder into a Lifted Off-Roader for SEMA
+
+- Model/program: Nissan Turns the Pathfinder into a Lifted Off-Roader for SEMA
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74311283/nissan-pathfinder-xe-v6-concept-sema-revealed/)
+
+### Nissan Frontier Ronin Concept Looks to Take on the Ranger Raptor
+
+- Model/program: Nissan Frontier Ronin Concept Looks to Take on the Ranger Raptor
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74298824/nissan-frontier-ronin-sema-concept-revealed/)
 
 ### The Shelby You Never Knew Existed Is for Sale on BaT
 
@@ -19,6 +159,16 @@ Generated internal notes from 1578 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a74275692/1987-shelby-lancer-bring-a-trailer-auction/)
+
+### How to Choose the Best Car Battery
+
+- Model/program: How to Choose the Best Car Battery
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a26310824/best-car-battery/)
 
 ### The Karma Eximius 1 Is a One-Off Hybrid Packing a 6.2-Liter V-8
 
