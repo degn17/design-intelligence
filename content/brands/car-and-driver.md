@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1593 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1605 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -29,6 +29,126 @@ Generated internal notes from 1593 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/photos/a74316800/jeep-wrangler-scrambler-srt-concept-revealed-gallery/)
+
+### These Are the Bestselling Electric Pickup Trucks
+
+- Model/program: These Are the Bestselling Electric Pickup Trucks
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74324287/bestselling-electric-pickup-trucks/)
+
+### Range Rover Replacing Evoque and Velar Models with Upcoming GT EV
+
+- Model/program: Range Rover Replacing Evoque and Velar Models with Upcoming GT EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74323107/range-rover-evoque-velar-ending-production-2027/)
+
+### Fat Fender Garage’s GT/FX Pairs Sporty Looks with an 800-HP V-8
+
+- Model/program: Fat Fender Garage’s GT/FX Pairs Sporty Looks with an 800-HP V-8
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74314900/fat-fender-garage-gtfx-truck-sema-revealed/)
+
+### Best Electric Ride-On Cars for Kids
+
+- Model/program: Best Electric Ride-On Cars for Kids
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g41298125/best-kids-ride-on-electric-cars/)
+
+### Ford’s Frostwarden Bronco Is a One-Off Rescue Vehicle with 1200 HP
+
+- Model/program: Ford’s Frostwarden Bronco Is a One-Off Rescue Vehicle with 1200 HP
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74315769/ford-bronco-frostwarden-megazilla-v8-sema-revealed/)
+
+### Toyota Confirms the Celica’s Return as a Rally Race Car for 2027
+
+- Model/program: Toyota Confirms the Celica’s Return as a Rally Race Car for 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74322779/toyota-gr-celica-confirmed-rally-racing-2027/)
+
+### Dodge Confirms It Will Return to the NASCAR Cup Championship in 2027
+
+- Model/program: Dodge Confirms It Will Return to the NASCAR Cup Championship in 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74322205/dodge-nascar-cup-2027-return-confirmed/)
+
+### 2027 Genesis GV60 / GV60 Magma
+
+- Model/program: 2027 Genesis GV60 / GV60 Magma
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/genesis/gv60)
+
+### Genesis GV60 Magma Doesn’t Sacrifice Speed for Faux-Shift Fun
+
+- Model/program: Genesis GV60 Magma Doesn’t Sacrifice Speed for Faux-Shift Fun
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74287501/2027-genesis-gv60-magma-faux-shift-acceleration-test/)
+
+### View Interior Photos of the 2027 Genesis GV60 Magma
+
+- Model/program: View Interior Photos of the 2027 Genesis GV60 Magma
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74249801/2027-genesis-gv60-magma-test-interior-gallery/)
+
+### View Exterior Photos of the 2027 Genesis GV60 Magma
+
+- Model/program: View Exterior Photos of the 2027 Genesis GV60 Magma
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74249775/2027-genesis-gv60-magma-test-exterior-gallery/)
+
+### Tested: 2027 Genesis GV60 Magma Is a Riot
+
+- Model/program: Tested: 2027 Genesis GV60 Magma Is a Riot
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74249600/2027-genesis-gv60-magma-test/)
 
 ### 2027 Harley-Davidson Sprint 440 Harkens Back to a Simpler Time
 

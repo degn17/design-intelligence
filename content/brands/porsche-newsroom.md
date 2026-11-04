@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 163 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 171 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### When a passion for Porsche turns into friendship
+
+- Model/program: When a passion for Porsche turns into friendship
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-kirk-gittens-mnd-43610.html)
+
+### Porsche congratulates Derek Bell on his 85th birthday
+
+- Model/program: Porsche congratulates Derek Bell on his 85th birthday
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-derek-bell-85th-birthday-43597.html)
+
+### Engineer at heart: Dr Michael Steiner is ending his tenure on the Executive Board of Porsche
+
+- Model/program: Engineer at heart: Dr Michael Steiner is ending his tenure on the Executive Board of Porsche
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-dr-michael-steiner-ending-tenure-on-executive-board-43625.html)
+
+### New ‘Raceborn Moments’ episode: Two RS Spyders, countless memories
+
+- Model/program: New ‘Raceborn Moments’ episode: Two RS Spyders, countless memories
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-raceborn-moments-rs-sypder-43612.html)
+
+### Porsche and La Marzocco unveil the 911 Carrera RS 2.7 Collection
+
+- Model/program: Porsche and La Marzocco unveil the 911 Carrera RS 2.7 Collection
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-911-carrera-rs-2-7-collection-la-marzocco-43603.html)
+
+### Andy Donaldson: From Macan to marathon in the Australian Outback
+
+- Model/program: Andy Donaldson: From Macan to marathon in the Australian Outback
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-andy-donaldson-australia-43588.html)
+
+### Porsche AG systematically implements its strategic realignment: robust results and cashflow, outlook remains stable
+
+- Model/program: Porsche AG systematically implements its strategic realignment: robust results and cashflow, outlook remains stable
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-financial-figures-q3-2026-43487.html)
+
+### A lap of the Isle of Man with TT legend John McGuinness
+
+- Model/program: A lap of the Isle of Man with TT legend John McGuinness
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-sunday-drives-isle-of-man-john-mcguinness-43569.html)
 
 ### Porsche Engineering and Porsche Digital combine their expertise
 

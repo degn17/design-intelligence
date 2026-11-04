@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 2192 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2209 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,176 @@ Generated internal notes from 2192 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2304924/dodge-returns-nascar-cup-series/)
+
+### Nissan Goes Off-Road Crazy With Three Wild SEMA Concepts
+
+- Model/program: Nissan Goes Off-Road Crazy With Three Wild SEMA Concepts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2306034/nissan-frontier-armada-pathfinder-sema-concept/)
+
+### Acura Begins Selling 3,000 NSX Restoration Parts In The United States
+
+- Model/program: Acura Begins Selling 3,000 NSX Restoration Parts In The United States
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305957/acura-restoration-parts-nsx/)
+
+### GM's Hybrid Onslaught Will Start With Its Big SUVs
+
+- Model/program: GM's Hybrid Onslaught Will Start With Its Big SUVs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305942/gm-hybrid-three-row-big-suv/)
+
+### Waymo's Next Driverless Taxi Is A Factory-Built Toyota bZ
+
+- Model/program: Waymo's Next Driverless Taxi Is A Factory-Built Toyota bZ
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305846/waymo-taxi-driverless-toyota-bz/)
+
+### Fat Fender's 800 HP Ford F-100 Is The Work Of Over 15,000 Hours
+
+- Model/program: Fat Fender's 800 HP Ford F-100 Is The Work Of Over 15,000 Hours
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305806/fat-fender-f-150-800-hp-sema-2026/)
+
+### 2,977 HP U9 Xtreme Destroyed As BYD Aims For 311 MPH
+
+- Model/program: 2,977 HP U9 Xtreme Destroyed As BYD Aims For 311 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305589/yangwang-u9-xtreme-crash-video/)
+
+### It Took 5,500 Hours For Ringbrothers To Build This Wild Pontiac GTO
+
+- Model/program: It Took 5,500 Hours For Ringbrothers To Build This Wild Pontiac GTO
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305352/ringbrothers-pontiac-gto/)
+
+### Police In Texas Could Hunt Criminals In This Dodge Durango Hellcat
+
+- Model/program: Police In Texas Could Hunt Criminals In This Dodge Durango Hellcat
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305579/dodge-durango-hellcat-police-cruiser/)
+
+### The Carbon Body Is The Least Interesting Thing About This Ford Mustang
+
+- Model/program: The Carbon Body Is The Least Interesting Thing About This Ford Mustang
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304800/classic-recreations-carbon-fiber-shelby-gt500-sema/)
+
+### Two-Pack Of Oscar Mayer Weinermobiles For Sale
+
+- Model/program: Two-Pack Of Oscar Mayer Weinermobiles For Sale
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305349/oscar-mayer-weinermobile-pedal-car-auction/)
+
+### The Homeschooled Crowd Just Figured Out Lunch Tray Drifting
+
+- Model/program: The Homeschooled Crowd Just Figured Out Lunch Tray Drifting
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305318/lunch-tray-drifting-video/)
+
+### United States Sets Election Day Record For Gas Prices
+
+- Model/program: United States Sets Election Day Record For Gas Prices
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305303/election-day-gas-prices-us/)
+
+### Jeep Scrambler Returns With V8 Power And Independent Front Suspension, But You Can't Buy It Yet
+
+- Model/program: Jeep Scrambler Returns With V8 Power And Independent Front Suspension, But You Can't Buy It Yet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305158/jeep-scrambler-sema-2026/)
+
+### Hyundai Palisade XRT Pro First Drive: The Skid Plate Isn't Just For Show
+
+- Model/program: Hyundai Palisade XRT Pro First Drive: The Skid Plate Isn't Just For Show
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304768/2027-hyundai-palisade-xrt-pro-review-first-drive/)
+
+### BMW Alpina Teases Its Next Model But We Already Know What It Is
+
+- Model/program: BMW Alpina Teases Its Next Model But We Already Know What It Is
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305122/new-alpina-model-known-bmw/)
+
+### Rejoice! 2027 Mazda 3 Still Available With Manual Transmission
+
+- Model/program: Rejoice! 2027 Mazda 3 Still Available With Manual Transmission
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305096/2027-mazda-3-manual/)
+
+### Xiaomi SU7 Ultra Loses The Wing For A Stealthier Nürburgring Test
+
+- Model/program: Xiaomi SU7 Ultra Loses The Wing For A Stealthier Nürburgring Test
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305066/xiaomi-su7-ultra-loses-wing-for-nurburgring-test/)
 
 ### Pagani's Bespoke Huayra 70 Anima Debuts With A Manual
 
