@@ -2,13 +2,183 @@
 
 ## Current positioning
 
-Generated internal notes from 2209 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2226 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### China's Buick Electra GS Is A Stylish Hybrid America Can't Have
+
+- Model/program: China's Buick Electra GS Is A Stylish Hybrid America Can't Have
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307363/buick-electra-gs-china-america-cant-have/)
+
+### Mercedes' Smart Rear Window Delivers Passive Aggressive Messages To The People Behind You
+
+- Model/program: Mercedes' Smart Rear Window Delivers Passive Aggressive Messages To The People Behind You
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307245/mercedes-benz-smart-rear-window-led-messages/)
+
+### Rimac Is Helping BMW Create Two New Mystery Models
+
+- Model/program: Rimac Is Helping BMW Create Two New Mystery Models
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307217/rimac-new-bmw-models/)
+
+### 'Bay To LA' Takeovers End With 22 Arrests And 7 Cars Impounded
+
+- Model/program: 'Bay To LA' Takeovers End With 22 Arrests And 7 Cars Impounded
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307152/police-street-takeover-task-force-impounds-seven-cars/)
+
+### This Kia EV4 GT Is Made Of Actual Tennis Court Clay
+
+- Model/program: This Kia EV4 GT Is Made Of Actual Tennis Court Clay
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307082/kia-ev4-rafael-nadal-clay-tribute-car/)
+
+### Stacking Super Duty Trucks And A Lamborghini Huracan STO Is The Ultimate SEMA Flex
+
+- Model/program: Stacking Super Duty Trucks And A Lamborghini Huracan STO Is The Ultimate SEMA Flex
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307011/elevation-off-grid-sema-display-ford-super-duty-lamborghini/)
+
+### Lamborghini Temerario Tettonero Will Make You Forget About The Revuelto
+
+- Model/program: Lamborghini Temerario Tettonero Will Make You Forget About The Revuelto
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2306965/lamborghini-temerario-tettonero/)
+
+### Subaru AVH Explained: What It Means And How It Works
+
+- Model/program: Subaru AVH Explained: What It Means And How It Works
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2306760/subaru-avh-explained/)
+
+### Why Condensation Builds Up In Your Car's Headlights (And How To Get Rid Of It)
+
+- Model/program: Why Condensation Builds Up In Your Car's Headlights (And How To Get Rid Of It)
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2306754/why-condensation-moisture-car-headlights-how-to-remove/)
+
+### Ariel Launches Entire Lineup In U.S.
+
+- Model/program: Ariel Launches Entire Lineup In U.S.
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2306822/ariel-launches-entire-lineup-us/)
+
+### The 'FJ' In Toyota FJ Cruiser Has Real, Historical Significance
+
+- Model/program: The 'FJ' In Toyota FJ Cruiser Has Real, Historical Significance
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2306734/toyota-fj-cruiser-engineering-code-historical-significance/)
+
+### Bodybuilder's Insane 1969 Boss Mustang Has A 7.3-Liter V8
+
+- Model/program: Bodybuilder's Insane 1969 Boss Mustang Has A 7.3-Liter V8
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304648/sema-boss-mustang-megazilla/)
+
+### Why Fast Charging Is Hard On EV Batteries
+
+- Model/program: Why Fast Charging Is Hard On EV Batteries
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2306678/why-fast-charging-hard-ev-batteries/)
+
+### 1966 Ford Mustang R125 Honors 125 Years Of Racing Heritage
+
+- Model/program: 1966 Ford Mustang R125 Honors 125 Years Of Racing Heritage
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2306501/1966-ford-mustang-r125-sema/)
+
+### China's BMW 3 Series Is As Big As An American 5 Series
+
+- Model/program: China's BMW 3 Series Is As Big As An American 5 Series
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2306488/china-bmw-3-series-big-as-american-5-series/)
+
+### This Tacoma-Based Lexus Pickup Makes A Strong Case For An Official Luxury Truck
+
+- Model/program: This Tacoma-Based Lexus Pickup Makes A Strong Case For An Official Luxury Truck
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2306347/tacoma-tx1-lexus-luxury-pickup-sema/)
+
+### What If Alfa Romeo Actually Built A Production Cuorerosso Sedan?
+
+- Model/program: What If Alfa Romeo Actually Built A Production Cuorerosso Sedan?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2306337/render-production-alfa-cuorerosso-sedan/)
 
 ### Dodge Is Returning To NASCAR After A 14-Year Hiatus
 

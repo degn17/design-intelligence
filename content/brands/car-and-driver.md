@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 1605 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1619 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Which Custom Chevy Is Your Favorite? This SEMA Pair Has the Crowd Voting
+
+- Model/program: Which Custom Chevy Is Your Favorite? This SEMA Pair Has the Crowd Voting
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74337650/granatelli-his-and-hers-1973-chevy-trucks-sema/)
+
+### Mercedes Delays U.S. GLC Production, Leaving the Model Vulnerable to Tariffs
+
+- Model/program: Mercedes Delays U.S. GLC Production, Leaving the Model Vulnerable to Tariffs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74334658/mercedes-glc-production-delayed-for-us/)
+
+### 2027 Lamborghini Temerario
+
+- Model/program: 2027 Lamborghini Temerario
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lamborghini/temerario-2027)
+
+### These Are the Coolest and Craziest Cars We Saw at SEMA 2026
+
+- Model/program: These Are the Coolest and Craziest Cars We Saw at SEMA 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74326064/coolest-craziest-cars-sema-2026/)
+
+### Ford Says Even the Fathom EV’s Fanciest Trims Will Stay Under $40K
+
+- Model/program: Ford Says Even the Fathom EV’s Fanciest Trims Will Stay Under $40K
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74335716/2028-ford-fathom-top-trims-priced-under-40k/)
+
+### Car Body Styles and Sizes Explained, from Compact Sedans to Full-Size SUVs and Everything in Between
+
+- Model/program: Car Body Styles and Sizes Explained, from Compact Sedans to Full-Size SUVs and Everything in Between
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a64655267/vehicle-car-truck-suv-body-types-explained/)
+
+### BMW Alpina’s First Production Car Glides During High-Speed Testing
+
+- Model/program: BMW Alpina’s First Production Car Glides During High-Speed Testing
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74333597/bmw-alpinas-first-production-car-glides-during-high-speed-testing/)
+
+### This V-16 Resurrects a Forgotten Engine Architecture for a Custom Build
+
+- Model/program: This V-16 Resurrects a Forgotten Engine Architecture for a Custom Build
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74329515/v16-engine-sema-custom-build/)
+
+### 2026 Tesla Model Y Performance vs. 2027 Rivian R2 Performance Comparison Test
+
+- Model/program: 2026 Tesla Model Y Performance vs. 2027 Rivian R2 Performance Comparison Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a74295123/2027-rivian-r2-performance-2026-tesla-model-y-performance-comparison-test/)
+
+### View Interior Photos of the 2027 Rivian R2 Performance
+
+- Model/program: View Interior Photos of the 2027 Rivian R2 Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74296044/2027-rivian-r2-performance-test-interior-gallery/)
+
+### View Exterior Photos of the 2027 Rivian R2 Performance
+
+- Model/program: View Exterior Photos of the 2027 Rivian R2 Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74295964/2027-rivian-r2-performance-test-exterior-gallery/)
+
+### View Interior Photos of the 2026 Tesla Model Y Performance
+
+- Model/program: View Interior Photos of the 2026 Tesla Model Y Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74295439/2026-tesla-model-y-performance-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Tesla Model Y Performance
+
+- Model/program: View Exterior Photos of the 2026 Tesla Model Y Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74295403/2026-tesla-model-y-performance-test-exterior-gallery/)
+
+### This Slammed ’55 Chevy Bel Air Restomod Packs a 741-HP V-8
+
+- Model/program: This Slammed ’55 Chevy Bel Air Restomod Packs a 741-HP V-8
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74329498/1955-chevy-bel-air-restomod-sema/)
 
 ### Jeep’s Wrangler Scrambler SRT Concept Previews the Future of the Brand
 
