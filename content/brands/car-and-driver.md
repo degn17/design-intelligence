@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 1619 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1633 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The 2027 Chevy Trax’s Facelift Comes with a $2000 Price Increase
+
+- Model/program: The 2027 Chevy Trax’s Facelift Comes with a $2000 Price Increase
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74347624/2027-chevrolet-trax-pricing-revealed/)
+
+### 2027 Lexus TX
+
+- Model/program: 2027 Lexus TX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/tx-2027)
+
+### Buick Electra GS Is a Sleek New Plug-In Hybrid Sedan for China
+
+- Model/program: Buick Electra GS Is a Sleek New Plug-In Hybrid Sedan for China
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74347156/buick-electra-gs-china-revealed/)
+
+### 2027 Mercedes-AMG GT 4-Door
+
+- Model/program: 2027 Mercedes-AMG GT 4-Door
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-amg/gt-4-door-ev)
+
+### Hyundai Recalls 38K Vehicles Over Faulty Airbags and Seatbelts
+
+- Model/program: Hyundai Recalls 38K Vehicles Over Faulty Airbags and Seatbelts
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74345927/hyundai-kona-electric-veloster-n-airbag-seatbelts-recall/)
+
+### Mitsubishi Releases More Specs on the Pajero SUV, Including Pricing
+
+- Model/program: Mitsubishi Releases More Specs on the Pajero SUV, Including Pricing
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74345871/mitsubishi-pajero-suv-specs/)
+
+### Acura Kicks Off Sales of More Than 3000 Official Reproduction Parts for the 1st-Gen NSX
+
+- Model/program: Acura Kicks Off Sales of More Than 3000 Official Reproduction Parts for the 1st-Gen NSX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74345044/acura-nsx-first-gen-parts-sales/)
+
+### Hyundai Has a Clever Way to Add Power to a Two-Way Tailgate
+
+- Model/program: Hyundai Has a Clever Way to Add Power to a Two-Way Tailgate
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74337202/hyundai-kia-dual-axis-power-tailgate-patent/)
+
+### View Exterior Photos of the 2027 Chevrolet Silverado 1500
+
+- Model/program: View Exterior Photos of the 2027 Chevrolet Silverado 1500
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74313452/2027-chevrolet-silverado-1500-drive-exterior-gallery/)
+
+### 2027 Chevrolet Silverado 1500 Test: Capability, Comfort, and Style
+
+- Model/program: 2027 Chevrolet Silverado 1500 Test: Capability, Comfort, and Style
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74312589/2027-chevrolet-silverado-1500-trail-boss-test/)
+
+### View Interior Photos of the 2027 Chevrolet Silverado 1500
+
+- Model/program: View Interior Photos of the 2027 Chevrolet Silverado 1500
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74313479/2027-chevrolet-silverado-1500-drive-interior-gallery/)
+
+### View Interior Photos of the 2027 Mercedes-AMG GT 4-Door Coupe
+
+- Model/program: View Interior Photos of the 2027 Mercedes-AMG GT 4-Door Coupe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74334477/2027-mercedes-amg-gt-4-door-ev-drive-interior-gallery/)
+
+### Driven: The Mercedes-AMG GT 4-Door Won’t Make You Wait
+
+- Model/program: Driven: The Mercedes-AMG GT 4-Door Won’t Make You Wait
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74335359/2027-mercedes-amg-gt-4-door-ev-drive/)
+
+### View Exterior Photos of the 2027 Mercedes-AMG GT 4-Door Coupe
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-AMG GT 4-Door Coupe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74333928/2027-mercedes-amg-gt-4-door-ev-drive-exterior-gallery/)
 
 ### Which Custom Chevy Is Your Favorite? This SEMA Pair Has the Crowd Voting
 

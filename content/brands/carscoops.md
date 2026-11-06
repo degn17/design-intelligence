@@ -2,13 +2,193 @@
 
 ## Current positioning
 
-Generated internal notes from 2226 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2244 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### BMW's Smallest SUV Getting Neue Klasse Treatment As 2028 iX2
+
+- Model/program: BMW's Smallest SUV Getting Neue Klasse Treatment As 2028 iX2
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2308649/2028-bmw-ix2-spy-shots/)
+
+### Harley-Davidson's Sprint 440 Is A 27 HP, Single Cylinder Hoglet For $6,000
+
+- Model/program: Harley-Davidson's Sprint 440 Is A 27 HP, Single Cylinder Hoglet For $6,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2308549/harley-davidson-sprint-440-hoglet/)
+
+### Another City Is Shutting Down All Of Its Flock Cameras
+
+- Model/program: Another City Is Shutting Down All Of Its Flock Cameras
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2308542/another-city-shutting-down-flock-cameras/)
+
+### Chevy Dealer Wants To Sell A Corvette ZR1X With A $400,000 Markup
+
+- Model/program: Chevy Dealer Wants To Sell A Corvette ZR1X With A $400,000 Markup
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2308520/chevy-corvette-zr1x-dealer-markup/)
+
+### New Fiat CEO Says Killing The Punto Was A Mistake, Wants Its Back
+
+- Model/program: New Fiat CEO Says Killing The Punto Was A Mistake, Wants Its Back
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2308517/fiat-ceo-killing-punto-mistake-wants-back/)
+
+### GM Patents Cars That Change Camber And Ride Height Before You Lose Traction
+
+- Model/program: GM Patents Cars That Change Camber And Ride Height Before You Lose Traction
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2308479/gm-patent-active-suspension-camber-ride-height/)
+
+### Hyundai's Record October Would Have Been A Decline Without The Santa Fe
+
+- Model/program: Hyundai's Record October Would Have Been A Decline Without The Santa Fe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2308473/hyundai-sales-record-october-santa-fe/)
+
+### Hyundai Patents Wheels That Can Close Their Own Spokes At Speed
+
+- Model/program: Hyundai Patents Wheels That Can Close Their Own Spokes At Speed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2308417/hyundai-wheel-patent-close-spokes-automatically/)
+
+### Mopar Just Made It Much Easier To Drop A Crate Hemi In Your DIY Build
+
+- Model/program: Mopar Just Made It Much Easier To Drop A Crate Hemi In Your DIY Build
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2308314/mopar-crate-hemi-crate-engine-turnkey-packages/)
+
+### Ford's Bronco Frostwarden Is A 1,200 HP Beast We Wish We Could Buy
+
+- Model/program: Ford's Bronco Frostwarden Is A 1,200 HP Beast We Wish We Could Buy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2308290/sema-ford-bronco-frostwarden/)
+
+### Ford's Top-Spec Fathom Will Cost Under $40,000
+
+- Model/program: Ford's Top-Spec Fathom Will Cost Under $40,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2308018/2028-ford-fathom-msrp-under-40000-top-spec/)
+
+### The New BMW Alpina 7-Series Will Let You Cruise Down The Autobahn At Over 186 MPH
+
+- Model/program: The New BMW Alpina 7-Series Will Let You Cruise Down The Autobahn At Over 186 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307895/alpina-bmw-7-series-top-speed/)
+
+### The 2027 Chevrolet Silverado's New V8s Are Great, But The Tech Is The Bigger Story
+
+- Model/program: The 2027 Chevrolet Silverado's New V8s Are Great, But The Tech Is The Bigger Story
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307845/2027-chevy-silverado-review-first-drive/)
+
+### Can You Really Clean Old Spark Plugs And Use Them Again?
+
+- Model/program: Can You Really Clean Old Spark Plugs And Use Them Again?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307763/can-you-clean-old-spark-plugs/)
+
+### Hyundai Is Expanding Its Alabama Engine Plant For Hybrids And Range Extenders
+
+- Model/program: Hyundai Is Expanding Its Alabama Engine Plant For Hybrids And Range Extenders
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307739/hyundai-alabama-plant-expansion/)
+
+### After Bringing Back The Evo II, HWA Is Now Reviving The AMG Hammer
+
+- Model/program: After Bringing Back The Evo II, HWA Is Now Reviving The AMG Hammer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307569/hwa-amg-hammer-restomod/)
+
+### Porsche Panamera Facelift Spied, But Can It Stop The Sales Slide?
+
+- Model/program: Porsche Panamera Facelift Spied, But Can It Stop The Sales Slide?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307565/porsche-panamera-hybrid-spy-shots-my28-no-disguise/)
+
+### The Olds Calais Was An Indy 500 Pace Car Edition With No Pace
+
+- Model/program: The Olds Calais Was An Indy 500 Pace Car Edition With No Pace
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2307560/oldsmobile-calais-pace-car-edition-auction/)
 
 ### China's Buick Electra GS Is A Stylish Hybrid America Can't Have
 
