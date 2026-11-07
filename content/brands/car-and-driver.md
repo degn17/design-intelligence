@@ -2,13 +2,203 @@
 
 ## Current positioning
 
-Generated internal notes from 1633 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1652 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The Yangwang U9 Xtreme Just Set Two Guinness World Speed Records
+
+- Model/program: The Yangwang U9 Xtreme Just Set Two Guinness World Speed Records
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74361623/yangwang-u9-xtreme-top-speed-records-312-mph/)
+
+### 2028 Subaru Getaway
+
+- Model/program: 2028 Subaru Getaway
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/subaru/getaway-2028)
+
+### The 2027 Karma Gyesera Is a Stylish Curiosity
+
+- Model/program: The 2027 Karma Gyesera Is a Stylish Curiosity
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74346184/2027-karma-gyesera-drive/)
+
+### View Exterior Photos of the 2027 Karma Gyesera Grand Coupe
+
+- Model/program: View Exterior Photos of the 2027 Karma Gyesera Grand Coupe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74345312/2027-karma-gyesera-grand-coupe-drive-exterior-gallery/)
+
+### View Interior Photos of the 2027 Karma Gyesera Grand Coupe
+
+- Model/program: View Interior Photos of the 2027 Karma Gyesera Grand Coupe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74345445/2027-karma-gyesera-grand-coupe-drive-interior-gallery/)
+
+### 2027 Ford Mustang GTD
+
+- Model/program: 2027 Ford Mustang GTD
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ford/mustang-gtd-2027)
+
+### 2027 Jeep Recon EV
+
+- Model/program: 2027 Jeep Recon EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/jeep/recon-ev-2027)
+
+### 2027 Buick Envista
+
+- Model/program: 2027 Buick Envista
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/buick/envista-2027)
+
+### 2027 Lotus Evija
+
+- Model/program: 2027 Lotus Evija
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lotus/evija-2027)
+
+### 2027 Tesla Cybertruck
+
+- Model/program: 2027 Tesla Cybertruck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/tesla/cybertruck-2027)
+
+### Every Brand Selling Sports Cars in the U.S. in 2027
+
+- Model/program: Every Brand Selling Sports Cars in the U.S. in 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74359082/sports-car-brands/)
+
+### 2027 Toyota RAV4 Raises Prices and Ride Height, PHEV Model Adds NACS
+
+- Model/program: 2027 Toyota RAV4 Raises Prices and Ride Height, PHEV Model Adds NACS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74358709/2027-toyota-rav4-pricing-and-details/)
+
+### Mattel Brick Shop Launches Hot Wheels–Sized Model Car Sets
+
+- Model/program: Mattel Brick Shop Launches Hot Wheels–Sized Model Car Sets
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74349780/mattel-brick-shop-launches-hot-wheelssized-model-car-sets/)
+
+### Lincoln Is Bringing Back the Plug-In Hybrid Aviator in China
+
+- Model/program: Lincoln Is Bringing Back the Plug-In Hybrid Aviator in China
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74349456/lincoln-aviator-ex8-china-revealed/)
+
+### Too Much Motion in the Ocean: We Test the 2027 Mercedes-Benz GLS450
+
+- Model/program: Too Much Motion in the Ocean: We Test the 2027 Mercedes-Benz GLS450
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74322741/2027-mercedes-benz-gls450-4matic-test/)
+
+### View Exterior Photos of the 2027 Mercedes-Benz GLS450 4Matic
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-Benz GLS450 4Matic
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74322815/2027-mercedes-benz-gls450-4matic-test-exterior-gallery/)
+
+### View Interior Photos of the 2027 Mercedes-Benz GLS450 4Matic
+
+- Model/program: View Interior Photos of the 2027 Mercedes-Benz GLS450 4Matic
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74322833/2027-mercedes-benz-gls450-4matic-test-interior-gallery/)
+
+### RIP: Tesla Cybertruck Production Ends Next Year
+
+- Model/program: RIP: Tesla Cybertruck Production Ends Next Year
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74357737/tesla-cybertruck-dead/)
+
+### GM Could Make Variable-Compression Engines Easier to Service
+
+- Model/program: GM Could Make Variable-Compression Engines Easier to Service
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74287239/gm-longitudinal-variable-compression-engine-patent/)
 
 ### The 2027 Chevy Trax’s Facelift Comes with a $2000 Price Increase
 

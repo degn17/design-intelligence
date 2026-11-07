@@ -2,13 +2,213 @@
 
 ## Current positioning
 
-Generated internal notes from 2244 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2264 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### 2027 Kia Telluride X-Pro Review: The Looks Get Your Attention, The Cabin Wins You Over
+
+- Model/program: 2027 Kia Telluride X-Pro Review: The Looks Get Your Attention, The Cabin Wins You Over
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309925/2027-kia-telluride-x-pro-review/)
+
+### Porsche Launches Espresso Machine With A Ducktail Spoiler
+
+- Model/program: Porsche Launches Espresso Machine With A Ducktail Spoiler
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309852/porsche-la-marzocco-espresso-maker-collab-911-carrera-rs-2-7-collection/)
+
+### You Can Now Buy A C8 Corvette With A Manual, But It Doesn't Come From Chevy
+
+- Model/program: You Can Now Buy A C8 Corvette With A Manual, But It Doesn't Come From Chevy
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309820/chevrolet-corvette-tremec-manual-swap/)
+
+### You Can Now Rent A Tesla With FSD On Turo
+
+- Model/program: You Can Now Rent A Tesla With FSD On Turo
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309793/now-rent-tesla-fsd-turo/)
+
+### Deputy Accused Of Using Flock To Track Estranged Wife
+
+- Model/program: Deputy Accused Of Using Flock To Track Estranged Wife
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309724/florida-deputy-charged-using-flock-track-estranged-wife-100-times/)
+
+### This Modified Fiat Topolino Could Cost You More Than A New Honda Civic Hybrid
+
+- Model/program: This Modified Fiat Topolino Could Cost You More Than A New Honda Civic Hybrid
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309621/fiat-topolino-cavalier/)
+
+### Florida Woman Allegedly Drives Rental RAV4 120 MPH Because Passenger Was Late For Court
+
+- Model/program: Florida Woman Allegedly Drives Rental RAV4 120 MPH Because Passenger Was Late For Court
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309619/florida-woman-120-mph-rav4-court/)
+
+### This Firm Has Just Turned A McLaren 750S Into A CLK GTR
+
+- Model/program: This Firm Has Just Turned A McLaren 750S Into A CLK GTR
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309601/sema-mclaren-750s-mercedes-clk-gtr-replica/)
+
+### If You Have A Taste For The Odd, This Plymouth Prowler Might Be Perfect For You
+
+- Model/program: If You Have A Taste For The Odd, This Plymouth Prowler Might Be Perfect For You
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309588/plymouth-prowler-auction-trailer/)
+
+### U.S. Automakers Still Pushing For Complete Ban Of Chinese Cars
+
+- Model/program: U.S. Automakers Still Pushing For Complete Ban Of Chinese Cars
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309460/us-automakers-push-for-complete-ban-chinese-cars/)
+
+### UK Police Get A Lift To Stop Suspected Thief On A Bicycle
+
+- Model/program: UK Police Get A Lift To Stop Suspected Thief On A Bicycle
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309347/uk-guildford-surrey-police-get-van-help-to-stop-thief-on-bicycle/)
+
+### Mopar's EV-Swapped GTX SEMA Car Finally Gets The Hellcat It Deserves
+
+- Model/program: Mopar's EV-Swapped GTX SEMA Car Finally Gets The Hellcat It Deserves
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309314/mopar-1967-plymouth-gtx-restomod-swaps-ev-for-hellcrate/)
+
+### Think The Last VW Beetle Was Retro Enough? Hurtan Didn't, So They Built This
+
+- Model/program: Think The Last VW Beetle Was Retro Enough? Hurtan Didn't, So They Built This
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309297/hurtan-vw-beetle-coachbuild/)
+
+### Tesla Swears Cybercab Meets Federal Safety Standards, But Doesn't Want You To Know How
+
+- Model/program: Tesla Swears Cybercab Meets Federal Safety Standards, But Doesn't Want You To Know How
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309239/tesla-cybercab-safety-standards-confidential/)
+
+### Mercedes May Delay U.S. Production Of The GLC Until 2030
+
+- Model/program: Mercedes May Delay U.S. Production Of The GLC Until 2030
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309205/mercedes-delay-american-glc-production/)
+
+### If You Love Ferrari, Then You Need Its Customer-Spec Le Mans Racer
+
+- Model/program: If You Love Ferrari, Then You Need Its Customer-Spec Le Mans Racer
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309201/lemans-racer-ferrari-spec-auction/)
+
+### Leaked Document Spills The Secrets Of Kia's Future Lineup
+
+- Model/program: Leaked Document Spills The Secrets Of Kia's Future Lineup
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309196/leaked-kia-documents-reveal-future-lineup-plans/)
+
+### VW Refreshes Its Smallest Sedan, But It's Still Forbidden Fruit
+
+- Model/program: VW Refreshes Its Smallest Sedan, But It's Still Forbidden Fruit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309186/vw-virtus-update-india/)
+
+### GM Axes Planned Electric Corvette SUV, Report Claims
+
+- Model/program: GM Axes Planned Electric Corvette SUV, Report Claims
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309083/electric-corvette-suv-axed/)
+
+### The World Didn't Need A Carbon Ford F-100, But Now We Have One
+
+- Model/program: The World Didn't Need A Carbon Ford F-100, But Now We Have One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309037/carbon-fiber-1968-ford-f100-sema/)
 
 ### BMW's Smallest SUV Getting Neue Klasse Treatment As 2028 iX2
 
