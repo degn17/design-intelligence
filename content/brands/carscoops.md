@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 2264 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2268 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Your Next Car Could Be Software-Defined. Here's What That Means
+
+- Model/program: Your Next Car Could Be Software-Defined. Here's What That Means
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304380/software-defined-vehicle-explained/)
+
+### The Reason Subaru Still Builds Cars With Boxer Engines
+
+- Model/program: The Reason Subaru Still Builds Cars With Boxer Engines
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304376/why-subaru-still-builds-cars-with-boxer-engines/)
+
+### Is The 'Five-Year Rule' For Tires Still True?
+
+- Model/program: Is The 'Five-Year Rule' For Tires Still True?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304375/is-five-year-rule-tires-still-true/)
+
+### Iridium Vs. Platinum Spark Plugs: Are There Performance Or Efficiency Differences?
+
+- Model/program: Iridium Vs. Platinum Spark Plugs: Are There Performance Or Efficiency Differences?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2304374/iridium-vs-platinum-spark-plugs-performance-efficiency-differences/)
 
 ### 2027 Kia Telluride X-Pro Review: The Looks Get Your Attention, The Cabin Wins You Over
 

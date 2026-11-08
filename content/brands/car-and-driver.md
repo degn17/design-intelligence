@@ -2,13 +2,73 @@
 
 ## Current positioning
 
-Generated internal notes from 1652 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1658 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Chauffeur Life
+
+- Model/program: Chauffeur Life
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/columns/a74336655/elana-scherr-rear-seat-amenities/)
+
+### This Focus RS Makes Us Nostalgic for a Time When Ford Built Cars Besides the Mustang
+
+- Model/program: This Focus RS Makes Us Nostalgic for a Time When Ford Built Cars Besides the Mustang
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74346893/2016-ford-focus-rs-bring-a-trailer-auction/)
+
+### 1992 Schuppan Porsche 962R: One Man’s Plan to Put a Group C Race Car on the Street
+
+- Model/program: 1992 Schuppan Porsche 962R: One Man’s Plan to Put a Group C Race Car on the Street
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74278904/1992-schuppan-porsche-962r-archive-drive/)
+
+### View Photos of the 1992 Schuppan Porsche 962R
+
+- Model/program: View Photos of the 1992 Schuppan Porsche 962R
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74358822/1992-schuppan-porsche-962r-archive-drive-gallery/)
+
+### Lamborghini Gallardo’s Original Designer Polishes His Masterpiece
+
+- Model/program: Lamborghini Gallardo’s Original Designer Polishes His Masterpiece
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74336866/lamborghini-gallardo-original-designer-restomod/)
+
+### We Tried Audi’s Revised Infotainment System to See If It’s Better
+
+- Model/program: We Tried Audi’s Revised Infotainment System to See If It’s Better
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74275364/audi-infotainment-system-updates/)
 
 ### The Yangwang U9 Xtreme Just Set Two Guinness World Speed Records
 
