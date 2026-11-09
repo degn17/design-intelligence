@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 1658 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1663 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ezra Dyer: Maybe the Saturn Sky Red Line Is Not Quite a Discount Viper, but It Comes Close
+
+- Model/program: Ezra Dyer: Maybe the Saturn Sky Red Line Is Not Quite a Discount Viper, but It Comes Close
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74056723/ezra-dyer-saturn-red-line/)
+
+### Hungarian VW Bus Goes from ‘Matchbox: The Movie’ to Matchbox, the Toy Car
+
+- Model/program: Hungarian VW Bus Goes from ‘Matchbox: The Movie’ to Matchbox, the Toy Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74263645/hungarian-vw-microbus-matchbox-the-movie/)
+
+### Tested: Electric Genesis GV60 Magma Is Louder Than a Corvette Stingray
+
+- Model/program: Tested: Electric Genesis GV60 Magma Is Louder Than a Corvette Stingray
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74349397/genesis-gv60-louder-than-corvette-stingray-tested/)
+
+### This Grand Touring Coupe Is a Subaru Like No Other
+
+- Model/program: This Grand Touring Coupe Is a Subaru Like No Other
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74359416/1993-subaru-svx-bring-a-trailer-auction/)
+
+### Would You Rather: Cadillac Escalade IQ vs. Escalade-V
+
+- Model/program: Would You Rather: Cadillac Escalade IQ vs. Escalade-V
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74230088/would-you-rather-cadillac-escalade-iq-vs-escalade-v/)
 
 ### Chauffeur Life
 

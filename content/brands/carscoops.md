@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 2268 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2272 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Tesla Cybertruck Tires Aren't Cheap To Replace: Here's What They Cost
+
+- Model/program: Tesla Cybertruck Tires Aren't Cheap To Replace: Here's What They Cost
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309006/tesla-cybertruck-tires-replacement-cost/)
+
+### Here's Why Fuel Economy Drops So Much At 75 MPH
+
+- Model/program: Here's Why Fuel Economy Drops So Much At 75 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305269/why-fuel-economy-drops-25-percent-75-mph/)
+
+### What Do The Red And Yellow Dots On Tires Mean?
+
+- Model/program: What Do The Red And Yellow Dots On Tires Mean?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305174/red-yellow-tire-dots-meaning/)
+
+### Can Leaving A Car Battery On Concrete Actually Damage It?
+
+- Model/program: Can Leaving A Car Battery On Concrete Actually Damage It?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2305044/storing-car-battery-concrete-floor/)
 
 ### Your Next Car Could Be Software-Defined. Here's What That Means
 
