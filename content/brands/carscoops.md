@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 2272 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2288 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### The All-Electric Optiq Marks Cadillac's Return To Australia | Review
+
+- Model/program: The All-Electric Optiq Marks Cadillac's Return To Australia | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311503/2026-cadillac-optiq-review-australia/)
+
+### Disney Testing AI-Powered 'Cars'-Themed Parking Assistants
+
+- Model/program: Disney Testing AI-Powered 'Cars'-Themed Parking Assistants
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311179/disney-testing-ai-powered-parking-assistants-cars/)
+
+### Lincoln's New Chinese Aviator Looks Very Different Than The American One
+
+- Model/program: Lincoln's New Chinese Aviator Looks Very Different Than The American One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311037/lincoln-new-aviator-plug-in-hybrid-china/)
+
+### Xiaomi SU7 Xtreme Strips Off Its Camo, Is A New Nürburgring Record Imminent?
+
+- Model/program: Xiaomi SU7 Xtreme Strips Off Its Camo, Is A New Nürburgring Record Imminent?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311180/xiamo-su7-xtreme-spy-shots-nurburgring/)
+
+### Toyota Gives The RAV4 Woodland Actual Suspension Upgrades For 2027
+
+- Model/program: Toyota Gives The RAV4 Woodland Actual Suspension Upgrades For 2027
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2310972/2027-toyota-rav4-woodland-suspension-upgrades/)
+
+### Mitsubishi Pajero Prepares For The Outback With Factory-Backed Accessories
+
+- Model/program: Mitsubishi Pajero Prepares For The Outback With Factory-Backed Accessories
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2310899/mitsubishi-pajero-australian-outback-accessories/)
+
+### This BMW i7 Prototype Is Alpina's First EV
+
+- Model/program: This BMW i7 Prototype Is Alpina's First EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2310831/bmw-i7-alpina-ev-prototype-spied/)
+
+### The Mazda 2 Is Dead, But Something Else Is Taking Its Place
+
+- Model/program: The Mazda 2 Is Dead, But Something Else Is Taking Its Place
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2310784/mazda-2-dead-report/)
+
+### Chery Says North America Is So Important It Could Build Cars In Canada
+
+- Model/program: Chery Says North America Is So Important It Could Build Cars In Canada
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2310771/chery-production-north-america/)
+
+### Ram Rampage Is More Expensive In Europe Than Ram 1500 In The U.S.
+
+- Model/program: Ram Rampage Is More Expensive In Europe Than Ram 1500 In The U.S.
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2310710/ram-rampage-more-expensive-europe-ram-1500/)
+
+### Toyota Confirms Celica Return, And It's Racing It In WRC
+
+- Model/program: Toyota Confirms Celica Return, And It's Racing It In WRC
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2310576/toyota-celica-return-confirmed-racing-in-wrc/)
+
+### Philadelphia Carjacking Crew Targeted New Toyota SUVs For African Export
+
+- Model/program: Philadelphia Carjacking Crew Targeted New Toyota SUVs For African Export
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2310677/philadelphia-carjacking-toyota-suvs/)
+
+### After 2 Billion Miles, Ford Releases Mach-E Battery Report Card
+
+- Model/program: After 2 Billion Miles, Ford Releases Mach-E Battery Report Card
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2310610/2021-ford-mustang-mach-e-battery-report-card/)
+
+### Australia Built A 1980s Supercar Out Of A Front-Drive Alfa Romeo
+
+- Model/program: Australia Built A 1980s Supercar Out Of A Front-Drive Alfa Romeo
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2310560/giocattolo-group-b-supercar/)
+
+### Nissan's Global Off-Roader Set To Go On 'Patrol' In The U.S. In 2027
+
+- Model/program: Nissan's Global Off-Roader Set To Go On 'Patrol' In The U.S. In 2027
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2309107/2027-nissan-armada-patrol-pro4x-us/)
+
+### BYD's Yangwang Altior Is A $310k Rolls-Royce Copycat That Can Tank-Turn
+
+- Model/program: BYD's Yangwang Altior Is A $310k Rolls-Royce Copycat That Can Tank-Turn
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2310226/byd-yangwang-altior/)
 
 ### Tesla Cybertruck Tires Aren't Cheap To Replace: Here's What They Cost
 

@@ -2,13 +2,113 @@
 
 ## Current positioning
 
-Generated internal notes from 1663 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1673 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Audi Has Officially Ended Production of the A8 Flagship Sedan
+
+- Model/program: Audi Has Officially Ended Production of the A8 Flagship Sedan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74378869/audi-a8-sedan-production-ended/)
+
+### Ford Under Investigation for Airbags that Cause Burn Injuries
+
+- Model/program: Ford Under Investigation for Airbags that Cause Burn Injuries
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74377264/ford-explorer-airbag-burn-injury-investigation/)
+
+### Yangwang’s Altior Luxury EV Sedan Aims for Rolls-Royce’s Throne
+
+- Model/program: Yangwang’s Altior Luxury EV Sedan Aims for Rolls-Royce’s Throne
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74377991/byd-yangwang-altior-ev-revealed/)
+
+### Honda Announces Plans to Build a New $3 Billion Factory in Ohio
+
+- Model/program: Honda Announces Plans to Build a New $3 Billion Factory in Ohio
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74376992/honda-announces-3-billion-dollar-ohio-factory-2029/)
+
+### Ford Mustang Shelby GT350 Successor Reportedly Around the Corner
+
+- Model/program: Ford Mustang Shelby GT350 Successor Reportedly Around the Corner
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74375887/ford-mustang-shelby-gt350-successor-report/)
+
+### Subcompact SUVs May Seem Appealing, but Compact Cars Are Often a Better Buy
+
+- Model/program: Subcompact SUVs May Seem Appealing, but Compact Cars Are Often a Better Buy
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a74324982/subcompact-suv-vs-compact-car/)
+
+### Nissan Brings Back the Patrol Name on the 2027 Armada Pro-4X
+
+- Model/program: Nissan Brings Back the Patrol Name on the 2027 Armada Pro-4X
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74361105/2027-nissan-armada-patrol-pro-4x-details/)
+
+### View Interior Photos of the 2028 Audi Nuvolari
+
+- Model/program: View Interior Photos of the 2028 Audi Nuvolari
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74348194/2028-audi-nuvolari-track-drive-interior-gallery/)
+
+### Track Attack: We Drive the 2028 Audi Nuvolari to the Limit
+
+- Model/program: Track Attack: We Drive the 2028 Audi Nuvolari to the Limit
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74346498/2028-audi-nuvolari-track-drive/)
+
+### View Exterior Photos of the 2028 Audi Nuvolari
+
+- Model/program: View Exterior Photos of the 2028 Audi Nuvolari
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74348184/2028-audi-nuvolari-track-drive-exterior-gallery/)
 
 ### Ezra Dyer: Maybe the Saturn Sky Red Line Is Not Quite a Discount Viper, but It Comes Close
 
