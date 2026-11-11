@@ -2,13 +2,183 @@
 
 ## Current positioning
 
-Generated internal notes from 1673 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1690 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A Trip Through Toyota’s New GR Garage Experience Center
+
+- Model/program: A Trip Through Toyota’s New GR Garage Experience Center
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74369752/toyota-new-gr-garage-experience-center-car-collection/)
+
+### Lincoln Recalls 37K Navigators for Front Seat That May Move on Its Own
+
+- Model/program: Lincoln Recalls 37K Navigators for Front Seat That May Move on Its Own
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74391151/lincoln-navigator-seat-movement-recall/)
+
+### The New Lotus Esprit Supercar Will Be Powered by a 670-HP V-8
+
+- Model/program: The New Lotus Esprit Supercar Will Be Powered by a 670-HP V-8
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74388746/2029-lotus-esprit-v8-engine-details/)
+
+### 2027 Bugatti Tourbillon
+
+- Model/program: 2027 Bugatti Tourbillon
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bugatti/tourbillon-2027)
+
+### 2027 Lexus ES
+
+- Model/program: 2027 Lexus ES
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/es-2027)
+
+### 2027 Mercedes-Benz Sprinter
+
+- Model/program: 2027 Mercedes-Benz Sprinter
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mercedes-benz/sprinter-2027)
+
+### 2027 Rivian Commercial Van
+
+- Model/program: 2027 Rivian Commercial Van
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/rivian/commercial-van-2027)
+
+### 2027 VinFast VF8
+
+- Model/program: 2027 VinFast VF8
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/vinfast/vf8-2027)
+
+### View Photos of the 1979 Lancia Zagato
+
+- Model/program: View Photos of the 1979 Lancia Zagato
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74377019/1979-lancia-zagato-archive-test-gallery/)
+
+### Rewarding for the Right Owner: 1979 Lancia Zagato Tested
+
+- Model/program: Rewarding for the Right Owner: 1979 Lancia Zagato Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74311147/1979-lancia-zagato-archive-test/)
+
+### Polestar’s Formula 2030 Concept Car Is a Futuristic Look at Tactile Driving
+
+- Model/program: Polestar’s Formula 2030 Concept Car Is a Futuristic Look at Tactile Driving
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74389720/polestar-formula-2030-concept-revealed/)
+
+### Acura Reveals Limited-Edition Urban Spec Trim for Its 2027 Lineup
+
+- Model/program: Acura Reveals Limited-Edition Urban Spec Trim for Its 2027 Lineup
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74388579/acura-2027-urban-spec-lineup-revealed/)
+
+### Toyota Revives the Scion Name on a Kei Truck for the U.S.
+
+- Model/program: Toyota Revives the Scion Name on a Kei Truck for the U.S.
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74380423/toyota-scion-kei-01-truck-revealed/)
+
+### 2028 Toyota Scion KEI-01
+
+- Model/program: 2028 Toyota Scion KEI-01
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/scion-kei-01-2028)
+
+### Ford Mustang Cobra Confirmed for 2027 Return, and You Can Hear It Now
+
+- Model/program: Ford Mustang Cobra Confirmed for 2027 Return, and You Can Hear It Now
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74386802/2027-ford-mustang-cobra-confirmed-audio/)
+
+### 2027 Chevrolet Silverado HD, a Gorilla-Strong Pickup You Don’t Have to Wrestle With
+
+- Model/program: 2027 Chevrolet Silverado HD, a Gorilla-Strong Pickup You Don’t Have to Wrestle With
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74345146/2027-chevrolet-silverado-hd-drive/)
+
+### View Photos of the 2027 Chevrolet Silverado HD
+
+- Model/program: View Photos of the 2027 Chevrolet Silverado HD
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74376341/2027-chevrolet-silverado-hd-drive-gallery/)
 
 ### Audi Has Officially Ended Production of the A8 Flagship Sedan
 

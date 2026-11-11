@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 2288 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2301 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Formula 2030 Concept Hints At Next Polestar 2
+
+- Model/program: Formula 2030 Concept Hints At Next Polestar 2
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311930/polestar-formula-2030-concept-previews-new-crossover/)
+
+### Audi Axes The Luxurious A8 After 32 Years
+
+- Model/program: Audi Axes The Luxurious A8 After 32 Years
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312780/audi-a8-production-ends/)
+
+### These Two Porsche 911s Are Both Hiding Powerful V8s
+
+- Model/program: These Two Porsche 911s Are Both Hiding Powerful V8s
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311894/eneos-porsche-911-v8-sema-2026/)
+
+### BYD Offices Raided Over Defender Lookalike
+
+- Model/program: BYD Offices Raided Over Defender Lookalike
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312505/byd-offices-raided-defender-lookalike-suv/)
+
+### GM Wants Its AI To Drag Race For You
+
+- Model/program: GM Wants Its AI To Drag Race For You
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312459/gm-launch-control-automated/)
+
+### The Mustang Cobra Is Back And It Sounds Meaner Than Ever
+
+- Model/program: The Mustang Cobra Is Back And It Sounds Meaner Than Ever
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312442/2027-ford-mustang-cobra-teaser/)
+
+### Honda Will Build A $3 Billion Car Plant In Ohio
+
+- Model/program: Honda Will Build A $3 Billion Car Plant In Ohio
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311811/honda-hybrid-factory-ohio/)
+
+### If You Want A Kei Truck, Import A Kei Truck
+
+- Model/program: If You Want A Kei Truck, Import A Kei Truck
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312396/if-you-want-kei-truck-import-kei-truck/)
+
+### It's A Multiverse Thing, You Wouldn't Understand
+
+- Model/program: It's A Multiverse Thing, You Wouldn't Understand
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312262/jeep-commercial-avengers-doomsday/)
+
+### The KTM X-Bow Arrow Is A 330 HP Side-By-Side With A Golf R Heart
+
+- Model/program: The KTM X-Bow Arrow Is A 330 HP Side-By-Side With A Golf R Heart
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312237/ktm-x-bow-arrow-side-by-side-has-golf-r-engine/)
+
+### Does (Pickup) Size Matter? Scion By Toyota Doesn't Think So
+
+- Model/program: Does (Pickup) Size Matter? Scion By Toyota Doesn't Think So
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312041/scion-by-toyota-kei-01-low-speed-vehicle-truck/)
+
+### New Ford Shelby GT350 Could Be Just Around The Corner: Report
+
+- Model/program: New Ford Shelby GT350 Could Be Just Around The Corner: Report
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311998/ford-mustang-shelby-gt350-report/)
+
+### 2027 Chevy Silverado HD 8.3L Diesel Has All The Torque In The World, But You Don't Need It
+
+- Model/program: 2027 Chevy Silverado HD 8.3L Diesel Has All The Torque In The World, But You Don't Need It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311673/2027-chevrolet-silverado-hd-first-drive-towing-duramax/)
 
 ### The All-Electric Optiq Marks Cadillac's Return To Australia | Review
 
