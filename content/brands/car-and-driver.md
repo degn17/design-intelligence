@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1690 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1705 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,156 @@ Generated internal notes from 1690 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a74369752/toyota-new-gr-garage-experience-center-car-collection/)
+
+### KTM Reveals a New X-Bow Side-by-Side with a 330-HP Audi Engine
+
+- Model/program: KTM Reveals a New X-Bow Side-by-Side with a 330-HP Audi Engine
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74403060/ktm-x-bow-arrow-sxs-audi-engine-revealed/)
+
+### View Exterior Photos of the 2025 Ram 1500 Big Horn
+
+- Model/program: View Exterior Photos of the 2025 Ram 1500 Big Horn
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g64220858/2025-ram-1500-big-horn-reliability-maintenance-exterior-gallery/)
+
+### Our Long-Term Ram 1500 Taught Us to Love Hurricanes
+
+- Model/program: Our Long-Term Ram 1500 Taught Us to Love Hurricanes
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a64034818/2025-ram-1500-big-horn-reliability-maintenance/)
+
+### View Interior Photos of the 2025 Ram 1500 Big Horn
+
+- Model/program: View Interior Photos of the 2025 Ram 1500 Big Horn
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g64220887/2025-ram-1500-big-horn-reliability-maintenance-interior-gallery/)
+
+### View Interior Photos of the 2027 Nissan Armada Patrol Pro-4X
+
+- Model/program: View Interior Photos of the 2027 Nissan Armada Patrol Pro-4X
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74402794/2027-nissan-armada-patrol-pro-4x-details-interior-gallery/)
+
+### View Exterior Photos of the 2027 Nissan Armada Patrol Pro-4X
+
+- Model/program: View Exterior Photos of the 2027 Nissan Armada Patrol Pro-4X
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74402790/2027-nissan-armada-patrol-pro-4x-details-exterior-gallery/)
+
+### The $700,000 Audi Nuvolari Will Be Extremely Rare in the U.S.
+
+- Model/program: The $700,000 Audi Nuvolari Will Be Extremely Rare in the U.S.
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74402204/audi-nuvolari-price-production-numbers/)
+
+### Honda Recalls 636K Pilots, Acura MDXs and TLXs over Faulty Power Steering
+
+- Model/program: Honda Recalls 636K Pilots, Acura MDXs and TLXs over Faulty Power Steering
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74400007/honda-pilot-acura-mdx-tlx-power-steering-recall/)
+
+### 2027 Ford Transit
+
+- Model/program: 2027 Ford Transit
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ford/transit-2027)
+
+### 2027 VinFast VF9
+
+- Model/program: 2027 VinFast VF9
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/vinfast/vf9-2027)
+
+### A Texas-Based Tuner Proves the Manual-Transmission C8 Corvette Is Real
+
+- Model/program: A Texas-Based Tuner Proves the Manual-Transmission C8 Corvette Is Real
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74400317/chevy-corvette-c8-manual-transmission-build/)
+
+### 2027 Ram 1500 Rumble Bee Foose Edition Is a Lowrider with a Truck Bed
+
+- Model/program: 2027 Ram 1500 Rumble Bee Foose Edition Is a Lowrider with a Truck Bed
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74399324/2027-ram-1500-rumble-bee-foose-edition-details/)
+
+### View Interior Photos of the 2027 Mercedes-Benz CLA350 EV
+
+- Model/program: View Interior Photos of the 2027 Mercedes-Benz CLA350 EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74361310/2027-mercedes-benz-cla350-4matic-ev-test-interior-gallery/)
+
+### View Exterior Photos of the 2027 Mercedes-Benz CLA350 EV
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-Benz CLA350 EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74361291/2027-mercedes-benz-cla350-4matic-ev-test-exterior-gallery/)
+
+### Tested: 2027 Mercedes-Benz CLA350 EV Aims High and Nearly Hits the Mark
+
+- Model/program: Tested: 2027 Mercedes-Benz CLA350 EV Aims High and Nearly Hits the Mark
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74334140/2027-mercedes-benz-cla350-4matic-ev-test/)
 
 ### Lincoln Recalls 37K Navigators for Front Seat That May Move on Its Own
 

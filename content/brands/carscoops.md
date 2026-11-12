@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 2301 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2309 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Cupra's Terramar VZ5 Is Getting The RS3's Epic Five-Cylinder
+
+- Model/program: Cupra's Terramar VZ5 Is Getting The RS3's Epic Five-Cylinder
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314377/cupra-terramar-vz5-spy-shots/)
+
+### The MGS6 Is A Great Electric SUV, But It Doesn't Stand Out | Review
+
+- Model/program: The MGS6 Is A Great Electric SUV, But It Doesn't Stand Out | Review
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314357/2026-mgs6-review/)
+
+### Dealer Gets Prison After Selling Cars With Fake Plates And No Titles To 47 Victims
+
+- Model/program: Dealer Gets Prison After Selling Cars With Fake Plates And No Titles To 47 Victims
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312482/dealer-prison-47-victims-fake-plates/)
+
+### Suzuki Turned Its Kei Van Into The Ultimate Solo Camper
+
+- Model/program: Suzuki Turned Its Kei Van Into The Ultimate Solo Camper
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312260/suzuki-kei-van-camper/)
+
+### This Classic Bel Air Is Actually A Tesla Under The Skin
+
+- Model/program: This Classic Bel Air Is Actually A Tesla Under The Skin
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311950/chevrolet-bel-air-tesla-conversion/)
+
+### BYD Issues Recall On Flagship SUV Because The Wheels Were On Backwards
+
+- Model/program: BYD Issues Recall On Flagship SUV Because The Wheels Were On Backwards
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313907/byd-recall-wheels-backwards-flagship/)
+
+### Own A Piece Of Ford Roush Sport Truck History With This 1990 F-150 Concept
+
+- Model/program: Own A Piece Of Ford Roush Sport Truck History With This 1990 F-150 Concept
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313099/ford-roush-1990-f-150-sport-truck-auction/)
+
+### Nissan Wants You To Ditch Your RAV4 So Badly It'll Pay You To Do It
+
+- Model/program: Nissan Wants You To Ditch Your RAV4 So Badly It'll Pay You To Do It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313267/nissan-rogue-hybrid-toyota-rav4-incentive/)
 
 ### Formula 2030 Concept Hints At Next Polestar 2
 
