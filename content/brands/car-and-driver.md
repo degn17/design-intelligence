@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 1705 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1721 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### We Explored the Ford Vault, the New Home of Ford’s Heritage Fleet
+
+- Model/program: We Explored the Ford Vault, the New Home of Ford’s Heritage Fleet
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74415648/ford-vault-heritage-fleet-virtual-tour/)
+
+### Honda Just Teased a New Hybrid SUV Called the Avancier
+
+- Model/program: Honda Just Teased a New Hybrid SUV Called the Avancier
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74415525/honda-teased-new-hybrid-suv-avancier/)
+
+### 2027 McLaren W1
+
+- Model/program: 2027 McLaren W1
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/mclaren/w1)
+
+### Scout’s New Truck and SUV Are Another Step Closer to Reality
+
+- Model/program: Scout’s New Truck and SUV Are Another Step Closer to Reality
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74414897/scout-motors-starts-building-real-vehicles/)
+
+### Tested: The 2026 Lexus ES Hybrid Evolves, but It Has a Familiar Feel
+
+- Model/program: Tested: The 2026 Lexus ES Hybrid Evolves, but It Has a Familiar Feel
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a71341884/2026-lexus-es-hybrid-drive/)
+
+### View Exterior Photos of the 2026 Lexus ES Hybrid
+
+- Model/program: View Exterior Photos of the 2026 Lexus ES Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71339949/2026-lexus-es-hybrid-drive-exterior-gallery/)
+
+### View Interior Photos of the 2026 Lexus ES Hybrid
+
+- Model/program: View Interior Photos of the 2026 Lexus ES Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71340384/2026-lexus-es-hybrid-drive-interior-gallery/)
+
+### Tesla Just Culled the Cybertruck Lineup to a Single $112K Model
+
+- Model/program: Tesla Just Culled the Cybertruck Lineup to a Single $112K Model
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74413385/tesla-cybertruck-lineup-reduced-one-expensive-model/)
+
+### Jeep Just Got into the Retro-Gaming Groove with ‘Moab Run’
+
+- Model/program: Jeep Just Got into the Retro-Gaming Groove with ‘Moab Run’
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74406808/jeep-moab-run-video-game-details/)
+
+### 2027 Ford Bronco Raptor
+
+- Model/program: 2027 Ford Bronco Raptor
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ford/bronco-raptor-2027)
+
+### Next-Gen 2028 Honda CR-V Follows the Toyota RAV4 as a Hybrid-Only SUV
+
+- Model/program: Next-Gen 2028 Honda CR-V Follows the Toyota RAV4 as a Hybrid-Only SUV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74403648/2028-honda-cr-v-next-gen-hybrid-only-confirmed/)
+
+### Tested: The V-12 Mercedes-Maybach S680 Is Too Much, Which Is Just Right
+
+- Model/program: Tested: The V-12 Mercedes-Maybach S680 Is Too Much, Which Is Just Right
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74360600/2027-mercedes-maybach-s680-test/)
+
+### View Exterior Photos of the 2027 Mercedes-Maybach S680
+
+- Model/program: View Exterior Photos of the 2027 Mercedes-Maybach S680
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74389910/2027-mercedes-maybach-s680-test-exterior-gallery/)
+
+### 2028 Honda CR-V Hybrid
+
+- Model/program: 2028 Honda CR-V Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/honda/cr-v-hybrid-2028)
+
+### View Interior Photos of the 2027 Mercedes-Maybach S680
+
+- Model/program: View Interior Photos of the 2027 Mercedes-Maybach S680
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74389940/2027-mercedes-maybach-s680-test-interior-gallery/)
+
+### Ford Expedition Tremor: Project Overland Asks What If?
+
+- Model/program: Ford Expedition Tremor: Project Overland Asks What If?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74392025/ford-expedition-tremor-project-overland-revealed/)
 
 ### A Trip Through Toyota’s New GR Garage Experience Center
 

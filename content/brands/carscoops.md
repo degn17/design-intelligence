@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 2309 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2320 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### A Kei-Sized RWD Coupe By Toyota Sounds Like A Treat
+
+- Model/program: A Kei-Sized RWD Coupe By Toyota Sounds Like A Treat
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313143/toyota-kei-sized-rwd-coupe/)
+
+### NHTSA Probing 1.2 Million Ford Explorer Airbags That Could Burn Passengers
+
+- Model/program: NHTSA Probing 1.2 Million Ford Explorer Airbags That Could Burn Passengers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315489/nhtsa-ford-explorer-airbag-investigation/)
+
+### Pickup Truck Popemobiles Headline Pope Leo XIV's South American Visit
+
+- Model/program: Pickup Truck Popemobiles Headline Pope Leo XIV's South American Visit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315443/pope-leo-popemobile-south-america-custom-trucks/)
+
+### 1979 Porsche 924 Rejoins UAE's Police Fleet
+
+- Model/program: 1979 Porsche 924 Rejoins UAE's Police Fleet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313577/restored-1979-porsche-924-uae-police-fleet/)
+
+### 987-HP Audi Nuvolari Coming To The US In 2028 For $700,000
+
+- Model/program: 987-HP Audi Nuvolari Coming To The US In 2028 For $700,000
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315315/audi-nuvolari-coming-to-us-2028/)
+
+### Car Thefts Decrease Dramatically After Teen Theft Ring Busted In Maryland
+
+- Model/program: Car Thefts Decrease Dramatically After Teen Theft Ring Busted In Maryland
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312490/teen-car-theft-ring-busted/)
+
+### There Will Never Be Another Purple Mercedes SL 55 Quite Like This One
+
+- Model/program: There Will Never Be Another Purple Mercedes SL 55 Quite Like This One
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314956/mercedes-sl55-amg-manufaktur-purple/)
+
+### In A Sea Of EVs, Driving This 1989 Mercedes W124 Was The Perfect Palate Cleanser
+
+- Model/program: In A Sea Of EVs, Driving This 1989 Mercedes W124 Was The Perfect Palate Cleanser
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314668/classic-1989-mercedes-benz-300e-w124-review/)
+
+### Aston Martin Goes From James Bond To Darth Vader With New Star Wars Collab
+
+- Model/program: Aston Martin Goes From James Bond To Darth Vader With New Star Wars Collab
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314522/aston-martin-star-wars-partnership/)
+
+### Lamborghini Temerario Just Got A Loud Upgrade Right Before Losing Its Top
+
+- Model/program: Lamborghini Temerario Just Got A Loud Upgrade Right Before Losing Its Top
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314539/lamborghini-temerario-loud-upgrade-before-losing-top/)
+
+### No Panda, No Problem: Fiat's New Argo X Smooths Out Its Doors
+
+- Model/program: No Panda, No Problem: Fiat's New Argo X Smooths Out Its Doors
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314493/no-panda-no-problem-fiat-argo-x-smooths-doors/)
 
 ### Cupra's Terramar VZ5 Is Getting The RS3's Epic Five-Cylinder
 
