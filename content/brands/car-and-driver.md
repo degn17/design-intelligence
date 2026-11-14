@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 1721 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1730 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Spied! Ford May Finally Be Working on a Two-Door F-150 Lobo Street Truck
+
+- Model/program: Spied! Ford May Finally Be Working on a Two-Door F-150 Lobo Street Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74426798/ford-f150-lobo-regular-cab-street-truck-spied/)
+
+### 2027 Aston Martin Valhalla
+
+- Model/program: 2027 Aston Martin Valhalla
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/aston-martin/valhalla)
+
+### 2028 Ford Mustang Cobra with a Race Car-Derived V-8 Is Worth Waiting For
+
+- Model/program: 2028 Ford Mustang Cobra with a Race Car-Derived V-8 Is Worth Waiting For
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74425789/2028-ford-mustang-cobra-future-cars/)
+
+### Stellantis Reappoints Broderdorf, Promotes Kuniskis In CEO Shuffle
+
+- Model/program: Stellantis Reappoints Broderdorf, Promotes Kuniskis In CEO Shuffle
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74425907/stellantis-broderdorf-dodge-ceo-kuniskis-chief-commercial-officer/)
+
+### 2027 Acura Integra Type S
+
+- Model/program: 2027 Acura Integra Type S
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/acura/integra-type-s)
+
+### View Photos of the 2027 Acura Integra Type S
+
+- Model/program: View Photos of the 2027 Acura Integra Type S
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74425373/2027-acura-integra-type-s-heritage-edition-revealed-gallery/)
+
+### Rimac Is Reportedly Ending Nevera Production After Selling Just 71 Cars
+
+- Model/program: Rimac Is Reportedly Ending Nevera Production After Selling Just 71 Cars
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74424848/rimac-is-reportedly-ending-nevera-production-after-selling-just-71-cars/)
+
+### 2027 Acura Integra Type S Turns Back the Clock with New Retro Theme
+
+- Model/program: 2027 Acura Integra Type S Turns Back the Clock with New Retro Theme
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74423691/2027-acura-integra-type-s-heritage-edition-revealed/)
+
+### Comparison Test: 2026 Jeep Recon Moab vs. 2027 Rivian R2 Performance
+
+- Model/program: Comparison Test: 2026 Jeep Recon Moab vs. 2027 Rivian R2 Performance
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a74386999/2026-jeep-recon-vs-2027-rivian-r2-comparison-test/)
 
 ### We Explored the Ford Vault, the New Home of Ford’s Heritage Fleet
 

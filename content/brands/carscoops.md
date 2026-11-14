@@ -2,13 +2,213 @@
 
 ## Current positioning
 
-Generated internal notes from 2320 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2340 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### John Hennessey Says The Blackbird Is About Much More Than Big Numbers
+
+- Model/program: John Hennessey Says The Blackbird Is About Much More Than Big Numbers
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316524/hennessey-blackbird-hypercar-interview/)
+
+### This Isn't A New Ducati, It's Actually A Chinese Superbike
+
+- Model/program: This Isn't A New Ducati, It's Actually A Chinese Superbike
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316682/cfmoto-v4sr-rr-chinese-superbike/)
+
+### Next-Gen Lotus Esprit Packs A 986+ HP Twin-Turbo V8 Hybrid Punch
+
+- Model/program: Next-Gen Lotus Esprit Packs A 986+ HP Twin-Turbo V8 Hybrid Punch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316638/next-gen-lotus-esprit-twin-turbo-v8-hybrid-engine/)
+
+### You Can Buy A Plymouth Superbird That Once Went 220 MPH
+
+- Model/program: You Can Buy A Plymouth Superbird That Once Went 220 MPH
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311824/plymouth-superbird-once-went-220-mph/)
+
+### Rimac Is Ending Nevera Production With Just 71 Units Built
+
+- Model/program: Rimac Is Ending Nevera Production With Just 71 Units Built
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316513/rimac-nevera-production-ends/)
+
+### Blazing Phoenix Yellow Adorns 2027 Acura Integra Type S Heritage Edition
+
+- Model/program: Blazing Phoenix Yellow Adorns 2027 Acura Integra Type S Heritage Edition
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316444/2027-acura-integra-type-s-heritage-edition-blazing-phoneix-yellow/)
+
+### Honda Updates CBR1000RR-R Fireblade With Exposed Titanium Tank And Racing Performance
+
+- Model/program: Honda Updates CBR1000RR-R Fireblade With Exposed Titanium Tank And Racing Performance
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316375/2027-honda-cbr1000rr-r-fireblade-titanium/)
+
+### Washington Police Arrest 21-Year-Old After High-Speed Chase In His Porsche 911 GT3
+
+- Model/program: Washington Police Arrest 21-Year-Old After High-Speed Chase In His Porsche 911 GT3
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313338/washington-police-arrest-21-year-old-high-speed-chase-porsche-911-gt3/)
+
+### Theon's Oak Green Porsche 911 Looks Like The Perfect Driver's Car
+
+- Model/program: Theon's Oak Green Porsche 911 Looks Like The Perfect Driver's Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316307/theon-oak-green-porsche-911/)
+
+### Someone Just Bought A Brand-New 2005 VW Golf For Half Its Original Price
+
+- Model/program: Someone Just Bought A Brand-New 2005 VW Golf For Half Its Original Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316154/2005-volkswagen-golf-low-mileage-auction/)
+
+### Honda Vezel Gains Rugged TrailSport And Sporty RS Trims With Fake Gear Shifts
+
+- Model/program: Honda Vezel Gains Rugged TrailSport And Sporty RS Trims With Fake Gear Shifts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316128/honda-vezel-trailsport-rs-fake-gear-shift/)
+
+### Mercedes Stops Investment In German Factories And Weighs Plant Closures
+
+- Model/program: Mercedes Stops Investment In German Factories And Weighs Plant Closures
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316111/mercedes-stops-german-factory-investment/)
+
+### VW Rebadges Chinese Van That Rivals Its Own Crafter
+
+- Model/program: VW Rebadges Chinese Van That Rivals Its Own Crafter
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315967/vw-rebadges-chinese-van-crafter/)
+
+### Lucid's Cosmos EV Takes Shape, But It's Launching Later Than Planned
+
+- Model/program: Lucid's Cosmos EV Takes Shape, But It's Launching Later Than Planned
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315861/lucid-cosmos-ev-teaser-video/)
+
+### Spyker Says It's Positioning Itself As A Pagani And Bugatti Rival
+
+- Model/program: Spyker Says It's Positioning Itself As A Pagani And Bugatti Rival
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315837/exclusive-spyker-positioning-itself-as-pagani-bugatti-rival/)
+
+### Ford's Expedition Tremor Project Overland Is All Dressed Up With Nowhere To Go
+
+- Model/program: Ford's Expedition Tremor Project Overland Is All Dressed Up With Nowhere To Go
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315642/ford-expedition-tremor-project-overland-concept/)
+
+### Honda Previews All-New CR-V As It Transitions To 100% Hybrid Power
+
+- Model/program: Honda Previews All-New CR-V As It Transitions To 100% Hybrid Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315611/honda-previews-all-new-crv-hybrid/)
+
+### Next-Gen Audi RS6 Avant Coming To The US: Report
+
+- Model/program: Next-Gen Audi RS6 Avant Coming To The US: Report
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315692/next-gen-audi-rs6-avant-coming-to-us/)
+
+### Koenigsegg Bids Farewell To The Jesko With No Direct Successor In Sight
+
+- Model/program: Koenigsegg Bids Farewell To The Jesko With No Direct Successor In Sight
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315688/koenigsegg-bids-farewell-jesko-no-direct-successor/)
+
+### Ultra-Wide R32 And R34 GT-Rs Bring Back NFS Underground Nostalgia
+
+- Model/program: Ultra-Wide R32 And R34 GT-Rs Bring Back NFS Underground Nostalgia
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315656/ultra-wide-r32-r34-gt-r-kuhl-racing/)
 
 ### A Kei-Sized RWD Coupe By Toyota Sounds Like A Treat
 
