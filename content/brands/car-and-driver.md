@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1730 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1732 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Hot Wheels Crowns a 1979 ‘SS Monte Mino’ as the 2026 Legends Winner
+
+- Model/program: Hot Wheels Crowns a 1979 ‘SS Monte Mino’ as the 2026 Legends Winner
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74427363/1979-ss-monte-mino-2026-hot-wheels-legends-tour-winner/)
+
+### If You Missed Out Last Time, Here’s Your Chance to Buy a Brand-New 1986 Yugo
+
+- Model/program: If You Missed Out Last Time, Here’s Your Chance to Buy a Brand-New 1986 Yugo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74416276/1986-yugo-bring-a-trailer-auction/)
 
 ### Spied! Ford May Finally Be Working on a Two-Door F-150 Lobo Street Truck
 

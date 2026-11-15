@@ -2,13 +2,113 @@
 
 ## Current positioning
 
-Generated internal notes from 171 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 181 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Porsche 718/2: From sports car to Formula One frontrunner
+
+- Model/program: Porsche 718/2: From sports car to Formula One frontrunner
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-single-seater-history-718-formula-2-43724.html)
+
+### Banzai Legacy Lab: Culture in Motion
+
+- Model/program: Banzai Legacy Lab: Culture in Motion
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-banzai-legacy-lab-thomas-schlereth-43717.html)
+
+### Twelve talented drivers compete for the status of Porsche Junior 2027
+
+- Model/program: Twelve talented drivers compete for the status of Porsche Junior 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-junior-2027-young-racing-driver-preview-43703.html)
+
+### From Dependency to Sovereignty
+
+- Model/program: From Dependency to Sovereignty
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-from-dependency-to-sovereignty-43684.html)
+
+### Porsche Timepieces: A new era of timekeeping
+
+- Model/program: Porsche Timepieces: A new era of timekeeping
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-design-timepiece-manufactory-43559.html)
+
+### Royal duty: Historic Porsche 924 restored
+
+- Model/program: Royal duty: Historic Porsche 924 restored
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-centre-abu-dhabi-al-ain-924-police-car-43680.html)
+
+### On patrol with the Black Mambas in South Africa
+
+- Model/program: On patrol with the Black Mambas in South Africa
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-black-mambas-south-africa-43653.html)
+
+### It Starts at the Top
+
+- Model/program: It Starts at the Top
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-new-role-for-hr-43666.html)
+
+### Olympian Tom Pidcock tackles the Nürburgring in his 911 GT3 RS
+
+- Model/program: Olympian Tom Pidcock tackles the Nürburgring in his 911 GT3 RS
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-911-gt3-rs-manthey-kit-olympian-tom-pidcock-joerg-bergmeister-nuerburgring-43655.html)
+
+### New operating concept with enhanced performance and an expanded digital ecosystem for the 911, Taycan, Panamera and Cayenne
+
+- Model/program: New operating concept with enhanced performance and an expanded digital ecosystem for the 911, Taycan, Panamera and Cayenne
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-new-infotainment-generation-mib4-43640.html)
 
 ### When a passion for Porsche turns into friendship
 

@@ -2,13 +2,133 @@
 
 ## Current positioning
 
-Generated internal notes from 2340 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2352 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Chinese Competition May Cause EV Tariff Delays In The EU And UK
+
+- Model/program: Chinese Competition May Cause EV Tariff Delays In The EU And UK
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315845/uk-eu-to-delay-ev-tariffs/)
+
+### Is It True That Turbo Engines Need Oil Changes More Often?
+
+- Model/program: Is It True That Turbo Engines Need Oil Changes More Often?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2312392/true-turbo-engines-need-oil-changes-more-often/)
+
+### Do You Really Need To Change Your Oil Every 5,000 Miles?
+
+- Model/program: Do You Really Need To Change Your Oil Every 5,000 Miles?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314927/should-you-change-oil-every-5000-miles/)
+
+### How Long Does It Take For Engine Oil To Go Bad When Your Car Isn't Driven?
+
+- Model/program: How Long Does It Take For Engine Oil To Go Bad When Your Car Isn't Driven?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314924/how-long-engine-oil-bad-car-not-driven/)
+
+### The 5 Worst Rebadges In Automotive History
+
+- Model/program: The 5 Worst Rebadges In Automotive History
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311865/worst-rebadges-automotive-history/)
+
+### BMW Pays Tribute To Alex Zanardi With A Very Special M3
+
+- Model/program: BMW Pays Tribute To Alex Zanardi With A Very Special M3
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313911/bmw-m3-alex-zanardi-tribute/)
+
+### What Do All The Flags Mean In Racing?
+
+- Model/program: What Do All The Flags Mean In Racing?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314923/what-flags-mean-racing/)
+
+### Here's How To Prevent Your Car Windows From Fogging Up
+
+- Model/program: Here's How To Prevent Your Car Windows From Fogging Up
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313503/how-to-prevent-car-window-fogging/)
+
+### Are There Differences Between Lexus And Toyota Engines?
+
+- Model/program: Are There Differences Between Lexus And Toyota Engines?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311786/are-lexus-and-toyota-engines-the-same/)
+
+### How To Remove Stubborn Stains From Car Seats With Baking Soda
+
+- Model/program: How To Remove Stubborn Stains From Car Seats With Baking Soda
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311783/clean-car-seats-stains-baking-soda/)
+
+### New Subaru WRX STI Sport R Brings Back The Real STI Manual, Just Not In America
+
+- Model/program: New Subaru WRX STI Sport R Brings Back The Real STI Manual, Just Not In America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316816/subaru-wrx-sti-sport-r/)
+
+### BMW's M 1000 RS Has 215 HP And No Windshield
+
+- Model/program: BMW's M 1000 RS Has 215 HP And No Windshield
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316795/bmw-m-1000-rs-215-hp-no-windshield/)
 
 ### John Hennessey Says The Blackbird Is About Much More Than Big Numbers
 
