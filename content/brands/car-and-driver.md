@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1732 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1734 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Edsel B. Ford II’s Mustang Improves on His Dad Henry’s Famous Original
+
+- Model/program: Edsel B. Ford II’s Mustang Improves on His Dad Henry’s Famous Original
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74416365/revology-ford-mustang-convertible-bring-a-trailer-auction/)
+
+### Sanrivatti One Is a V-10 Hypercar with a Motorcycle-Like Seating Position
+
+- Model/program: Sanrivatti One Is a V-10 Hypercar with a Motorcycle-Like Seating Position
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74426482/sanrivatii-one-motorcycle-hypercar-revealed/)
 
 ### Hot Wheels Crowns a 1979 ‘SS Monte Mino’ as the 2026 Legends Winner
 

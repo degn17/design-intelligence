@@ -2,13 +2,93 @@
 
 ## Current positioning
 
-Generated internal notes from 2352 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2360 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Updated Mercedes SL Brings Back Proper Benz Grand Tourer, Report Says
+
+- Model/program: Updated Mercedes SL Brings Back Proper Benz Grand Tourer, Report Says
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315881/mercedes-sl-refresh-adds-non-amg-grand-tourer/)
+
+### Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively)
+
+- Model/program: Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively)
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2311784/why-clean-brake-dust-rims-effectively/)
+
+### Can The Right Spark Plugs Really Increase Engine Horsepower?
+
+- Model/program: Can The Right Spark Plugs Really Increase Engine Horsepower?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315291/can-spark-plugs-increase-horsepower/)
+
+### The Reason Why EV Tires Are So Expensive
+
+- Model/program: The Reason Why EV Tires Are So Expensive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315278/ev-tire-cost-explanation/)
+
+### Are Tires From Costco As Good As Ones You'd Buy Elsewhere?
+
+- Model/program: Are Tires From Costco As Good As Ones You'd Buy Elsewhere?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313470/costco-tire-quality/)
+
+### How A Single Piece Of Plastic Turns Scion's Kei Truck Into A Toyota Or Daihatsu
+
+- Model/program: How A Single Piece Of Plastic Turns Scion's Kei Truck Into A Toyota Or Daihatsu
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313689/transform-scion-kei-01-into-toyota-daihatsu/)
+
+### Your Car's D3 Gear Has A Purpose, And Here's What It Does
+
+- Model/program: Your Car's D3 Gear Has A Purpose, And Here's What It Does
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315415/car-d3-gear-use-explained/)
+
+### Can Directional Tires Be Rotated From One Side To The Other?
+
+- Model/program: Can Directional Tires Be Rotated From One Side To The Other?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313070/directional-tires-side-to-side-rotation/)
 
 ### Chinese Competition May Cause EV Tariff Delays In The EU And UK
 
