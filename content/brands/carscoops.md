@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 2360 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2371 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Acura's Limited Edition Urban Spec Adds Uniqueness To Integra, MDX, And ADX
+
+- Model/program: Acura's Limited Edition Urban Spec Adds Uniqueness To Integra, MDX, And ADX
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314661/2027-acura-ubran-spec/)
+
+### BMW Thought Hyundai's Fake Shifts Were A Gimmick — Then Its Engineers Tried Them
+
+- Model/program: BMW Thought Hyundai's Fake Shifts Were A Gimmick — Then Its Engineers Tried Them
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318529/bmw-ev-fake-shift-hyundai/)
+
+### This 1964 Shelby Cobra Could Be Worth More Than $25 Million
+
+- Model/program: This 1964 Shelby Cobra Could Be Worth More Than $25 Million
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314532/shelby-cobra-auction-record/)
+
+### Mercedes Now Available With Hands-Free Highway Driving In The U.S., Including Entry-Level CLA
+
+- Model/program: Mercedes Now Available With Hands-Free Highway Driving In The U.S., Including Entry-Level CLA
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318398/mercedez-benz-hands-free-adas/)
+
+### You Won't Believe Who The Next James Bond Is
+
+- Model/program: You Won't Believe Who The Next James Bond Is
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318238/robert-pattison-james-bond/)
+
+### Should Hyundai Bring Back The Tiburon To Fight The Toyota Celica?
+
+- Model/program: Should Hyundai Bring Back The Tiburon To Fight The Toyota Celica?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318210/hyundai-tiburon-rendering/)
+
+### Is Scout For Real, For Real?
+
+- Model/program: Is Scout For Real, For Real?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318167/scout-plant-tour/)
+
+### Brabus Makes The Porsche 911 Turbo S Even More Ferocious
+
+- Model/program: Brabus Makes The Porsche 911 Turbo S Even More Ferocious
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313683/brabus-porsche-911-turbo-s-package/)
+
+### REO Trucks Revived With Three Gas-Powered Models, Starting At Just $21,500
+
+- Model/program: REO Trucks Revived With Three Gas-Powered Models, Starting At Just $21,500
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318046/reo-trucks-launch-pricing/)
+
+### BMW Tells 720,000 Owners To Park Outside Amid New Fire Risk Recall
+
+- Model/program: BMW Tells 720,000 Owners To Park Outside Amid New Fire Risk Recall
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2317926/bmw-nhtsa-recall-fire-risk-park-outside/)
+
+### Dodge's 550-Horsepower Charger Scat Pack Is A 4-Cents-Per-Pony Bargain Over The R/T Plus
+
+- Model/program: Dodge's 550-Horsepower Charger Scat Pack Is A 4-Cents-Per-Pony Bargain Over The R/T Plus
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2317322/2026-dodge-charger-scat-pack-horsepower-bargain/)
 
 ### Updated Mercedes SL Brings Back Proper Benz Grand Tourer, Report Says
 

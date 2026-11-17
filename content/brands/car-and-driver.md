@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 1734 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1748 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Photos of the 2027 BMW M3 Prototype
+
+- Model/program: View Photos of the 2027 BMW M3 Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74412141/2027-bmw-m3-prototype-drive-gallery/)
+
+### M3 Goes EV! We Drive a Prototype as the M Car Undergoes a Monumental Change
+
+- Model/program: M3 Goes EV! We Drive a Prototype as the M Car Undergoes a Monumental Change
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74412329/2027-bmw-m3-prototype-drive/)
+
+### Over 1 Million Hondas Are Being Investigated for Start-Stop Failures
+
+- Model/program: Over 1 Million Hondas Are Being Investigated for Start-Stop Failures
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74444392/honda-stop-start-failure-nhtsa-investigation/)
+
+### Mercedes Is Officially Bringing Back the Benz-Branded SL Roadster
+
+- Model/program: Mercedes Is Officially Bringing Back the Benz-Branded SL Roadster
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74443318/2028-mercedes-benz-sl-class-return-details/)
+
+### 2027 Lexus ES
+
+- Model/program: 2027 Lexus ES
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/es)
+
+### 2026 Lexus ES
+
+- Model/program: 2026 Lexus ES
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/lexus/es-2026)
+
+### REO Runabout T4X Is a Simple Truck Promising a $22K Starting Price
+
+- Model/program: REO Runabout T4X Is a Simple Truck Promising a $22K Starting Price
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74435376/reo-trucks-runabout-t4x-t4c-s4c-revealed/)
+
+### Best Gifts and Car Accessories for Auto-Obsessed Teens and New Drivers
+
+- Model/program: Best Gifts and Car Accessories for Auto-Obsessed Teens and New Drivers
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g34727934/best-car-gifts-teens/)
+
+### Gift Guide: Our Favorite Gifts for Jeep Lovers
+
+- Model/program: Gift Guide: Our Favorite Gifts for Jeep Lovers
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g41333429/best-gifts-for-jeep-lover/)
+
+### The Best Made-in-USA Gifts for Every Person on Your Shopping List
+
+- Model/program: The Best Made-in-USA Gifts for Every Person on Your Shopping List
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g69396357/best-made-in-usa-gifts-for-drivers/)
+
+### 40+ Cool Car Accessories You Didn't Know You Needed
+
+- Model/program: 40+ Cool Car Accessories You Didn't Know You Needed
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/g26235888/cool-car-accessories-gadgets/)
+
+### Tesla Cybercab Promises Autonomy for Under $30K, with Some Caveats
+
+- Model/program: Tesla Cybercab Promises Autonomy for Under $30K, with Some Caveats
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74441018/tesla-cybercab-orders-pricing/)
+
+### The New Smaller Land Rover Defender Will Arrive First as an EV
+
+- Model/program: The New Smaller Land Rover Defender Will Arrive First as an EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74433017/smaller-land-rover-defender-ev-confirmed/)
+
+### Mercedes-Benz’s New Driving-Assist Tech Puts Tesla on Notice
+
+- Model/program: Mercedes-Benz’s New Driving-Assist Tech Puts Tesla on Notice
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74438717/mercedes-mb-drive-assist-pro-details-drive/)
 
 ### Edsel B. Ford II’s Mustang Improves on His Dad Henry’s Famous Original
 
