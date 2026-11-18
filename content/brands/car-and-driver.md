@@ -2,13 +2,183 @@
 
 ## Current positioning
 
-Generated internal notes from 1748 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1765 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Born for the Dirt: How the All-New Jeep ® Recon Takes Trail Rated Capability Electric
+
+- Model/program: Born for the Dirt: How the All-New Jeep ® Recon Takes Trail Rated Capability Electric
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74282517/born-for-the-dirt-how-the-all-new-jeep-recon-takes-trail-rated-capability-electric/)
+
+### Subaru WRX STI Sport R Is a New Manual Variant Exclusive to Japan
+
+- Model/program: Subaru WRX STI Sport R Is a New Manual Variant Exclusive to Japan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74458167/subaru-wrx-sti-sport-r-manual-japan-reveal/)
+
+### 2027 Ferrari 296 Speciale
+
+- Model/program: 2027 Ferrari 296 Speciale
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ferrari/296-speciale)
+
+### 2027 BMW XM
+
+- Model/program: 2027 BMW XM
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/xm-2027)
+
+### GM Is Reportedly Considering a Proper Rival to the Raptor and TRX
+
+- Model/program: GM Is Reportedly Considering a Proper Rival to the Raptor and TRX
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74456747/gm-considering-raptor-rival-report/)
+
+### BMW Issues ‘Park Outside’ Warning for 720,796 Vehicles That Could Catch Fire
+
+- Model/program: BMW Issues ‘Park Outside’ Warning for 720,796 Vehicles That Could Catch Fire
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74453916/bmw-park-outside-water-pump-fire-risk-recall/)
+
+### 2026 Toyota GR Corolla
+
+- Model/program: 2026 Toyota GR Corolla
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/gr-corolla-2026)
+
+### 2028 Toyota Scion KEI-01
+
+- Model/program: 2028 Toyota Scion KEI-01
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/toyota/scion-kei-01)
+
+### The Ford Maverick’s New SV300T Package Makes It a Legit Street Truck
+
+- Model/program: The Ford Maverick’s New SV300T Package Makes It a Legit Street Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74452737/ford-maverick-sv300t-performance-package-details/)
+
+### View Photos of the 2026 Toyota GRMN Corolla
+
+- Model/program: View Photos of the 2026 Toyota GRMN Corolla
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74412818/2026-toyota-grmn-corolla-track-drive-gallery/)
+
+### 2026 Toyota GRMN Corolla First Drive: A Blur of Nür
+
+- Model/program: 2026 Toyota GRMN Corolla First Drive: A Blur of Nür
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74412954/2026-toyota-grmn-corolla-track-drive/)
+
+### 2028 Scion Kei-01 First Drive: Mite Makes Right
+
+- Model/program: 2028 Scion Kei-01 First Drive: Mite Makes Right
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74415479/2028-toyota-scion-kei-01-drive/)
+
+### View Exterior Photos of the 2028 Toyota Scion Kei-01
+
+- Model/program: View Exterior Photos of the 2028 Toyota Scion Kei-01
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74413132/2028-toyota-scion-kei-01-drive-exterior-gallery/)
+
+### View Interior Photos of the 2028 Toyota Scion Kei-01
+
+- Model/program: View Interior Photos of the 2028 Toyota Scion Kei-01
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74424955/2028-toyota-scion-kei-01-drive-interior-gallery/)
+
+### 2028 Ford Mustang GTD Updates Include an Interesting Special Edition
+
+- Model/program: 2028 Ford Mustang GTD Updates Include an Interesting Special Edition
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74440703/2028-ford-mustang-gtd-updates-revealed/)
+
+### 2028 Ford Mustang GTD
+
+- Model/program: 2028 Ford Mustang GTD
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/ford/mustang-gtd-2028)
+
+### Aston Martin and Fernando Alonso Will Take on the 2027 Dakar Rally
+
+- Model/program: Aston Martin and Fernando Alonso Will Take on the 2027 Dakar Rally
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74443630/aston-martin-2027-dakar-rally-fernando-alonso/)
 
 ### View Photos of the 2027 BMW M3 Prototype
 

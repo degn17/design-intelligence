@@ -2,13 +2,173 @@
 
 ## Current positioning
 
-Generated internal notes from 2371 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2387 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ford Is Working On A Cheaper Truck To Fight The Chinese
+
+- Model/program: Ford Is Working On A Cheaper Truck To Fight The Chinese
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314901/new-ford-midsize-pickup-2027/)
+
+### JLR's Baby Defender Sport Is Arriving Next Year: Report
+
+- Model/program: JLR's Baby Defender Sport Is Arriving Next Year: Report
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2319981/land-rover-defender-sport-report/)
+
+### A BMW i3 Drove 3,700 Miles Across Europe And Spent Less Than 3 Hours Charging
+
+- Model/program: A BMW i3 Drove 3,700 Miles Across Europe And Spent Less Than 3 Hours Charging
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2314838/bmw-i3-electric-3700-miles-3-hours-charging/)
+
+### Canada Says Stellantis Owes It Hundreds Of Millions Of Dollars After Factory Sale
+
+- Model/program: Canada Says Stellantis Owes It Hundreds Of Millions Of Dollars After Factory Sale
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318781/stellantis-canada-plant-sale/)
+
+### Why One Camry Owner Is Suing Toyota Over A Recall It Already Fixed
+
+- Model/program: Why One Camry Owner Is Suing Toyota Over A Recall It Already Fixed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2319718/toyota-hybrid-inverter-lawsuit-usa/)
+
+### This Special Continental GT Celebrates A Century-Old Bentley Icon
+
+- Model/program: This Special Continental GT Celebrates A Century-Old Bentley Icon
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2313900/bentley-continental-gt-olympia-collection/)
+
+### Bentley Torcal EV A First Year Sellout
+
+- Model/program: Bentley Torcal EV A First Year Sellout
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2319375/bentley-torcal-ev-sold-out-first-year-2027/)
+
+### The New VW T-Roc R Might Make You Forget About The Golf R
+
+- Model/program: The New VW T-Roc R Might Make You Forget About The Golf R
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318838/new-vw-t-roc-r-make-you-forget-golf-r/)
+
+### This Crazy El Camino Just Won The Hot Wheels Legends Tour
+
+- Model/program: This Crazy El Camino Just Won The Hot Wheels Legends Tour
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2319310/chevrolet-el-camino-hot-wheels-legends-tour-winner/)
+
+### Arizona Police Just Busted A Guy Doing 170 MPH In A BMW M2
+
+- Model/program: Arizona Police Just Busted A Guy Doing 170 MPH In A BMW M2
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2319288/bmw-m2-driver-arrested-170-mph/)
+
+### BMW Brings Neue Klasse EV Tech To M4 Convertible
+
+- Model/program: BMW Brings Neue Klasse EV Tech To M4 Convertible
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2319097/bmw-m4-ev-convertible-spy-shots/)
+
+### Toyota's GRMN Corolla Is Fantastic, But The Regular One Makes A Strong Case
+
+- Model/program: Toyota's GRMN Corolla Is Fantastic, But The Regular One Makes A Strong Case
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318444/2027-toyota-grmn-corolla-first-drive-review/)
+
+### Toyota's Tiny New Scion Could Make Simple Cars Cool Again
+
+- Model/program: Toyota's Tiny New Scion Could Make Simple Cars Cool Again
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2319044/scion-by-toyota-kei-01-driving-impressions/)
+
+### 1 Million Hondas Under Investigation Over Start/Stop Glitch
+
+- Model/program: 1 Million Hondas Under Investigation Over Start/Stop Glitch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318996/honda-start-stop-investigation/)
+
+### Aston Martin To Compete At Dakar Rally With Alonso And Loeb
+
+- Model/program: Aston Martin To Compete At Dakar Rally With Alonso And Loeb
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318742/aston-martin-dakar-rally-debut/)
+
+### VW Is Working On A New GTI Hot Hatch With Wild Aero
+
+- Model/program: VW Is Working On A New GTI Hot Hatch With Wild Aero
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318824/vw-gti-concept-teaser/)
 
 ### Acura's Limited Edition Urban Spec Adds Uniqueness To Integra, MDX, And ADX
 

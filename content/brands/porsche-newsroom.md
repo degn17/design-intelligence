@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 181 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 183 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Learning from a Champion: On the Hungaroring with Jörg Bergmeister
+
+- Model/program: Learning from a Champion: On the Hungaroring with Jörg Bergmeister
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-track-experience-joerg-bergmeister-hungaroring-43733.html)
+
+### Porsche Junior 2027: Five-day assessment completed
+
+- Model/program: Porsche Junior 2027: Five-day assessment completed
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/ppdb/2026/11/porsche-junior-2027-five-day-assessment-completed.html)
 
 ### Porsche 718/2: From sports car to Formula One frontrunner
 
