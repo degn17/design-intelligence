@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 2387 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2400 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Lamborghini Temerario Spyder Debuts With A Folding Hardtop And A Louder Exhaust
+
+- Model/program: Lamborghini Temerario Spyder Debuts With A Folding Hardtop And A Louder Exhaust
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321450/lamborghini-temerario-spyder/)
+
+### Toyota Finally Built A Hybrid Corolla Pickup, But There's A Catch
+
+- Model/program: Toyota Finally Built A Hybrid Corolla Pickup, But There's A Catch
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321419/toyota-corolla-deck/)
+
+### GTA 6 Made Cars More Realistic, But It Might Be Going Too Far
+
+- Model/program: GTA 6 Made Cars More Realistic, But It Might Be Going Too Far
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321309/gta-6-grand-theft-auto-fuel-up-gas-station/)
+
+### Rockstar Has Billions Of Dollars, So Why Doesn't GTA 6 Have Real Cars?
+
+- Model/program: Rockstar Has Billions Of Dollars, So Why Doesn't GTA 6 Have Real Cars?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321302/rockstar-wealthy-but-no-licensed-cars-gta-6-grand-theft-auto/)
+
+### Mercedes-Benz 'Baby G' EV Spied In The Wild Growing Up
+
+- Model/program: Mercedes-Benz 'Baby G' EV Spied In The Wild Growing Up
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321294/mercedes-benz-baby-g-class-scoop/)
+
+### New Defender Colors Inspired By The World Atlas
+
+- Model/program: New Defender Colors Inspired By The World Atlas
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316011/defender-atlas-colors/)
+
+### The IM5 Performance Is More Than Just A Quick EV
+
+- Model/program: The IM5 Performance Is More Than Just A Quick EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321235/2026-im5-performance-review/)
+
+### This Tribute To Stirling Moss Could Be Worth Over $6 Million
+
+- Model/program: This Tribute To Stirling Moss Could Be Worth Over $6 Million
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315965/mercedes-slr-mclaren-stirling-moss-auction/)
+
+### BMW Would Really Like Tariff Relief For South Carolina Production
+
+- Model/program: BMW Would Really Like Tariff Relief For South Carolina Production
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2320196/bmw-south-carolina-tariff-relief/)
+
+### VW's T-Roc R Is A Supercharged And Turbocharged SUV With A Drift Mode
+
+- Model/program: VW's T-Roc R Is A Supercharged And Turbocharged SUV With A Drift Mode
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2320162/vw-tiguan-r-debut-2027/)
+
+### Sony Patents Tech That Would Let You Smell Advertisements As You Drive By
+
+- Model/program: Sony Patents Tech That Would Let You Smell Advertisements As You Drive By
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2315619/sony-patents-in-car-tech-smell-advertisements/)
+
+### This 300-Horsepower SV300T Package Delivers The Ford Maverick ST We'll Never Get
+
+- Model/program: This 300-Horsepower SV300T Package Delivers The Ford Maverick ST We'll Never Get
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2320557/ford-maverick-sv300t-package-300-hp/)
+
+### Tesla Opens Cybercab Orders To Private Buyers, With Prices Starting At $29,990
+
+- Model/program: Tesla Opens Cybercab Orders To Private Buyers, With Prices Starting At $29,990
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2320154/tesla-cybercab-on-sale-price/)
 
 ### Ford Is Working On A Cheaper Truck To Fight The Chinese
 

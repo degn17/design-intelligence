@@ -2,13 +2,43 @@
 
 ## Current positioning
 
-Generated internal notes from 1765 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1781 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### View Exterior Photos of the 2027 Lamborghini Temerario Spyder
+
+- Model/program: View Exterior Photos of the 2027 Lamborghini Temerario Spyder
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74457460/2027-lamborghini-temerario-spyder-revealed-exterior-gallery/)
+
+### Lamborghini Temerario Goes Top and Throttle Down
+
+- Model/program: Lamborghini Temerario Goes Top and Throttle Down
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74458424/2027-lamborghini-temerario-spyder-revealed/)
+
+### Vintage Modern’s New Fastback Turns the Mustang into a Carbon-Fiber Movie Star
+
+- Model/program: Vintage Modern’s New Fastback Turns the Mustang into a Carbon-Fiber Movie Star
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74467176/vintage-modern-ford-mustang-fastback-revealed/)
 
 ### Born for the Dirt: How the All-New Jeep ® Recon Takes Trail Rated Capability Electric
 
@@ -19,6 +49,126 @@ Generated internal notes from 1765 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/features/a74282517/born-for-the-dirt-how-the-all-new-jeep-recon-takes-trail-rated-capability-electric/)
+
+### Toyota Confirms the Corolla Deck Pickup, a Ford Fathom Competitor You Can’t Buy
+
+- Model/program: Toyota Confirms the Corolla Deck Pickup, a Ford Fathom Competitor You Can’t Buy
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74468608/toyota-confirms-corolla-deck-ford-fathom-competitor/)
+
+### California Bans Waymo from Highways, Citing Recent Safety Issues
+
+- Model/program: California Bans Waymo from Highways, Citing Recent Safety Issues
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74469384/california-bans-waymo-from-highways-safety/)
+
+### We’ve Tested Cars for 70 Years—Now We’ll Help You Buy One
+
+- Model/program: We’ve Tested Cars for 70 Years—Now We’ll Help You Buy One
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a65542810/marketplace/)
+
+### ‘Grand Theft Auto VI’ Is About to Drop, and Millions Are Planning to Spend Thursday Playing
+
+- Model/program: ‘Grand Theft Auto VI’ Is About to Drop, and Millions Are Planning to Spend Thursday Playing
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74466535/grand-theft-auto-release-date-is-here/)
+
+### Taking a Little off the Top: 1991 Saab 900S Test
+
+- Model/program: Taking a Little off the Top: 1991 Saab 900S Test
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74377942/1991-saab-900s-archive-test/)
+
+### More Than 50 Years Later, You Can Finally Buy a Mercedes-Benz C111
+
+- Model/program: More Than 50 Years Later, You Can Finally Buy a Mercedes-Benz C111
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74465082/mercedes-benz-c111-sale-announced/)
+
+### How to Use the Car and Driver Marketplace
+
+- Model/program: How to Use the Car and Driver Marketplace
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a65871590/how-to-use-car-and-driver-marketplace/)
+
+### General Motors Is Reportedly Preparing to Replace CEO Mary Barra
+
+- Model/program: General Motors Is Reportedly Preparing to Replace CEO Mary Barra
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74464769/general-motors-preparing-to-replace-ceo-mary-barra/)
+
+### 2027 Subaru Forester Wilderness Hybrid Is a Successful Mash-Up
+
+- Model/program: 2027 Subaru Forester Wilderness Hybrid Is a Successful Mash-Up
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74415349/2027-subaru-forester-wilderness-hybrid-drive/)
+
+### View Interior Photos of the 2027 Subaru Forester Wilderness Hybrid
+
+- Model/program: View Interior Photos of the 2027 Subaru Forester Wilderness Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74440719/2027-subaru-forester-wilderness-hybrid-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Subaru Forester Wilderness Hybrid
+
+- Model/program: View Exterior Photos of the 2027 Subaru Forester Wilderness Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74441085/2027-subaru-forester-wilderness-hybrid-drive-exterior-gallery/)
+
+### This Company Wants to Import New Tiny Toyota Trucks from Thailand
+
+- Model/program: This Company Wants to Import New Tiny Toyota Trucks from Thailand
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74458191/rok-trucks-toyota-hilux-champ-pickup-truck/)
 
 ### Subaru WRX STI Sport R Is a New Manual Variant Exclusive to Japan
 
@@ -179,6 +329,16 @@ Generated internal notes from 1765 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a74443630/aston-martin-2027-dakar-rally-fernando-alonso/)
+
+### 2027 BMW XM
+
+- Model/program: 2027 BMW XM
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/xm)
 
 ### View Photos of the 2027 BMW M3 Prototype
 

@@ -8,7 +8,7 @@
 - Published: 2026-11-17
 - Data status: Real · RSS
 - Collection method: rss
-- Source: [Car and Driver](https://www.caranddriver.com/bmw/xm-2027)
+- Source: [Car and Driver](https://www.caranddriver.com/bmw/xm)
 - Image URL: https://hips.hearstapps.com/hmg-prod/images/2026-bmw-xm-label-pr-110-684987b3c89b9.jpg
 
 ### Summary
@@ -37,4 +37,4 @@ Review the linked public source before adding design interpretation or publishin
 
 ## Source attribution
 
-This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/bmw/xm-2027). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
+This card is generated from a **Real · RSS** record and must retain attribution to [Car and Driver](https://www.caranddriver.com/bmw/xm). RSS-collected records contain feed metadata only and require editorial review before design claims are added.
