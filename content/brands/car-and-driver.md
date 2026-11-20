@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1781 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1798 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -39,6 +39,176 @@ Generated internal notes from 1781 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a74467176/vintage-modern-ford-mustang-fastback-revealed/)
+
+### 2027 Volkswagen Golf GTI Rabbit Edition Changes More Than Looks
+
+- Model/program: 2027 Volkswagen Golf GTI Rabbit Edition Changes More Than Looks
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74480991/2027-volkswagen-golf-gti-adds-rabbit-edition/)
+
+### Retromobile Vintage-Car Expo Comes to NYC
+
+- Model/program: Retromobile Vintage-Car Expo Comes to NYC
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74476831/retromobile-new-york/)
+
+### Ram CEO Confident Upcoming Rampage Will ‘Beat’ the Ford Maverick
+
+- Model/program: Ram CEO Confident Upcoming Rampage Will ‘Beat’ the Ford Maverick
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74477546/ram-ceo-thinks-rampage-will-beat-ford-maverick/)
+
+### 2027 Chrysler Pacifica Adds a New Copper Styling Package to the Menu
+
+- Model/program: 2027 Chrysler Pacifica Adds a New Copper Styling Package to the Menu
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74480496/2027-chrysler-pacifica-copperline-ski-grey-package/)
+
+### When the Work Gets Heavy, Do Your Tires Hold Up? Cooper’s New Discoverer ® HT Is Built to Carry the Weight
+
+- Model/program: When the Work Gets Heavy, Do Your Tires Hold Up? Cooper’s New Discoverer ® HT Is Built to Carry the Weight
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/sponsored/a74442557/when-the-work-gets-heavy-do-your-tires-hold-up-coopers-new-discoverer-ht-is-built-to-carry-the-weight/)
+
+### 2028 Hyundai Elantra N
+
+- Model/program: 2028 Hyundai Elantra N
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/hyundai/elantra-n-2028)
+
+### View Interior Photos of the 2027 Hyundai Elantra
+
+- Model/program: View Interior Photos of the 2027 Hyundai Elantra
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74470043/2027-hyundai-elantra-revealed-interior-gallery/)
+
+### Hyundai Reveals Full Specs on the Radically Redesigned Elantra
+
+- Model/program: Hyundai Reveals Full Specs on the Radically Redesigned Elantra
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74443058/2027-hyundai-elantra-specs-details/)
+
+### View Exterior Photos of the 2027 Hyundai Elantra
+
+- Model/program: View Exterior Photos of the 2027 Hyundai Elantra
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74470042/2027-hyundai-elantra-revealed-exterior-gallery/)
+
+### 2028 Hyundai Elantra N Is a Sporty, Affordable Sedan Worth Waiting For
+
+- Model/program: 2028 Hyundai Elantra N Is a Sporty, Affordable Sedan Worth Waiting For
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74471359/2028-hyundai-elantra-n-future-cars/)
+
+### View Exterior Photos of the 2028 Hyundai Elantra Hybrid
+
+- Model/program: View Exterior Photos of the 2028 Hyundai Elantra Hybrid
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74470045/2028-hyundai-elantra-hybrid-revealed-exterior-gallery/)
+
+### The 12 Best-Looking New Cars on the Market in 2027
+
+- Model/program: The 12 Best-Looking New Cars on the Market in 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74456389/best-looking-cars/)
+
+### 2028 Genesis G80 Is the Luxury Brand’s First Hybrid Sedan
+
+- Model/program: 2028 Genesis G80 Is the Luxury Brand’s First Hybrid Sedan
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74473109/2028-genesis-g80-hybrid-revealed/)
+
+### View Interior Photos of the 2026 Mazda CX-50 Turbo
+
+- Model/program: View Interior Photos of the 2026 Mazda CX-50 Turbo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74441563/2026-mazda-cx-50-turbo-test-interior-gallery/)
+
+### View Exterior Photos of the 2026 Mazda CX-50 Turbo
+
+- Model/program: View Exterior Photos of the 2026 Mazda CX-50 Turbo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74441529/2026-mazda-cx-50-turbo-test-exterior-gallery/)
+
+### Boost and Booster Seats: Comparing the Turbocharged 2026 VW Tiguan and Mazda CX-50
+
+- Model/program: Boost and Booster Seats: Comparing the Turbocharged 2026 VW Tiguan and Mazda CX-50
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a74441947/2026-mazda-cx-50-turbo-vs-volkswagen-tiguan-turbo-comparison-test/)
+
+### Machina Aims to Democratize Car Customization with Innovative Robots
+
+- Model/program: Machina Aims to Democratize Car Customization with Innovative Robots
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74471759/machina-robotic-metal-car-manufacturing-details/)
 
 ### Born for the Dirt: How the All-New Jeep ® Recon Takes Trail Rated Capability Electric
 

@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 2400 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2414 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Honda Avancier Debuts As A New 7-Seat Hybrid
+
+- Model/program: Honda Avancier Debuts As A New 7-Seat Hybrid
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322638/honda-avancier-suv-launch/)
+
+### A Thai Company Wants To Bring The Forbidden Toyota Hilux Champ To America For $25k
+
+- Model/program: A Thai Company Wants To Bring The Forbidden Toyota Hilux Champ To America For $25k
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322601/rok-trucks-hilux-champ/)
 
 ### Lamborghini Temerario Spyder Debuts With A Folding Hardtop And A Louder Exhaust
 
@@ -29,6 +49,126 @@ Generated internal notes from 2400 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2321419/toyota-corolla-deck/)
+
+### The Audi A8 Will Get A Successor In Europe: Report
+
+- Model/program: The Audi A8 Will Get A Successor In Europe: Report
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2317428/audi-a8-successor-report/)
+
+### GTA 6 Has A 'Screaming Chicken' Trans Am Lookalike And This Is Where To Find It
+
+- Model/program: GTA 6 Has A 'Screaming Chicken' Trans Am Lookalike And This Is Where To Find It
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322528/gta-6-grand-theft-auto-sweet-screaming-chicken-pontiac-trans-am-firebird-phoenix/)
+
+### This Is As Close As BMW Got To Building An M7 Sedan
+
+- Model/program: This Is As Close As BMW Got To Building An M7 Sedan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322501/bmw-m7-prototype-revealed/)
+
+### Mechatronik Has Made The Mercedes C126 SEC Great Again
+
+- Model/program: Mechatronik Has Made The Mercedes C126 SEC Great Again
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316212/mechatronik-mercedes-sec-coupe/)
+
+### This Toyota GR Supra's Rear Wing Looks Like Stretched Pixels, But It's Real
+
+- Model/program: This Toyota GR Supra's Rear Wing Looks Like Stretched Pixels, But It's Real
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2316184/seibon-carbon-wing-gr-supra/)
+
+### 2027 Hyundai Elantra And 2028 Hybrid Bring Massive New Tech To America
+
+- Model/program: 2027 Hyundai Elantra And 2028 Hybrid Bring Massive New Tech To America
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321542/2027-hyundai-elantra-2028-hybrid-reveal/)
+
+### 1776 Off-Road Is Hennessey's Idea Of Restraint For Custom Trucks
+
+- Model/program: 1776 Off-Road Is Hennessey's Idea Of Restraint For Custom Trucks
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321892/hennessey-1776-off-road-custom-trucks/)
+
+### 2027 Genesis GV80 And G80 Hybrids Promise To Drive Like EVs But Without The Anxiety
+
+- Model/program: 2027 Genesis GV80 And G80 Hybrids Promise To Drive Like EVs But Without The Anxiety
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321184/2027-genesis-gv80-g80-hybrids-officially-revealed-performance/)
+
+### Genesis Expands US Dealer Network And GV60 Magma Availability
+
+- Model/program: Genesis Expands US Dealer Network And GV60 Magma Availability
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321529/genesis-expands-dealer-network-gv60-magma-availability/)
+
+### Hyundai's Porter Pickup Is Going Electric, And Making Fender-Benders Less Terrifying
+
+- Model/program: Hyundai's Porter Pickup Is Going Electric, And Making Fender-Benders Less Terrifying
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321675/hyundai-porter-electric-pickup-making-crashes-less-terrifying/)
+
+### LA Auto Show 2026 Live: All-New Hyundai Elantra Makes Its Global Debut
+
+- Model/program: LA Auto Show 2026 Live: All-New Hyundai Elantra Makes Its Global Debut
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321577/la-auto-show-2026-live-2027-hyundai-elantra-us-debut/)
+
+### Happy Arrestiversary, Carlos Ghosn!
+
+- Model/program: Happy Arrestiversary, Carlos Ghosn!
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321275/carlos-ghosn-arrest-anniversary/)
 
 ### GTA 6 Made Cars More Realistic, But It Might Be Going Too Far
 
