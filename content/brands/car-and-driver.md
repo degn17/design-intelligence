@@ -2,13 +2,143 @@
 
 ## Current positioning
 
-Generated internal notes from 1798 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1811 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Our Favorite Gift Ideas for Your Car-Loving Dad, Perfect for Any Occasion
+
+- Model/program: Our Favorite Gift Ideas for Your Car-Loving Dad, Perfect for Any Occasion
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a74443129/gifts-for-car-loving-dads/)
+
+### View Exterior Photos of the 2026 Hyundai Palisade Hybrid Calligraphy
+
+- Model/program: View Exterior Photos of the 2026 Hyundai Palisade Hybrid Calligraphy
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/g71150405/2026-hyundai-palisade-hybrid-calligraphy-reliability-maintenance-exterior-gallery/)
+
+### Genesis Wants to Build and Sell the 1100-HP X Skorpio Desert Runner
+
+- Model/program: Genesis Wants to Build and Sell the 1100-HP X Skorpio Desert Runner
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74493811/genesis-x-skorpio-production-plans/)
+
+### Genesis Expands GV60 Magma Availability to More States
+
+- Model/program: Genesis Expands GV60 Magma Availability to More States
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74491107/genesis-expands-gv60-magma-availability/)
+
+### The Honda Avancier SUV Hints at the Next-Generation Hybrid CR-V
+
+- Model/program: The Honda Avancier SUV Hints at the Next-Generation Hybrid CR-V
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74493573/honda-avancier-suv-revealed/)
+
+### Racing Bulls Driver Liam Lawson Talks Raptors and Country Songs Ahead of 2026 Vegas GP
+
+- Model/program: Racing Bulls Driver Liam Lawson Talks Raptors and Country Songs Ahead of 2026 Vegas GP
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74470597/liam-lawson-driver-2026-las-vegas-grand-prix-interview/)
+
+### The 10 Coolest Cars We Saw at the 2026 Los Angeles Auto Show
+
+- Model/program: The 10 Coolest Cars We Saw at the 2026 Los Angeles Auto Show
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74483368/coolest-la-auto-show-2026/)
+
+### Toyota, Nissan, and Honda to Standardize Parts to Lower Costs
+
+- Model/program: Toyota, Nissan, and Honda to Standardize Parts to Lower Costs
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+
+### FullGood Aims to Bring Classic-Car-Inspired PHEVs from China to the U.S.
+
+- Model/program: FullGood Aims to Bring Classic-Car-Inspired PHEVs from China to the U.S.
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74484003/fullgood-motor-chinese-retro-styled-cars-us-market/)
+
+### 2027 Toyota Sienna Refreshed to Give the Hybrid Minivan More Efficiency and Power
+
+- Model/program: 2027 Toyota Sienna Refreshed to Give the Hybrid Minivan More Efficiency and Power
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74476966/2027-toyota-sienna-hybrid-minivan-revealed/)
+
+### View Interior Photos of the 2027 Toyota Sienna
+
+- Model/program: View Interior Photos of the 2027 Toyota Sienna
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74453975/2027-toyota-sienna-drive-interior-gallery/)
+
+### View Exterior Photos of the 2027 Toyota Sienna
+
+- Model/program: View Exterior Photos of the 2027 Toyota Sienna
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74453934/2027-toyota-sienna-drive-exterior-gallery/)
+
+### 2027 Toyota Sienna Drive: More than Meets the Eye
+
+- Model/program: 2027 Toyota Sienna Drive: More than Meets the Eye
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74442669/2027-toyota-sienna-drive/)
 
 ### View Exterior Photos of the 2027 Lamborghini Temerario Spyder
 

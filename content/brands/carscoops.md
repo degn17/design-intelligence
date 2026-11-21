@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 2414 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2426 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -29,6 +29,126 @@ Generated internal notes from 2414 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2322601/rok-trucks-hilux-champ/)
+
+### The Sanrivatti One Has A Judd V10 And The Most Unusual Driving Position
+
+- Model/program: The Sanrivatti One Has A Judd V10 And The Most Unusual Driving Position
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2317867/sanrivatti-one-dutch-supercar/)
+
+### This Tiny EV Could Preview BYD's Answer To The Smart #2
+
+- Model/program: This Tiny EV Could Preview BYD's Answer To The Smart #2
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2319133/byd-microcar-patent-filing/)
+
+### This Blacked-Out Bentley Torcal Is Limited To Just 20 Units
+
+- Model/program: This Blacked-Out Bentley Torcal Is Limited To Just 20 Units
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2323595/bentley-torcal-fgrmt-edition/)
+
+### Ferrari 12Cilindri Goes Large With Novitec's N-Largo Widebody Kit
+
+- Model/program: Ferrari 12Cilindri Goes Large With Novitec's N-Largo Widebody Kit
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2317685/ferrari-12cilindri-novitec-n-largo-tuning/)
+
+### Why Philippine Authorities Still Can't Sell A Seized McLaren Senna And LaFerrari After Two Years
+
+- Model/program: Why Philippine Authorities Still Can't Sell A Seized McLaren Senna And LaFerrari After Two Years
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2323132/seized-mclaren-senna-laferrari-unsold-phillipines/)
+
+### VW Revives Golf GTI Rabbit Edition In The U.S.
+
+- Model/program: VW Revives Golf GTI Rabbit Edition In The U.S.
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322685/vw-golf-gti-rabbit-edition-us/)
+
+### Tesla Could Soon Have The Biggest Car Factory In Europe After $3.3 Billion Expansion
+
+- Model/program: Tesla Could Soon Have The Biggest Car Factory In Europe After $3.3 Billion Expansion
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322655/tesla-germany-factory-expansion/)
+
+### Waymo Has Just Stopped All Freeway Operations In The U.S.
+
+- Model/program: Waymo Has Just Stopped All Freeway Operations In The U.S.
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322994/waymo-freeway-operation-suspension/)
+
+### Ford's New Mustang GTD Honors A Race It Won Before Ford Existed
+
+- Model/program: Ford's New Mustang GTD Honors A Race It Won Before Ford Existed
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322667/ford-mustang-gtd-1901/)
+
+### The BMW M3 Electric Has 838 HP And Over 400 Miles Of Range
+
+- Model/program: The BMW M3 Electric Has 838 HP And Over 400 Miles Of Range
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322652/bmw-m3-electric-838-hp-404-miles-range/)
+
+### BMW i3 Touring Is On Emergency Duty In Latest Spy Shots
+
+- Model/program: BMW i3 Touring Is On Emergency Duty In Latest Spy Shots
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322715/bmw-i3-touring-wagon-prototype-spy-shots-emergency-light/)
+
+### VW's Electric ID Polo GTI Got A 362-HP Clubsport Upgrade
+
+- Model/program: VW's Electric ID Polo GTI Got A 362-HP Clubsport Upgrade
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322275/vw-id-polo-gt-clubsport-concept/)
 
 ### Lamborghini Temerario Spyder Debuts With A Folding Hardtop And A Louder Exhaust
 
