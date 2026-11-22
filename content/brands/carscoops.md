@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 2426 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2435 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Next-Gen Nissan GT-R Circles Back To The 1970s With This Retro Detail: Report
+
+- Model/program: Next-Gen Nissan GT-R Circles Back To The 1970s With This Retro Detail: Report
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2320934/r36-nissan-gt-r-round-headlights/)
+
+### Is The Ford Maverick A Reliable Truck? Here's What Consumer Reports Data Shows
+
+- Model/program: Is The Ford Maverick A Reliable Truck? Here's What Consumer Reports Data Shows
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2320691/consumer-reports-says-ford-maverick-reliable/)
+
+### If Your Smart Key Dies, Here's How You Can Still Start Your Car
+
+- Model/program: If Your Smart Key Dies, Here's How You Can Still Start Your Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2320715/how-start-car-when-smart-key-fob-dies/)
+
+### Does Hitting The Redline Hurt Your Engine? Here's What Really Happens
+
+- Model/program: Does Hitting The Redline Hurt Your Engine? Here's What Really Happens
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2320711/does-redlining-hurt-your-engine/)
+
+### Which Ford EcoBoost Engines Have A Wet Timing Belt?
+
+- Model/program: Which Ford EcoBoost Engines Have A Wet Timing Belt?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318808/ford-ecoboost-engines-with-wet-timing-belts/)
+
+### Toyota Sells A $7,500 Hatchback With A Predator Face
+
+- Model/program: Toyota Sells A $7,500 Hatchback With A Predator Face
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2320709/toyota-sells-7500-hatchback-with-predator-face/)
+
+### These Are The Plants Where Hyundai Builds Its Genesis Models
+
+- Model/program: These Are The Plants Where Hyundai Builds Its Genesis Models
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2319437/plants-where-hyundai-builds-genesis-models/)
+
+### Why Those Massive Concrete Walls Line So Many Highways
+
+- Model/program: Why Those Massive Concrete Walls Line So Many Highways
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2318563/what-highway-walls-are-for/)
+
+### Is Windex Safe For Car Windows And Windshields?
+
+- Model/program: Is Windex Safe For Car Windows And Windshields?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2317584/is-windex-safe-for-car-window-windshield/)
 
 ### Honda Avancier Debuts As A New 7-Seat Hybrid
 

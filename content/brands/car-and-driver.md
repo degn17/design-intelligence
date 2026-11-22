@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 1811 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1816 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Ferrari 296 Challenge Stradale Is the Purest Prancing Horse in Years
+
+- Model/program: Ferrari 296 Challenge Stradale Is the Purest Prancing Horse in Years
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74498034/ferrari-296-challenge-stradale-revealed/)
+
+### VW’s ID.Polo GTI Clubsport Concept Is a Track-Focused EV
+
+- Model/program: VW’s ID.Polo GTI Clubsport Concept Is a Track-Focused EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74494145/volkswagen-id-polo-gti-clubsport-concept-revealed/)
+
+### Can’t Wait for the Scion Kei-01? Grab This Daihatsu HiJet Pickup Now
+
+- Model/program: Can’t Wait for the Scion Kei-01? Grab This Daihatsu HiJet Pickup Now
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74481129/2000-daihatsu-hijet-pickup-bring-a-trailer-auction/)
+
+### View Photos of the 1977 Mazda Cosmo
+
+- Model/program: View Photos of the 1977 Mazda Cosmo
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74481502/1977-mazda-cosmo-archive-drive-gallery/)
+
+### The 1977 Mazda Cosmo Deserves Better
+
+- Model/program: The 1977 Mazda Cosmo Deserves Better
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a73963369/1977-mazda-cosmo-archive-drive/)
 
 ### Our Favorite Gift Ideas for Your Car-Loving Dad, Perfect for Any Occasion
 
