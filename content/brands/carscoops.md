@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 2435 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2446 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Stellantis Might Be About To Kill All Its Motorsport Programs: Report
+
+- Model/program: Stellantis Might Be About To Kill All Its Motorsport Programs: Report
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2324538/stellantis-axing-motorsport-program/)
+
+### Ford Is Returning To Japan, But Regular Folks Can't Buy Them
+
+- Model/program: Ford Is Returning To Japan, But Regular Folks Can't Buy Them
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321858/ford-selling-trucks-in-japan/)
+
+### Should Your Engine Be Hot Or Cold For An Oil Change?
+
+- Model/program: Should Your Engine Be Hot Or Cold For An Oil Change?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2320728/should-an-engine-be-hot-or-cold-for-oil-change/)
+
+### How Long Can You Expect Synthetic Oil To Last?
+
+- Model/program: How Long Can You Expect Synthetic Oil To Last?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322403/how-long-synthetic-oil-lasts/)
+
+### Were Pontiac Firebird Hood Scoops Ever Functional?
+
+- Model/program: Were Pontiac Firebird Hood Scoops Ever Functional?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321686/pontiac-firebird-hood-scoops-functional/)
+
+### Cleaning This Sensor Could Make A Noticeable Difference In How Your Car Runs
+
+- Model/program: Cleaning This Sensor Could Make A Noticeable Difference In How Your Car Runs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2319647/how-to-clean-mass-airflow-sensor-guide/)
+
+### Nissan Slapped Its Rugged Rock Creek Badge On A $13,500 Kei Van
+
+- Model/program: Nissan Slapped Its Rugged Rock Creek Badge On A $13,500 Kei Van
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321742/nissan-roox-rock-creek-edition/)
+
+### Owners Frequently Report These Problems With Stellantis' Hurricane 3.0-Liter Engine
+
+- Model/program: Owners Frequently Report These Problems With Stellantis' Hurricane 3.0-Liter Engine
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321582/owners-reports-common-problems-stellantis-hurricane-six-cylinder-engine/)
+
+### These US States Don't Require Vehicles To Have Front License Plates
+
+- Model/program: These US States Don't Require Vehicles To Have Front License Plates
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321174/us-states-that-dont-require-front-license-plate/)
+
+### Ferrari Revives Challenge Stradale Name For A Hardcore, Non-Hybrid 296
+
+- Model/program: Ferrari Revives Challenge Stradale Name For A Hardcore, Non-Hybrid 296
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2324268/ferrari-296-challenge-stradale/)
+
+### Never Spray WD-40 On Squeaking Engine Belts: Here's Why
+
+- Model/program: Never Spray WD-40 On Squeaking Engine Belts: Here's Why
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2319200/why-not-spray-wd-40-squeaking-engine-belts/)
 
 ### Next-Gen Nissan GT-R Circles Back To The 1970s With This Retro Detail: Report
 

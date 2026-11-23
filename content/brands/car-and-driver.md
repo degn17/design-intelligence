@@ -2,13 +2,33 @@
 
 ## Current positioning
 
-Generated internal notes from 1816 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1818 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This 1991 Mercedes-Benz 560SEC on BaT Has an Extra Bit of Euro-Snob Appeal
+
+- Model/program: This 1991 Mercedes-Benz 560SEC on BaT Has an Extra Bit of Euro-Snob Appeal
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74481163/1991-mercedes-benz-560sec-bring-a-trailer-auction/)
+
+### BMW Classic Pulls the Wraps off a Secret 1997 M7 Prototype
+
+- Model/program: BMW Classic Pulls the Wraps off a Secret 1997 M7 Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74494451/1997-bmw-m7-prototype-revealed/)
 
 ### Ferrari 296 Challenge Stradale Is the Purest Prancing Horse in Years
 
