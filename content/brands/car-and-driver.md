@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 1818 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1832 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### BYD Barred from Selling Ti7 SUV in EU Because of a Copycat Design
+
+- Model/program: BYD Barred from Selling Ti7 SUV in EU Because of a Copycat Design
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74511167/byd-barred-from-selling-ti7-in-europe/)
+
+### Tesla’s Driver-Assistance Software Now Looks Like a Video Game
+
+- Model/program: Tesla’s Driver-Assistance Software Now Looks Like a Video Game
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74510768/tesla-driver-assistance-software-video-game/)
+
+### Can Pirelli’s Cyber Tyre Technology Replace Drive Modes?
+
+- Model/program: Can Pirelli’s Cyber Tyre Technology Replace Drive Modes?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74508361/pirellis-cyber-tyre-technology-expansion-test/)
+
+### Honda Issues Yet Another Recall for 810,592 Cars Equipped with Takata Airbags
+
+- Model/program: Honda Issues Yet Another Recall for 810,592 Cars Equipped with Takata Airbags
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74507977/honda-crv-civic-accord-acura-rdx-ilx-takata-airbag-recall/)
+
+### 2028 Porsche 718 EV
+
+- Model/program: 2028 Porsche 718 EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/porsche/718-ev)
+
+### Driven: 2028 Mercedes-Benz GLA EV Is Both Familiar and a First
+
+- Model/program: Driven: 2028 Mercedes-Benz GLA EV Is Both Familiar and a First
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74423230/2028-mercedes-benz-gla-ev-drive/)
+
+### View Interior Photos of the 2028 Mercedes-Benz GLA EV
+
+- Model/program: View Interior Photos of the 2028 Mercedes-Benz GLA EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74443415/2028-mercedes-benz-gla-ev-drive-interior-gallery/)
+
+### View Exterior Photos of the 2028 Mercedes-Benz GLA EV
+
+- Model/program: View Exterior Photos of the 2028 Mercedes-Benz GLA EV
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74443371/2028-mercedes-benz-gla-ev-drive-exterior-gallery/)
+
+### 2027 Audi SQ7
+
+- Model/program: 2027 Audi SQ7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/audi/sq7)
+
+### Driven: 2027 Audi Q7 and SQ7 SUVs Muscle Up
+
+- Model/program: Driven: 2027 Audi Q7 and SQ7 SUVs Muscle Up
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74442644/2027-audi-q7-sq7-drive/)
+
+### View Exterior Photos of the 2027 Audi SQ7
+
+- Model/program: View Exterior Photos of the 2027 Audi SQ7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74491377/2027-audi-sq7-drive-exterior-gallery/)
+
+### View Exterior Photos of the 2027 Audi Q7
+
+- Model/program: View Exterior Photos of the 2027 Audi Q7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74491233/2027-audi-q7-drive-exterior-gallery/)
+
+### View Interior Photos of the 2027 Audi Q7
+
+- Model/program: View Interior Photos of the 2027 Audi Q7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74491261/2027-audi-q7-drive-interior-gallery/)
+
+### View Interior Photos of the 2027 Audi SQ7
+
+- Model/program: View Interior Photos of the 2027 Audi SQ7
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74491390/2027-audi-sq7-drive-interior-gallery/)
 
 ### This 1991 Mercedes-Benz 560SEC on BaT Has an Extra Bit of Euro-Snob Appeal
 

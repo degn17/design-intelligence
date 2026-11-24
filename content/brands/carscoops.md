@@ -2,13 +2,23 @@
 
 ## Current positioning
 
-Generated internal notes from 2446 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2461 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### This Acura Integra GS-R For Sale Is The 2 Fast 2 Furious Car Of Your Dreams
+
+- Model/program: This Acura Integra GS-R For Sale Is The 2 Fast 2 Furious Car Of Your Dreams
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2326234/2-fast-2-furious-acura-gs-r-auction/)
 
 ### Stellantis Might Be About To Kill All Its Motorsport Programs: Report
 
@@ -19,6 +29,146 @@ Generated internal notes from 2446 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2324538/stellantis-axing-motorsport-program/)
+
+### Mercedes Is Testing A Weird Two-Seat EV Chassis
+
+- Model/program: Mercedes Is Testing A Weird Two-Seat EV Chassis
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2326132/mercedes-electric-prototype-chassis-spy/)
+
+### Aging Nissan NV200 Gets Rugged Makeover In China With PHEV Power
+
+- Model/program: Aging Nissan NV200 Gets Rugged Makeover In China With PHEV Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322123/aging-nissan-nv200-rugged-makeover-china-phev/)
+
+### Dodge's New NASCAR Stock Car To Debut At Sno-Brawl, Which Doesn't Take Place In The Snow
+
+- Model/program: Dodge's New NASCAR Stock Car To Debut At Sno-Brawl, Which Doesn't Take Place In The Snow
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2325982/dodge-nascar-stock-car-debut-snowball-derby/)
+
+### Renault Announces 2,000 New Factory Jobs And 1,000 Office Job Cuts
+
+- Model/program: Renault Announces 2,000 New Factory Jobs And 1,000 Office Job Cuts
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2321969/renault-new-jobs-job-cuts/)
+
+### Nissan Made A Hood From Pineapple Leaves
+
+- Model/program: Nissan Made A Hood From Pineapple Leaves
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2320181/nissan-made-hood-from-pineapple-leaves/)
+
+### Mercedes Is Selling A Legendary C 111 Worth Over $27 Million
+
+- Model/program: Mercedes Is Selling A Legendary C 111 Worth Over $27 Million
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322776/mercedes-c111-auction/)
+
+### A Chinese Brand Just Drove Its Car Off A Cliff To Prove How Safe It Is
+
+- Model/program: A Chinese Brand Just Drove Its Car Off A Cliff To Prove How Safe It Is
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2325168/lynk-and-co-07-gt-crash-test/)
+
+### Hyundai Has Axed Plans To Produce The N Vision 74: Report
+
+- Model/program: Hyundai Has Axed Plans To Produce The N Vision 74: Report
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2325074/hyundai-n-vision-74-axed/)
+
+### BYD Banned From Selling Ti7 Defender Clone In Europe
+
+- Model/program: BYD Banned From Selling Ti7 Defender Clone In Europe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2324974/byd-ti7-defender-clone-sales-banned/)
+
+### Audi's BMW i3 Rival May Not Arrive Until 2029: Report
+
+- Model/program: Audi's BMW i3 Rival May Not Arrive Until 2029: Report
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2324556/audi-a4-etron-delay/)
+
+### Genesis Is Studying Off-Road Performance SUVs
+
+- Model/program: Genesis Is Studying Off-Road Performance SUVs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2324459/genesis-studying-off-road-performance-suvs/)
+
+### You Won't Believe How Little This Tuned Land Cruiser FJ Sells For In Japan
+
+- Model/program: You Won't Believe How Little This Tuned Land Cruiser FJ Sells For In Japan
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2324390/kuhl-modified-toyota-land-cruiser-fj-cost/)
+
+### Honda Teased Six Mystery Hybrids, And One Could Be The Next Odyssey
+
+- Model/program: Honda Teased Six Mystery Hybrids, And One Could Be The Next Odyssey
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2324536/honda-teases-six-mystery-hybrids-next-odyssey/)
+
+### BYD's Trick Folding Steering Wheel Turns The New Ti9 Into The Perfect Resting Pod After A 1,013-Mile PHEV Drive
+
+- Model/program: BYD's Trick Folding Steering Wheel Turns The New Ti9 Into The Perfect Resting Pod After A 1,013-Mile PHEV Drive
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2324574/byd-ti9-folding-steering-wheel-1012-mile-phev-range/)
 
 ### Ford Is Returning To Japan, But Regular Folks Can't Buy Them
 
