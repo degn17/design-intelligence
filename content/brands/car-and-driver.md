@@ -2,13 +2,123 @@
 
 ## Current positioning
 
-Generated internal notes from 1832 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1843 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Bentley CEO Says an Off-Road Bentayga Is ‘On the Horizon’
+
+- Model/program: Bentley CEO Says an Off-Road Bentayga Is ‘On the Horizon’
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74523301/bentley-confirms-bentayga-off-roader/)
+
+### Ineos to Build Grenadiers in America and Sell Its French Plant to BYD
+
+- Model/program: Ineos to Build Grenadiers in America and Sell Its French Plant to BYD
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74520869/ineos-grenadier-production-plans-america/)
+
+### 2028 Honda CR-V Is a Fuel-Sipping Hybrid Family SUV Worth Waiting For
+
+- Model/program: 2028 Honda CR-V Is a Fuel-Sipping Hybrid Family SUV Worth Waiting For
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74511264/2028-honda-cr-v-future-cars/)
+
+### View Photos of the 1997 Toyota Camry LE
+
+- Model/program: View Photos of the 1997 Toyota Camry LE
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74509106/1997-toyota-camry-le-archive-test-gallery/)
+
+### Narrowed Focus: 1997 Toyota Camry LE Tested
+
+- Model/program: Narrowed Focus: 1997 Toyota Camry LE Tested
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74456397/1997-toyota-camry-le-archive-test/)
+
+### Every Brand Selling Hybrid Vehicles in the U.S. for 2027
+
+- Model/program: Every Brand Selling Hybrid Vehicles in the U.S. for 2027
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74493584/hybrid-car-brands/)
+
+### New York Bans Post-Purchase Subscriptions on Vehicles
+
+- Model/program: New York Bans Post-Purchase Subscriptions on Vehicles
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74519330/new-york-bans-post-purchase-car-subscriptions/)
+
+### Driven: 2028 Porsche 718 Boxster EV Prototype Wags Its Tail Like a Mid-Engine Sports Car
+
+- Model/program: Driven: 2028 Porsche 718 Boxster EV Prototype Wags Its Tail Like a Mid-Engine Sports Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74493752/2028-porsche-718-boxster-ev-prototype-drive/)
+
+### View Photos of the 2028 Porsche 718 Boxster EV Prototype
+
+- Model/program: View Photos of the 2028 Porsche 718 Boxster EV Prototype
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74478523/2028-porsche-718-boxster-ev-prototype-drive-gallery/)
+
+### BYD Just Put a Fold-Away Steering Wheel in a Car People Can Buy
+
+- Model/program: BYD Just Put a Fold-Away Steering Wheel in a Car People Can Buy
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74497694/byd-fold-away-steering-wheel-production-car/)
+
+### Lucid Gravity Robotaxis Begin Driverless Testing for Future Uber Service
+
+- Model/program: Lucid Gravity Robotaxis Begin Driverless Testing for Future Uber Service
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74512207/uber-nuro-lucid-gravity-robotaxi-driverless-testing/)
 
 ### BYD Barred from Selling Ti7 SUV in EU Because of a Copycat Design
 

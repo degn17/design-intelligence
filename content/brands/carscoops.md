@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 2461 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2470 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,96 @@ Generated internal notes from 2461 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2326234/2-fast-2-furious-acura-gs-r-auction/)
+
+### Mansory Has Completely Forgotten About The 911 Turbo's Legendary Subtlety
+
+- Model/program: Mansory Has Completely Forgotten About The 911 Turbo's Legendary Subtlety
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322892/mansory-911-turbo-s-cabriolet-softkit/)
+
+### Genesis Targets 640 Miles With EREV SUV That Could Beat Scout To Market
+
+- Model/program: Genesis Targets 640 Miles With EREV SUV That Could Beat Scout To Market
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2327464/genesis-targets-640-mile-erev-suv/)
+
+### Stellantis To Leave WEC And Formula E, But It's WRC2 Program Is Safe
+
+- Model/program: Stellantis To Leave WEC And Formula E, But It's WRC2 Program Is Safe
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2326269/stellantis-exits-wec-formula-e/)
+
+### This Is The Entire Production Run Of The Most Extreme Alfa Romeo Giulia Quadrifoglio
+
+- Model/program: This Is The Entire Production Run Of The Most Extreme Alfa Romeo Giulia Quadrifoglio
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322855/alfa-romeo-giulia-quadrifoglio-luna-rossa/)
+
+### Ineos To Build The Grenadier In The US
+
+- Model/program: Ineos To Build The Grenadier In The US
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2327239/ineos-grenadier-usa-production-confirmed/)
+
+### Best Hybrid Minivan For MPGs Gets More MPGs For 2027
+
+- Model/program: Best Hybrid Minivan For MPGs Gets More MPGs For 2027
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2327209/toyota-sienna-2027-more-mpgs/)
+
+### Ford's Toughest Ranger Super Duty Just Became A Literal Train
+
+- Model/program: Ford's Toughest Ranger Super Duty Just Became A Literal Train
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2327195/ford-pro-australia-ranger-super-duty-train/)
+
+### Remember When You Needed The Right Car For Black Friday?
+
+- Model/program: Remember When You Needed The Right Car For Black Friday?
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2327079/right-car-black-friday-deals/)
+
+### This Korean SUV Combines A Jeep Face With A Range Rover Tail
+
+- Model/program: This Korean SUV Combines A Jeep Face With A Range Rover Tail
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2326239/kgm-rexton-combines-jeep-face-range-rover-tail/)
 
 ### Stellantis Might Be About To Kill All Its Motorsport Programs: Report
 
