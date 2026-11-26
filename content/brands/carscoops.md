@@ -2,13 +2,153 @@
 
 ## Current positioning
 
-Generated internal notes from 2470 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2484 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Good Luck Finding Another Single-Owner BMW E30 M3 Like This
+
+- Model/program: Good Luck Finding Another Single-Owner BMW E30 M3 Like This
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2329011/bmw-e30-m3-single-owner-auction/)
+
+### Xiaomi's New SU7 Ultra Wants To Take The Taycan's Nurburgring Crown
+
+- Model/program: Xiaomi's New SU7 Ultra Wants To Take The Taycan's Nurburgring Crown
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2329005/xiaomi-su7-ultra-2027/)
+
+### This Is Suzuki's Cute New Ignis, And It's All Electric
+
+- Model/program: This Is Suzuki's Cute New Ignis, And It's All Electric
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328999/new-suzuki-ignis-electric/)
+
+### Honda Accord Gains A Wild New Face In China, But Keeps The Old Hybrid
+
+- Model/program: Honda Accord Gains A Wild New Face In China, But Keeps The Old Hybrid
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328908/gac-honda-accord/)
+
+### Honda's New Avancier Is Cool, But Its Forgotten Wagon Ancestor Was Way Cooler
+
+- Model/program: Honda's New Avancier Is Cool, But Its Forgotten Wagon Ancestor Was Way Cooler
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2325258/honda-avancier-forgotten-wagon-ancestor/)
+
+### Why This Guards Red 2004 Porsche Carrera GT Could Fetch $6.5 Million
+
+- Model/program: Why This Guards Red 2004 Porsche Carrera GT Could Fetch $6.5 Million
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2323314/2004-porsche-carrera-gt-auction-guards-red/)
+
+### Uncle Sam Wants GM And Ford To Build Drones
+
+- Model/program: Uncle Sam Wants GM And Ford To Build Drones
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328641/pentagon-drone-production-gm-ford/)
+
+### Celebrity Chef Gordon Ramsay Set To Host New 'Top Gear' Episodes
+
+- Model/program: Celebrity Chef Gordon Ramsay Set To Host New 'Top Gear' Episodes
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328573/gordon-ramsay-host-top-gear/)
+
+### Toyota Halves Tacoma's Free Maintenance While Raising Its Starting Price
+
+- Model/program: Toyota Halves Tacoma's Free Maintenance While Raising Its Starting Price
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328544/2027-toyota-tacoma-updates/)
+
+### Forget AI And 3D Printers, This Guy Built A Tiny Suzuki From Disposable Lighters By Hand
+
+- Model/program: Forget AI And 3D Printers, This Guy Built A Tiny Suzuki From Disposable Lighters By Hand
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2322940/japanese-kei-van-made-from-lighters/)
+
+### BMW M3 Inline-6 Prototype Spied With Yellow DRLs
+
+- Model/program: BMW M3 Inline-6 Prototype Spied With Yellow DRLs
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328387/ice-bmw-m3-spy-shots/)
+
+### The 2028 Genesis G80 Hybrid Is Longer And Rear Legroom Is Only Half The Story
+
+- Model/program: The 2028 Genesis G80 Hybrid Is Longer And Rear Legroom Is Only Half The Story
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328198/2028-genesis-g80-hybrid-length/)
+
+### Audi Is Bringing Back The RS 6 Sedan To Fight The BMW M5
+
+- Model/program: Audi Is Bringing Back The RS 6 Sedan To Fight The BMW M5
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2327706/audi-rs6-sedan-scoop/)
+
+### Toyota Turned The New Hilux Into A Slammed Widebody Street Fighter
+
+- Model/program: Toyota Turned The New Hilux Into A Slammed Widebody Street Fighter
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2327691/toyota-new-hilux-slammed-widebody/)
 
 ### This Acura Integra GS-R For Sale Is The 2 Fast 2 Furious Car Of Your Dreams
 

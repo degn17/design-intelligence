@@ -2,13 +2,113 @@
 
 ## Current positioning
 
-Generated internal notes from 1843 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1853 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Acura Makes Japanese-Market Debut with the U.S.-Built Integra Type S
+
+- Model/program: Acura Makes Japanese-Market Debut with the U.S.-Built Integra Type S
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74534949/2026-acura-integra-type-s-japanese-market-export/)
+
+### 2027 Toyota 4Runner Starts over $45,000 for the First Time
+
+- Model/program: 2027 Toyota 4Runner Starts over $45,000 for the First Time
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74534163/2027-toyota-4runner-price-hike/)
+
+### View Photos of the 2026 Audi SQ5
+
+- Model/program: View Photos of the 2026 Audi SQ5
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74478746/2026-audi-sq5-test-gallery/)
+
+### View Photos of the 2027 Genesis GV70
+
+- Model/program: View Photos of the 2027 Genesis GV70
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74478793/2027-genesis-gv70-test-gallery/)
+
+### Comparison Test: Audi SQ5 vs. BMW X3 vs. Genesis GV70 vs. Mercedes-AMG GLC
+
+- Model/program: Comparison Test: Audi SQ5 vs. BMW X3 vs. Genesis GV70 vs. Mercedes-AMG GLC
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/comparison-test/a74336841/2026-audi-sq5-bmw-x3-genesis-gv70-mercedes-benz-glc-compact-suv-compariston-test/)
+
+### Stellantis Exiting the WEC and Formula E to Focus on New Hi-Po Cars
+
+- Model/program: Stellantis Exiting the WEC and Formula E to Focus on New Hi-Po Cars
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74532859/stellantis-exits-wec-formula-e-racing/)
+
+### The Most Valuable Hot Wheels Cars Ever
+
+- Model/program: The Most Valuable Hot Wheels Cars Ever
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/g25616442/rarest-most-valuable-mattel-hot-wheels/)
+
+### The Tesla Cybertruck Is America’s Fastest-Selling Used Truck
+
+- Model/program: The Tesla Cybertruck Is America’s Fastest-Selling Used Truck
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74531681/tesla-cybertruck-fastest-selling-used-truck/)
+
+### Best Cars for Snow
+
+- Model/program: Best Cars for Snow
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74466080/best-cars-for-snow/)
+
+### Audi Patents Physical Buttons That Fold Out from Behind a Touchscreen
+
+- Model/program: Audi Patents Physical Buttons That Fold Out from Behind a Touchscreen
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74523201/audi-physical-buttons-fold-out-touchscreen-patent/)
 
 ### Bentley CEO Says an Off-Road Bentayga Is ‘On the Horizon’
 
