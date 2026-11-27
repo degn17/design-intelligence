@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 1853 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1861 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -19,6 +19,86 @@ Generated internal notes from 1853 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Car and Driver](https://www.caranddriver.com/news/a74534949/2026-acura-integra-type-s-japanese-market-export/)
+
+### Ford’s Next Le Mans Dream Is Finally Here: Meet the GT41
+
+- Model/program: Ford’s Next Le Mans Dream Is Finally Here: Meet the GT41
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74523024/ford-gt41-le-mans-hypercar-revealed/)
+
+### Dually Noted: The Reasons Why Some Pickup Trucks and Vans Come with Dual Rear Wheels
+
+- Model/program: Dually Noted: The Reasons Why Some Pickup Trucks and Vans Come with Dual Rear Wheels
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a74520310/dually-pickup-trucks-vans-explained/)
+
+### Toyota’s Hyper Z Prototype Is So Extreme, It Has Aerodynamic Wings Instead of a Bed
+
+- Model/program: Toyota’s Hyper Z Prototype Is So Extreme, It Has Aerodynamic Wings Instead of a Bed
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74535578/toyota-hyper-z-prototype-specs-details/)
+
+### Respect Your Elders: The London to Brighton Car Tour, Michigan Style
+
+- Model/program: Respect Your Elders: The London to Brighton Car Tour, Michigan Style
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74455233/2026-london-to-brighton-vintage-car-tour/)
+
+### Tested: 1979 Buick Century Turbo Coupe Is a Rolling Contradiction
+
+- Model/program: Tested: 1979 Buick Century Turbo Coupe Is a Rolling Contradiction
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/reviews/a74464949/1979-buick-century-turbo-coupe-archive-test/)
+
+### View Photos of the 1979 Buick Century Turbo Coupe
+
+- Model/program: View Photos of the 1979 Buick Century Turbo Coupe
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/photos/a74522047/1979-buick-century-turbo-coupe-archive-test-gallery/)
+
+### Tested: New Lexus ES Hybrid Is Much Quicker Than the Old Version
+
+- Model/program: Tested: New Lexus ES Hybrid Is Much Quicker Than the Old Version
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74455405/2026-lexus-es-hybrid-quicker-tested/)
+
+### Editor’s Letter: The Benz Patent Motorwagen Has Big Perambulator Vibes
+
+- Model/program: Editor’s Letter: The Benz Patent Motorwagen Has Big Perambulator Vibes
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/columns/a74466840/editors-letter-benz-patent-motorwagen/)
 
 ### 2027 Toyota 4Runner Starts over $45,000 for the First Time
 

@@ -2,13 +2,103 @@
 
 ## Current positioning
 
-Generated internal notes from 183 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 192 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Porsche 911 GT3 R wins championships and races worldwide in 2026
+
+- Model/program: Porsche 911 GT3 R wins championships and races worldwide in 2026
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-gt3-r-season-2026-successes-43827.html)
+
+### Development of first all-electric 718 Boxster reaches the home straight
+
+- Model/program: Development of first all-electric 718 Boxster reaches the home straight
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-all-electric-718-boxster-development-43799.html)
+
+### Porsche presents new-generation dashcam
+
+- Model/program: Porsche presents new-generation dashcam
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/products/porsche-dashcam-gen-2-43800.html)
+
+### Icons of Porsche 2026 brings heritage and a vision of the future
+
+- Model/program: Icons of Porsche 2026 brings heritage and a vision of the future
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-icons-of-porsche-2026-43790.html)
+
+### Porsche teams to conclude pre-season testing with the new Porsche 975 RSE
+
+- Model/program: Porsche teams to conclude pre-season testing with the new Porsche 975 RSE
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/motorsports/porsche-formula-e-pre-season-testing-975-rse-43772.html)
+
+### Anton Marklund explores Northern Sweden from forest roads to racetrack
+
+- Model/program: Anton Marklund explores Northern Sweden from forest roads to racetrack
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/scene-passion/porsche-sunday-drives-sweden-anton-marklund-43620.html)
+
+### A Pharmaceutical Company Puts Transfer First
+
+- Model/program: A Pharmaceutical Company Puts Transfer First
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/company/porsche-consulting-a-pharmaceutical-company-puts-transfer-first-43759.html)
+
+### Porsche Golf Circle celebrates 75 Years of Porsche Motorsport
+
+- Model/program: Porsche Golf Circle celebrates 75 Years of Porsche Motorsport
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/sports-society/porsche-golf-circle-season-closing-tenerife-43765.html)
+
+### Porsche 804: The Formula One winner
+
+- Model/program: Porsche 804: The Formula One winner
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Porsche Newsroom](https://newsroom.porsche.com/en/2026/history/porsche-single-seater-history-804-formula-1-43753.html)
 
 ### Learning from a Champion: On the Hungaroring with Jörg Bergmeister
 

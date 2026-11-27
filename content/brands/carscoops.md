@@ -2,13 +2,53 @@
 
 ## Current positioning
 
-Generated internal notes from 2484 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2496 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Toyota Just Updated Its $21k Three-Row SUV-Minivan Mashup In India
+
+- Model/program: Toyota Just Updated Its $21k Three-Row SUV-Minivan Mashup In India
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2329337/toyota-innova-flex-fuel-minivan-india/)
+
+### VW's Smallest Electric SUV Gains R-Line Version With GTI-Matching Power
+
+- Model/program: VW's Smallest Electric SUV Gains R-Line Version With GTI-Matching Power
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2329327/vw-id-cross-r-line/)
+
+### The Hyundai Mercury Is The Brand's Next China-Only EV
+
+- Model/program: The Hyundai Mercury Is The Brand's Next China-Only EV
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2329320/hyundai-mercury-concept-china/)
+
+### America's Hyundai Tucson XRT Pro Is A 233 HP Hybrid
+
+- Model/program: America's Hyundai Tucson XRT Pro Is A 233 HP Hybrid
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2329315/hyundai-tucson-xrt-pro-hybrid-america/)
 
 ### Good Luck Finding Another Single-Owner BMW E30 M3 Like This
 
@@ -49,6 +89,86 @@ Generated internal notes from 2484 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2328908/gac-honda-accord/)
+
+### Of Course Dubai Added A BMW M 1000 RR Superbike To Its Luxury Patrol Fleet
+
+- Model/program: Of Course Dubai Added A BMW M 1000 RR Superbike To Its Luxury Patrol Fleet
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2326019/bmw-m-1000-rr-superbike-dubai-patrol-fleet/)
+
+### Ford GT41 Hypercar Marks Brand's Return To The Top Class Of Le Mans
+
+- Model/program: Ford GT41 Hypercar Marks Brand's Return To The Top Class Of Le Mans
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2329264/ford-gt41-le-mans-hypercar/)
+
+### This New Ford Mustang Wants To Be A Classic Eleanor
+
+- Model/program: This New Ford Mustang Wants To Be A Classic Eleanor
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2323430/elanor-mustang-vintage-modern/)
+
+### Toyota Gave Its Smallest SUV A Powerful Edition With Zero Extra Horses
+
+- Model/program: Toyota Gave Its Smallest SUV A Powerful Edition With Zero Extra Horses
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2323407/toyota-powerful-edition/)
+
+### Here's Why You Still Can't Buy The Genesis GV60 Magma Everywhere
+
+- Model/program: Here's Why You Still Can't Buy The Genesis GV60 Magma Everywhere
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328450/genesis-gv60-magma-limited-availability-explained/)
+
+### Ford (The Car Company) Wants To Expand Its Horizons To The Final Frontier
+
+- Model/program: Ford (The Car Company) Wants To Expand Its Horizons To The Final Frontier
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328676/ford-invests-satellite-company/)
+
+### New Nissan Terrano Is A Rugged Land Cruiser Rival America Won't Get
+
+- Model/program: New Nissan Terrano Is A Rugged Land Cruiser Rival America Won't Get
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2329009/nissan-terrano-miit/)
+
+### BYD Could Swoop In And Buy The Ineos Plant In France
+
+- Model/program: BYD Could Swoop In And Buy The Ineos Plant In France
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328732/byd-buying-ineos-factory-france/)
 
 ### Honda's New Avancier Is Cool, But Its Forgotten Wagon Ancestor Was Way Cooler
 
