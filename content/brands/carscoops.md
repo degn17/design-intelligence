@@ -2,7 +2,7 @@
 
 ## Current positioning
 
-Generated internal notes from 2496 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 2505 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
@@ -49,6 +49,96 @@ Generated internal notes from 2496 clearly labeled source-attributed item(s). Tr
 - Proportion: Not assessed from RSS metadata. Manual source review required.
 - Graphic: Not assessed from RSS metadata. Manual source review required.
 - Source: [Carscoops](https://www.carscoops.com/2329315/hyundai-tucson-xrt-pro-hybrid-america/)
+
+### This Dual-Winged Mid-Engine C5 Corvette Is Real And Will Haunt Your Nightmares
+
+- Model/program: This Dual-Winged Mid-Engine C5 Corvette Is Real And Will Haunt Your Nightmares
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2327663/pikes-peak-mid-engine-corvette-c5-double-wing/)
+
+### Watch In Horror As A Ferrari 499P Slams Into A Legendary F1 Car
+
+- Model/program: Watch In Horror As A Ferrari 499P Slams Into A Legendary F1 Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2326248/ferrari-499p-crash-into-f1-car/)
+
+### Can-Am's X3 And Maverick R Made Me Rethink Buying An Off-Road Truck
+
+- Model/program: Can-Am's X3 And Maverick R Made Me Rethink Buying An Off-Road Truck
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2326609/can-am-maverick-side-by-side-review/)
+
+### Scout Wants To Build 90 Workshops And Retail Outlets Across The Country
+
+- Model/program: Scout Wants To Build 90 Workshops And Retail Outlets Across The Country
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328666/scout-build-90-workshops/)
+
+### New York Just Restricted Subscriptions For Features Already Built Into Your Car
+
+- Model/program: New York Just Restricted Subscriptions For Features Already Built Into Your Car
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328758/new-york-restricted-in-car-subscription-services/)
+
+### Jaguar Type 01 Was All About Drama, The Type 02 Will Bring Back Practicality
+
+- Model/program: Jaguar Type 01 Was All About Drama, The Type 02 Will Bring Back Practicality
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2329355/jaguar-type-02-suv-rendering/)
+
+### Not Even An Octa Is As Cool As This Bronze Defender 90
+
+- Model/program: Not Even An Octa Is As Cool As This Bronze Defender 90
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2327638/helderburg-land-rover-defender-90/)
+
+### The Manual Golf GTI Is Back, But America Misses Out
+
+- Model/program: The Manual Golf GTI Is Back, But America Misses Out
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2329333/golf-gti-returns-not-america/)
+
+### Nissan's Rugged Warrior Pickup Was Almost Ready, Until A Chinese PHEV Stole Its Spot
+
+- Model/program: Nissan's Rugged Warrior Pickup Was Almost Ready, Until A Chinese PHEV Stole Its Spot
+- Category: other
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Carscoops](https://www.carscoops.com/2328663/nissan-warrior-pickup-scrapped/)
 
 ### Good Luck Finding Another Single-Owner BMW E30 M3 Like This
 

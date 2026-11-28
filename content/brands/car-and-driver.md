@@ -2,13 +2,63 @@
 
 ## Current positioning
 
-Generated internal notes from 1861 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
+Generated internal notes from 1866 clearly labeled source-attributed item(s). Treat as draft intelligence pending human review.
 
 ## Repeated design keywords
 
 - Manual review required.
 
 ## Brand language observations
+
+### Aptera Motors Has Finally Delivered Its First Customer Car
+
+- Model/program: Aptera Motors Has Finally Delivered Its First Customer Car
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74552738/aptera-motors-first-customer-car/)
+
+### Gooseneck Hitches Explained
+
+- Model/program: Gooseneck Hitches Explained
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/shopping-advice/a74532122/gooseneck-hitch-explained/)
+
+### Buy This Custom 1978 GMC Van, and Elvis Is Your Co-Pilot
+
+- Model/program: Buy This Custom 1978 GMC Van, and Elvis Is Your Co-Pilot
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74531030/elvis-themed-gmc-custom-van-bring-a-trailer-auction/)
+
+### Where Does the Chevy Blazer SS EV Fit in Chevrolet’s SS History?
+
+- Model/program: Where Does the Chevy Blazer SS EV Fit in Chevrolet’s SS History?
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/features/a74453529/2026-chevrolet-blazer-ss-ev-place-in-gm-history/)
+
+### BMW Alpina Will Debut with a Sedan and SUV, but There’s More to Come
+
+- Model/program: BMW Alpina Will Debut with a Sedan and SUV, but There’s More to Come
+- Category: new_car
+- Data status: Real · RSS
+- Observation: RSS-collected source item awaiting editorial design analysis.
+- Proportion: Not assessed from RSS metadata. Manual source review required.
+- Graphic: Not assessed from RSS metadata. Manual source review required.
+- Source: [Car and Driver](https://www.caranddriver.com/news/a74522467/bmw-alpina-b7-xb7-v12-future-plans/)
 
 ### Acura Makes Japanese-Market Debut with the U.S.-Built Integra Type S
 
